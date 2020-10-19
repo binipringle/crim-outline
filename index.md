@@ -4,88 +4,86 @@
 
 ## Presumption of Innocence
 
-  **Owens v. State 1992**
-    Man sitting in non-moving car in private driveway while intoxicated
-    Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
-    Note: Teaches me about legal sufficiency in enforcing the presumption of innocence
+**Owens v. State 1992**
+Man sitting in non-moving car in private driveway while intoxicated
+Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
+Note: Teaches me about legal sufficiency in enforcing the presumption of innocence
 
 # Theories of Punishment
 
-  **General**
+**General**
 
-    One fundamental question is why (and whether) the social institution of punishment is warranted. A second question concerns the necessary conditions for criminal liability and punishment in particular cases. A third relates to the form and severity of punishment that is appropriate for particular offenses and offenders. (33)
+One fundamental question is why (and whether) the social institution of punishment is warranted. A second question concerns the necessary conditions for criminal liability and punishment in particular cases. A third relates to the form and severity of punishment that is appropriate for particular offenses and offenders. (33)
 
-    Since punishment involves pain and deprivation that people wish to avoid, its intentional imposition by the state requires justification. (33)
+Since punishment involves pain and deprivation that people wish to avoid, its intentional imposition by the state requires justification. (33)
 
-  **Retributive Justifications**
+**Retributive Justifications**
 
-    - The moral desert of an offender is a sufficient and necessary condition of liability to punitive sanctions
-    - Other reasons for punishment (such as crime prevention reasons) must be added to moral desert
-    - We have a moral duty to punish offenders
-    - The offender should be punished not more nor less than they deserve (punishment should fit the crime; an eye for an eye)  
+- The moral desert of an offender is a sufficient and necessary condition of liability to punitive sanctions
+- Other reasons for punishment (such as crime prevention reasons) must be added to moral desert
+- We have a moral duty to punish offenders
+- The offender should be punished not more nor less than they deserve (punishment should fit the crime; an eye for an eye)  
 
-  **Utilitarian justifications**
+**Utilitarian justifications**
 
-    - General deterrence
-    - Individual deterrence
-    - Incapacitation and other forms of risk management
-    - Reform
+- General deterrence
+- Individual deterrence
+- Incapacitation and other forms of risk management
+- Reform
 
 # Principles of Legality
 
-  **Legality and previously defined conduct**
+**Legality and previously defined conduct**
 
-      **Commonwealth v. Mochan (1955)**
-      Man phoned woman in “lewd, immoral and lascivious” manner and asked her in profane language to commit adultery (p. 91); convicted under common law of “violating public morality”
-      Rule: The court cannot create a crime; only the legislature can create a crime.
-      *Also falls under violation of due process because it is vague*
-      No punishment without law: NYPL § 5.05 (3) “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
+**Commonwealth v. Mochan (1955)**
+Man phoned woman in “lewd, immoral and lascivious” manner and asked her in profane language to commit adultery (p. 91); convicted under common law of “violating public morality”
+Rule: The court cannot create a crime; only the legislature can create a crime.
+*Also falls under violation of due process because it is vague*
+No punishment without law: NYPL § 5.05 (3) “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
 
-  **Due process**
+**Burden of proof**
 
-  **Burden of proof**
+The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
 
-    The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
+In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
 
-      In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
+Why is it a higher burden? What does how high mean? What percent does the prosecution have to prove?
 
-    Why is it a higher burden? What does how high mean? What percent does the prosecution have to prove?
-
-      Most courts won’t say – courts won’t say 100% because that would be without any doubt. But society has a strong concern about punishing someone who is innocent for something they didn’t do. So if we say 90% than if the jury is 89% sure the person would go free. Because in criminal law we are talking about punishing people.
+Most courts won’t say – courts won’t say 100% because that would be without any doubt. But society has a strong concern about punishing someone who is innocent for something they didn’t do. So if we say 90% than if the jury is 89% sure the person would go free. Because in criminal law we are talking about punishing people.
 
 # Statute may not be vague or overbroad
 
-  **Vague**
+**Vague**
 
-    **Commonwealth v. Mochan (1955)**
-    Mochan said obscene and sexually suggestive things to Mrs. Zivkovich.
-    Appellant is arguing that saying obscene and sexually suggestive things to Mrs. Zivkovich was not a misdemeanor under common law. The State is arguing that blackening the reputation of Louise Zivkovich was an act which “injuriously affect[ed] public morality” (92). The state is arguing that “Christianity is a part of the common law” and that the appellant had scandalously affected Christian morality (92).
-    Also falls under legality and previously defined conduct.
-    Holding: Violation of due process because vague; there was no specific statute or law; D convicted under common law, which said that If an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The dissent ultimately wins out here; most states effectively abolish common law crimes.
+**Commonwealth v. Mochan (1955)**
+Mochan said obscene and sexually suggestive things to Mrs. Zivkovich.
+Appellant is arguing that saying obscene and sexually suggestive things to Mrs. Zivkovich was not a misdemeanor under common law. The State is arguing that blackening the reputation of Louise Zivkovich was an act which “injuriously affect[ed] public morality” (92). The state is arguing that “Christianity is a part of the common law” and that the appellant had scandalously affected Christian morality (92).
+Also falls under legality and previously defined conduct.
+Holding: Violation of due process because vague; there was no specific statute or law; D convicted under common law, which said that If an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The dissent ultimately wins out here; most states effectively abolish common law crimes.
 
-    **In Re Banks (1978)**
-    Peeping Tom. Court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy”
-    Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation.
-    - Interpret statute
-    - Does statute violate due process?
-    - Is statute too vague or not definite enough or overbroad?
-    - If it is too vague, can it be saved by judicial interpretation?
-    If a statute is too vague or indefinite or too broad, it violates due process.
-    Holding: The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.
+**In Re Banks (1978)**
+Peeping Tom. Court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy”
+Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation.
+- Interpret statute
+- Does statute violate due process?
+- Is statute too vague or not definite enough or overbroad?
+- If it is too vague, can it be saved by judicial interpretation?
+If a statute is too vague or indefinite or too broad, it violates due process.
+Holding: The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.
 
-    **Hypo**
-    Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.
+**Hypo**
+Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.
 
-  **Overbroad**
+**Overbroad**
 
-  **Keeler v. Superior Court 1970**
-    Struck pregnant ex-wife in belly intending to kill fetus, charged with murder
-    **Rule:** It is not for the court to define murder. Once legislature defined murder the court can interpret it
-    Holding: The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.
-    Dissent argues definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being.
-    Legislature did not change the definition of human being but changed the law to include fetuses as well.
+**Keeler v. Superior Court 1970**
+Struck pregnant ex-wife in belly intending to kill fetus, charged with murder
+**Rule:** It is not for the court to define murder. Once legislature defined murder the court can interpret it
+Holding: The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.
+Dissent argues definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being.
+Legislature did not change the definition of human being but changed the law to include fetuses as well.
 
-  **In Re Banks**
+    **In Re Banks**
     Peeping Tom law not overbroad
 
 # Statutory interpretation
@@ -1140,6 +1138,7 @@
       Compare to NYPL 15.05 which requires gross deviation from standard of care.
       NYPL § 15.05 (4). ““Criminal negligence.” A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.”
       Here, the prosecutor did not have to show that the Ds had knowledge that they were doing anything wrong. MPC struggled with this; negligent homicide is problematic.
+
 
 ## Midterm strategies and review
 
