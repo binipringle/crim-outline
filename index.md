@@ -29,7 +29,7 @@
 
 # Principles of Legality
 
-##Legality and previously defined conduct
+## Legality and previously defined conduct
 
 **Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under violation of due process because vague*
 
@@ -37,7 +37,7 @@
 
 <p style="margin-left:10%; margin-right:10%;">No punishment without law: <b>NYPL § 5.05 (3)</b> “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”</p>
 
-##Due process
+## Due process
 
 **Burden of proof**
 
@@ -45,7 +45,7 @@
 - In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
 - Why is it a higher burden? What does how high mean? What percent does the prosecution have to prove? Most courts won’t say – courts won’t say 100% because that would be without any doubt. But society has a strong concern about punishing someone who is innocent for something they didn’t do. So if we say 90% and the jury is 89% sure, the person would go free.
 
-##Statute may not be vague or overbroad
+## Statute may not be vague or overbroad
 
 **Vague**
 
@@ -73,21 +73,31 @@
 
 **Keeler v. Superior Court 1970** (struck pregnant ex-wife in belly intending to kill fetus, charged with murder)
 
-Rule: It is not for the court to define murder. Once legislature defined murder the court can interpret it
-Holding: The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.
-Dissent argues definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being.
-Legislature did not change the definition of human being but changed the law to include fetuses as well.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> It is not for the court to define murder. Once legislature defined murder the court can interpret it</p>
 
-    **In Re Banks**
-    Peeping Tom law not overbroad
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Dissent argues</b> definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i>
+
+**In Re Banks** (Peeping Tom law not overbroad)
 
 # Statutory interpretation
 
-  Courts must interpret ambiguous statutory terms according to legislative intent. In doing so, courts may consider the ordinary definition of the term, any special definitions, definitions at the time of writing the statute, the purpose of the statute, and the legislative history.
+Courts must interpret ambiguous statutory terms according to legislative intent. In doing so, courts may consider the ordinary definition of the term, any special definitions, definitions at the time of writing the statute, the purpose of the statute, and the legislative history.
 
-    See Garnett v. State (legislative intent not to include mens rea)
+**Garnett v. State | Court of Appeals of Maryland 1993** (20-year old D with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape) *legislative intent not to include mens rea*
 
-    Mens rea modifying terms – look at **NYPL 15.15** Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Dissent:</b> (Bell) The legislature did indeed intend to make statutory rape a strict liability offense. However, holding that this provision does not require any element of mens rea is contrary to the concept of due process.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Dissent:</b> (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> – look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).
 
 ## Lenity Doctrine
 
@@ -439,18 +449,17 @@ Legislature did not change the definition of human being but changed the law to 
   **NYPL Sec. 15.15 (2)**
         “A statute defining a crime, unless clearly indicating a legislative intent to impose strict liability, should be construed as defining a crime of mental culpability.”
 
-    **Garnett v. State | Court of Appeals of Maryland 1993**
-      Issue: Whether Raymond (Richard Lennard Garnett) was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland.
-      Facts: Raymond had cognitive disabilities. He was 20 years old. Raymond met Erica Frazier, who was 13, through a mutual friend. Raymond and Erica talked occasionally by phone. On February 28, 1990 at 9 PM, Raymond went to Erica’s house. Erica opened her bedroom window. Raymond went into Erica’s bedroom through the window. They talked and had sexual intercourse. Raymond left at around 4:30 AM. On November 19, 1990, Erica gave birth to a baby of which Raymond is the biological father. Raymond was tried for statutory rape.
-      The appellant is arguing that Raymond did not know Erica was thirteen and requests that the Court of Appeals “engraft onto subsection (a)(3) an implicit mens rea requirement” (199).
-      The defendant (State of Maryland) is arguing that the statute - by design -defines a strict liability offense whose two requirements - that there was vaginal intercourse and that one of the parties was less than 14 years old and the other at least four years older – were met. (199)
-      Procedural History: The trial court found Raymond guilty, and sentenced him to five years in prison, suspended the sentence and imposed five years of probation, and ordered that he pay restitution to Erica and the Frazier family (199).
-      **Rule:** Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.
-      Holding: Therefore, Raymond was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463).
-      Judgment: Affirmed.
-      Reasoning: The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) above.
-      Dissent: (Bell) The legislature did indeed intend to make statutory rape a strict liability offense. However, holding that this provision does not require any element of mens rea is contrary to the concept of due process.
-      Dissent: (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.
+**Garnett v. State | Court of Appeals of Maryland 1993** (20-year old D with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape)
+
+**Rule:** Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.
+
+Holding: Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.
+
+Reasoning: The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.
+
+Dissent: (Bell) The legislature did indeed intend to make statutory rape a strict liability offense. However, holding that this provision does not require any element of mens rea is contrary to the concept of due process.
+
+Dissent: (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.
 
 ## Mistake of Fact
 
