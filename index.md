@@ -77,7 +77,7 @@
 
 <p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Dissent argues</b> definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i>
+<p style="margin-left:10%; margin-right:10%;"><b>Dissent argues</b> definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i></p>
 
 **In Re Banks** (Peeping Tom law not overbroad)
 
@@ -93,9 +93,7 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 <p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute. (Mens rea modifying terms: look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” [unless the Court can divine a contrary purpose from the legislature]). </p>
 
-
 ## Lenity doctrine
-
 
 If a statute is vague or overbroad or if it can be interpreted equally to favor both parties (defendant and prosecution), it should be read and interpreted in the light most favorable to defendant.
 
