@@ -5,7 +5,6 @@
 **Presumption of Innocence**
 
 **Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
-
 **Rule:** If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
 
 # Theories of Punishment
