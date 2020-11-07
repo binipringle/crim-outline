@@ -99,9 +99,10 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 <p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> – look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
 
+
 ## Lenity Doctrine
 
-If statute is vague or overbroad or if it can be interpreted equally to favor both parties (defendant and prosecution), it should be read and interpreted in the light most favorable to defendant.
+If a statute is vague or overbroad or if it can be interpreted equally to favor both parties (defendant and prosecution), it should be read and interpreted in the light most favorable to defendant.
 
 “Criminal statutes must be strictly construed” (page 106 of Banks) (also, page 97 of Keeler (“human being” case)). The reasoning is that the government wrote the statute, it had the opportunity to write it clearly, but did not, so it is on the government to be clear. The lenity doctrine is really a tie breaker; usually the court finds a way to interpret the statute without the lenity doctrine. Banks and Keeler mention the lenity doctrine, but it doesn’t carry much weight in those cases. It doesn’t necessarily mean that the defendant wins. It just puts a little more weight on the side of the defendant.
 
@@ -131,7 +132,7 @@ If it is a result crime, we do not need to prove causation.
 
 **People v. Rizzo (1927)** (Rizzo and others driving around trying to find Rao to rob him of payroll. Never found Rao.)
 
-**Rule:** A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test) 
+**Rule:** A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test)
 
   **State v. Jack Sawyer (2018)**
       Sawyer was planning a shooting at his former high school in Vermont. He purchased a gun and drew up plans but did not go near the school or do anything to carry out his plans. Question is whether Sawyer was attempting to commit a crime
