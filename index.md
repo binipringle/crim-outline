@@ -33,10 +33,9 @@
 
 **Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under violation of due process because vague*
 
-**Rule:** The court cannot create a crime; only the legislature can create a crime.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The court cannot create a crime; only the legislature can create a crime.</p>
 
-No punishment without law: **NYPL § 5.05 (3)** “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
-</div>
+<p style="margin-left:10%; margin-right:10%;">No punishment without law: <b>NYPL § 5.05 (3)</b> “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”</p>
 
 ##Due process
 
@@ -52,29 +51,32 @@ No punishment without law: **NYPL § 5.05 (3)** “The provisions of this chapte
 
 **Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under legality and previously defined conduct*
 
-**Holding:** Violation of due process because vague (there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The court cannot create a crime; only the legislature can create a crime). The dissent ultimately wins out here; most states effectively abolish common law crimes.
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Violation of due process because vague (there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The court cannot create a crime; only the legislature can create a crime).</p>
 
 **In Re Banks (1978)** (Peeping Tom)
-**Rule:** If a statute is too vague or indefinite or too broad, it violates due process.
-**Holding:** The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.
 
-Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a statute is too vague or indefinite or too broad, it violates due process.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:</p>
+
 1. Interpret statute (Does statute violate due process?)
 2. Is statute too vague or not definite enough or overbroad?
 3. If it is too vague, can it be saved by judicial interpretation?
 
 
-    **Hypo**
-    Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.
+**Hypo**
 
-  **Overbroad**
+<p style="margin-left:10%; margin-right:10%;"> Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.</p>
 
-    **Keeler v. Superior Court 1970**
-    Struck pregnant ex-wife in belly intending to kill fetus, charged with murder
-    Rule: It is not for the court to define murder. Once legislature defined murder the court can interpret it
-    Holding: The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.
-    Dissent argues definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being.
-    Legislature did not change the definition of human being but changed the law to include fetuses as well.
+**Overbroad**
+
+**Keeler v. Superior Court 1970** (struck pregnant ex-wife in belly intending to kill fetus, charged with murder)
+
+Rule: It is not for the court to define murder. Once legislature defined murder the court can interpret it
+Holding: The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.
+Dissent argues definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being.
+Legislature did not change the definition of human being but changed the law to include fetuses as well.
 
     **In Re Banks**
     Peeping Tom law not overbroad
