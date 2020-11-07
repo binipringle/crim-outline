@@ -5,7 +5,8 @@
 **Presumption of Innocence**
 
 **Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
-**Rule:** If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.</p>
 
 # Theories of Punishment
 
@@ -31,6 +32,7 @@
 ##Legality and previously defined conduct
 
 **Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under violation of due process because vague*
+
 **Rule:** The court cannot create a crime; only the legislature can create a crime.
 
 No punishment without law: **NYPL § 5.05 (3)** “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
@@ -49,7 +51,8 @@ No punishment without law: **NYPL § 5.05 (3)** “The provisions of this chapte
 **Vague**
 
 **Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under legality and previously defined conduct*
-**Holding:** Violation of due process because vague (there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The dissent ultimately wins out here; most states effectively abolish common law crimes.The court cannot create a crime; only the legislature can create a crime.)
+
+**Holding:** Violation of due process because vague (there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The court cannot create a crime; only the legislature can create a crime). The dissent ultimately wins out here; most states effectively abolish common law crimes.
 
 **In Re Banks (1978)** (Peeping Tom)
 **Rule:** If a statute is too vague or indefinite or too broad, it violates due process.
