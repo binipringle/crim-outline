@@ -104,7 +104,7 @@ NYPL § 5.00 Penal law not strictly construed. "The general rule that a penal st
 
 **Muscarello v. United States (1998)** (drug dealer with firearm in glove compartment of car)
 
-Rule: If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.</p>
 
 # Three elements of a crime
 
@@ -125,71 +125,82 @@ If it is a result crime, we do not need to prove causation.
 
 **People v. Rizzo (1927)** (Rizzo and others driving around trying to find Rao to rob him of payroll. Never found Rao.)
 
-**Rule:** A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test)
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test)</p>
 
-  **State v. Jack Sawyer (2018)**
-      Sawyer was planning a shooting at his former high school in Vermont. He purchased a gun and drew up plans but did not go near the school or do anything to carry out his plans. Question is whether Sawyer was attempting to commit a crime
-      Rule: Intent to commit a crime is not sufficient for conviction of attempt to commit a crime; if there is no actus reus there is no crime (my rule)
-      No dangerous proximity (see Rizzo)
-      Holding: In April 2018, the Vermont Supreme Court held that “the weight of the evidence is not great that defendant has committed any act or combination of acts that would satisfy Vermont’s definition of an attempt to commit any of the charged crimes.”
-      Judgment: Vermont Supreme Court reversed the trial court’s hold-without-bail order and remanded for further proceedings.
-      Note: One of the troubling things was that he didn’t actually hurt anyone. Some classmates say he did cause harm because he caused people stress. He scared people, because he talked to them about his intention. If he hadn’t told anyone, it wou¬¬ld be a different story. The question is the extent of the act. How much harm did sawyer’s talking about his intention do? Did it fulfill the requirements of being a crime?
+**State v. Jack Sawyer (2018)** (planned a shooting at former high school; question is whether was attempting to commit a crime)
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Intent to commit a crime is not sufficient for conviction of attempt to commit a crime; if there is no actus reus there is no crime (my rule)</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The Vermont Supreme Court held that “the weight of the evidence is not great that defendant has committed any act or combination of acts that would satisfy Vermont’s definition of an attempt to commit any of the charged crimes.” (No dangerous proximity [see Rizzo])</p>
 
 ## 2. Voluntary Act OR Omission of Duty
-      Voluntary Act steps of analaysis
-        Rule synthesize (including definition and case “rules out”)
-        Cases
-        Hypos
-      Omission + Duty steps of analysis
-        Rule synthesis (including definition and 5 scenarios)
-        Cases
-        Hypos (underneath each hypo)
 
-    **NYPL Section 15.00:** Voluntary Act
-      “Voluntary act” means a bodily movement performed consciously as a result of effort or determination and includes the possession of property if the actor was aware of his physical possession or control thereof for a sufficient period to have been able to terminate it.
+Voluntary Act steps of analaysis
+1. Rule synthesize (including definition and case “rules out”)
+2. Cases
+3. Hypos
 
-    **MPC Section 2.01 (1)** Requirement of Voluntary Act
-      (1) A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable.
-      (2) The following are not voluntary acts within the meaning of this Section:
-        (a) a reflex or convulsion;
-        (b) a bodily movement during unconsciousness or sleep;
-        (c) conduct during hypnosis or resulting from hypnotic suggestion;
-        (d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.
-      Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor Kirchmeier in the face” and you punched him, this would still be a voluntary act.
+Omission + Duty steps of analysis
+1. Rule synthesis (including definition and 5 scenarios)
+2. Cases
+3. Hypos (underneath each hypo)
 
-      **Martin v State (1944)**
-      Involuntarily and forcibly taken onto the public highway by law enforcement officers after being arrested.
-      Rule: voluntary appearance in a public place is required to convict a person of intoxication in a public place
+**NYPL Section 15.00:** Voluntary Act
 
-      **People v. Decina | Court of Appeals of New York, 1956**
-      Decina voluntarily got in the car but did not voluntarily have a seizure.
-      Both Martin and Decina did something voluntarily but the definition of voluntary does not have any knowledge requirement.
+“Voluntary act” means a bodily movement performed consciously as a result of effort or determination and includes the possession of property if the actor was aware of his physical possession or control thereof for a sufficient period to have been able to terminate it.
 
-      **Hypo**
-      Person was knocked unconscious, kidnapped and brought to the United States. Person is arrested and charged with entering or being in the United States without proper documentation.
-      Rule: if a person is not voluntarily in a public place that person cannot be unlawfully in a public place (my rule, I think).
+**MPC Section 2.01 (1)** Requirement of Voluntary Act
+1. A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable.
+2. The following are not voluntary acts within the meaning of this Section:
+- (a) a reflex or convulsion;
+- (b) a bodily movement during unconsciousness or sleep;
+- (c) conduct during hypnosis or resulting from hypnotic suggestion;
+- (d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.
 
-      **Hypo**
-      Person is charged with “intending to assassinate the President.” Person confesses to intending to assassinate the President.
-      Rule: If Person expressed intent in a way that signifies harm to society, is not deterred by threat of sanction, and has demonstrated an identifiable occurrence of acts following from thoughts, Person should be punished for intending to assassinate the President.
+Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor Kirchmeier in the face” and you punched him, this would still be a voluntary act.
 
-      **Hypo**
-      Issue: whether someone can be criminalized for being an addict.
-      Legal standard: California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict (this confuses me; is the act whereby the person became an addict important because it involves committing a different crime?)
-      Reasoning: Person cannot be criminalized for being something. Criminal law only punishes conduct, more precisely voluntary conduct.
-      Holding: U.S. Supreme Court held that Constitution forbids punishment for a mere status.
+**Martin v State (1944)** (involuntarily and forcibly taken onto public highway by law enforcement officers after being arrested)
 
-    **Omission + Duty**
-      Law/statute imposes duty
-      - Certain status relationships (generally, there is a duty to care for children, elderly person. Might go as far as spouse. If -adult sibling, no duty to care.)
-      - Assumed contractual duty of care
-      - Voluntarily assumed duty of care
-      - Person creates risk of harm to another
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Voluntary appearance in a public place is required to convict a person of intoxication in a public place. </p>
 
-    **MPC Section 2.01 (3)** Omission as Basis of Liability
-      (3) Liability for the commission of an offense may not be based on an omission unaccompanied by action unless:
-        (a) the omission is expressly made sufficient by the law defining the offense; or
-        (b) a duty to perform the omitted act is otherwise imposed by law.
+**People v. Decina | Court of Appeals of New York, 1956** (Decina voluntarily got in the car but did not voluntarily have a seizure)
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The definition of voluntary does not have any knowledge requirement. </p>
+
+**Hypo**
+
+<p style="margin-left:10%; margin-right:10%;"> Person was knocked unconscious, kidnapped and brought to the United States. Person is arrested and charged with entering or being in the United States without proper documentation.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person is not voluntarily in a public place that person cannot be unlawfully in a public place (my rule, I think). </p>
+
+**Hypo**
+
+<p style="margin-left:10%; margin-right:10%;"> Person is charged with “intending to assassinate the President.” Person confesses to intending to assassinate the President.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If Person expressed intent in a way that signifies harm to society, is not deterred by threat of sanction, and has demonstrated an identifiable occurrence of acts following from thoughts, Person should be punished for intending to assassinate the President. </p>
+
+**Hypo**
+
+<p style="margin-left:10%; margin-right:10%;"> California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict <i>(this confuses me; is the act whereby the person became an addict important because it involves committing a different crime?)</i> Issue is whether someone can be criminalized for being an addict.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The U.S. Constitution forbids punishment for a mere status </p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b> Person cannot be criminalized for being something. Criminal law only punishes conduct, more precisely voluntary conduct.</p>
+
+**Omission + Duty**
+
+Law/statute imposes duty when:
+- Certain status relationships (generally, there is a duty to care for children, elderly person. Might go as far as spouse. If -adult sibling, no duty to care.)
+- Assumed contractual duty of care
+- Voluntarily assumed duty of care
+- Person creates risk of harm to another
+
+**MPC Section 2.01 (3)** Omission as Basis of Liability
+3. Liability for the commission of an offense may not be based on an omission unaccompanied by action unless:
+
+<p style="margin-left:10%; margin-right:10%;">(a) the omission is expressly made sufficient by the law defining the offense; or</p>
+
+<p style="margin-left:10%; margin-right:10%;">(b) a duty to perform the omitted act is otherwise imposed by law.</p>
 
         **People v. Beardsley (1907)**
           Married bartender went on drinking binge with Blanche Burns, who took morphine tablets and died
