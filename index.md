@@ -4,12 +4,10 @@
 
 ## Presumption of Innocence
 
-**Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
 
-<div style="margin-left: 1em;">Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
+<div style="margin-left: 1em;">**Rule:** If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
 </div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: Teaches me about legal sufficiency in enforcing the presumption of innocence
 
 # Theories of Punishment
 
@@ -32,45 +30,46 @@
 
 # Principles of Legality
 
-  **Legality and previously defined conduct**
+##Legality and previously defined conduct
 
-      **Commonwealth v. Mochan (1955)**
-      Man phoned woman in “lewd, immoral and lascivious” manner and asked her in profane language to commit adultery (p. 91); convicted under common law of “violating public morality”
-      Rule: The court cannot create a crime; only the legislature can create a crime.
-      *Also falls under violation of due process because it is vague*
-      No punishment without law: NYPL § 5.05 (3) “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
+<div style="margin-left: 1em;">**Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under violation of due process because vague*
+</div>
 
-  **Due process**
+<div style="margin-left: 1em;">**Rule:** The court cannot create a crime; only the legislature can create a crime.
+</div>
 
-  **Burden of proof**
+<div style="margin-left: 1em;">No punishment without law: NYPL § 5.05 (3) “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
+</div>
 
-    The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
+##Due process
 
-      In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
+**Burden of proof**
 
-    Why is it a higher burden? What does how high mean? What percent does the prosecution have to prove?
-
-      Most courts won’t say – courts won’t say 100% because that would be without any doubt. But society has a strong concern about punishing someone who is innocent for something they didn’t do. So if we say 90% than if the jury is 89% sure the person would go free. Because in criminal law we are talking about punishing people.
+- The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
+- In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
+- Why is it a higher burden? What does how high mean? What percent does the prosecution have to prove? Most courts won’t say – courts won’t say 100% because that would be without any doubt. But society has a strong concern about punishing someone who is innocent for something they didn’t do. So if we say 90% and the jury is 89% sure, the person would go free.
 
 # Statute may not be vague or overbroad
 
-  **Vague**
+**Vague**
 
-    **Commonwealth v. Mochan (1955)**
-    Mochan said obscene and sexually suggestive things to Mrs. Zivkovich.
-    Appellant is arguing that saying obscene and sexually suggestive things to Mrs. Zivkovich was not a misdemeanor under common law. The State is arguing that blackening the reputation of Louise Zivkovich was an act which “injuriously affect[ed] public morality” (92). The state is arguing that “Christianity is a part of the common law” and that the appellant had scandalously affected Christian morality (92).
-    Also falls under legality and previously defined conduct.
-    Holding: Violation of due process because vague; there was no specific statute or law; D convicted under common law, which said that If an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The dissent ultimately wins out here; most states effectively abolish common law crimes.
+<div style="margin-left: 1em;">**Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under legality and previously defined conduct*
+</div>
 
-    **In Re Banks (1978)**
-    Peeping Tom. Court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy”
-    Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation.
-    - Interpret statute
-    - Does statute violate due process?
-    - Is statute too vague or not definite enough or overbroad?
-    - If it is too vague, can it be saved by judicial interpretation?
-    If a statute is too vague or indefinite or too broad, it violates due process.
-    Holding: The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.
+<div style="margin-left: 1em;">**Holding:** Violation of due process because vague; there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The dissent ultimately wins out here; most states effectively abolish common law crimes.The court cannot create a crime; only the legislature can create a crime.
+</div>
+
+**In Re Banks (1978)** (Peeping Tom)
+
+**Rule:** If a statute is too vague or indefinite or too broad, it violates due process.
+**Holding:** The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.
+
+Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:
+
+1. Interpret statute (Does statute violate due process?)
+2. Is statute too vague or not definite enough or overbroad?
+3. If it is too vague, can it be saved by judicial interpretation?
+
 
     **Hypo**
     Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.
