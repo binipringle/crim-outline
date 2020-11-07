@@ -6,18 +6,17 @@
 
 **Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
+<div style="margin-left: 1em;">Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: Teaches me about legal sufficiency in enforcing the presumption of innocence
 
 # Theories of Punishment
 
-<div style="margin-left: 1em;">
 **General**
 1. Why (and whether) the social institution of punishment is warranted
 2. What are the necessary conditions for criminal liability and punishment in particular cases
 3. What form and severity of punishment is appropriate for particular offenses and offender (33)
-</div>
 
 **Retributive Justifications**
 - The moral desert of an offender is a sufficient and necessary condition of liability to punitive sanctions
