@@ -97,8 +97,9 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 <p style="margin-left:10%; margin-right:10%;"><b>Dissent:</b> (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> – look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> - look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
 
+# Lenity Doctrine
 
 ## Lenity Doctrine
 
