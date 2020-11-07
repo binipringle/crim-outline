@@ -97,41 +97,41 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 <p style="margin-left:10%; margin-right:10%;"><b>Dissent:</b> (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> – look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).
+<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> – look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
 
 ## Lenity Doctrine
 
-  If statute is vague or overbroad or if it can be interpreted equally to favor both parties (defendant and prosecution), it should be read and interpreted in the light most favorable to defendant.
+If statute is vague or overbroad or if it can be interpreted equally to favor both parties (defendant and prosecution), it should be read and interpreted in the light most favorable to defendant.
 
-  “Criminal statutes must be strictly construed” (page 106 of Banks) (also, page 97 of Keeler (“human being” case)). The reasoning is that the government wrote the statute, it had the opportunity to write it clearly, but did not, so it is on the government to be clear. The lenity doctrine is really a tie breaker; usually the court finds a way to interpret the statute without the lenity doctrine. Banks and Keeler mention the lenity doctrine, but it doesn’t carry much weight in those cases. It doesn’t necessarily mean that the defendant wins. It just puts a little more weight on the side of the defendant.
+“Criminal statutes must be strictly construed” (page 106 of Banks) (also, page 97 of Keeler (“human being” case)). The reasoning is that the government wrote the statute, it had the opportunity to write it clearly, but did not, so it is on the government to be clear. The lenity doctrine is really a tie breaker; usually the court finds a way to interpret the statute without the lenity doctrine. Banks and Keeler mention the lenity doctrine, but it doesn’t carry much weight in those cases. It doesn’t necessarily mean that the defendant wins. It just puts a little more weight on the side of the defendant.
 
-  **NYPL Section 5.00 is the lenity doctrine!**  
-    NYPL § 5.00 Penal law not strictly construed. "The general rule that a penal statute is to be strictly construed does not apply to this chapter, but the provisions herein must be construed according to the fair import of their terms to promote justice and effect the objects of the law.""
+**NYPL Section 5.00 is the NON-INCLUSION of the lenity doctrine!**  
+NYPL § 5.00 Penal law not strictly construed. "The general rule that a penal statute is to be strictly construed does not apply to this chapter, but the provisions herein must be construed according to the fair import of their terms to promote justice and effect the objects of the law.""
 
-  **Muscarello v. United States (1998)**
-    Drug dealer. By federal criminal code a person who uses or carries a firearm when drug trafficking can get five more years in prison.
-    Holding/Rule: If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.
-    Note: Why did they want to determine what the word carries means? Because it originates in the statute. Person was not carrying the firearm on the person. The firearm was in the locked glove box of the car. So, were they carrying a firearm in the meaning of the statute? When the statute was written were they meaning carrying on a person or including the car? There’s a dissent with the legislature, not the judges. The legislature writing the statute was thinking maybe of a person with a gun on their person, but it is not clear. What does the court look at? Usage in newspapers of the word “carry.” The court is trying to figure out what the legislature thought that carry meant when they wrote the statute. The court can get a best sense of what the legislature meant by looking at the language in use at the time. The other clue is what was the legislature’s intent. What were they concerned about? The court is not trying to impose its own policy but it’s trying to figure out what the legislature meant. After the case, it becomes clearer for future cases. The legislature could say they didn’t like the result and rewrite the statute. But that would not change the ruling in this case. The thing to keep in mind is that statutory interpretation is to figure out what the legislature intended.
+**Muscarello v. United States (1998)** (drug dealer with firearm in glove compartment of car)
+
+Rule: If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.
 
 # Three elements of a crime
 
-  To sustain a conviction/establish criminal culpability in any criminal case, the prosecution must prove (1) actus reus, (2) mens rea, and (3) causation beyond a reasonable doubt.
+To sustain a conviction/establish criminal culpability in any criminal case, the prosecution must prove (1) actus reus, (2) mens rea, and (3) causation beyond a reasonable doubt.
 
-  If it is a result crime, we do not need to prove causation.
+If it is a result crime, we do not need to prove causation.
 
 # Actus Reus
 
-  **General rule:** Actus reus is a required element of every crime. Actus reus requires (1) the satisfaction of all statutory actus reus elements, and (2) either a voluntary act or an omission of duty.
+**General rule:** Actus reus is a required element of every crime. Actus reus requires (1) the satisfaction of all statutory actus reus elements, and (2) either a voluntary act or an omission of duty.
 
 ## 1. Statutory Actus Reus Elements
-      Steps of Analysis:
-        Step 1: Elementize the statute
-        Step 2: categorize each element (conduct, result, attendant circumstances)
-        Step 3: Write a law-because-facts sentence analyzing each element
 
-  **People v. Rizzo (1927)**
-      Rizzo and others driving around trying to find Rao to rob him of payroll. Never found Rao.
-      Rule: Dangerous proximity test: A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference.
+**Steps of Analysis:**
+1. Elementize the statute
+2. Categorize each element (conduct, result, attendant circumstances)
+3. Write a law-because-facts sentence analyzing each element
+
+**People v. Rizzo (1927)** (Rizzo and others driving around trying to find Rao to rob him of payroll. Never found Rao.)
+
+**Rule:** A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test) 
 
   **State v. Jack Sawyer (2018)**
       Sawyer was planning a shooting at his former high school in Vermont. He purchased a gun and drew up plans but did not go near the school or do anything to carry out his plans. Question is whether Sawyer was attempting to commit a crime
