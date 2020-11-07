@@ -12,10 +12,12 @@
 
 # Theories of Punishment
 
+<div style="margin-left: 1em;">
 **General**
 1. Why (and whether) the social institution of punishment is warranted
 2. What are the necessary conditions for criminal liability and punishment in particular cases
 3. What form and severity of punishment is appropriate for particular offenses and offender (33)
+</div>
 
 **Retributive Justifications**
 - The moral desert of an offender is a sufficient and necessary condition of liability to punitive sanctions
