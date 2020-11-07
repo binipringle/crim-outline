@@ -4,12 +4,9 @@
 
 **Presumption of Innocence**
 
-<div style="margin-left: 1em;"><b>Owens v. State 1992</b> (man sitting in non-moving car in private driveway while intoxicated)
+**Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
 
-<div style="margin-left: 1em;"><b>Rule:</b> If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
-</div>
-
----
+**Rule:** If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
 
 # Theories of Punishment
 
@@ -34,13 +31,10 @@
 
 ##Legality and previously defined conduct
 
-<div style="margin-left: 1em;"><b>Commonwealth v. Mochan (1955)</b> (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under violation of due process because vague*
-</div>
+**Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under violation of due process because vague*
+**Rule:** The court cannot create a crime; only the legislature can create a crime.
 
-<div style="margin-left: 1em;"><b>Rule:</b> The court cannot create a crime; only the legislature can create a crime.
-</div>
-
-<div style="margin-left: 1em;">No punishment without law: NYPL § 5.05 (3) “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
+No punishment without law: **NYPL § 5.05 (3)** “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
 </div>
 
 ##Due process
@@ -56,18 +50,13 @@
 **Vague**
 
 **Commonwealth v. Mochan (1955)** (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) *Also falls under legality and previously defined conduct*
-</div>
-
-<div style="margin-left: 1em;">**Holding:** Violation of due process because vague; there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The dissent ultimately wins out here; most states effectively abolish common law crimes.The court cannot create a crime; only the legislature can create a crime.
-</div>
+**Holding:** Violation of due process because vague (there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The dissent ultimately wins out here; most states effectively abolish common law crimes.The court cannot create a crime; only the legislature can create a crime.)
 
 **In Re Banks (1978)** (Peeping Tom)
-
 **Rule:** If a statute is too vague or indefinite or too broad, it violates due process.
 **Holding:** The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.
 
 Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:
-
 1. Interpret statute (Does statute violate due process?)
 2. Is statute too vague or not definite enough or overbroad?
 3. If it is too vague, can it be saved by judicial interpretation?
