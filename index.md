@@ -91,17 +91,11 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 <p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute. (Mens rea modifying terms: look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” [unless the Court can divine a contrary purpose from the legislature]). </p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Dissent:</b> (Bell) The legislature did indeed intend to make statutory rape a strict liability offense. However, holding that this provision does not require any element of mens rea is contrary to the concept of due process.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Dissent:</b> (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.</p>
+## Lenity doctrine
 
-<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> - look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
-
-# Lenity Doctrine
-
-## Lenity Doctrine
 
 If a statute is vague or overbroad or if it can be interpreted equally to favor both parties (defendant and prosecution), it should be read and interpreted in the light most favorable to defendant.
 
