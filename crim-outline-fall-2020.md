@@ -4,6 +4,7 @@
 
 ## Presumption of Innocence
 
+<<<<<<< HEAD
   **Owens v. State 1992**
     Man sitting in non-moving car in private driveway while intoxicated
     Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
@@ -16,6 +17,21 @@
     One fundamental question is why (and whether) the social institution of punishment is warranted. A second question concerns the necessary conditions for criminal liability and punishment in particular cases. A third relates to the form and severity of punishment that is appropriate for particular offenses and offenders. (33)
 
     Since punishment involves pain and deprivation that people wish to avoid, its intentional imposition by the state requires justification. (33)
+=======
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: Teaches me about legal sufficiency in enforcing the presumption of innocence
+
+# Theories of Punishment
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**General**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One fundamental question is why (and whether) the social institution of punishment is warranted. A second question concerns the necessary conditions for criminal liability and punishment in particular cases. A third relates to the form and severity of punishment that is appropriate for particular offenses and offenders. (33)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since punishment involves pain and deprivation that people wish to avoid, its intentional imposition by the state requires justification. (33)
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
   **Retributive Justifications**
 
@@ -78,14 +94,24 @@
 
   **Overbroad**
 
+<<<<<<< HEAD
   **Keeler v. Superior Court 1970**
     Struck pregnant ex-wife in belly intending to kill fetus, charged with murder
     **Rule:** It is not for the court to define murder. Once legislature defined murder the court can interpret it
+=======
+    **Keeler v. Superior Court 1970**
+    Struck pregnant ex-wife in belly intending to kill fetus, charged with murder
+    Rule: It is not for the court to define murder. Once legislature defined murder the court can interpret it
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
     Holding: The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.
     Dissent argues definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being.
     Legislature did not change the definition of human being but changed the law to include fetuses as well.
 
+<<<<<<< HEAD
   **In Re Banks**
+=======
+    **In Re Banks**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
     Peeping Tom law not overbroad
 
 # Statutory interpretation
@@ -103,12 +129,21 @@
   “Criminal statutes must be strictly construed” (page 106 of Banks) (also, page 97 of Keeler (“human being” case)). The reasoning is that the government wrote the statute, it had the opportunity to write it clearly, but did not, so it is on the government to be clear. The lenity doctrine is really a tie breaker; usually the court finds a way to interpret the statute without the lenity doctrine. Banks and Keeler mention the lenity doctrine, but it doesn’t carry much weight in those cases. It doesn’t necessarily mean that the defendant wins. It just puts a little more weight on the side of the defendant.
 
   **NYPL Section 5.00 is the lenity doctrine!**  
+<<<<<<< HEAD
     NYPL § 5.00 Penal law not strictly construed. "The general rule that a penal statute is to be strictly construed does not apply to this chapter, but the provisions herein must be construed according to the fair import of their terms to promote justice and effect the objects of the law.""
 
   **Muscarello v. United States (1998)**
     Drug dealer. By federal criminal code a person who uses or carries a firearm when drug trafficking can get five more years in prison.
     Holding/Rule: If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.
     Note: Why did they want to determine what the word carries means? Because it originates in the statute. Person was not carrying the firearm on the person. The firearm was in the locked glove box of the car. So, were they carrying a firearm in the meaning of the statute? When the statute was written were they meaning carrying on a person or including the car? There’s a dissent with the legislature, not the judges. The legislature writing the statute was thinking maybe of a person with a gun on their person, but it is not clear. What does the court look at? Usage in newspapers of the word “carry.” The court is trying to figure out what the legislature thought that carry meant when they wrote the statute. The court can get a best sense of what the legislature meant by looking at the language in use at the time. The other clue is what was the legislature’s intent. What were they concerned about? The court is not trying to impose its own policy but it’s trying to figure out what the legislature meant. After the case, it becomes clearer for future cases. The legislature could say they didn’t like the result and rewrite the statute. But that would not change the ruling in this case. The thing to keep in mind is that statutory interpretation is to figure out what the legislature intended.
+=======
+  NYPL § 5.00 Penal law not strictly construed. "The general rule that a penal statute is to be strictly construed does not apply to this chapter, but the provisions herein must be construed according to the fair import of their terms to promote justice and effect the objects of the law.""
+
+  **Muscarello v. United States (1998)**
+  Drug dealer. By federal criminal code a person who uses or carries a firearm when drug trafficking can get five more years in prison.
+  Holding/Rule: If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.
+  Note: Why did they want to determine what the word carries means? Because it originates in the statute. Person was not carrying the firearm on the person. The firearm was in the locked glove box of the car. So, were they carrying a firearm in the meaning of the statute? When the statute was written were they meaning carrying on a person or including the car? There’s a dissent with the legislature, not the judges. The legislature writing the statute was thinking maybe of a person with a gun on their person, but it is not clear. What does the court look at? Usage in newspapers of the word “carry.” The court is trying to figure out what the legislature thought that carry meant when they wrote the statute. The court can get a best sense of what the legislature meant by looking at the language in use at the time. The other clue is what was the legislature’s intent. What were they concerned about? The court is not trying to impose its own policy but it’s trying to figure out what the legislature meant. After the case, it becomes clearer for future cases. The legislature could say they didn’t like the result and rewrite the statute. But that would not change the ruling in this case. The thing to keep in mind is that statutory interpretation is to figure out what the legislature intended.
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
 # Three elements of a crime
 
@@ -118,6 +153,7 @@
 
 # Actus Reus
 
+<<<<<<< HEAD
   **General rule:** Actus reus is a required element of every crime. Actus reus requires (1) the satisfaction of all statutory actus reus elements, and (2) either a voluntary act or an omission of duty.
 
 ## 1. Statutory Actus Reus Elements
@@ -159,6 +195,41 @@
         (c) conduct during hypnosis or resulting from hypnotic suggestion;
         (d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.
       Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor Kirchmeier in the face” and you punched him, this would still be a voluntary act.
+=======
+  General rule: Actus reus is a required element of every crime. Actus reus requires (1) the satisfaction of all statutory actus reus elements, and (2) either a voluntary act or an omission of duty.
+
+  1. Statutory Actus Reus Elements
+    - Conduct
+    -  Result
+    - Attendant circumstances
+
+    **People v. Rizzo (1927)**
+    Rizzo and others driving around trying to find Rao to rob him of payroll. Never found Rao.
+    Rule: Dangerous proximity test: A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference.
+
+    **State v. Jack Sawyer (2018)**
+    Sawyer was planning a shooting at his former high school in Vermont. He purchased a gun and drew up plans but did not go near the school or do anything to carry out his plans. Question is whether Sawyer was attempting to commit a crime
+    Rule: Intent to commit a crime is not sufficient for conviction of attempt to commit a crime; if there is no actus reus there is no crime (my rule)
+    No dangerous proximity (see Rizzo)
+    Holding: In April 2018, the Vermont Supreme Court held that “the weight of the evidence is not great that defendant has committed any act or combination of acts that would satisfy Vermont’s definition of an attempt to commit any of the charged crimes.”
+    Judgment: Vermont Supreme Court reversed the trial court’s hold-without-bail order and remanded for further proceedings.
+    Note: One of the troubling things was that he didn’t actually hurt anyone. Some classmates say he did cause harm because he caused people stress. He scared people, because he talked to them about his intention. If he hadn’t told anyone, it wou¬¬ld be a different story. The question is the extent of the act. How much harm did sawyer’s talking about his intention do? Did it fulfill the requirements of being a crime?
+
+  2. Voluntary Act OR Omission of Duty
+
+    **Voluntary Act**
+
+    **NYPL Section 15.00:** “Voluntary act” means a bodily movement performed consciously as a result of effort or determination and includes the possession of property if the actor was aware of his physical possession or control thereof for a sufficient period to have been able to terminate it.
+
+    **MPC Section 2.01 (1)** Requirement of Voluntary Act
+    (1) A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable.
+    (2) The following are not voluntary acts within the meaning of this Section:
+      (a) a reflex or convulsion;
+      (b) a bodily movement during unconsciousness or sleep;
+      (c) conduct during hypnosis or resulting from hypnotic suggestion;
+      (d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.
+    Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor Kirchmeier in the face” and you punched him, this would still be a voluntary act.
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
       **Martin v State (1944)**
       Involuntarily and forcibly taken onto the public highway by law enforcement officers after being arrested.
@@ -183,6 +254,7 @@
       Holding: U.S. Supreme Court held that Constitution forbids punishment for a mere status.
 
     **Omission + Duty**
+<<<<<<< HEAD
       Law/statute imposes duty
       - Certain status relationships (generally, there is a duty to care for children, elderly person. Might go as far as spouse. If -adult sibling, no duty to care.)
       - Assumed contractual duty of care
@@ -230,22 +302,161 @@
       **Hypo** (see slide)
         I hear someone in hallway shouting help vicious dog and I don’t want to get up and stop watching TV. Am I legally responsible? No, because ...
         What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it? Yes, I’m responsible because it’s a voluntary act. Element of voluntary act. Voluntary act element of actus reus is satisfied. This doesn’t mean that there is a crime. Was I reckless? Was I knowing that they would die? There is an argument that you did a voluntary act that resulted in their death so there is an argument to make that you caused the person’s death. This takes us to causation.
+=======
+
+    Law/statute imposes duty
+    - Certain status relationships (generally, there is a duty to care for children, elderly person. Might go as far as spouse. If -adult sibling, no duty to care.)
+    - Assumed contractual duty of care
+    - Voluntarily assumed duty of care
+    - Person creates risk of harm to another
+
+    **MPC Section 2.01 (3)** Omission as Basis of Liability
+    (3) Liability for the commission of an offense may not be based on an omission unaccompanied by action unless:
+      (a) the omission is expressly made sufficient by the law defining the offense; or
+      (b) a duty to perform the omitted act is otherwise imposed by law.
+
+        **People v. Beardsley (1907)**
+        Married bartender went on drinking binge with Blanche Burns, who took morphine tablets and died
+        Rule: In order to punish a person for an omission, the person must owe a legal duty to the victim, not just a moral duty.
+        - The duty may be imposed by law or contract.
+        - A person may have a duty from a domestic relationship, public duty, voluntary choice.
+        Holding: The Michigan Supreme court set the conviction aside and discharged Beardsley.
+        Why didn’t we punish Beardsley for omission + duty? Slippery slope. The fact that Burns was in Beardsley’s house does not create a legal duty such as exists between man and wife (144). As a general principal there are some exceptions, but generally we don’t punish people for omissions.
+
+        **Pope v. State (1979)** (p. 145)
+        Three-month-old Demiko Lee Norris died as a result of physical injuries inflicted by his mother Melissa Vera Norris at the house of Pope and witnessed by Pope.
+        No status relationship; no duty to act.
+
+        **Hypo** (p. 146)
+        David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard.
+
+        **Hypo**
+        Where one creates a risk of harm to another: if I burned down my house I would have a duty to rescue people
+
+        **Hypo**
+        Professor Kirchmeier drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.
+
+        **Hypo**
+        Barry was walking on the Coney Island boardwalk around 8 pm. No lifeguards were on duty. Suddenly, he heard frantic splashing and yelling. To his horror, a swimmer seemed to be floundering badly about 100 yards out in the water. A crowd of stricken onlookers were beginning to approach, several grumbling about having no cellphone service this far out on the beach. Seeing that he had full cell service, Barry loudly announced to the crowd, “Don’t worry, everyone, I’m calling 911 right now!” But before he could place the call, he was hit with an unstoppable craving for a hot dog. Barry left the scene, went to Nathan’s, and ordered a chili dog. While he was waiting for his food, the swimmer in the ocean drowned. In New York, would Barry satisfy the second element (voluntary act/omission plus legal duty)of actus reus?
+
+    **Justifications for the common law approach to punishing people for omissions** (pp. 146-7)
+    - Punishing people for omission increases the risk of convicting morally innocent persons
+    - Difficult line-drawing questions arise: for example, if a person is dying of a knife wound in a city street and 100 people walk by, who should be punished for omission?
+    - Bystander effect: everyone thinks someone else is going to help
+    - Issue of freedom: A penal law that prohibits an individual from X (i.e. killing another person) permits that individual to do anything other than X. In contrast, a law that requires a person to do Y (e.g. help a bystander) bars that person from doing anything other than Y. (I don’t understand this).
+
+      **Kitty Genovese case**
+      Young woman coming home late at night, attacked, neighbors yelled, walked away,
+
+      **Hypo** (see slide)
+      I hear someone in hallway shouting help vicious dog and I don’t want to get up and stop watching TV. Am I legally responsible? No, because ...
+      What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it? Yes, I’m responsible because it’s a voluntary act. Element of voluntary act. Voluntary act element of actus reus is satisfied. This doesn’t mean that there is a crime. Was I reckless? Was I knowing that they would die? There is an argument that you did a voluntary act that resulted in their death so there is an argument to make that you caused the person’s death. This takes us to causation.
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
     **Distinguishing Acts from omissions**
 
       **Barber v. Superior Court (1983)**
+<<<<<<< HEAD
         Man suffered cardio-respiratory arrest during surgery, suffered severe brain damage. Doctors withdrew life support. Was withholding life support an omission or an act? If an omission, what duties does the physician owe a patient in a comatose state from which meaningful recovery of brain function is unlikely?
         Rule: There is no criminal liability for failure to act unless there is a legal duty to act.
 
         Statutory actus reus terms (for example, Sawyer couldn’t be convicted of attempted murder) are sometimes called “social harm defined by the statute.” Don’t use “social harm” because Prof K says it’s antiquated.
+=======
+      Man suffered cardio-respiratory arrest during surgery, suffered severe brain damage. Doctors withdrew life support. Was withholding life support an omission or an act? If an omission, what duties does the physician owe a patient in a comatose state from which meaningful recovery of brain function is unlikely?
+      Rule: There is no criminal liability for failure to act unless there is a legal duty to act.
+
+    Statutory actus reus terms (for example, Sawyer couldn’t be convicted of attempted murder) are sometimes called “social harm defined by the statute.” Don’t use “social harm” because Prof K says it’s antiquated.
+
+    **Actus reus steps of analysis**
+
+    Elements of a crime – use this in every analysis!
+
+    To sustain a conviction/establish criminal culpability in any criminal case, the prosecution must prove (1) actus reus, (2) mens rea, and (3) causation beyond a reasonable doubt
+
+    If it’s a result crime, we don’t need to prove causation.
+
+    **Statutory Actus Reus Elements**
+    Steps of Analysis:
+      Step 1: Elementize the statute
+      Step 2: categorize each element (conduct, result, attendant circumstances)
+      Step 3: Write a law-because-facts sentence analyzing each element
+
+    **Voluntary Act OR Omission of Duty**
+    Voluntary Act steps of analaysis
+      Rule synthesize (including definition and case “rules out”)
+      Cases
+      Hypos
+    Omission + Duty steps of analysis
+      Rule synthesis (including definition and 5 scenarios)
+      Cases
+      Hypos (underneath each hypo)
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
 # Mens Rea
 
   **“Culpability” meaning of mens rea**
+<<<<<<< HEAD
     A defendant is guilty of a crime if she commits the social harm of the offense with any morally blameworthy state of mind; … not significant whether she cause the social harm intentionally or … with some other blameworthy intent (e.g. recklessly) (158). (I'm not sure if this "culpability" meaning of mens rea is only in common law)
 
   **“Elemental” meaning of mens rea**
     Refers to the mental state the defendant must have had with regard to the “social harm” elements set out in the definition of the offense. Using this meaning, a defendant is not guilty of an offense, even if she has a culpable frame of mind, if she lacks any mental state specified in the definition of the crime (158).
+=======
+  A defendant is guilty of a crime if she commits the social harm of the offense with any morally blameworthy state of mind; … not significant whether she cause the social harm intentionally or … with some other blameworthy intent (e.g. recklessly) (158). (I'm not sure if this "culpability" meaning of mens rea is only in common law)
+
+  **“Elemental” meaning of mens rea**
+  Refers to the mental state the defendant must have had with regard to the “social harm” elements set out in the definition of the offense. Using this meaning, a defendant is not guilty of an offense, even if she has a culpable frame of mind, if she lacks any mental state specified in the definition of the crime (158).
+
+## Transferred intent
+
+  Only applies in Model Penal Code jurisdictions!
+
+  Transferred intent is built into NY second-degree murder statute **NYPL Section 125.25**
+
+  When a D intends to cause harm to one person but accidentally causes the same harm to another, courts typically rely on a “legal fiction” known as the “transferred intent” doctrine (English common law; became common law in many American jurisdictions).
+  Under classic formulation of common law doctrine of transferred intent, D’s guilt is “exactly what it would have been had the blow fallen upon the intended victim instead of the bystander.” (165)
+
+  Peculiarly mischievous legal fiction because it assumes D (1) could escape liability for murder if no transferred intent doctrine, and (2) had mens rea in relation to intended V. There is no requirement of an unlawful attempt to kill an intended victim. The law speaks in terms of an unlawful attempt to kill a person, not the person intended to be killed.
+
+  Also, result of crime can change. For example, P threw rock at X, intending to strike him with it. P missed X, but rock hit a window and broke it. If P charged with “intentional injury to property,” should prosecutor be able to transfer intent to hit X to the window?
+
+  What happens if bullet hits intended victim and another victim? Courts have applied doctrine to two counts of murder based on one intent to kill. (lots of hypos on pp 166-167)
+
+## General and specific intent
+
+  **General intent**
+
+    Any mental state that relates solely to the acts that constitute the criminal offense (a general intent crime would be only to show that someone was acting wickedly in the general sense; that was sufficient)
+
+  **Specific intent**
+
+    This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition)
+
+    Contains a special mental element (these elevate the crime) (specific intent crimes were ones which required a mental state of intent, of purposely or knowingly or with recklessness or negligence or something like that)  that is required beyond the mental state for the act of the offense, such as
+      - Intent to commit a future act (i.e. assault with intent to kill);
+      - A special motive or purpose (i.e. humiliation – this we see in hate crimes); or
+      - Awareness of attendant circumstance (i.e. knowing that someone is under 18)
+    If it has any of these, the idea is that those crimes were to be punished more severely
+
+   **Battery statute:** General intent would be to cause battery (grievous bodily harm), but specific intent would be to disfigure (check this)
+
+    **Regina v. Cunningham (1957)**
+    Man ripped gas meter off wall to steal coins and caused noxious coal gas to go into Sarah Wade’s home and partially asphyxiate her.
+    D has all the requirements in the actus reus statute – 1 and 2 – but does he have “malice” – does he have mens rea? Dispute about meaning of “malicious” in statute. Court unable to say whether a reasonable jury would have convicted if properly instructed in meaning of “malicious.” Court allows appeal and quashes conviction.
+    Rule: The term “malice” in a criminal statute does not mean general wickedness; it means either (1) an actual intention to do the particular kind of harm that was in fact done or (2) reckless disregard of a foreseeable risk that the harm would result.
+    Holding: Did not have general intent to hurt a person; intent was to steal money
+
+    **People v. Conley (1989)** (this should go under specific intent and transferred intent)
+    Issue: Whether injuries inflicted on Sean O’Connell by William J. Conley were sufficient to constitute a permanent disability (163).
+    Rule: Natural and probable consequences doctrine: problems of proof are alleviated [by] the ordinary presumption that one intends the natural and probable consequences of his actions. … Intent can be inferred from the surrounding circumstances, the offender’s words, the weapon used, and the force of the blow. (163)
+    Application: Here, intent was inferred by “[T]he surrounding circumstances, the use of a bottle, the absence of warning and the force of the blow are facts from which the jury could reasonably infer the intent to cause permanent disability” (163).
+    Holding: Court finds the evidence sufficient to support a finding of intent to cause permanent disability beyond a reasonable doubt (163).
+    Note from class (William asked what the rule was): The natural and probable consequences doctrine – that the jury can infer that some want the natural - Also, the court found what the specific definition of Mens Rea modifies in the statute; the intent to cause great bodily harm because that was the intent in the statute.
+
+    **People v. Navarro | Appellate Department of the Los Angeles County Superior Court 1979** (this case is also in Mistake of Fact)
+    Reminder: this is a case where the common law approach to mens rea is gone into. Common law mens rea: most common definition (3rd one)
+      - General intent: Any mental state that relates solely to the acts that constitute the criminal offense. Ex. “knowingly hit.”
+      - Specific intent: Contains a special mental element required beyond the element required beyond the mental state
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
 ## Common Law Mens Rea
 
@@ -253,7 +464,11 @@
 
 ## Model Penal Code Mens Rea
 
+<<<<<<< HEAD
   **Model Penal Code Section 2.02 General Requirements of Culpability**
+=======
+  **Model Penal Code Section 2.02** General Requirements of Culpability
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
     (1) Minimum Requirements of Culpability. Except as provided in Section 2.05, a person is not guilty of an offense unless he acted purposely, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.
     (2) Kinds of Culpability Defined.
       (a) Purposely.
@@ -305,7 +520,13 @@
       (4) Criminal Negligence
         A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.
 
+<<<<<<< HEAD
   **State v. Nations | Missouri Court of Appeals, 1984**
+=======
+  **Cases and Hypos**
+
+      **State v. Nations | Missouri Court of Appeals, 1984**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
         Sandra Nations says she was unaware of the age of the sixteen-year-old girl who was dancing at the adult dance club she owned and ran. The court is arguing that the appellant should have known that the girl was less than seventeen. State filed claim against Sandra Nations. State won. Nations appealed.
         Statute: Section 568. 050 of the Revised Statutes of Missouri of 1978 states that “a person commits the crime of endangering the welfare of a child if … he knowingly encourages, aids or causes a child less than seventeen years old to come within a place where “the behavior, environment or associations of the child are injurious to his welfare or the welfare of others”) (173-4).
         Missouri Criminal Code’s definition of “knowingly” is that “a person ‘acts knowingly’ or with knowledge when “with respect … to attendant circumstances when he is aware … that those circumstances exist.”
@@ -318,7 +539,11 @@
         MPC Section 2.02 (7) proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly than the MPC.
         If we look at NYPL – knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly.”
 
+<<<<<<< HEAD
   **State v. Miles | Court of Appeals of South Carolina, 2017**
+=======
+      **State v. Miles | Court of Appeals of South Carolina, 2017**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
         Appellant said he did not know that there was more than four grams of oxycodone in the package he picked up, and that the court should not have instructed the jury that he did not need to know what was in the package in order to be held guilty of drug trafficking. Defense argued that conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179) does not require knowledge of the specific kind of drug in the package the appellant picked up. The defendant has the actus reus but not the mens rea.
         Issue: Whether knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).
         Reasoning: The issue in mens rea really before the court was whether “knowingly” modified the type of drugs listed in the statute – whether the statute requires that kind of knowledge. What it comes down to is whether “knowingly” modifies the kind of drugs. The Court is trying to figure out as always what the statute intended. The Court is trying to figure out if the legislature wanted someone to be guilty of this crime if the actor didn’t know what kind of drugs he possessed. The question is, does “knowingly” modify “any morphine, opium, salt, isomer, or salt of an isomer thereof, including heroin. The court reasons that the legislature designed to punish someone who was in possession of illegal drugs, not to require that the actor knew specifically what kind of drugs they are.
@@ -328,12 +553,20 @@
         Judgment: Affirmed
         Mens rea modifying terms – look at **NYPL 15.15** – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).
 
+<<<<<<< HEAD
   **Hypo**
+=======
+      **Hypo**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
         Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I am going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.
         A lot of courts would say that “intentionally” does not modify dwelling house; that it only modifies breaking and entering.
         In the Miles case, the morphine etc. was not modified by knowingly. Dwelling house and morphine are attendant circumstances.
 
+<<<<<<< HEAD
   **Hypo**
+=======
+      **Hypo**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
         In NYPL 220.20 subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)
         What terms does the mens rea word modify?
         Court’s overall goal: determine what legislature intended
@@ -341,6 +574,7 @@
           (1) Presume modify all terms: NYPL Sec. 15.15(1); MPC 2.02(4)
           (2) Maybe not modify attendant circumstances
 
+<<<<<<< HEAD
 ## General Issues in Proving Culpability: Intent
 
 ## General and specific intent
@@ -403,6 +637,11 @@
 ## Strict Liability
 
   **Factors to consider for finding strict liability** (factors that may lead a court to conclude that a statute does not require mens rea):
+=======
+## Strict Liability
+
+  Some factors to consider for finding strict liability (factors that may lead a court to conclude that a statute does not require mens rea):
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
     - Statutory interpretation principles;
     - congressional purpose;
     - Statute omits mention of mens rea;
@@ -412,6 +651,7 @@
     - The crime does not carry a heavy stigma.
     - Common law treatment of the crime – sometimes the court will look at how the courts handled the crime in the past.
 
+<<<<<<< HEAD
     **Morisette v. United States | U.S. Supreme Court 1952**
         Morisette went hunting on an Air Force bombing range and took some spent bomb casings that were lying on the bombing range that had been lying around for years, which he flattened and sold.
         Statute: “Whoever steals, purloins, or knowingly converts to his use or the use of another, or without authority, sells, conveys or disposes of any … think of value of the United States … shall be fined…”
@@ -439,6 +679,35 @@
         Is strict liability constitutional?
           - Supreme Court has not provided clear answer to this question.
           - “Mens rea is an important requirement, but it is not a constitutional requirement, except sometimes: (Herbert L. Packer, Mens Rea and the Supreme Court, 1962)
+=======
+  **Morisette v. United States | U.S. Supreme Court 1952**
+      Morisette went hunting on an Air Force bombing range and took some spent bomb casings that were lying on the bombing range that had been lying around for years, which he flattened and sold.
+      Statute: “Whoever steals, purloins, or knowingly converts to his use or the use of another, or without authority, sells, conveys or disposes of any … think of value of the United States … shall be fined…”
+      Issue: Whether intent to convert government property is required by a federal statute prohibiting conversion of government property that is silent on mens rea.
+      Procedural History: Morissette was indicted for violating 18 U.S.C. § 641. At trial, Morissette stated he knew he was taking Air Force property but believed the government had abandoned the casings. Morissette was convicted and he appealed. The court of appeals affirmed and made the assumption that Congress meant for the term “knowingly convert” to mean simply an intentional exercise of dominion over property not belonging to the individual. The U.S. Supreme Court granted certiorari to review. One of the things the Court looks at here is whether it is a public welfare offense, to which strict liability would apply.
+      **Rule:** Mens rea is “no provincial or transient notion” and is “universal and persistent in mature systems of law” (197) except in public welfare offenses  typified only by "neglect where the law requires care, or inaction where it imposes a duty" (i.e. public health laws, building codes, or food and drug safety laws) and do not require a mental state or awareness on the part of the defendant.
+      Narrow rule: Intent to convert government property is not required by a federal statute prohibiting conversion of government property that is silent on mens rea.
+      Judgment: Reversed.
+
+  **Staples v. United States | U.S. Supreme Court, 1994**
+      Staples had an AR-15 semi-automatic a part of which had been filed down or replaced so that it fired automatically. As an automatic weapon the rifle met the statutory definition of a firearm under the National Firearms Act, 26 U.S.C. § 5861(d). The Act requires that owners of firearms register them and makes possession of an unregistered firearm punishable by up to ten years in prison. Staples did not register his customized AR-15. Colorado police and agents from the Bureau of Alcohol, Tobacco and Firearms (BATF) searched Staples’s home with a warrant and found the firearm. The U.S. charged Staples under § 5861(d). Staples claimed he did not know the rifle could be fired automatically.
+      Staples is arguing that the Government was required to prove he knew his weapon was automatic in order to convict him of violating Section 5861.
+      The Government is arguing that mens rea is not required because the statute is a public welfare regulation that imposes strict liability with no knowledge requirement.
+      **Rule:** Absent a clear statement from Congress that there is no mens rea requirement, federal felony statutes should be interpreted to eliminate the mens rea element.
+      Holding: Therefore, the Government was required to prove beyond a reasonable doubt that Staples knew that his rifle had the characteristics that brought it within the statutory definition of a machinegun.
+      Judgment: Reversed. The conviction is vacated.
+      Dissent: (Stevens) The Court here substitutes its judgment for that of Congress. Staples possessed a semiautomatic rifle capable of conversion to automatic, and the jury concluded it was a dangerous device. This was not the type of gun lawfully owned by many Americans. First, the text of the act specifically omits a knowledge requirement. Had the conduct proscribed been a common law crime, interpreting the statute to include a mens rea element would be acceptable. See Morissette v. United States, 342 U. S. 246 (1952). The act involves no such crime. Further, the act mirrored the construction of the Harrison Anti-Narcotic Act, which this Court interpreted as having no knowledge requirement. United States v. Balint, 258 U. S. 250 (1922). Possession under the act was, instead, a “public welfare” crime. Public welfare regulations generally relate to dangerous devices, heighten duties, and have no mens rea requirement, and the act is one such regulation. Next, courts consistently interpreted the act as having no knowledge requirement, and Congress did not add one in later amendments. The conviction should be affirmed.
+      Notes and questions (196-7)
+        - Do I believe Staples right result?
+        - As matter of precedent? Yes, because he might not have known his gun had been filed.
+        - As matter of policy? No, because automatic weapons are extremely dangerous and should be in the same category as hand grenades (drugs should not be subject to strict liability)
+      Typically criticizes on two grounds (p. 196):
+        - Arguably can’t deter because person unaware that their conduct is dangerous
+        - Unjust because it’s unjust to punish a person who’s unaware that their conduct is dangerous
+      Is strict liability constitutional?
+        - Supreme Court has not provided clear answer to this question.
+        - “Mens rea is an important requirement, but it is not a constitutional requirement, except sometimes: (Herbert L. Packer, Mens Rea and the Supreme Court, 1962)
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
   **MPC sec 2.02 (3)**
           If there is no mens rea in the statute, the court leaves out negligently and reads in either purposely, knowingly or recklessly. MPC 2.02 (3) “Culpability Required Unless Otherwise Provided. When the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts purposely, knowingly or recklessly with respect thereto.”
@@ -446,6 +715,7 @@
   **NYPL Sec. 15.15 (2)**
         “A statute defining a crime, unless clearly indicating a legislative intent to impose strict liability, should be construed as defining a crime of mental culpability.”
 
+<<<<<<< HEAD
     **Garnett v. State | Court of Appeals of Maryland 1993**
       Issue: Whether Raymond (Richard Lennard Garnett) was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland.
       Facts: Raymond had cognitive disabilities. He was 20 years old. Raymond met Erica Frazier, who was 13, through a mutual friend. Raymond and Erica talked occasionally by phone. On February 28, 1990 at 9 PM, Raymond went to Erica’s house. Erica opened her bedroom window. Raymond went into Erica’s bedroom through the window. They talked and had sexual intercourse. Raymond left at around 4:30 AM. On November 19, 1990, Erica gave birth to a baby of which Raymond is the biological father. Raymond was tried for statutory rape.
@@ -462,10 +732,29 @@
 ## Mistake of Fact
 
   **Common Law Mistake of Fact**
+=======
+  **Garnett v. State | Court of Appeals of Maryland 1993**
+    Issue: Whether Raymond (Richard Lennard Garnett) was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland.
+    Facts: Raymond had cognitive disabilities. He was 20 years old. Raymond met Erica Frazier, who was 13, through a mutual friend. Raymond and Erica talked occasionally by phone. On February 28, 1990 at 9 PM, Raymond went to Erica’s house. Erica opened her bedroom window. Raymond went into Erica’s bedroom through the window. They talked and had sexual intercourse. Raymond left at around 4:30 AM. On November 19, 1990, Erica gave birth to a baby of which Raymond is the biological father. Raymond was tried for statutory rape.
+    The appellant is arguing that Raymond did not know Erica was thirteen and requests that the Court of Appeals “engraft onto subsection (a)(3) an implicit mens rea requirement” (199).
+    The defendant (State of Maryland) is arguing that the statute - by design -defines a strict liability offense whose two requirements - that there was vaginal intercourse and that one of the parties was less than 14 years old and the other at least four years older – were met. (199)
+    Procedural History: The trial court found Raymond guilty, and sentenced him to five years in prison, suspended the sentence and imposed five years of probation, and ordered that he pay restitution to Erica and the Frazier family (199).
+    **Rule:** Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.
+    Holding: Therefore, Raymond was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463).
+    Judgment: Affirmed.
+    Reasoning: The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) above.
+    Dissent: (Bell) The legislature did indeed intend to make statutory rape a strict liability offense. However, holding that this provision does not require any element of mens rea is contrary to the concept of due process.
+    Dissent: (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.
+
+## Mistake of Fact *"When a mistake of fact ... ""* (ghost hypo) (car speakers hypo)
+
+  **Common Law:**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
     (1) If no specific intent or other special mental element is required for guilt of the offense (general intent), a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds.
     (2) If the offense is a specific intent crime, a good faith mistake of fact can be a defense when it negates the mens rea requirement. People v. Navarro
     Salimah’s shortened rule: If it's a general intent crime then mistake of fact defense will be recognized if based on reasonable grounds.
 
+<<<<<<< HEAD
     **People v. Navarro | Appellate Department of the Los Angeles County Superior Court 1979**
       Navarro took four wooden beams from a construction site. Was convicted of petty theft for stealing four beams (205).
       Theft: “every person who shall feloniously steal … the personal property of another … is guilty of theft”
@@ -493,11 +782,41 @@
       (a) Such factual mistake negatives the culpable mental state required for the commission of an offense; or
       (b) The statute defining the offense or a statute related thereto expressly provides that such factual mistake constitutes a defense or exemption; or
       (c) Such factual mistake is of a kind that supports a defense of justification as defined in article thirty-five of this chapter.
+=======
+  **People v. Navarro | Appellate Department of the Los Angeles County Superior Court 1979**
+    Navarro took four wooden beams from a construction site. Was convicted of petty theft for stealing four beams (205).
+    Theft: “every person who shall feloniously steal … the personal property of another … is guilty of theft”
+    Issue: Whether the defendant should be acquitted [of petty theft] if there is a reasonable doubt that he had a good faith belief that the property had been abandoned or that he had the permission of the owner to take the property, even if the defendant’s good faith belief was objectively unreasonable (206).¬
+    **Rule:** “If no specific intent or other special mental element is required for guilt of the offense charged, a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds” (207)
+    Holding: The defendant should not be convicted [of petty theft] because there is a reasonable doubt that he had a good faith belief that the property had been abandoned or that he had the permission of the owner to take the property (206).
+    Judgment: Reversed.
+    Reasoning: The relevant statute says that anyone who steals another person’s property with a felonious motive is guilty of theft. At trial, Navarro proposed jury instructions saying that if he took the wood beams with the good faith belief they were abandoned or that he had permission to take them, he was not guilty of theft, even if his good faith belief was unreasonable. The court instead instructed the jury that if Navarro took the wood beams with the good faith belief that they were abandoned or that he had permission to take them, he was not guilty of theft as long as his good faith belief was reasonable. The court held that the lower court was wrong in requiring reasonableness.
+    The court pointed out that in California, the mistake of fact defense is permissible in general intent crimes but not in specific intent crimes.
+    Note: Larceny is a specific intent crime because it requires that you trespass with the intent of in the future stealing the personal property of another person. Larceny: “trespassory taking and carrying away of the personal property of another with the intent to steal the property.”
+    Why would a higher specific intent crime sometimes be preferred by the defense? Because more is required to prove a specific intent crime because the penalty is more severe.
+
+  **Model Penal Code Section 2.04. Ignorance or Mistake.**
+    1. Ignorance or mistake as to a matter of fact or law is a defense if:
+    (a) the ignorance or mistake negatives the purpose, knowledge, belief, recklessness or negligence required to establish a material element of the offense;  or
+    (b) the law provides that the state of mind established by such ignorance or mistake constitutes a defense.
+    2. Although ignorance or mistake would otherwise afford a defense to the offense charged, the defense is not available if the defendant would be guilty of another offense had the situation been as he supposed.  In such case, however, the ignorance or mistake of the defendant shall reduce the grade and degree of the offense of which he may be convicted to those of the offense of which he would be guilty had the situation been as he supposed.
+    3. A belief that conduct does not legally constitute an offense is a defense to a prosecution for that offense based upon such conduct when:
+    (a) the statute or other enactment defining the offense is not known to the actor and has not been published or otherwise reasonably made available prior to the conduct alleged;  or
+    (b) he acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous, contained in (i) a statute or other enactment;  (ii) a judicial decision, opinion or judgment;  (iii) an administrative order or grant of permission;  or (iv) an official interpretation of the public officer or body charged by law with responsibility for the interpretation, administration or enforcement of the law defining the offense.
+    4. The defendant must prove a defense arising under Subsection (3) of this Section by a preponderance of evidence.
+
+  **NYPL Section 15.20 Effect of ignorance or mistake upon liability** (says in negative so a little harder we have to flip around)
+    1. A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief of fact, unless:
+    (a) Such factual mistake negatives the culpable mental state required for the commission of an offense; or
+    (b) The statute defining the offense or a statute related thereto expressly provides that such factual mistake constitutes a defense or exemption; or
+    (c) Such factual mistake is of a kind that supports a defense of justification as defined in article thirty-five of this chapter.
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
     2. A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.
     3. Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the age of a child is an element thereof, knowledge by the defendant of the age of such child is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the age of the child or believed such age to be the same as or greater than that specified in the statute.
     4. Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the aggregate weight of a controlled substance or marihuana is an element, knowledge by the defendant of the aggregate weight of such controlled substance or marihuana is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the aggregate weight of the controlled substance or marihuana.
 
   **Hypo**
+<<<<<<< HEAD
         If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.
         If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.
 
@@ -510,6 +829,20 @@
         Recklessly. Look at NYPL definition of recklessly. Did I know there was a risk? Was this a gross deviation from what a reasonable person could be expected to believe? You’d have to analyze and see. In NYPL and MPC all you have to look at is whether the offense satisfies the mens rea terms. Here, it would focus largely on whether I was aware there was a risk that the gun was loaded – defense could say there’s always a risk with a gun.
 
   **Strict liability crimes and mistake of fact**
+=======
+      If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.
+      If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.
+
+  **Perjury hypo**
+      A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”
+      Hint: use definition of “knowingly”
+
+  **Hypo**
+      R charged with “recklessly causing serious physical injury to another by means of a deadly weapon” after he shot and wounded V with a rifle. Defendant claims did not know gun was loaded. What would you need to define to determine if a defendant has a mistake of fact defense?
+      Recklessly. Look at NYPL definition of recklessly. Did I know there was a risk? Was this a gross deviation from what a reasonable person could be expected to believe? You’d have to analyze and see. In NYPL and MPC all you have to look at is whether the offense satisfies the mens rea terms. Here, it would focus largely on whether I was aware there was a risk that the gun was loaded – defense could say there’s always a risk with a gun.
+
+    **Strict liability crimes and mistake of fact**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
       When may a defendant have a mistake of fact defense to a strict liability crime? (slide)
       You can’t. There is no mens rea to negate. Garnett case. He tried to argue that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court said no, it’s strict liability, so there is no mens rea and your not knowing is irrelevant.
 
@@ -522,6 +855,7 @@
 
     QUESTION 4 2016 EXAM!!!! Tax code – mistake of law - Donny
 
+<<<<<<< HEAD
       **People v. Marrero | Court of appeals of NY 1987**
         Statute: “peace officer” defined as including “correction officers of any state correctional facility or of any penal correction institution”
         Marrero says that he falls within this category. What was his job and why does he think he fits in this definition? Marrero works in a federal institution. He thinks that falls into the category of “any penal correction institution.” The court said no, that’s not what that statute says. At this point the court is accepting that Marrero read the statute wrong and that the court’s interpretation of the statute did not include federal (there’s a footnote but we just have to accept the court is right in that it does not include federal).
@@ -565,6 +899,51 @@
 
       **Hypo C** (221)
         Court would probably have upheld it because someone who is in a specialized field like a pharmacist would have been expected to know the regulations. It relates to having a duty; even though it’s an omission, it relates to people having a duty.
+=======
+    **People v. Marrero | Court of appeals of NY 1987**
+      Statute: “peace officer” defined as including “correction officers of any state correctional facility or of any penal correction institution”
+      Marrero says that he falls within this category. What was his job and why does he think he fits in this definition? Marrero works in a federal institution. He thinks that falls into the category of “any penal correction institution.” The court said no, that’s not what that statute says. At this point the court is accepting that Marrero read the statute wrong and that the court’s interpretation of the statute did not include federal (there’s a footnote but we just have to accept the court is right in that it does not include federal).
+      Marrero argues that the statute is ambiguous. Marrero refers to NYPL Section 15.20 (2) where it says that you don’t have a mistake of law defense unless it’s a misinterpretation of the statute: “(2) A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.”
+      **Rule:**
+      To figure out what the NYPL means, the court looks at the MPC – it has very similar language but MPC has an extra requirement that he “acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous”
+      In People v. Marrero, NY court reads MPC into NYPL, because otherwise NYPL would be too broad. Even though the NYPL had different language than the MPC, it must have meant what the MPC meant as a matter of policy because if anyone in NY who read the statute would have had such a big defense, then it would be written into the statute.
+      You do NOT have a mistake defense if you read the law wrong following consultation with a lawyer, a professor, or a prosecutor. The statute says it’s a defense only if it is a statement officially made. A court decision, an AG statement. This is a very narrow exception. If you rely upon an interpretation from a trial court and you rely upon that and you’re arrested but later that law is reversed before you’re prosecuted, you would have a defense that you acted in reliance upon that lower court decision.
+
+      **Lambert v. California | U.S. Supreme Court 1957**
+      Lambert arrested for failing to register as a felon in Los Angeles. She had been in jail for two years. Said she did not know about the felon registration requirement.
+      Issue: Whether the ordinance requiring felons to register violates due process because it creates a strict liability offense.
+      These three elements were required to override the rule that ignorance of law is no defense:
+        1. It was a malum prohibitum offense (only a crime because something prohibited by statute, i.e. jaywalking and running a stoplight); and
+        2. It punished an omission; and
+        3. The duty to act was based on a status that wouldn’t alert an ordinary law-abiding person to the need to register (they didn’t create the duty to act)
+      Holding: The strict liability offense violates due process because it punishes felons for being wholly passive. The US Supreme court held that Los Angeles’s strict liability crime for a felon to fail to register with the police chief violated due process because it criminalized wholly passive conduct and there was no evidence that felons would be aware of that legal requirement.
+      Reasoning: usually, the law comports with due process, but here the strict liability offense did not because the ordinance did not include notification. A reasonable person could not be expected to be on notice of the law.
+      Judgment: reversed.
+      Note: Lambert is a kind of unique case, but this is good to know; this is one instance where ignorance of the law is a defense
+
+      **Hypo C** (221)
+      Court would probably have upheld it because someone who is in a specialized field like a pharmacist would have been expected to know the regulations. It relates to having a duty; even though it’s an omission, it relates to people having a duty.
+
+      **Cheek v. United States 1991** (tax case)
+      Rule: If the government proves defendant had actual knowledge of the legal duty imposed, then the element of knowledge of the willfulness requirement is satisfied. 
+      Statute: Section 7201: Any person “who willfully attempts in any manner to evade or defeat any tax imposed by this title or the payment thereof” shall be guilty of a felony” (Title 26, 7201 of the USC)
+      Holding: The court found that Cheek was reasonable in believing that he did not have to pay taxes. The key is the word “willfully” – the court read the statute and saw that it required “willfully.” The court held that even if unreasonable, an objective belief could negate the mens rea requirement of the willfulness element of the statute. Therefore, the court reversed case because the statute has the word “willfully” that serves a mens rea purpose, needed to find guilt.
+        - Willfulness is the “voluntary, intentional violation of a known legal duty” – so the language in the statute actually requires a knowledge of the law; the court uses a definition of “willfully” from precedent U.S. v. Bishop (p. 224).
+        - It all goes back to the statute; the statute requires the “known legal duty;” knowingly does not have to be reasonably. It requires actual awareness; a “known legal duty;” the expectation that a reasonable person should know the law is not there.
+      Tax laws do not require that it be reasonable; the mens rea of tax laws don’t require reasonableness; they require knowledge of law; this is because tax laws are complex so higher threshold.
+      This is very rare; but the legislature can make a law require knowledge of law in, for example, the cases of tax codes.
+      Marrero was told that his reading of the law was unreasonable. Here we have Cheek who got information from the internet. Cheek does not depend on MPC
+
+      **Mistake of law mens rea example**
+      Jurisdiction A statute: A person is guilty of murder if she/he intentionally kills a human being.
+      Jurisdiction B statute: A person is guilty of murder if she/he intentionally kills a human being and knows that the killing is unlawful.
+
+      **Another example**
+      Suppose we were in a room together, and M told K that because of the defund the police movement professors have the authority to arrest people, so supposingly K arrests everyone.
+      A person who willfully seizes, confines, inveigles, or kidnaps another, with intent to cause him, without authority of law, to be confined or imprisoned … within the stater … against his will … is guilty of kidnapping.
+      Willfully is the key word – Prof D did not willfully (“voluntary, intentional violation of a known legal duty”) violate the law – did not willfully ignore a known legal duty – did not know that he was without authority of law.
+      Prosecution would have said that “without authority of law” is not modified by “willfully.”
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
 # Causation
 
@@ -600,6 +979,10 @@
     **c. Acceleration test** (variation on but-for test)
         i.	Rule: If one person brings about an act sufficient to bring about a prohibited result, and the defendant performs an act that accelerates the prohibited result, the defendant is the actual cause.
             a.	Narrower rule: A nonlethal injury inflicted by the D after a lethal injury inflicted by someone else is a cause in fact of the V’s death if it accelerates the V’s death.
+<<<<<<< HEAD
+=======
+          **(PUT OXENDINE CASE AND RULE HERE!!!)**
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
     **Sometimes use substantial factor test first, before but for test**
         (Velazquez case) Part 1 (when it applies)
@@ -647,6 +1030,7 @@
       - Intended consequences of defendant doctrine (mother wanting to poison someone) (p. 241)
       - Omissions by interventor – note 5 on page 241 (omissions are less likely to break the chain of causation)
 
+<<<<<<< HEAD
     **Oxendine v. State | Supreme Court of Delaware, 1987**
       Convicted of manslaughter in the beating death of his six-year-old son. Girlfriend had pushed Oxendine’s son into bathtub causing microscopic tears in intestines which led to peritonitis (inflammation of the peritoneum [membrane lining the cavity of the abdomen and folded over the viscera]). When Oxendine got home he saw Jeffrey had bruises. Early next morning Oxendine beat Jeffrey. Later that day Jeffrey’s abdomen became swollen. At 5 PM Oxendine got home, and Tyree urged him to take Jeffrey to the hospital. Instead, Oxendine went out and bought a newspaper. When Oxendine returned home, Tyree had got Jeffrey ready to go to the hospital. On the way to the hospital Jeffrey stopped breathing and when they got to the hospital he was dead. (228-9) The jury returned verdicts of manslaughter against Oxendine and Tyree. (230)
       Issue: Whether the trial court committed error by denying Appellant’s motion for a judgment of acquittal on the issue of causation. Appellant argued that the State’s medical testimony was too vague and uncertain to show which of the codefendant’s repeated beatings caused the death. (228)
@@ -672,6 +1056,40 @@
       Woman who flees abusive partner and freezes to death because chooses not to go to father’s house.
       *Voluntary human intervention*
       Page something – if taken to get medical assistance and doctor wants to help but I say no and die, then my free, deliberate and informed human intervention broke the chain of causation, and it’s no longer the D’s fault I died.
+=======
+  **Cases and Hypos**
+
+    **Oxendine v. State | Supreme Court of Delaware, 1987**
+          **Rule:**
+            If a person suffers a lethal injury, and the defendant subsequently inflicts a non-lethal injury that accelerates the death of the person, the defendant is an actual cause.
+          **Facts**
+            Convicted of manslaughter in the beating death of his six-year-old son. Girlfriend had pushed Oxendine’s son into bathtub causing microscopic tears in intestines which led to peritonitis (inflammation of the peritoneum [membrane lining the cavity of the abdomen and folded over the viscera]). When Oxendine got home he saw Jeffrey had bruises. Early next morning Oxendine beat Jeffrey. Later that day Jeffrey’s abdomen became swollen. At 5 PM Oxendine got home, and Tyree urged him to take Jeffrey to the hospital. Instead, Oxendine went out and bought a newspaper. When Oxendine returned home, Tyree had got Jeffrey ready to go to the hospital. On the way to the hospital Jeffrey stopped breathing and when they got to the hospital he was dead. (228-9) The jury returned verdicts of manslaughter against Oxendine and Tyree. (230)
+              Issue: Whether the trial court committed error by denying Appellant’s motion for a judgment of acquittal on the issue of causation. Appellant argued that the State’s medical testimony was too vague and uncertain to show which of the codefendant’s repeated beatings caused the death. (228)
+              “But for” Test: But for the infliction of the second injury, would Jeffrey have died when he did? (231) The doctors are unclear. The case doesn’t pass the “but for” test.
+          **Holding:**
+            “The evidence upon causation was insufficient to sustain … conviction of manslaughter, but … the evidence was sufficient to sustain [Appellant’s] conviction of … assault in the second degree” (228)
+          **Reasoning:**
+            There was acceleration, but Dr. Hoffman’s testimony that there was acceleration was not admitted because State had already closed the case-in-chief. It could not admit the prima facie case of Dr. Hoffman to support acceleration.
+          **Judgment:**
+            Oxendine was convicted of assault in the second degree.
+
+    **People v. Rideout | Court of Appeals of Michigan 2006**
+              Rideout (D) driving SUV. Turns and drives into path of oncoming car driven by Reichelt. Reichelt’s car hits D’s SUV and comes to rest in the middle of the road. SUV came to rest on the side of the road. Reichelt and passenger Jonathan Kaiser not injured. They walk to D’s SUV on the side of the road to check on D. Spoke with D. Walked back to Reichalt’s car. Reichalt said he wanted to turn on the flashers and was standing next to his car when oncoming car driven by Tony Welch hit Keiser and killed him. D tested positive for alcohol. D was charged with operating a motor vehicle while intoxicated (OWI) or while visibly impaired (OWVI) and thereby causing death.
+              Issue: Did Rideout cause Kaiser's death?
+            **Holding:** Court found that there was insufficient evidence to establish proximate cause. Whether intervening cause was responsive or coincidental in this case is arguable at best (238)
+              Trial court improperly instructed jury on causation (court only instructed jury on cause-in-fact, not on proximate cause and superseding cause)
+              Insufficient evidence of causation to prove D’s guilt
+              Factual cause not in dispute; D’s driving was the but-for cause of the second accident
+              Proximate cause harder to establish
+              Victim’s injury must be “a direct and natural result” of D’s actions (236)
+              Intervening cause (was there an intervening cause?)
+              If an intervening cause superseded the D’s act as a legally significant causal factor, then the D’s conduct will not be deemed a proximate cause of the victim’s injury. (236)
+
+            **State v. Presler 1856** (page 238) (also note 7 on page 242)
+              Woman who flees abusive partner and freezes to death because chooses not to go to father’s house.
+              *Voluntary human intervention*
+              Page something – if taken to get medical assistance and doctor wants to help but I say no and die, then my free, deliberate and informed human intervention broke the chain of causation, and it’s no longer the D’s fault I died.
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
     **Velazquez v. State 1990**
       Velazquez met Alvarez at a restaurant in Florida. They decided to have a drag race with their respective cars. They “set up” the race (I understand this means they agreed on the route of the race) together. They raced a quarter mile. Alvarez turned the car around and went back down the public road. Velazquez followed him. They drove back to the starting line at 123 mph, Alvarez in front. At end of road both drivers braked but neither could stop. Alvarez crashed through a guardrail and his car flew over the canal, landing on the far bank. He was thrown from his car, then the car landed on him, and he died instantly. D also drove through guardrail but landed in canal and swam to safety.
@@ -777,6 +1195,7 @@
 
   **III.UNINTENDED KILLINGS:UNLAWFUL CONDUCT(FELONY MURDER: TO BE COVERED)**
 
+<<<<<<< HEAD
 ## Common Law origins
 
   At common law, murder was defined as the unlawful killing of another human being "with malice aforethought."
@@ -868,6 +1287,12 @@
 
     **Sundance hypo** (quiz question 2 put by K on twen)
       The D would argue that knowingly modifies the phrase “deadly weapon” under NYPL. Therefore, he does not satisfy the mens Rea requirements because he did not know that the phone was also a gun.
+=======
+# Intended Killings: Murder
+
+## Common Law Murder
+  "Malice aforethought"
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
 ## Model Penal Code Sections 210.1 - 210.4
 
@@ -1013,6 +1438,7 @@
     NY aggravated homicides – certain individuals are entitled to more protection, so killing a police officer or a peace officer
     NY first-degree murder – this is new York’s death penalty statute – basically second degree intent to kill plus aggravating factor, which can include various categories – killing a child, killing by torture, but we are not going to focus on those but I should glance at them
 
+<<<<<<< HEAD
 ## Intentional Killings: Manslaughter: Heat of Passion
 
   **Common law Heat of Passion (voluntary manslaughter)**
@@ -1140,6 +1566,217 @@
       Compare to NYPL 15.05 which requires gross deviation from standard of care.
       NYPL § 15.05 (4). ““Criminal negligence.” A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.”
       Here, the prosecutor did not have to show that the Ds had knowledge that they were doing anything wrong. MPC struggled with this; negligent homicide is problematic.
+=======
+## Intentional Homicides
+
+  Our casebook organizes around: intentional homicides versus unintentional homicides.
+  We should follow the text book in terms of outlining – because this helps us see if it was an intended death or an accidental death and that will take us in different ways – and then heat of passion which are manslaughters but they are intentional too; same with unintentional; is this a depraved indifference killing, or is this a reckless manslaughter type killing or is this a criminally negligent death.
+
+  **The protected interest: “human being”**
+
+    **People v. Eulo | Court of Appeals of New York, 1984**
+    Issue: Whether causing an injury that later led to death can be considered manslaughter
+    Facts: Eulo and Bonilla similar cases: accused shot V in head; V taken to hospital in unconscious state and placed on respirator; doctors found that V’s brain had irreversibly ceased to function; with consent of next of kin V declared dead; artificial respirator “terminated” (cardiorespiratory machine removed/turned off); organs removed for transplantation.
+    Ordinarily, death is defined as irreversible cardiorespiratory repose. When heartbeat and breathing are maintained by machines life is ambiguous, but accepted medical practice determines that death occurs when brain ceases to function (267).
+    **Rule:**
+    Holding
+    Reasoning: NYPL Section 125 defines homicide in terms of “conduct which causes the death of a person.” In NY, the term “death” is used in many statutes but has never been defined by the legislature. Therefore, the term must be read in accordance with the apparent purpose of the statute in which it is found. (266).
+    Legislative void: NY Legislature could have expressly recognized brain-based criteria for recognizing death (there were bills on the table) but did not.
+    Court holds that recognition of brain-based criteria for death is “not unfaithful” in prior judicial definitions of death. (267).
+    In **NYPL Section 1.05**, the general purposes of penal law include (1) “To proscribe conduct which unjustifiably and inexcusably causes substantial harm to individual or public interests;” Therefore, here, to construe homicide statute to provide for criminal responsibility for homicide when a defendant’s conduct causes injury leading to the victim’s total loss of brain functions, is entirely consistent with the Legislature’s concept of death” (268).
+    In this case, the juries were not instructed as to the appropriate criteria for determining death (268).
+    Court defined criteria of death in relation to the chain of causation. “By specifically charging the juries that they might consider the surgical [transplantational] procedures as superseding cause of death, the courts made clear by ready implication that death should be deemed to have occurred after all medical procedures had ended” (268).
+    Brain-based criteria for determining death are supplemental to traditional criteria: OR, not AND. Death is determined by either criteria. However, medical testimony diagnosing victims as dead before medical intervention is highly relevant in chain of causation, because that testimony is what caused the victims to be removed from cardiorespiratory machines. But if Vs were properly diagnosed as dead, organ removal would not have caused death. If V not dead until heart stopped V not dead when doctors surgically intervened, so surgical intervention was an intervening cause.
+    If deaths were prematurely diagnosed due to a doctor’s negligence, that negligence would not be a superseding cause relieving Ds of liability for death.
+    If deaths were prematurely diagnosed due to a doctor’s gross negligence or intentional wrongdoing, the intervening medical procedure would interrupt the chain of causation and become the legal cause of death.
+    Judgment: each D’s conduct caused the V’s death and the medical procedures were not superseding causes of death. (269)
+
+    **Year-and-a-day-rule** (note 3 p.269); common law; if M shot K in chest and K died more than a year and a day after, then M cannot be convicted of murder. Could be convicted of attempted murder or something else.
+
+    **State v. Guthrie 1995 | Supreme Court of Appeals of West Virginia 1995**
+    Court had defined premeditation very broadly in jury instruction; defense said that there has to be some time for deliberation;
+    Issue: Whether Guthrie committed first degree or second degree murder when he stabbed Farley to death
+    Facts: Guthrie and Farley were dishwashers who generally got along well. They were at work. Guthrie was in a bad mood. Farley poked fun at Guthrie and snapped him with a dishtowel several times. The dishtowel touched Guthrie on the nose (Guthrie was obsessed with his nose – body dysmorphic disorder). Guthrie pulled knife out of pocket and stabbed Farley to death. Guthrie suffered from panic attacks, chronic depression and borderline personality disorder.
+    Procedural history: Guthrie convicted of first degree murder. Appealed, arguing that the terms willful, deliberate and premeditated were equated with a mere intent to kill (271).
+    Jury was instructed that in order to find D guilty of first degree murder it had to find five elements beyond a reasonable doubt, and instructed that murder in the first degree is when someone kills another person
+    - Unlawfully
+    - Willfully
+    - Maliciously
+    - Deliberately
+    - Premeditatedly
+    The trial court had defined these terms for the jury, saying that
+      Premeditated: It is only necessary that the intention to kill be present before the act and need exist only for an instant; (271)
+      Shroder definition (State v. Shroder): Willfull, premeditated and deliberate was essentially “knowing” and “intentional” (272)
+      Distinction between first and second degree murder not drawn;
+      Deliberate: Appellant argues that in State v. Dodds the act must have been deliberated (thought about) and there must be a plan of destruction; (272)
+    Appeals court finds that it cannot abolish the distinction between first and second degree murders because of separation of powers (legislature makes laws, courts interpret). Believes Shroder definition is wrong. Makes some modifications to homicide common law.
+    **Rule:** Any interval of time between the forming of the intent to kill and the execution of that intent, which is of sufficient duration for the accused to be fully conscious of what he intended, is sufficient to support a conviction of first degree murder. (273)
+    Holding: judgment of trial court is reversed, case remanded for a new trial.
+
+    Morrin (note 3) a reasonable person would have time to contemplate what they are doing; to premeditate is to think about beforehand; to deliberate is to measure and evaluate the major facets of a choice or problem … [although the time in not exact,] the interval between initial thought and ultimate actions should be long enough to afford a reasonable [person] time to subject the nature of his response to a “second look” (I think this is footnote 3 to Guthrie)
+
+    **Midgett v. State | Supreme Court of Arkansas 1987**
+    Midgett physically abused his eight-year-old son regularly. One day after beating the child in the stomach, Midgett caused abdominal hemorrhage. Took son to hospital. Child died. Charged with murder in the first degree.
+    Court found that the father did not premeditate killing the child; he intended to keep him alive so he could keep on abusing him.
+    Rule: The crime of first degree murder generally requires the killing to be premeditated and deliberate.
+
+    **State v. Forrest | Supreme Court of North Carolina 1987**
+    Son killed his dying father in hospital by shooting him four times in the head.
+    Premeditation and deliberation must be proved by circumstantial evidence.
+    Factors in State v. Forrest to consider when determining premeditation:
+    - No provocation by deceased;
+    - Conduct and statements by the defendant;
+    - Threats and declarations by the defendant;
+    - Ill-will between the parties;
+    - Lethal blows after the deceased has been rendered helpless;
+    - Brutal manner;
+    - Nature and number of wounds.
+    Court ultimately found that D did premeditate and deliberate. Convicted of murder in the first degree.
+    Dissent: it should have been manslaughter, because the required malice was not present. Killing a loved one to end their suffering should not be murder in the first degree.
+    Note: This case was ruled under the North Carolina murder statute. With the MPC the outcome would have been different because the MPC does not have degrees of murder, and the MPC has the extreme emotional disturbance defense (EED).
+
+    Which murder provisions of the NYPL and MPC requires premeditation and deliberation?
+    NONE
+    NYPL has first degree but does not have the words premeditation and deliberation
+    MPC does not have degrees of murder
+    The old common law did not have these either; it had malice aforethought but not premeditation and deliberation
+
+    Sundance hypo: (quiz question 2 put by K on twen)
+    The D would argue that knowingly modifies the phrase “deadly weapon” under NYPL.  Therefore, he does not satisfy the mens Rea requirements because he did not know that the phone was also a gun.
+
+## Intentional killings: manslaughter: heat of passion
+
+    **Girouard v. State | Court of Appeals of Maryland 1991**
+    Issue: Whether words alone are a provocation adequate to justify a conviction of murder in the second degree.
+    Holding: The provocation of Steven by Joyce was not sufficient to mitigate the second-degree murder charge against Steven to voluntary manslaughter.
+    **Rule:** Words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter. Also, one of the questions this case leaves us with is, what is a reasonable man.
+    Common law: voluntary manslaughter: “an intentional homicide, done in a sudden heat of passion, caused by adequate provocation, before there has been a reasonable opportunity for the passion to cool” (285). Difference between murder and manslaughter is the presence or absence of malice.
+    Facts: Steven and Joyce Girouard married. Argued a lot. Steven got home and heard Joyce on phone telling friend she would leave Steven. Steven went into the bedroom and lay down. Joyce followed him in, stepped onto the bed, pulled his hair and verbally taunted him, saying she wished she had never married him and wanted a divorce. Steven picked up a pillow, went into the kitchen, got a knife, and went back into the bedroom with the knife concealed behind the pillow. Joyce continued to verbally taunt him. Steven stabbed Joyce 19 times. Then he took a shower, tried to kill himself, and called the police to say I murdered my wife. At trial, a psychologist testified that in his opinion Steven had reached the limit of his ability “to bottle up strong emotions.” (284 bottom para).
+    In his appeal, Steven argued that the conviction of second degree murder should be mitigated to manslaughter because there was no malice. He acknowledged that traditionally this mitigation is limited to circumstances of
+    - Extreme assault or battery upon the defendant;
+    - Mutual combat;
+    - Defendant’s illegal arrest;
+    - Injury or serious abuse of a close relative of the defendant; or
+    - The sudden discovery of a spouse’s adultery.
+    Steven argued that the verbal provocation was sufficient, and that categories of provocation to mitigate should be broadened.
+    The court countered by stating that although there is no finite list of legally adequate provocations, under common law, words spoken by the victim, no matter how abusive or taunting, are not sufficient to mitigate murder to manslaughter. The court argued that if words were deemed sufficient to mitigate, “nearly every domestic argument ending in the death of one party could be mitigated to manslaughter” (285).
+
+  **Excuse and justification defenses**
+
+  Justification defenses (approval of actor’s conduct, as in self-defense)
+  Excuse defenses (defendant did wrong act but is not morally blameworthy, as in insanity defense)
+
+  **Common law Heat of Passion (voluntary manslaughter)**
+  Intentional homicide done in a (1) sudden heat of passion caused by (2) adequate provocation, (3) before there has been a reasonable opportunity for the passion to cool; (4) causal connection between provocation and act.
+  (1)Excuse (2) justification (3) justification
+
+  Is heat of passion a partial justification or a partial excuse defense?
+  Why does that matter? Well, imagine a situation where a D is Aaron, and Ben drives up and kills Aaron’s daughter Sue, and Ralph steps in and tries to get past Ralph to kill Ben, and kills Ralph. Should that be an excuse defense or a justification defense? If excuse, not morally blameworthy because very upset. If excuse defense,
+
+  **Who is the reasonable person?**
+
+  The book doesn’t really tell us. Historically in common law, if you’re thinking of the reasonable person are we thinking about an objective sort of blank person, or do we give the reasonable person some of the characteristics of the D?
+
+  Courts generally have said that if a characteristic is related to the provocation, it should be considered in the reasonable person standard. (See note 4 p. 298)
+
+  You have to look at what the characteristics were, and consider
+
+    **Director of Public Prosecutions v. Camplin | House of Lords 1978**
+    Khan, a middle-aged man sodomized Camplin, a 15-year-old boy, in Khan’s home, and then laughed at him. Camplin took a heavy kitchen pan and killed Khan. Camplin was charged with murder. Appealed, arguing that conviction should be reduced to manslaughter.
+    Holding: Court reduced murder to manslaughter.
+    **Rule:** A “reasonable man” is a person having the power of self-control to be expected of an ordinary person of the sex and age of the accused, but in other respects sharing such of the acccused’s characteristics as they think would affect the gravity of the provocation (p. 299)
+
+  MPC and NYPL do it a little differently, but generally juries are less likely to raise issues about sex or age.
+
+## Extreme emotional disturbance
+
+  MPC takes a little different approach from NYPL
+
+    **People v. Cassassa | Court of Appeals of New York, 1980**
+    MPC Sec. 210.3 does not use heat of passion; uses something similar: extreme emotional disturbance. Note that MPC says that extreme emotional disturbance can be a defense to all types of murder, including recklessness.
+    NYPL Secs 125.25; 125.27 – NYPL says only applies to intentional murder, not recklessness.
+    o	NYPL Sec 125.20 (2) mentions EED in the manslaughter statute because it refers back to second degree murder in 125.25 – so EED does not apply to 125.20(1) but it does apply to 125.20(2) because 125.20(2) is second degree murder reduced to manslaughter (125.20(2) and 125.25 EED are basically the same thing)
+    Model Penal Code § 210.3. Manslaughter.
+    (1) Criminal homicide constitutes manslaughter when:
+    (a) it is committed recklessly; or
+    (b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.
+
+  **NYPL § 125.25 Murder in the second degree (1)** “it is an affirmative defense that:(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be.”
+
+  **Common Law:** heat of passion only applied to intentional murders
+
+  **Name of case**
+  Issue: whether D’s state of extreme emotional disturbance when he killed V can be considered a reasonable reaction to a series of events sufficient to mitigate the charge of second degree murder to manslaughter.
+  Holding: Sentence of murder in the second degree was affirmed.
+  **Rule:**
+  Facts: Victoria Le Consolo (Victim) and Victor Cassassa (Defendant) lived in the same building. After dating for 3 or 4 months, Ms. Le Consolo told the D she was not in falling in love with him. D became obsessed with Ms. Le Consolo. On one occasion the D broke into the apartment below Ms. Le Consolo’s to eavesdrop, and on another occasion broke into her apartment and lay in her bed. One evening D went to Ms. Le Consolo’s apartment with bottles of wine and liquor which he wanted to give to Ms. Le Consolo. Ms. Le Consolo refused to accept the wine and liquor. D pulled out a steak knife and stabbed Ms. Le Consolo several times in the throat, then dragged her body to the bathroom and submerged it in water “to make sure she was dead.”
+  Procedural history:
+  At trial, D did not contest the facts, but argued that at the time of the killing he was experiencing extreme emotional disturbance. At trial, D had one witness, a psychiatrist, who testified that Ms. Le Consolo’s rejection of D combined with his “personality attributes” caused him to be under the influence of extreme emotional disturbance at the time of the killing (301).
+  The People had several witnesses including a psychiatrist, who testified that in his opinion D was not under the influence of extreme emotional disturbance for the purposes of mitigation, because the disturbed state was due to internal factors, not external ones.
+  Trial court noted that extreme emotional disturbance could be caused by a series of events but D had the burden of showing that his reaction was reasonable. Trial court found that D’s reaction to events were so personal to him as not to be reasonable and convicted D of murder in the second degree (301).
+  o	Reasoning: On Appeal, D said that trial court erred. D held that he had a mental infirmity that did not rise to the level of insanity, and within that mental state, from his subjective point of view, his reaction to a series of events causing him to kill V was reasonable. NYPL Section 125.25 (1)(a) provides that it is an affirmative defense to the crime of murder in the second degree where “the defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.” (301) The extreme emotional disturbance defense is an outgrowth of the heat of passion defense.
+  In heat of passion defense, response to provocation; a cooling off period completely negates the mitigating effect of the response to provocation.
+  In extreme emotional disturbance defense, it may be that significant mental trauma has affected D’s mind for a substantial period of time. The standard by which the reasonableness of the D’s reaction is tested is entirely subjective (302). Under the MPC, defense of extreme emotional disturbance the D must have
+  •	Acted under the influence of extreme emotional disturbance; and
+  •	There must have been a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant’s situation as the D believed them to be.
+  Test is in part subjective, and in part objective. The intention of the statute is to give the jury the opportunity to weigh facts and exercise mercy. Appeals court finds that trial court had the opportunity to do all of this and found that the D’s conduct was not reasonable even if seen from the D’s subjective viewpoint.
+
+  MPC makes some distinctions from common law; MPC is trying to incorporate more modern understandings of psychology, trying to understand that in certain circumstances words might be enough; if someone came in and said  hey I killed your child, and D loses it; in common law words were not enough, but MPC recognizes that words may be enough, and also says well, as a general matter, it should be a general rule that time makes everything better, but actually this is not a general rule in EED because sometimes time makes things worse; some people might become extremely disturbed in different circumstances;
+
+  In People v. Cassassa court accepted the first prong, that D was sincerely really emotionally disturbed because he had been rejected; but court said that his conduct was not reasonable even if seen from his subjective viewpoint.  
+
+  The word provocation does not appear in NYPL or in MPC. There are no elements of justification; it doesn’t have a provocation requirement. EED is more of an excuse defense than a justification defense.
+
+  MPC commentary note 2 LOOK IT UP HE QUOTED ON SLIDE
+
+  Both MPC and NYPL have EED – what types of murder are mitigated? See above (MPC all and NYPL only intentional)
+
+  ## Unintentional Killings
+
+  The way the book is broken up, we looked at intentional killings, and then unintentional killings because some killings are murders and others are manslaughters; so intentional murder and manslaughter and then unintentional murders and manslaughters
+
+  **People v. Knoller | Supreme Court of California, 2007**
+  Bane, a dog owned by Marjorie Knoller (D); and Robert Noel (co-D) killed Diane Whipple (V) in the hallway of an apartment building in San Francisco. Bane was one of four huge presa canario dogs Ds wanted to breed and sell as guard dogs/attack dogs. D had been warned that dogs had killed sheep. When D had dogs vaccinated vet said dogs weighed around 100 pounds each and had had no training or discipline of any sort; are therefore “a liability in any household.” Over about 8 months there were 30 episodes of dogs being out of control and threatening humans and other dogs. V lived across lobby from Ds. V on way home. In hallway, Bane attacked her. Neighbor called 911. When police arrived V naked and bleeding and dying. Bled to death. 77 discrete injuries covering body from head to toe. Plaster molds from injuries compared with Bane’s teeth showed that Bane had killed V.
+  At trial, D said she did not know dog was dangerous. Said people who had said they were threatened by dogs had been lying. Said she had no idea that Bane would ever do that to anybody.
+  Statute: Under CA Penal Code Section 187 subdivision (a), murder is “the unlawful killing of a human being, or a fetus, with malice aforethought.” Under CAPC Section 188, “Malice may be either express or implied. It is express when there is manifested a deliberate intention to take away the life of a fellow creature. It is implied, when no considerable provocation appears, or when the circumstances attending the killing show an abandoned and malignant heart.”
+  At issue here is the definition of “implied malice.” (317)  Implied malice requires a D’s awareness of the risk of death to another (317).
+  Malice is implied when the killing is proximately caused by “an act, the natural consequences of which are dangerous to life, which act was deliberately performed by a person who knows that his conduct endangers the life of another and who acts with conscious disregard for life” (317)
+
+  By the act of failing to keep Bane in the apartment (omission + duty) D proximately caused the death of the V by deliberately disregarding the danger that the dog  
+
+  Court used People v Thomas test and People v. Philips test. (p. 317). Court prefers Philips – they like both but prefer Philips.
+
+  **People v. Thomas test:**
+  Malice is implied when “the defendant for a base, antisocial motive and with wanton disregard for human like, does an act that involves a high probability that it will result in death.”
+
+  **People v. Philips test:**
+  Malice is implied when the killing is proximately caused by “an act, the natural consequences of which are dangerous to life, which act was deliberately performed by a person who knows that his conduct endangers the life of another and who acts with conscious disregard for life.”
+
+  That D showed no remorse should probably play in sentencing; the defense would argue that it’s not relevant; but people might argue that lack of remorse indicates disregard for life.
+
+  NYPL 125.25(2) says a depraved indifference to human life – second degree murder – similar to malignant and depraved heart in common law. Remember that from our definition of recklessness (see NYPL sec 15.05) have to be aware of the risk and consciously take that risk. Depraved indifference is a step higher because one simply does not care.
+
+    **People v. Suarez (NY)** “depraved indifference is best understood as an utter disregard for the value of human life – a willingness to act not because one intends harm but because one simply doesn’t care whether grievous harm results or not. (note 4 p. 319)
+
+  Manslaughter in the first degree NY 125.20 (1) “with intent to cause” note difference with NY 120.20:   
+
+  NYPL § 125.20 Manslaughter in the first degree
+  A person is guilty of manslaughter in the first degree when:
+  1. With intent to cause serious physical injury to another person, he causes the death of such person or of a third person;
+
+  NYPL § 120.20 Reckless endangerment in the second degree
+  A person is guilty of reckless endangerment in the second degree when he recklessly engages in conduct which creates a substantial risk of serious physical injury to another person.
+  Reckless endangerment in the second degree is a class A misdemeanor.
+
+    **State v. Williams | Court of Appeals of Washington, 1971**
+    Native American people. Didn’t take child to doctor. Court is saying that they should have known how serious the illness was. Convicted of negligently causing the death of the child.
+    Washington court uses definition of negligence RCW 9.48.150 which requires ordinary deviation from reasonable standard of care.
+    Court finds that Ds deviate from what reasonable behavior would be.
+    Compare to NYPL 15.05 which requires gross deviation from standard of care.
+    NYPL § 15.05 (4). ““Criminal negligence.” A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.”
+    Here, the prosecutor did not have to show that the Ds had knowledge that they were doing anything wrong. MPC struggled with this; negligent homicide is problematic.
+
+>>>>>>> 49eba8a9995805104e23f74cde6677a54167cca6
 
 ## Midterm strategies and review
 
