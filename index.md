@@ -1,35 +1,31 @@
 # Introduction/Principles of Punishment
 
-# Proof of Guilt: “Beyond a reasonable doubt”
+## Proof of Guilt: “Beyond a reasonable doubt”
 
 ## Presumption of Innocence
 
-  **Owens v. State 1992**
-    Man sitting in non-moving car in private driveway while intoxicated
-    Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
-    Note: Teaches me about legal sufficiency in enforcing the presumption of innocence
+**Owens v. State 1992** (man sitting in non-moving car in private driveway while intoxicated)
+Rule: If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.
+Note: Teaches me about legal sufficiency in enforcing the presumption of innocence
 
 # Theories of Punishment
 
-  **General**
+**General**
+1. Why (and whether) the social institution of punishment is warranted
+2. What are the necessary conditions for criminal liability and punishment in particular cases
+3. What form and severity of punishment is appropriate for particular offenses and offender (33)
 
-    One fundamental question is why (and whether) the social institution of punishment is warranted. A second question concerns the necessary conditions for criminal liability and punishment in particular cases. A third relates to the form and severity of punishment that is appropriate for particular offenses and offenders. (33)
+**Retributive Justifications**
+- The moral desert of an offender is a sufficient and necessary condition of liability to punitive sanctions
+- Other reasons for punishment (such as crime prevention reasons) must be added to moral desert
+- We have a moral duty to punish offenders
+- The offender should be punished not more nor less than they deserve (punishment should fit the crime; an eye for an eye)  
 
-    Since punishment involves pain and deprivation that people wish to avoid, its intentional imposition by the state requires justification. (33)
-
-  **Retributive Justifications**
-
-    - The moral desert of an offender is a sufficient and necessary condition of liability to punitive sanctions
-    - Other reasons for punishment (such as crime prevention reasons) must be added to moral desert
-    - We have a moral duty to punish offenders
-    - The offender should be punished not more nor less than they deserve (punishment should fit the crime; an eye for an eye)  
-
-  **Utilitarian justifications**
-
-    - General deterrence
-    - Individual deterrence
-    - Incapacitation and other forms of risk management
-    - Reform
+**Utilitarian justifications**
+- General deterrence
+- Individual deterrence
+- Incapacitation and other forms of risk management
+- Reform
 
 # Principles of Legality
 
