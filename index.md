@@ -71,7 +71,7 @@
 
 **Overbroad**
 
-**Keeler v. Superior Court 1970** (struck pregnant ex-wife in belly intending to kill fetus, charged with murder)
+**Keeler v. Superior Court (1970)** (struck pregnant ex-wife in belly intending to kill fetus, charged with murder)
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> It is not for the court to define murder. Once legislature defined murder the court can interpret it</p>
 
@@ -85,13 +85,13 @@
 
 Courts must interpret ambiguous statutory terms according to legislative intent. In doing so, courts may consider the ordinary definition of the term, any special definitions, definitions at the time of writing the statute, the purpose of the statute, and the legislative history.
 
-**Garnett v. State | Court of Appeals of Maryland 1993** (20-year old D with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape) *legislative intent not to include mens rea*
+**Garnett v. State (1993)** (20-year old D with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape) *legislative intent not to include mens rea*
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute. (Mens rea modifying terms: look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at MPC 2.02 (4) “Prescribed Culpability Requirement applies to all Material Elements” [unless the Court can divine a contrary purpose from the legislature]). </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute. (Mens rea modifying terms: look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at <b>MPC 2.02 (4)</b> “Prescribed Culpability Requirement applies to all Material Elements” [unless the Court can divine a contrary purpose from the legislature]). </p>
 
 ## Lenity doctrine
 
