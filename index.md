@@ -275,28 +275,28 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 1. Minimum Requirements of Culpability. Except as provided in Section 2.05, a person is not guilty of an offense unless he acted purposely, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.
 2. Kinds of Culpability Defined.
 
-<p style="margin-left:10%; margin-right:10%;">(a) Purposely.</p>
+<p style="margin-left:10%; margin-right:10%;">(a) <b>Purposely.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts purposely with respect to a material element of an offense when:</p>
 <p style="margin-left:20%; margin-right:10%;">(i) if the element involves the nature of his conduct or a result thereof, it is his conscious object to engage in conduct of that nature or to cause such a result; and</p>
 <p style="margin-left:20%; margin-right:10%;">(ii) if the element involves the attendant circumstances, he is aware of the existence of such circumstances or he believes or hopes that they exist.</p>
-<p style="margin-left:10%; margin-right:10%;">(b) Knowingly.</p>
+<p style="margin-left:10%; margin-right:10%;">(b) <b>Knowingly.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts knowingly with respect to a material element of an offense when:</p>
 <p style="margin-left:20%; margin-right:20%;">(i) if the element involves the nature of his conduct or the attendant circumstances, he is aware that his conduct is of that nature or that such circumstances exist; and</p>
 <p style="margin-left:20%; margin-right:20%;">(ii) if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result.</p>
-<p style="margin-left:10%; margin-right:10%;">(c) Recklessly.</p>
+<p style="margin-left:10%; margin-right:10%;">(c) <b>Recklessly.</b></p>
 <p style="margin-left:10%; margin-right:20%;">A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.</p>
-<p style="margin-left:10%; margin-right:10%;">(d) Negligently.</p>
+<p style="margin-left:10%; margin-right:10%;">(d) <b>Negligently.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
 
 **American Law Institute comment to MPC section 2.02** (169-70)
 [Section 2.02] expresses the Code’s basic requirement that unless some element of mental culpability is proved with respect to each material element of the offense, no valid criminal conviction may be obtained.  
 
-<p style="margin-left:10%; margin-right:10%;">Purpose and knowledge: narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results.</p>
-<p style="margin-left:10%; margin-right:10%;">Recklessness: conscious risk creation. Recklessness resembles knowledge in that there is awareness, but the awareness is of risk. The risk must be substantial and unjustifiable. To warrant a finding of culpability, “the jury [must] be asked to measure the substantiality and unjustifiability of the risk by asking whether its disregard, given the actor’s perceptions, involved a gross deviation from the standard of conduct that a law-abiding person in the actor’s situation would observe” (p. 171).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Purpose and knowledge:</b> narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Recklessness:</b> conscious risk creation. Recklessness resembles knowledge in that there is awareness, but the awareness is of risk. The risk must be substantial and unjustifiable. To warrant a finding of culpability, “the jury [must] be asked to measure the substantiality and unjustifiability of the risk by asking whether its disregard, given the actor’s perceptions, involved a gross deviation from the standard of conduct that a law-abiding person in the actor’s situation would observe” (p. 171).</p>
 <p style="margin-left:20%; margin-right:10%;">The jury must do two things:</p>
 <p style="margin-left:30%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk;</p>
 <p style="margin-left:30%; margin-right:10%;">2. Make the culpability judgement in terms of whether the defendant’s conscious disregard of the risk justifies condemnation.</p>
-<p style="margin-left:10%; margin-right:10%;">Negligence: different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Negligence:</b> different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
 <p style="margin-left:20%; margin-right:10%;">The jury must do two things:</p>
 <p style="margin-left:30%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk in terms not of actor’s perception but of an objective view of the situation as it actually existed; and</p>
 <p style="margin-left:30%; margin-right:10%;">2. Make the culpability judgement in terms of whether the failure of the defendant to perceive the risk justifies condemnation (p. 172).</p>
@@ -305,17 +305,17 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 ## New York Penal Law Mens Rea
 
 **NYPL Section 15.05: Culpability; definitions of culpable mental states**
-      The following definitions are applicable to this chapter:
-      (1) Intentionally
-        A person acts intentionally with respect to a result or to conduct described by a statute defining an offense when his conscious objective is to cause such result or to engage in such conduct.
-      (2) Knowingly
-        A person acts knowingly with respect to conduct or to a circumstance described by a statute defining an offense when he is aware that his conduct is of such nature or that such circumstances exist
-      (3) Recklessly
-        A person acts recklessly with respect to a result or to a circumstance described by a statute defining an offense when he is aware of and consciously disregards a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that disregard thereof constitutes a gross deviation from the standard of conduct that a reasonable person would observe in the situation.  A person who creates such a risk but is unaware thereof solely by reason of voluntary intoxication also acts recklessly with respect thereto.
-      (4) Criminal Negligence
-        A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.
+The following definitions are applicable to this chapter:
+<p style="margin-left:10%; margin-right:10%;">(1) <b>Intentionally</b></p>
+<p style="margin-left:20%; margin-right:10%;">A person acts intentionally with respect to a result or to conduct described by a statute defining an offense when his conscious objective is to cause such result or to engage in such conduct.</p>
+<p style="margin-left:10%; margin-right:10%;">(2) <b>Knowingly</b></p>
+<p style="margin-left:20%; margin-right:10%;">A person acts knowingly with respect to conduct or to a circumstance described by a statute defining an offense when he is aware that his conduct is of such nature or that such circumstances exist.</p>
+<p style="margin-left:10%; margin-right:10%;">(3) <b>Recklessly</b></p>
+<p style="margin-left:20%; margin-right:10%;">A person acts recklessly with respect to a result or to a circumstance described by a statute defining an offense when he is aware of and consciously disregards a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that disregard thereof constitutes a gross deviation from the standard of conduct that a reasonable person would observe in the situation.  A person who creates such a risk but is unaware thereof solely by reason of voluntary intoxication also acts recklessly with respect thereto.</p>
+<p style="margin-left:10%; margin-right:10%;">(4) <b>Criminal Negligence</b></p>
+<p style="margin-left:20%; margin-right:10%;">A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.</p>
 
-  **State v. Nations | Missouri Court of Appeals, 1984**
+**State v. Nations | Missouri Court of Appeals, 1984**
         Sandra Nations says she was unaware of the age of the sixteen-year-old girl who was dancing at the adult dance club she owned and ran. The court is arguing that the appellant should have known that the girl was less than seventeen. State filed claim against Sandra Nations. State won. Nations appealed.
         Statute: Section 568. 050 of the Revised Statutes of Missouri of 1978 states that “a person commits the crime of endangering the welfare of a child if … he knowingly encourages, aids or causes a child less than seventeen years old to come within a place where “the behavior, environment or associations of the child are injurious to his welfare or the welfare of others”) (173-4).
         Missouri Criminal Code’s definition of “knowingly” is that “a person ‘acts knowingly’ or with knowledge when “with respect … to attendant circumstances when he is aware … that those circumstances exist.”
