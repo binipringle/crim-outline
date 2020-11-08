@@ -234,7 +234,7 @@ David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer st
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> In New York, Barry would not satisfy the second element (voluntary act/omission plus legal duty)of actus reus</p>
 
-## Justifications for the common law approach to punishing people for omissions (pp. 146-7)
+**Justifications for the common law approach to punishing people for omissions (pp. 146-7)**
 - Punishing people for omission increases the risk of convicting morally innocent persons
 - Difficult line-drawing questions arise: for example, if a person is dying of a knife wound in a city street and 100 people walk by, who should be punished for omission?
 - Bystander effect: everyone thinks someone else is going to help
@@ -250,7 +250,7 @@ David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer st
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Yes, I'm responsible because it’s a voluntary act, so the Voluntary act element of actus reus is satisfied. This doesn’t mean that there is a crime. Was I reckless? Was I knowing that they would die? There is an argument that you did a voluntary act that resulted in their death so there is an argument to make that you caused the person’s death.</p>
 
-## Distinguishing Acts from omissions**
+**Distinguishing Acts from omissions**
 
 **Barber v. Superior Court (1983)** (man suffered cardio-respiratory arrest during surgery resulting in severe brain damage; doctors withdrew life support)
 
