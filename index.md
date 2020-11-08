@@ -246,9 +246,9 @@ David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer st
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> No, because ...</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b> What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it?</p>
+<p style="margin-left:10%; margin-right:10%;"> What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it?</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Yes, I'm responsible because it’s a voluntary act, so the Voluntary act element of actus reus is satisfied. This doesn’t mean that there is a crime. Was I reckless? Was I knowing that they would die? There is an argument that you did a voluntary act that resulted in their death so there is an argument to make that you caused the person’s death.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Yes, I'm responsible because it’s a voluntary act, so the Voluntary act element of actus reus is satisfied. This doesn’t mean that there is a crime. Was I reckless? Was I knowing that they would die? There is an argument that you did a voluntary act that resulted in their death so there is an argument that you caused the person’s death.</p>
 
 **Distinguishing Acts from omissions**
 
