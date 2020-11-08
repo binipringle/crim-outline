@@ -152,10 +152,11 @@ Omission + Duty steps of analysis
 **MPC Section 2.01 (1)** Requirement of Voluntary Act
 1. A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable.
 2. The following are not voluntary acts within the meaning of this Section:
-- (a) a reflex or convulsion;
-- (b) a bodily movement during unconsciousness or sleep;
-- (c) conduct during hypnosis or resulting from hypnotic suggestion;
-- (d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.
+
+<p style="margin-left:10%; margin-right:10%;">(a) a reflex or convulsion;</p>
+<p style="margin-left:10%; margin-right:10%;">(b) a bodily movement during unconsciousness or sleep;</p>
+<p style="margin-left:10%; margin-right:10%;">(c) conduct during hypnosis or resulting from hypnotic suggestion;</p>
+<p style="margin-left:10%; margin-right:10%;">(d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.</p>
 
 Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor Kirchmeier in the face” and you punched him, this would still be a voluntary act.
 
@@ -163,7 +164,7 @@ Coercion does not make something involuntary. If somebody says, “I’m going t
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Voluntary appearance in a public place is required to convict a person of intoxication in a public place. </p>
 
-**People v. Decina | Court of Appeals of New York, 1956** (Decina voluntarily got in the car but did not voluntarily have a seizure)
+**People v. Decina (NY) (1956)** (Decina voluntarily got in the car but did not voluntarily have a seizure)
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The definition of voluntary does not have any knowledge requirement. </p>
 
@@ -202,20 +203,22 @@ Law/statute imposes duty when:
 
 <p style="margin-left:10%; margin-right:10%;">(b) a duty to perform the omitted act is otherwise imposed by law.</p>
 
-        **People v. Beardsley (1907)**
-          Married bartender went on drinking binge with Blanche Burns, who took morphine tablets and died
-          Rule: In order to punish a person for an omission, the person must owe a legal duty to the victim, not just a moral duty.
-          - The duty may be imposed by law or contract.
-          - A person may have a duty from a domestic relationship, public duty, voluntary choice.
-          Holding: The Michigan Supreme court set the conviction aside and discharged Beardsley.
-          Why didn’t we punish Beardsley for omission + duty? Slippery slope. The fact that Burns was in Beardsley’s house does not create a legal duty such as exists between man and wife (144). As a general principal there are some exceptions, but generally we don’t punish people for omissions.
+**People v. Beardsley (1907)** (married bartender went on drinking binge with Blanche Burns, who took morphine tablets and died)
 
-        **Pope v. State (1979)** (p. 145)
-          Three-month-old Demiko Lee Norris died as a result of physical injuries inflicted by his mother Melissa Vera Norris at the house of Pope and witnessed by Pope.
-          No status relationship; no duty to act.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> In order to punish a person for an omission, the person must owe a legal duty to the victim, not just a moral duty.</p>
 
-        **Hypo** (p. 146)
-          David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard.
+<p style="margin-left:20%; margin-right:10%;">The duty may be imposed by law or contract.</p>
+<p style="margin-left:20%; margin-right:10%;">A person may have a duty from a domestic relationship, public duty, voluntary choice.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Judgment:</b> The Michigan Supreme court set the conviction aside and discharged Beardsley. (The fact that Burns was in Beardsley’s house does not create a legal duty such as exists between man and wife [p.144])</p>
+
+**Pope v. State (1979)** (three-month-old Demiko Lee Norris died as a result of physical injuries inflicted by his mother Melissa Vera Norris at the house of Pope and witnessed by Pope)
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If there is no status relationship there is no duty to act to protect an infant or child unless there is (1) assumed contractual duty of care, (2) voluntarily assumed duty of care, or (3) the risk of harm to another created by the defendant.</p>
+
+**Hypo** (p. 146)
+
+David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard.
 
         **Hypo**
           Where one creates a risk of harm to another: if I burned down my house I would have a duty to rescue people
