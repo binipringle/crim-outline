@@ -306,6 +306,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 
 **NYPL Section 15.05: Culpability; definitions of culpable mental states**
 The following definitions are applicable to this chapter:
+
 <p style="margin-left:10%; margin-right:10%;">(1) <b>Intentionally</b></p>
 <p style="margin-left:20%; margin-right:10%;">A person acts intentionally with respect to a result or to conduct described by a statute defining an offense when his conscious objective is to cause such result or to engage in such conduct.</p>
 <p style="margin-left:10%; margin-right:10%;">(2) <b>Knowingly</b></p>
