@@ -97,7 +97,7 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 If a statute is vague or overbroad or if it can be interpreted equally to favor both parties (defendant and prosecution), it should be read and interpreted in the light most favorable to defendant.
 
-“Criminal statutes must be strictly construed” (page 106 of Banks) (also, page 97 of Keeler (“human being” case)). The reasoning is that the government wrote the statute, it had the opportunity to write it clearly, but did not, so it is on the government to be clear. The lenity doctrine is really a tie breaker; usually the court finds a way to interpret the statute without the lenity doctrine. Banks and Keeler mention the lenity doctrine, but it doesn’t carry much weight in those cases. It doesn’t necessarily mean that the defendant wins. It just puts a little more weight on the side of the defendant.
+“Criminal statutes must be strictly construed” (page 106 of Banks) (also, page 97 of Keeler (“human being” case)). Banks and Keeler mention the lenity doctrine, but it doesn’t carry much weight in those cases. It doesn’t necessarily mean that the defendant wins. It just puts a little more weight on the side of the defendant.
 
 **NYPL Section 5.00 is the NON-INCLUSION of the lenity doctrine!**  
 NYPL § 5.00 Penal law not strictly construed. "The general rule that a penal statute is to be strictly construed does not apply to this chapter, but the provisions herein must be construed according to the fair import of their terms to promote justice and effect the objects of the law.""
@@ -220,92 +220,91 @@ Law/statute imposes duty when:
 
 David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard.
 
-        **Hypo**
-          Where one creates a risk of harm to another: if I burned down my house I would have a duty to rescue people
+**Hypo**
 
-        **Hypo**
-          Professor Kirchmeier drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.
+<p style="margin-left:10%; margin-right:10%;">Where one creates a risk of harm to another: if I burned down my house I would have a duty to rescue people</p>
 
-        **Hypo**
-          Barry was walking on the Coney Island boardwalk around 8 pm. No lifeguards were on duty. Suddenly, he heard frantic splashing and yelling. To his horror, a swimmer seemed to be floundering badly about 100 yards out in the water. A crowd of stricken onlookers were beginning to approach, several grumbling about having no cellphone service this far out on the beach. Seeing that he had full cell service, Barry loudly announced to the crowd, “Don’t worry, everyone, I’m calling 911 right now!” But before he could place the call, he was hit with an unstoppable craving for a hot dog. Barry left the scene, went to Nathan’s, and ordered a chili dog. While he was waiting for his food, the swimmer in the ocean drowned. In New York, would Barry satisfy the second element (voluntary act/omission plus legal duty)of actus reus?
+**Hypo**
 
-    **Justifications for the common law approach to punishing people for omissions** (pp. 146-7)
-      - Punishing people for omission increases the risk of convicting morally innocent persons
-      - Difficult line-drawing questions arise: for example, if a person is dying of a knife wound in a city street and 100 people walk by, who should be punished for omission?
-      - Bystander effect: everyone thinks someone else is going to help
-      - Issue of freedom: A penal law that prohibits an individual from X (i.e. killing another person) permits that individual to do anything other than X. In contrast, a law that requires a person to do Y (e.g. help a bystander) bars that person from doing anything other than Y. (I don’t understand this).
+<p style="margin-left:10%; margin-right:10%;">Professor Kirchmeier drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.</p>
 
-      **Kitty Genovese case**
-        Young woman coming home late at night, attacked, neighbors yelled, walked away,
+**Hypo**
 
-      **Hypo** (see slide)
-        I hear someone in hallway shouting help vicious dog and I don’t want to get up and stop watching TV. Am I legally responsible? No, because ...
-        What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it? Yes, I’m responsible because it’s a voluntary act. Element of voluntary act. Voluntary act element of actus reus is satisfied. This doesn’t mean that there is a crime. Was I reckless? Was I knowing that they would die? There is an argument that you did a voluntary act that resulted in their death so there is an argument to make that you caused the person’s death. This takes us to causation.
+<p style="margin-left:10%; margin-right:10%;">Barry was walking on the Coney Island boardwalk around 8 pm. No lifeguards were on duty. Suddenly, he heard frantic splashing and yelling. To his horror, a swimmer seemed to be floundering badly about 100 yards out in the water. A crowd of stricken onlookers were beginning to approach, several grumbling about having no cellphone service this far out on the beach. Seeing that he had full cell service, Barry loudly announced to the crowd, “Don’t worry, everyone, I’m calling 911 right now!” But before he could place the call, he was hit with an unstoppable craving for a hot dog. Barry left the scene, went to Nathan’s, and ordered a chili dog. While he was waiting for his food, the swimmer in the ocean drowned.</p>
 
-    **Distinguishing Acts from omissions**
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> In New York, Barry would not satisfy the second element (voluntary act/omission plus legal duty)of actus reus</p>
 
-      **Barber v. Superior Court (1983)**
-        Man suffered cardio-respiratory arrest during surgery, suffered severe brain damage. Doctors withdrew life support. Was withholding life support an omission or an act? If an omission, what duties does the physician owe a patient in a comatose state from which meaningful recovery of brain function is unlikely?
-        Rule: There is no criminal liability for failure to act unless there is a legal duty to act.
+## Justifications for the common law approach to punishing people for omissions (pp. 146-7)
+- Punishing people for omission increases the risk of convicting morally innocent persons
+- Difficult line-drawing questions arise: for example, if a person is dying of a knife wound in a city street and 100 people walk by, who should be punished for omission?
+- Bystander effect: everyone thinks someone else is going to help
+- Issue of freedom: A penal law that prohibits an individual from X (i.e. killing another person) permits that individual to do anything other than X. In contrast, a law that requires a person to do Y (e.g. help a bystander) bars that person from doing anything other than Y. (I don’t understand this).
 
-        Statutory actus reus terms (for example, Sawyer couldn’t be convicted of attempted murder) are sometimes called “social harm defined by the statute.” Don’t use “social harm” because Prof K says it’s antiquated.
+**Kitty Genovese case** (young woman coming home late at night, attacked, neighbors yelled, walked away)
+
+**Hypo** (see slide) (someone in hallway shouting help vicious dog and I don’t want to get up and stop watching TV. Am I legally responsible?)
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> No, because ...</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b> What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it?</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Yes, I'm responsible because it’s a voluntary act, so the Voluntary act element of actus reus is satisfied. This doesn’t mean that there is a crime. Was I reckless? Was I knowing that they would die? There is an argument that you did a voluntary act that resulted in their death so there is an argument to make that you caused the person’s death.</p>
+
+## Distinguishing Acts from omissions**
+
+**Barber v. Superior Court (1983)** (man suffered cardio-respiratory arrest during surgery resulting in severe brain damage; doctors withdrew life support)
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> There is no criminal liability for failure to act unless there is a legal duty to act.</p>
 
 # Mens Rea
 
-  **“Culpability” meaning of mens rea**
-    A defendant is guilty of a crime if she commits the social harm of the offense with any morally blameworthy state of mind; … not significant whether she cause the social harm intentionally or … with some other blameworthy intent (e.g. recklessly) (158). (I'm not sure if this "culpability" meaning of mens rea is only in common law)
+**“Culpability” meaning of mens rea**
+A defendant is guilty of a crime if she commits the social harm of the offense with any morally blameworthy state of mind; … not significant whether she cause the social harm intentionally or … with some other blameworthy intent (e.g. recklessly) (158). *(I'm not sure if this "culpability" meaning of mens rea is only in common law)*
 
-  **“Elemental” meaning of mens rea**
-    Refers to the mental state the defendant must have had with regard to the “social harm” elements set out in the definition of the offense. Using this meaning, a defendant is not guilty of an offense, even if she has a culpable frame of mind, if she lacks any mental state specified in the definition of the crime (158).
+**“Elemental” meaning of mens rea**
+Refers to the mental state the defendant must have had with regard to the “social harm” elements set out in the definition of the offense. Using this meaning, a defendant is not guilty of an offense, even if she has a culpable frame of mind, if she lacks any mental state specified in the definition of the crime (158).
 
 ## Common Law Mens Rea
 
-    The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose; a criminal intent,” is shorthand for a broad network of concepts encompassing much of the relationship between the individual and the criminal law. English common law; Roman law; “moral blameworthiness.” (“Once the ‘exceedingly vague’ concept of moral blameworthiness was recognized the law embarked upon the long journey of refinement and development of culpability distinctions that continues to this day.” (U.S. v. Cordoba-Hincapie | U.S. District Court, New York 1993) (158))
+The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose; a criminal intent,” is shorthand for a broad network of concepts encompassing much of the relationship between the individual and the criminal law. English common law; Roman law; “moral blameworthiness.” (“Once the ‘exceedingly vague’ concept of moral blameworthiness was recognized the law embarked upon the long journey of refinement and development of culpability distinctions that continues to this day.” (U.S. v. Cordoba-Hincapie, U.S. District Court, New York 1993 [p.158])
 
 ## Model Penal Code Mens Rea
 
-  **Model Penal Code Section 2.02 General Requirements of Culpability**
-    (1) Minimum Requirements of Culpability. Except as provided in Section 2.05, a person is not guilty of an offense unless he acted purposely, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.
-    (2) Kinds of Culpability Defined.
-      (a) Purposely.
-        A person acts purposely with respect to a material element of an offense when:
-          (i) if the element involves the nature of his conduct or a result thereof, it is his conscious object to engage in conduct of that nature or to cause such a result; and
-          (ii) if the element involves the attendant circumstances, he is aware of the existence of such circumstances or he believes or hopes that they exist.
-      (b) Knowingly.
-        A person acts knowingly with respect to a material element of an offense when:
-          (i) if the element involves the nature of his conduct or the attendant circumstances, he is aware that his conduct is of that nature or that such circumstances exist; and
-          (ii) if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result.
-      (c) Recklessly.
-        A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.
-      (d) Negligently.
-        A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.
+**Model Penal Code Section 2.02 General Requirements of Culpability**
 
-  **American Law Institute comment to MPC section 2.02** (169-70)
-      [Section 2.02] expresses the Code’s basic requirement that unless some element of mental culpability is proved with respect to each material element of the offense, no valid criminal conviction may be obtained.
-      Four levels of culpability:
-        - Purpose
-        - Knowledge
-        - Recklessness
-        - Negligence
-      One of these levels must be proved with respect to each “material element” of the offense, which may involve
-        - The nature of the forbidden conduct
-        - The attendant circumstances
-        - The result of the conduct    
-        Purpose and knowledge: narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results
-        Recklessness: conscious risk creation. Recklessness resembles knowledge in that there is awareness, but the awareness is of risk. The risk must be substantial and unjustifiable. To warrant a finding of culpability, “the jury [must] be asked to measure the substantiality and unjustifiability of the risk by asking whether its disregard, given the actor’s perceptions, involved a gross deviation from the standard of conduct that a law-abiding person in the actor’s situation would observe” (171).
-          The jury must do two things:
-            1. Examine risk, factors relevant to risk, and justifications for taking risk;
-            1. Make the culpability judgement in terms of whether the defendant’s conscious disregard of the risk justifies condemnation.
-        Negligence: different in that negligence does not require awareness.
-        When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (171).
-          The jury must do two things:
-            1. Examine risk, factors relevant to risk, and justifications for taking risk in terms not of actor’s perception but of an objective view of the situation as it actually existed; and
-            2. Make the culpability judgement in terms of whether the failure of the defendant to perceive the risk justifies condemnation (172).
-        Offense Silent as to Culpability: unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (172).
+1. Minimum Requirements of Culpability. Except as provided in Section 2.05, a person is not guilty of an offense unless he acted purposely, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.
+2. Kinds of Culpability Defined.
+
+<p style="margin-left:10%; margin-right:10%;">(a) Purposely.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts purposely with respect to a material element of an offense when:</p>
+<p style="margin-left:20%; margin-right:10%;">(i) if the element involves the nature of his conduct or a result thereof, it is his conscious object to engage in conduct of that nature or to cause such a result; and</p>
+<p style="margin-left:20%; margin-right:10%;">(ii) if the element involves the attendant circumstances, he is aware of the existence of such circumstances or he believes or hopes that they exist.</p>
+<p style="margin-left:10%; margin-right:10%;">(b) Knowingly.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts knowingly with respect to a material element of an offense when:</p>
+<p style="margin-left:20%; margin-right:20%;">(i) if the element involves the nature of his conduct or the attendant circumstances, he is aware that his conduct is of that nature or that such circumstances exist; and</p>
+<p style="margin-left:20%; margin-right:20%;">(ii) if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result.</p>
+<p style="margin-left:10%; margin-right:10%;">(c) Recklessly.</p>
+<p style="margin-left:10%; margin-right:20%;">A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.</p>
+<p style="margin-left:10%; margin-right:10%;">(d) Negligently.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
+
+**American Law Institute comment to MPC section 2.02** (169-70)
+[Section 2.02] expresses the Code’s basic requirement that unless some element of mental culpability is proved with respect to each material element of the offense, no valid criminal conviction may be obtained.  
+
+<p style="margin-left:10%; margin-right:10%;">Purpose and knowledge: narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results.</p>
+<p style="margin-left:10%; margin-right:10%;">Recklessness: conscious risk creation. Recklessness resembles knowledge in that there is awareness, but the awareness is of risk. The risk must be substantial and unjustifiable. To warrant a finding of culpability, “the jury [must] be asked to measure the substantiality and unjustifiability of the risk by asking whether its disregard, given the actor’s perceptions, involved a gross deviation from the standard of conduct that a law-abiding person in the actor’s situation would observe” (p. 171).</p>
+<p style="margin-left:20%; margin-right:10%;">The jury must do two things:</p>
+<p style="margin-left:30%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk;</p>
+<p style="margin-left:30%; margin-right:10%;">2. Make the culpability judgement in terms of whether the defendant’s conscious disregard of the risk justifies condemnation.</p>
+<p style="margin-left:10%; margin-right:10%;">Negligence: different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
+<p style="margin-left:20%; margin-right:10%;">The jury must do two things:</p>
+<p style="margin-left:30%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk in terms not of actor’s perception but of an objective view of the situation as it actually existed; and</p>
+<p style="margin-left:30%; margin-right:10%;">2. Make the culpability judgement in terms of whether the failure of the defendant to perceive the risk justifies condemnation (p. 172).</p>
+<p style="margin-left:20%; margin-right:10%;">Offense Silent as to Culpability: unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
 
 ## New York Penal Law Mens Rea
 
-  **NYPL Section 15.05: Culpability; definitions of culpable mental states**
+**NYPL Section 15.05: Culpability; definitions of culpable mental states**
       The following definitions are applicable to this chapter:
       (1) Intentionally
         A person acts intentionally with respect to a result or to conduct described by a statute defining an offense when his conscious objective is to cause such result or to engage in such conduct.
