@@ -194,11 +194,12 @@ Law/statute imposes duty when:
 - Person creates risk of harm to another
 
 **MPC Section 2.01 (3)** Omission as Basis of Liability
-3. Liability for the commission of an offense may not be based on an omission unaccompanied by action unless:
 
-<p style="margin-left:7%; margin-right:10%;">(a) the omission is expressly made sufficient by the law defining the offense; or</p>
+Liability for the commission of an offense may not be based on an omission unaccompanied by action unless:
 
-<p style="margin-left:7%; margin-right:10%;">(b) a duty to perform the omitted act is otherwise imposed by law.</p>
+<p style="margin-left:4%; margin-right:10%;">(a) the omission is expressly made sufficient by the law defining the offense; or</p>
+
+<p style="margin-left:4%; margin-right:10%;">(b) a duty to perform the omitted act is otherwise imposed by law.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Beardsley (1907)</b> (married bartender went on drinking binge with Blanche Burns, who took morphine tablets and died)</p>
 
