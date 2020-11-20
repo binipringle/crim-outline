@@ -6,7 +6,7 @@
 
 <p style="margin-left:7%; margin-right:10%;"><b>Owens v. State (1992)</b> (man sitting in non-moving car in private driveway while intoxicated)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.</p>
 
 # Theories of Punishment
 
@@ -33,9 +33,9 @@
 
 <b>Commonwealth v. Mochan (1955)</b> (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) <i>Also falls under violation of due process because vague</i></p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> The court cannot create a crime; only the legislature can create a crime.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The court cannot create a crime; only the legislature can create a crime.</p>
 
-<p style="margin-left:14%; margin-right:10%;">No punishment without law: <b>NYPL § 5.05 (3)</b> “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”</p>
+<p style="margin-left:10%; margin-right:10%;">No punishment without law: <b>NYPL § 5.05 (3)</b> “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”</p>
 
 ## Due process
 
@@ -50,13 +50,13 @@
 
 <p style="margin-left:7%; margin-right:10%;"><b>Commonwealth v. Mochan (1955)</b> (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) <i>Also falls under legality and previously defined conduct</i></p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Holding:</b> Violation of due process because vague (there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The court cannot create a crime; only the legislature can create a crime).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Violation of due process because vague (there was no specific statute or law; the state is arguing that “Christianity is a part of the common law” and that if an act “scandalously affects the morals or health of the community,” then it can be indicted at common law (92). The dissent says that the legislature writes the law and the court enforces it. The court cannot create a crime; only the legislature can create a crime).</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>In Re Banks (1978)</b> (Peeping Tom)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> If a statute is too vague or indefinite or too broad, it violates due process.</p>
-<p style="margin-left:14%; margin-right:10%;"><b>Holding:</b> The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.</p>
-<p style="margin-left:14%; margin-right:10%;"><b>Reasoning:</b>Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a statute is too vague or indefinite or too broad, it violates due process.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:</p>
 
 1. Interpret statute (Does statute violate due process?)
 2. Is statute too vague or not definite enough or overbroad?
@@ -64,17 +64,17 @@
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:14%; margin-right:10%;"> Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.</p>
+<p style="margin-left:10%; margin-right:10%;"> Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.</p>
 
 **Overbroad**
 
 <p style="margin-left:7%; margin-right:10%;"><b>Keeler v. Superior Court (1970)</b> (struck pregnant ex-wife in belly intending to kill fetus, charged with murder)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> It is not for the court to define murder. Once legislature defined murder the court can interpret it</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> It is not for the court to define murder. Once legislature defined murder the court can interpret it</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Holding:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Dissent argues</b> definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i></p>
+<p style="margin-left:10%; margin-right:10%;"><b>Dissent argues</b> definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i></p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>In Re Banks</b> (Peeping Tom law not overbroad)</p>
 
@@ -84,11 +84,11 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Garnett v. State (1993)</b> (20-year old D with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape) <i>legislative intent not to include mens rea</i></p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute. (Mens rea modifying terms: look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at <b>MPC 2.02 (4)</b> “Prescribed Culpability Requirement applies to all Material Elements” [unless the Court can divine a contrary purpose from the legislature]). </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute. (Mens rea modifying terms: look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at <b>MPC 2.02 (4)</b> “Prescribed Culpability Requirement applies to all Material Elements” [unless the Court can divine a contrary purpose from the legislature]). </p>
 
 ## Lenity doctrine
 
@@ -101,7 +101,7 @@ NYPL § 5.00 Penal law not strictly construed. "The general rule that a penal st
 
 <p style="margin-left:7%; margin-right:10%;"><b>Muscarello v. United States (1998)</b> (drug dealer with firearm in glove compartment of car)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies, then they are guilty of “carrying” the firearm.</p>
 
 # Three elements of a crime
 
@@ -122,13 +122,13 @@ If it is a result crime, we do not need to prove causation.
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Rizzo (1927)</b> (Rizzo and others driving around trying to find Rao to rob him of payroll. Never found Rao.)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test)</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test)</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>State v. Jack Sawyer (2018)</b> (planned a shooting at former high school; question is whether was attempting to commit a crime)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> Intent to commit a crime is not sufficient for conviction of attempt to commit a crime; if there is no actus reus there is no crime (my rule)</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Intent to commit a crime is not sufficient for conviction of attempt to commit a crime; if there is no actus reus there is no crime (my rule)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Holding:</b> The Vermont Supreme Court held that “the weight of the evidence is not great that defendant has committed any act or combination of acts that would satisfy Vermont’s definition of an attempt to commit any of the charged crimes.” (No dangerous proximity [see Rizzo])</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The Vermont Supreme Court held that “the weight of the evidence is not great that defendant has committed any act or combination of acts that would satisfy Vermont’s definition of an attempt to commit any of the charged crimes.” (No dangerous proximity [see Rizzo])</p>
 
 ## 2. Voluntary Act OR Omission of Duty
 
@@ -159,31 +159,31 @@ Coercion does not make something involuntary. If somebody says, “I’m going t
 
 <p style="margin-left:7%; margin-right:10%;"><b>Martin v State (1944)</b> (involuntarily and forcibly taken onto public highway by law enforcement officers after being arrested)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> Voluntary appearance in a public place is required to convict a person of intoxication in a public place. </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Voluntary appearance in a public place is required to convict a person of intoxication in a public place. </p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Decina (NY) (1956)</b> (Decina voluntarily got in the car but did not voluntarily have a seizure)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> The definition of voluntary does not have any knowledge requirement. </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The definition of voluntary does not have any knowledge requirement. </p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
 
-<p style="margin-left:14%; margin-right:10%;"> Person was knocked unconscious, kidnapped and brought to the United States. Person is arrested and charged with entering or being in the United States without proper documentation.</p>
+<p style="margin-left:10%; margin-right:10%;"> Person was knocked unconscious, kidnapped and brought to the United States. Person is arrested and charged with entering or being in the United States without proper documentation.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> If a person is not voluntarily in a public place that person cannot be unlawfully in a public place (my rule, I think). </p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
 
-<p style="margin-left:14%; margin-right:10%;"> Person is charged with “intending to assassinate the President.” Person confesses to intending to assassinate the President.</p>
+<p style="margin-left:10%; margin-right:10%;"> Person is charged with “intending to assassinate the President.” Person confesses to intending to assassinate the President.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> If Person expressed intent in a way that signifies harm to society, is not deterred by threat of sanction, and has demonstrated an identifiable occurrence of acts following from thoughts, Person should be punished for intending to assassinate the President. </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If Person expressed intent in a way that signifies harm to society, is not deterred by threat of sanction, and has demonstrated an identifiable occurrence of acts following from thoughts, Person should be punished for intending to assassinate the President. </p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
 
-<p style="margin-left:14%; margin-right:10%;"> California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict <i>(this confuses me; is the act whereby the person became an addict important because it involves committing a different crime?)</i> Issue is whether someone can be criminalized for being an addict.</p>
+<p style="margin-left:10%; margin-right:10%;"> California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict <i>(this confuses me; is the act whereby the person became an addict important because it involves committing a different crime?)</i> Issue is whether someone can be criminalized for being an addict.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> The U.S. Constitution forbids punishment for a mere status </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The U.S. Constitution forbids punishment for a mere status </p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Reasoning:</b> Person cannot be criminalized for being something. Criminal law only punishes conduct, more precisely voluntary conduct.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b> Person cannot be criminalized for being something. Criminal law only punishes conduct, more precisely voluntary conduct.</p>
 
 **Omission + Duty**
 
@@ -202,34 +202,34 @@ Law/statute imposes duty when:
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Beardsley (1907)</b> (married bartender went on drinking binge with Blanche Burns, who took morphine tablets and died)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> In order to punish a person for an omission, the person must owe a legal duty to the victim, not just a moral duty.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> In order to punish a person for an omission, the person must owe a legal duty to the victim, not just a moral duty.</p>
 
-<p style="margin-left:21%; margin-right:10%;">The duty may be imposed by law or contract.</p>
-<p style="margin-left:21%; margin-right:10%;">A person may have a duty from a domestic relationship, public duty, voluntary choice.</p>
+<p style="margin-left:13%; margin-right:10%;">The duty may be imposed by law or contract.</p>
+<p style="margin-left:13%; margin-right:10%;">A person may have a duty from a domestic relationship, public duty, voluntary choice.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Judgment:</b> The Michigan Supreme court set the conviction aside and discharged Beardsley. (The fact that Burns was in Beardsley’s house does not create a legal duty such as exists between man and wife [p.144])</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Judgment:</b> The Michigan Supreme court set the conviction aside and discharged Beardsley. (The fact that Burns was in Beardsley’s house does not create a legal duty such as exists between man and wife [p.144])</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Pope v. State (1979)</b> (three-month-old Demiko Lee Norris died as a result of physical injuries inflicted by his mother Melissa Vera Norris at the house of Pope and witnessed by Pope)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> If there is no status relationship there is no duty to act to protect an infant or child unless there is (1) assumed contractual duty of care, (2) voluntarily assumed duty of care, or (3) the risk of harm to another created by the defendant.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If there is no status relationship there is no duty to act to protect an infant or child unless there is (1) assumed contractual duty of care, (2) voluntarily assumed duty of care, or (3) the risk of harm to another created by the defendant.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b> (p. 146)</p>
 
-<p style="margin-left:14%; margin-right:10%;">David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard.</p>
+<p style="margin-left:10%; margin-right:10%;">David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:14%; margin-right:10%;">Where one creates a risk of harm to another: if I burned down my house I would have a duty to rescue people</p>
+<p style="margin-left:10%; margin-right:10%;">Where one creates a risk of harm to another: if I burned down my house I would have a duty to rescue people</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:14%; margin-right:10%;">Professor Kirchmeier drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.</p>
+<p style="margin-left:10%; margin-right:10%;">Professor Kirchmeier drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:14%; margin-right:10%;">Barry was walking on the Coney Island boardwalk around 8 pm. No lifeguards were on duty. Suddenly, he heard frantic splashing and yelling. To his horror, a swimmer seemed to be floundering badly about 100 yards out in the water. A crowd of stricken onlookers were beginning to approach, several grumbling about having no cellphone service this far out on the beach. Seeing that he had full cell service, Barry loudly announced to the crowd, “Don’t worry, everyone, I’m calling 911 right now!” But before he could place the call, he was hit with an unstoppable craving for a hot dog. Barry left the scene, went to Nathan’s, and ordered a chili dog. While he was waiting for his food, the swimmer in the ocean drowned.</p>
+<p style="margin-left:10%; margin-right:10%;">Barry was walking on the Coney Island boardwalk around 8 pm. No lifeguards were on duty. Suddenly, he heard frantic splashing and yelling. To his horror, a swimmer seemed to be floundering badly about 100 yards out in the water. A crowd of stricken onlookers were beginning to approach, several grumbling about having no cellphone service this far out on the beach. Seeing that he had full cell service, Barry loudly announced to the crowd, “Don’t worry, everyone, I’m calling 911 right now!” But before he could place the call, he was hit with an unstoppable craving for a hot dog. Barry left the scene, went to Nathan’s, and ordered a chili dog. While he was waiting for his food, the swimmer in the ocean drowned.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Narrow Rule:</b> In New York, Barry would not satisfy the second element (voluntary act/omission plus legal duty)of actus reus</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> In New York, Barry would not satisfy the second element (voluntary act/omission plus legal duty)of actus reus</p>
 
 **Justifications for the common law approach to punishing people for omissions (pp. 146-7)**
 - Punishing people for omission increases the risk of convicting morally innocent persons
@@ -241,17 +241,17 @@ Law/statute imposes duty when:
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b> (see slide) (someone in hallway shouting help vicious dog and I don’t want to get up and stop watching TV. Am I legally responsible?)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> No, because ...</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> No, because ...</p>
 
-<p style="margin-left:14%; margin-right:10%;"> What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it?</p>
+<p style="margin-left:10%; margin-right:10%;"> What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it?</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Narrow Rule:</b> Yes, I'm responsible because it’s a voluntary act, so the Voluntary act element of actus reus is satisfied. <i>This doesn’t mean that there is a crime.</i></p>
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Yes, I'm responsible because it’s a voluntary act, so the Voluntary act element of actus reus is satisfied. <i>This doesn’t mean that there is a crime.</i></p>
 
 **Distinguishing Acts from omissions**
 
 <p style="margin-left:7%; margin-right:10%;"><b>Barber v. Superior Court (1983)</b> (man suffered cardio-respiratory arrest during surgery resulting in severe brain damage; doctors withdrew life support)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> There is no criminal liability for failure to act unless there is a legal duty to act.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> There is no criminal liability for failure to act unless there is a legal duty to act.</p>
 
 # Mens Rea
 
@@ -274,12 +274,12 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 
 <p style="margin-left:7%; margin-right:10%;">(a) <b>Purposely.</b></p>
 <p style="margin-left:7%; margin-right:10%;">A person acts purposely with respect to a material element of an offense when:</p>
-<p style="margin-left:14%; margin-right:10%;">(i) if the element involves the nature of his conduct or a result thereof, it is his conscious object to engage in conduct of that nature or to cause such a result; and</p>
-<p style="margin-left:14%; margin-right:10%;">(ii) if the element involves the attendant circumstances, he is aware of the existence of such circumstances or he believes or hopes that they exist.</p>
+<p style="margin-left:10%; margin-right:10%;">(i) if the element involves the nature of his conduct or a result thereof, it is his conscious object to engage in conduct of that nature or to cause such a result; and</p>
+<p style="margin-left:10%; margin-right:10%;">(ii) if the element involves the attendant circumstances, he is aware of the existence of such circumstances or he believes or hopes that they exist.</p>
 <p style="margin-left:7%; margin-right:10%;">(b) <b>Knowingly.</b></p>
 <p style="margin-left:7%; margin-right:10%;">A person acts knowingly with respect to a material element of an offense when:</p>
-<p style="margin-left:20%; margin-right:20%;">(i) if the element involves the nature of his conduct or the attendant circumstances, he is aware that his conduct is of that nature or that such circumstances exist; and</p>
-<p style="margin-left:20%; margin-right:20%;">(ii) if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result.</p>
+<p style="margin-left:10%; margin-right:10%;">(i) if the element involves the nature of his conduct or the attendant circumstances, he is aware that his conduct is of that nature or that such circumstances exist; and</p>
+<p style="margin-left:10%; margin-right:10%;">(ii) if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result.</p>
 <p style="margin-left:7%; margin-right:10%;">(c) <b>Recklessly.</b></p>
 <p style="margin-left:10%; margin-right:20%;">A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.</p>
 <p style="margin-left:7%; margin-right:10%;">(d) <b>Negligently.</b></p>
@@ -290,57 +290,57 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 
 <p style="margin-left:7%; margin-right:10%;"><b>Purpose and knowledge:</b> narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results.</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Recklessness:</b> conscious risk creation. Recklessness resembles knowledge in that there is awareness, but the awareness is of risk. The risk must be substantial and unjustifiable. To warrant a finding of culpability, “the jury [must] be asked to measure the substantiality and unjustifiability of the risk by asking whether its disregard, given the actor’s perceptions, involved a gross deviation from the standard of conduct that a law-abiding person in the actor’s situation would observe” (p. 171).</p>
-<p style="margin-left:14%; margin-right:10%;">The jury must do two things:</p>
-<p style="margin-left:21%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk;</p>
-<p style="margin-left:21%; margin-right:10%;">2. Make the culpability judgement in terms of whether the defendant’s conscious disregard of the risk justifies condemnation.</p>
+<p style="margin-left:10%; margin-right:10%;">The jury must do two things:</p>
+<p style="margin-left:13%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk;</p>
+<p style="margin-left:13%; margin-right:10%;">2. Make the culpability judgement in terms of whether the defendant’s conscious disregard of the risk justifies condemnation.</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Negligence:</b> different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
-<p style="margin-left:14%; margin-right:10%;">The jury must do two things:</p>
-<p style="margin-left:21%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk in terms not of actor’s perception but of an objective view of the situation as it actually existed; and</p>
-<p style="margin-left:21%; margin-right:10%;">2. Make the culpability judgement in terms of whether the failure of the defendant to perceive the risk justifies condemnation (p. 172).</p>
-<p style="margin-left:14%; margin-right:10%;"><b>Offense Silent as to Culpability:</b> unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
+<p style="margin-left:10%; margin-right:10%;">The jury must do two things:</p>
+<p style="margin-left:13%; margin-right:10%;">1. Examine risk, factors relevant to risk, and justifications for taking risk in terms not of actor’s perception but of an objective view of the situation as it actually existed; and</p>
+<p style="margin-left:13%; margin-right:10%;">2. Make the culpability judgement in terms of whether the failure of the defendant to perceive the risk justifies condemnation (p. 172).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Offense Silent as to Culpability:</b> unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
 
-## New York Penal Law Mens Rea
+##
 
 **NYPL Section 15.05: Culpability; definitions of culpable mental states**
 The following definitions are applicable to this chapter:
 
 <p style="margin-left:7%; margin-right:10%;">(1) <b>Intentionally</b></p>
-<p style="margin-left:14%; margin-right:10%;">A person acts intentionally with respect to a result or to conduct described by a statute defining an offense when his conscious objective is to cause such result or to engage in such conduct.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts intentionally with respect to a result or to conduct described by a statute defining an offense when his conscious objective is to cause such result or to engage in such conduct.</p>
 <p style="margin-left:7%; margin-right:10%;">(2) <b>Knowingly</b></p>
-<p style="margin-left:14%; margin-right:10%;">A person acts knowingly with respect to conduct or to a circumstance described by a statute defining an offense when he is aware that his conduct is of such nature or that such circumstances exist.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts knowingly with respect to conduct or to a circumstance described by a statute defining an offense when he is aware that his conduct is of such nature or that such circumstances exist.</p>
 <p style="margin-left:7%; margin-right:10%;">(3) <b>Recklessly</b></p>
-<p style="margin-left:14%; margin-right:10%;">A person acts recklessly with respect to a result or to a circumstance described by a statute defining an offense when he is aware of and consciously disregards a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that disregard thereof constitutes a gross deviation from the standard of conduct that a reasonable person would observe in the situation.  A person who creates such a risk but is unaware thereof solely by reason of voluntary intoxication also acts recklessly with respect thereto.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts recklessly with respect to a result or to a circumstance described by a statute defining an offense when he is aware of and consciously disregards a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that disregard thereof constitutes a gross deviation from the standard of conduct that a reasonable person would observe in the situation.  A person who creates such a risk but is unaware thereof solely by reason of voluntary intoxication also acts recklessly with respect thereto.</p>
 <p style="margin-left:7%; margin-right:10%;">(4) <b>Criminal Negligence</b></p>
-<p style="margin-left:14%; margin-right:10%;">A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>State v. Nations (1984)</b>(adult dance club owner unaware of age of sixteen-year-old dancer)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> If the statute requires that a person acts "knowingly," or with knowledge of attendant circumstances, the person must be aware that those circumstances exist to be found culpable of the crime. If the statute contains the mens rea term "knowingly" but does not contain "recklessly," the defendant cannot be convicted of a crime whose mens rea is "recklessly." when he is aware … that those circumstances exist.”</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If the statute requires that a person acts "knowingly," or with knowledge of attendant circumstances, the person must be aware that those circumstances exist to be found culpable of the crime. If the statute contains the mens rea term "knowingly" but does not contain "recklessly," the defendant cannot be convicted of a crime whose mens rea is "recklessly." when he is aware … that those circumstances exist.”</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Note:</b> Under Missouri law, endangering welfare of a child is if a person “knowingly encourages, aids or causes a child less than 17 years old to engage in any conduct [which tends to injure a child’s welfare].” (Here, Nations was found not guilty because she was not aware of the age of the dancer; in NY she also would have been found not guilty).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> Under Missouri law, endangering welfare of a child is if a person “knowingly encourages, aids or causes a child less than 17 years old to engage in any conduct [which tends to injure a child’s welfare].” (Here, Nations was found not guilty because she was not aware of the age of the dancer; in NY she also would have been found not guilty).</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>MPC Section 2.02 (7)</b> proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly" than the MPC.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>MPC Section 2.02 (7)</b> proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly" than the MPC.</p>
 
-<p style="margin-left:14%; margin-right:10%;">Under <b>NYPL</b>, knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly.”</p>
+<p style="margin-left:10%; margin-right:10%;">Under <b>NYPL</b>, knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly.”</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>State v. Miles (2017)</b> (Appellant said he did not know there were more than four grams of oxycodone in the package he picked up)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Narrow Rule:</b> Knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is not required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is not required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Mens rea modifying terms</b> - look at <b>NYPL Section 15.15</b> – “When one and only one of such terms appears in a statute defining an offense …” Also look at <b>MPC Section 2.02 (4):</b> “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> - look at <b>NYPL Section 15.15</b> – “When one and only one of such terms appears in a statute defining an offense …” Also look at <b>MPC Section 2.02 (4):</b> “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:14%; margin-right:10%;">Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I am going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
+<p style="margin-left:10%; margin-right:10%;">Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I am going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Analysis:</b>A lot of courts would say that “intentionally” does not modify dwelling house; that it only modifies breaking and entering. In the Miles case, the morphine etc. was not modified by knowingly. Dwelling house and morphine are attendant circumstances.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b>A lot of courts would say that “intentionally” does not modify dwelling house; that it only modifies breaking and entering. In the Miles case, the morphine etc. was not modified by knowingly. Dwelling house and morphine are attendant circumstances.</p>
 
-<p style="margin-left:14%; margin-right:10%;">See <b>NYPL 220.20</b> subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)</p>
+<p style="margin-left:10%; margin-right:10%;">See <b>NYPL 220.20</b> subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)</p>
 
-<p style="margin-left:14%; margin-right:10%;">Presumptions of interpretation (that may be rebutted):</p>
-<p style="margin-left:21%; margin-right:10%;">What terms does the mens rea word modify?</p>
-<p style="margin-left:21%; margin-right:10%;">(1) Presume modify all terms: NYPL Sec. 15.15(1); MPC 2.02(4)</p>
-<p style="margin-left:21%; margin-right:10%;">(2) Maybe not modify attendant circumstances</p>
+<p style="margin-left:10%; margin-right:10%;">Presumptions of interpretation (that may be rebutted):</p>
+<p style="margin-left:13%; margin-right:10%;">What terms does the mens rea word modify?</p>
+<p style="margin-left:13%; margin-right:10%;">(1) Presume modify all terms: NYPL Sec. 15.15(1); MPC 2.02(4)</p>
+<p style="margin-left:13%; margin-right:10%;">(2) Maybe not modify attendant circumstances</p>
 
 ## General Issues in Proving Culpability: Intent
 
@@ -369,21 +369,21 @@ If it has any of these, the idea is that those crimes were to be punished more s
 
 <p style="margin-left:7%; margin-right:10%;"><b>Regina v. Cunningham (1957)</b> (Man ripped gas meter off wall to steal coins and caused noxious coal gas to go into Sarah Wade’s home and partially asphyxiate her)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> The term “malice” in a criminal statute does not mean general wickedness; it means either (1) an actual intention to do the particular kind of harm that was in fact done or (2) reckless disregard of a foreseeable risk that the harm would result.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The term “malice” in a criminal statute does not mean general wickedness; it means either (1) an actual intention to do the particular kind of harm that was in fact done or (2) reckless disregard of a foreseeable risk that the harm would result.</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Holding:</b> Did not have general intent to hurt a person; intent was to steal money.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Did not have general intent to hurt a person; intent was to steal money.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Conley (1989)</b> (Conley threw bottle at person, hit another person who suffered injuries resulting in permanent disability)(p.163).<i>This should go under specific intent and transferred intent</i></p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule: Natural and probable consequences doctrine:</b> problems of proof are alleviated [by] the ordinary presumption that one intends the natural and probable consequences of his actions. … Intent can be inferred from the surrounding circumstances, the offender’s words, the weapon used, and the force of the blow. (163)</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule: Natural and probable consequences doctrine:</b> problems of proof are alleviated [by] the ordinary presumption that one intends the natural and probable consequences of his actions. … Intent can be inferred from the surrounding circumstances, the offender’s words, the weapon used, and the force of the blow. (163)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Application:</b> Here, intent was inferred by “[T]he surrounding circumstances, the use of a bottle, the absence of warning and the force of the blow are facts from which the jury could reasonably infer the intent to cause permanent disability."</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Application:</b> Here, intent was inferred by “[T]he surrounding circumstances, the use of a bottle, the absence of warning and the force of the blow are facts from which the jury could reasonably infer the intent to cause permanent disability."</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Navarro (1979)</b> (defendant took four beams of wood from a construction site) <i>This case is also in Mistake of Fact</i></p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Note:</b> This is a case where the common law approach to mens rea is gone into. Common law mens rea: most common definition (3rd one)</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> This is a case where the common law approach to mens rea is gone into. Common law mens rea: most common definition (3rd one)</p>
 
-<p style="margin-left:14%; margin-right:10%;"><b>Rule:</b> General intent: Any mental state that relates solely to the acts that constitute the criminal offense. Ex. “knowingly hit.” Specific intent: Contains a special mental element required beyond the element required beyond the mental state.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> General intent: Any mental state that relates solely to the acts that constitute the criminal offense. Ex. “knowingly hit.” Specific intent: Contains a special mental element required beyond the element required beyond the mental state.</p>
 
 ## Transferred intent
 
@@ -403,11 +403,11 @@ Also, result of crime can change. For example,
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:14%; margin-right:10%;">P threw rock at X, intending to strike him with it. P missed X, but rock hit a window and broke it. If P charged with “intentional injury to property,” should prosecutor be able to transfer intent to hit X to the window?</p>
+<p style="margin-left:10%; margin-right:10%;">P threw rock at X, intending to strike him with it. P missed X, but rock hit a window and broke it. If P charged with “intentional injury to property,” should prosecutor be able to transfer intent to hit X to the window?</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:14%; margin-right:10%;">What happens if bullet hits intended victim and another victim? Courts have applied doctrine to two counts of murder based on one intent to kill. (lots more hypos on pp 166-167)</p>
+<p style="margin-left:10%; margin-right:10%;">What happens if bullet hits intended victim and another victim? Courts have applied doctrine to two counts of murder based on one intent to kill. (lots more hypos on pp 166-167)</p>
 
 ## Strict Liability
 
