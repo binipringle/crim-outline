@@ -10,11 +10,11 @@ Note: Teaches me about legal sufficiency in enforcing the presumption of innocen
 
 # Theories of Punishment
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**General**
+**General**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One fundamental question is why (and whether) the social institution of punishment is warranted. A second question concerns the necessary conditions for criminal liability and punishment in particular cases. A third relates to the form and severity of punishment that is appropriate for particular offenses and offenders. (33)
+One fundamental question is why (and whether) the social institution of punishment is warranted. A second question concerns the necessary conditions for criminal liability and punishment in particular cases. A third relates to the form and severity of punishment that is appropriate for particular offenses and offenders. (33)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since punishment involves pain and deprivation that people wish to avoid, its intentional imposition by the state requires justification. (33)
+Since punishment involves pain and deprivation that people wish to avoid, its intentional imposition by the state requires justification. (33)
 
   **Retributive Justifications**
 
