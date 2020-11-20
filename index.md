@@ -355,6 +355,7 @@ Any mental state that relates solely to the acts that constitute the criminal of
 <p style="margin-left:10%; margin-right:10%;"><b>How to recognize general intent in a statute/sentence:</b>  mens rea term + conduct; for example, "knowingly break," "intentionally steal"</p>
 
 **Specific intent**
+
 This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition).
 
 Contains a special mental element (these elevate the crime) (specific intent crimes were ones which required a mental state of intent, of purposely or knowingly or with recklessness or negligence or something like that)  that is required beyond the mental state for the act of the offense, such as
