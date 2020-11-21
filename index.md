@@ -10,10 +10,7 @@
 
 # Theories of Punishment
 
-**General**
-1. Why (and whether) the social institution of punishment is warranted
-2. What are the necessary conditions for criminal liability and punishment in particular cases
-3. What form and severity of punishment is appropriate for particular offenses and offender (33)
+**General:** (1) Why (and whether) the social institution of punishment is warranted; (2) What are the necessary conditions for criminal liability and punishment in particular cases; (3) What form and severity of punishment is appropriate for particular offenses and offender (p. 33).
 
 **Retributive Justifications**
 - The moral desert of an offender is a sufficient and necessary condition of liability to punitive sanctions
@@ -380,7 +377,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 <p style="margin-left:10%; margin-right:10%;">What happens if bullet hits intended victim and another victim? Courts have applied doctrine to two counts of murder based on one intent to kill. (lots more hypos on pp 166-167)</p>
 
-## Strict Liability
+# Strict Liability
 
 **Factors to consider for finding strict liability** (factors that may lead a court to conclude that a statute does not require mens rea):
     - Statutory interpretation principles;
@@ -392,59 +389,34 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
     - The crime does not carry a heavy stigma.
     - Common law treatment of the crime – sometimes the court will look at how the courts handled the crime in the past.
 
-    **Morisette v. United States | U.S. Supreme Court 1952**
+<p style="margin-left:7%; margin-right:10%;"><b>Morisette v. United States (U.S. Supreme Court 1952)</b> (Morisette took spent bomb casings from a bombing range, which he flattened and sold)</p>
 
-        Morisette went hunting on an Air Force bombing range and took some spent bomb casings that were lying on the bombing range that had been lying around for years, which he flattened and sold.
-        Statute: “Whoever steals, purloins, or knowingly converts to his use or the use of another, or without authority, sells, conveys or disposes of any … think of value of the United States … shall be fined…”
-        Issue: Whether intent to convert government property is required by a federal statute prohibiting conversion of government property that is silent on mens rea.
-        Procedural History: Morissette was indicted for violating 18 U.S.C. § 641. At trial, Morissette stated he knew he was taking Air Force property but believed the government had abandoned the casings. Morissette was convicted and he appealed. The court of appeals affirmed and made the assumption that Congress meant for the term “knowingly convert” to mean simply an intentional exercise of dominion over property not belonging to the individual. The U.S. Supreme Court granted certiorari to review. One of the things the Court looks at here is whether it is a public welfare offense, to which strict liability would apply.
-        **Rule:** Mens rea is “no provincial or transient notion” and is “universal and persistent in mature systems of law” (197) except in public welfare offenses  typified only by "neglect where the law requires care, or inaction where it imposes a duty" (i.e. public health laws, building codes, or food and drug safety laws) and do not require a mental state or awareness on the part of the defendant.
-        Narrow rule: Intent to convert government property is not required by a federal statute prohibiting conversion of government property that is silent on mens rea.
-        Judgment: Reversed.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Mens rea is “universal and persistent in mature systems of law,” except in public welfare offenses typified only by "neglect where the law requires care, or inaction where it imposes a duty" (i.e. public health laws, building codes, or food and drug safety laws).</p>
 
-    **Staples v. United States | U.S. Supreme Court, 1994**
-        Staples had an AR-15 semi-automatic a part of which had been filed down or replaced so that it fired automatically. As an automatic weapon the rifle met the statutory definition of a firearm under the National Firearms Act, 26 U.S.C. § 5861(d). The Act requires that owners of firearms register them and makes possession of an unregistered firearm punishable by up to ten years in prison. Staples did not register his customized AR-15. Colorado police and agents from the Bureau of Alcohol, Tobacco and Firearms (BATF) searched Staples’s home with a warrant and found the firearm. The U.S. charged Staples under § 5861(d). Staples claimed he did not know the rifle could be fired automatically.
-        Staples is arguing that the Government was required to prove he knew his weapon was automatic in order to convict him of violating Section 5861.
-        The Government is arguing that mens rea is not required because the statute is a public welfare regulation that imposes strict liability with no knowledge requirement.
-        **Rule:** Absent a clear statement from Congress that there is no mens rea requirement, federal felony statutes should be interpreted to eliminate the mens rea element.
-        Holding: Therefore, the Government was required to prove beyond a reasonable doubt that Staples knew that his rifle had the characteristics that brought it within the statutory definition of a machinegun.
-        Judgment: Reversed. The conviction is vacated.
-        Dissent: (Stevens) The Court here substitutes its judgment for that of Congress. Staples possessed a semiautomatic rifle capable of conversion to automatic, and the jury concluded it was a dangerous device. This was not the type of gun lawfully owned by many Americans. First, the text of the act specifically omits a knowledge requirement. Had the conduct proscribed been a common law crime, interpreting the statute to include a mens rea element would be acceptable. See Morissette v. United States, 342 U. S. 246 (1952). The act involves no such crime. Further, the act mirrored the construction of the Harrison Anti-Narcotic Act, which this Court interpreted as having no knowledge requirement. United States v. Balint, 258 U. S. 250 (1922). Possession under the act was, instead, a “public welfare” crime. Public welfare regulations generally relate to dangerous devices, heighten duties, and have no mens rea requirement, and the act is one such regulation. Next, courts consistently interpreted the act as having no knowledge requirement, and Congress did not add one in later amendments. The conviction should be affirmed.
-        Notes and questions (196-7)
-          - Do I believe Staples right result?
-          - As matter of precedent? Yes, because he might not have known his gun had been filed.
-          - As matter of policy? No, because automatic weapons are extremely dangerous and should be in the same category as hand grenades (drugs should not be subject to strict liability)
-        Typically criticizes on two grounds (p. 196):
-          - Arguably can’t deter because person unaware that their conduct is dangerous
-          - Unjust because it’s unjust to punish a person who’s unaware that their conduct is dangerous
-        Is strict liability constitutional?
-          - Supreme Court has not provided clear answer to this question.
-          - “Mens rea is an important requirement, but it is not a constitutional requirement, except sometimes: (Herbert L. Packer, Mens Rea and the Supreme Court, 1962)
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Intent to convert government property is not required by a federal statute prohibiting conversion of government property that is silent on mens rea.</p>
 
-  **MPC sec 2.02 (3)**
-          If there is no mens rea in the statute, the court leaves out negligently and reads in either purposely, knowingly or recklessly. MPC 2.02 (3) “Culpability Required Unless Otherwise Provided. When the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts purposely, knowingly or recklessly with respect thereto.”
+<p style="margin-left:7%; margin-right:10%;"><b>Staples v. United States (U.S. Supreme Court, 1994)</b> (Staples had an unregistered AR-15 semi-automatic which had been filed down/modified so that it fired automatically)</p>
 
-  **NYPL Sec. 15.15 (2)**
-        “A statute defining a crime, unless clearly indicating a legislative intent to impose strict liability, should be construed as defining a crime of mental culpability.”
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Absent a clear statement from Congress that there is no mens rea requirement, federal felony statutes should be interpreted to eliminate the mens rea element.</p>
 
-**Garnett v. State | Court of Appeals of Maryland 1993** (20-year old D with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape)
+**MPC sec 2.02 (3):** If there is no mens rea in the statute, the court leaves out negligently and reads in either purposely, knowingly or recklessly. MPC 2.02 (3) “Culpability Required Unless Otherwise Provided. When the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts purposely, knowingly or recklessly with respect thereto.”
 
-**Rule:** Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.
+**NYPL Sec. 15.15 (2):** “A statute defining a crime, unless clearly indicating a legislative intent to impose strict liability, should be construed as defining a crime of mental culpability.”
 
-Holding: Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.
+<p style="margin-left:7%; margin-right:10%;"><b>Garnett v. State (1993)</b> (20-year old D with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape)</p>
 
-Reasoning: The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended one.</p>
 
-Dissent: (Bell) The legislature did indeed intend to make statutory rape a strict liability offense. However, holding that this provision does not require any element of mens rea is contrary to the concept of due process.
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
 
-Dissent: (Eldridge) It is untrue that the statute requires no mens rea at all. Strict liability offenses tend to have light penalties. The heavy penalty imposed by the statutory rape statute is evidence that the legislature did not intend for it to be a pure strict liability crime. With statutory rape, a defendant is supposed to appreciate the risk that a sexual partner may be younger than they appear. That mental appreciation is the mens rea of statutory rape. The legislature most likely did not intend to punish one who could not even appreciate the risk due to a mental handicap or incapacity.
+<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b> The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
 
-## Mistake of Fact
+# Mistake of Fact
 
-  **Common Law Mistake of Fact**
-    (1) If no specific intent or other special mental element is required for guilt of the offense (general intent), a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds.
-    (2) If the offense is a specific intent crime, a good faith mistake of fact can be a defense when it negates the mens rea requirement. People v. Navarro
-    Salimah’s shortened rule: If it's a general intent crime then mistake of fact defense will be recognized if based on reasonable grounds.
+**Common Law Mistake of Fact**
+
+(1) If no specific intent or other special mental element is required for guilt of the offense (general intent), a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds.
+(2) If the offense is a specific intent crime, a good faith mistake of fact can be a defense when it negates the mens rea requirement. 
 
     **People v. Navarro | Appellate Department of the Los Angeles County Superior Court 1979**
       Navarro took four wooden beams from a construction site. Was convicted of petty theft for stealing four beams (205).
@@ -493,7 +465,7 @@ Dissent: (Eldridge) It is untrue that the statute requires no mens rea at all. S
       When may a defendant have a mistake of fact defense to a strict liability crime? (slide)
       You can’t. There is no mens rea to negate. Garnett case. He tried to argue that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court said no, it’s strict liability, so there is no mens rea and your not knowing is irrelevant.
 
-## Mistake of Law
+# Mistake of Law
 
   Three types of mistake of law issues
     1. Mistake/ignorance of law as penal law exception (Marrero)
