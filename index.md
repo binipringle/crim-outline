@@ -322,17 +322,13 @@ The following definitions are applicable to this chapter:
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is not required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Mens rea modifying terms</b> - look at <b>NYPL Section 15.15</b> – “When one and only one of such terms appears in a statute defining an offense …” Also look at <b>MPC Section 2.02 (4):</b> “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature).</p>
+**Presumptions of interpretation (that may be rebutted):** Mens rea modifying terms. What terms does the mens rea word modify? (1) Presume modify all terms: NYPL Sec. 15.15(1) “When one and only one of such terms appears in a statute defining an offense …”, MPC 2.02(4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature); (2) Maybe not modify attendant circumstances.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
 <p style="margin-left:10%; margin-right:10%;">Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I am going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b>A lot of courts would say that “intentionally” does not modify dwelling house; that it only modifies breaking and entering. In the Miles case, the morphine etc. was not modified by knowingly. Dwelling house and morphine are attendant circumstances.</p>
-
-<p style="margin-left:10%; margin-right:10%;">See <b>NYPL 220.20</b> subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)</p>
-
-**Presumptions of interpretation (that may be rebutted):** What terms does the mens rea word modify? (1) Presume modify all terms: NYPL Sec. 15.15(1), MPC 2.02(4); (2) Maybe not modify attendant circumstances
+<p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b>A lot of courts would say that “intentionally” does not modify dwelling house; that it only modifies breaking and entering. In the Miles case, the morphine etc. was not modified by knowingly. Dwelling house and morphine are attendant circumstances. See <b>NYPL 220.20</b> subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)</p>
 
 ## General Issues in Proving Culpability: Intent
 
