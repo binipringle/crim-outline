@@ -199,12 +199,7 @@ Liability for the commission of an offense may not be based on an omission unacc
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Beardsley (1907)</b> (married bartender went on drinking binge with Blanche Burns, who took morphine tablets and died)</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> In order to punish a person for an omission, the person must owe a legal duty to the victim, not just a moral duty.</p>
-
-<p style="margin-left:13%; margin-right:10%;">The duty may be imposed by law or contract.</p>
-<p style="margin-left:13%; margin-right:10%;">A person may have a duty from a domestic relationship, public duty, voluntary choice.</p>
-
-<p style="margin-left:10%; margin-right:10%;"><b>Judgment:</b> The Michigan Supreme court set the conviction aside and discharged Beardsley. (The fact that Burns was in Beardsley’s house does not create a legal duty such as exists between man and wife [p.144])</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> In order to punish a person for an omission, the person must owe a legal duty to the victim, not just a moral duty. (The duty may be imposed by law or contract, or a person may have a duty from a domestic relationship, public duty, voluntary choice).</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Pope v. State (1979)</b> (three-month-old Demiko Lee Norris died as a result of physical injuries inflicted by his mother Melissa Vera Norris at the house of Pope and witnessed by Pope)</p>
 
@@ -280,7 +275,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:7%; margin-right:10%;">(c) <b>Recklessly.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.</p>
 <p style="margin-left:7%; margin-right:10%;">(d) <b>Negligently.</b></p>
-<p style="margin-left:7%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
+<p style="margin-left:19%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
 
 **American Law Institute comment to MPC section 2.02** (169-70)
 [Section 2.02] expresses the Code’s basic requirement that unless some element of mental culpability is proved with respect to each material element of the offense, no valid criminal conviction may be obtained.  
@@ -288,7 +283,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:7%; margin-right:10%;"><b>Purpose and knowledge:</b> narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results.</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Recklessness:</b> conscious risk creation. Recklessness resembles knowledge in that there is awareness, but the awareness is of risk. The risk must be substantial and unjustifiable. To warrant a finding of culpability, “the jury [must] be asked to measure the substantiality and unjustifiability of the risk by asking whether its disregard, given the actor’s perceptions, involved a gross deviation from the standard of conduct that a law-abiding person in the actor’s situation would observe” (p. 171).</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Negligence:</b> different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
-<p style="margin-left:10%; margin-right:10%;"><b>Offense Silent as to Culpability:</b> unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Offense Silent as to Culpability:</b> unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
 
 **NYPL Section 15.05: Culpability; definitions of culpable mental states**
 The following definitions are applicable to this chapter:
@@ -308,9 +303,9 @@ The following definitions are applicable to this chapter:
 
 <p style="margin-left:10%; margin-right:10%;"><b>Note:</b> Under Missouri law, endangering welfare of a child is if a person “knowingly encourages, aids or causes a child less than 17 years old to engage in any conduct [which tends to injure a child’s welfare].” (Here, Nations was found not guilty because she was not aware of the age of the dancer; in NY she also would have been found not guilty).</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>MPC Section 2.02 (7)</b> proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly" than the MPC.</p>
+**MPC Section 2.02 (7)** proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly" than the MPC.
 
-<p style="margin-left:10%; margin-right:10%;">Under <b>NYPL</b>, knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly.”</p>
+Under **NYPL**, knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly."
 
 <p style="margin-left:7%; margin-right:10%;"><b>State v. Miles (2017)</b> (Appellant said he did not know there were more than four grams of oxycodone in the package he picked up)</p>
 
