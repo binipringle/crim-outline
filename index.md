@@ -377,7 +377,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 <p style="margin-left:10%; margin-right:10%;">What happens if bullet hits intended victim and another victim? Courts have applied doctrine to two counts of murder based on one intent to kill. (lots more hypos on pp 166-167)</p>
 
-# Strict Liability
+## Strict Liability
 
 **Factors to consider for finding strict liability** (factors that may lead a court to conclude that a statute does not require mens rea):
     - Statutory interpretation principles;
@@ -411,7 +411,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 <p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b> The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
 
-# Mistake of Fact
+## Mistake of Fact
 
 **Common Law Mistake of Fact**
 
@@ -450,8 +450,10 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
     4. Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the aggregate weight of a controlled substance or marihuana is an element, knowledge by the defendant of the aggregate weight of such controlled substance or marihuana is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the aggregate weight of the controlled substance or marihuana.
 
   **Hypo**
-        If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.
-        If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.
+
+    If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.
+
+    If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.
 
   **Perjury hypo**
         A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”
@@ -465,7 +467,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
       When may a defendant have a mistake of fact defense to a strict liability crime? (slide)
       You can’t. There is no mens rea to negate. Garnett case. He tried to argue that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court said no, it’s strict liability, so there is no mens rea and your not knowing is irrelevant.
 
-# Mistake of Law
+## Mistake of Law
 
   Three types of mistake of law issues
     1. Mistake/ignorance of law as penal law exception (Marrero)
