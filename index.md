@@ -322,7 +322,9 @@ The following definitions are applicable to this chapter:
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is not required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).</p>
 
-**Presumptions of interpretation (that may be rebutted):** Mens rea modifying terms. What terms does the mens rea word modify? (1) Presume modify all terms: NYPL Sec. 15.15(1) “When one and only one of such terms appears in a statute defining an offense …”, MPC 2.02(4) “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature); (2) Maybe not modify attendant circumstances.
+**Presumptions of interpretation (that may be rebutted): Mens rea modifying terms**
+
+What terms does the mens rea word modify? (1) Presume modify all terms: **NYPL Sec. 15.15(1)** “When one and only one of such terms appears in a statute defining an offense …”, **MPC 2.02(4)** “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature); (2) Maybe not modify attendant circumstances.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
