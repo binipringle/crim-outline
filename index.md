@@ -332,10 +332,7 @@ The following definitions are applicable to this chapter:
 
 <p style="margin-left:10%; margin-right:10%;">See <b>NYPL 220.20</b> subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)</p>
 
-<p style="margin-left:10%; margin-right:10%;">Presumptions of interpretation (that may be rebutted):</p>
-<p style="margin-left:13%; margin-right:10%;">What terms does the mens rea word modify?</p>
-<p style="margin-left:13%; margin-right:10%;">(1) Presume modify all terms: NYPL Sec. 15.15(1); MPC 2.02(4)</p>
-<p style="margin-left:13%; margin-right:10%;">(2) Maybe not modify attendant circumstances</p>
+**Presumptions of interpretation (that may be rebutted):** What terms does the mens rea word modify? (1) Presume modify all terms: NYPL Sec. 15.15(1), MPC 2.02(4); (2) Maybe not modify attendant circumstances
 
 ## General Issues in Proving Culpability: Intent
 
