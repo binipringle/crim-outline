@@ -275,7 +275,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:7%; margin-right:10%;">(c) <b>Recklessly.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.</p>
 <p style="margin-left:7%; margin-right:10%;">(d) <b>Negligently.</b></p>
-<p style="margin-left:19%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
 
 **American Law Institute comment to MPC section 2.02** (169-70)
 [Section 2.02] expresses the Code’s basic requirement that unless some element of mental culpability is proved with respect to each material element of the offense, no valid criminal conviction may be obtained.  
@@ -370,15 +370,7 @@ Only applies in Model Penal Code jurisdictions!
 
 Transferred intent is built into NY second-degree murder statute **NYPL Section 125.25**
 
-**Definition**
-
-When a D intends to cause harm to one person but accidentally causes the same harm to another, courts typically rely on a “legal fiction” known as the “transferred intent” doctrine (English common law; became common law in many American jurisdictions).
-
-Under classic formulation of common law doctrine of transferred intent, D’s guilt is “exactly what it would have been had the blow fallen upon the intended victim instead of the bystander.” (165)
-
-"Peculiarly mischievous legal fiction" because it assumes D (1) could escape liability for murder if no transferred intent doctrine, and (2) had mens rea in relation to intended V. There is no requirement of an unlawful attempt to kill an intended victim. The law speaks in terms of an unlawful attempt to kill a person, not the person intended to be killed.
-
-Also, result of crime can change. For example,
+**Definition:** When a D intends to cause harm to one person but accidentally causes the same harm to another, courts typically rely on a “legal fiction” known as the “transferred intent” doctrine. Under classic formulation of common law doctrine of transferred intent, D’s guilt is “exactly what it would have been had the blow fallen upon the intended victim instead of the bystander.” (p. 165) "Peculiarly mischievous legal fiction" because it assumes D (1) could escape liability for murder if there were no transferred intent doctrine, and (2) had mens rea in relation to intended V (there is no requirement of an unlawful attempt to kill an intended victim; here, Common law speaks in terms of an unlawful attempt to kill a person, not the person intended to be killed). Also, result of crime can change. For example,
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
