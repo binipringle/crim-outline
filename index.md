@@ -427,7 +427,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 <p style="margin-left:10%; margin-right:10%;"><b>Hint:></b> use definition of “knowingly”</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo:></b> R charged with “recklessly causing serious physical injury to another by means of a deadly weapon” after he shot and wounded V with a rifle. Defendant claims did not know gun was loaded. What would you need to define to determine if a defendant has a mistake of fact defense?
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:></b> R charged with “recklessly causing serious physical injury to another by means of a deadly weapon” after he shot and wounded V with a rifle. Defendant claims did not know gun was loaded. What would you need to define to determine if a defendant has a mistake of fact defense?</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Analysis:></b> Look at NYPL definition of recklessly. Did I know there was a risk? Was this a gross deviation from what a reasonable person could be expected to believe? You’d have to analyze and see. In NYPL and MPC all you have to look at is whether the offense satisfies the mens rea terms. Here, it would focus largely on whether I was aware there was a risk that the gun was loaded – defense could say there’s always a risk with a gun.</p>
 
