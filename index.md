@@ -255,7 +255,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:7%; margin-right:10%;"><b>Negligence:</b> different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Offense Silent as to Culpability:</b> unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
 
-**MPC Section 2.02 (7)** proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly" than the MPC.
+**MPC Section 2.02 (7)** proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness.
 
 Under **NYPL**, knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly."
 
@@ -294,22 +294,19 @@ statute defining an offense, it is presumed to apply to every element of the off
 
 “Few distinctions In criminal law are more perplexing and difficult to define; … the terms … do not have universally accepted definitions.” (p. 167)
 
-**General intent**
-Any mental state that relates solely to the acts that constitute the criminal offense (in Common Law, a general intent crime would be only to show that someone was acting wickedly in the general sense; that was sufficient).
+**General intent:** Any mental state that relates solely to the acts that constitute the criminal offense (in Common Law, a general intent crime would be only to show that someone was acting wickedly in the general sense; that was sufficient).
 
-<p style="margin-left:7%; margin-right:10%;"><b>How to recognize general intent in a statute/sentence:</b>  mens rea term + conduct; for example, "knowingly break," "intentionally steal"</p>
+*How to recognize general intent in a statute/sentence:* mens rea term + conduct; for example, "knowingly break," "intentionally steal.""
 
-**Specific intent**
+**Specific intent:** This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition).
 
-This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition).
-
-Contains a special mental element (these elevate the crime) (specific intent crimes were ones which required a mental state of intent, of purposely or knowingly or with recklessness or negligence or something like that)  that is required beyond the mental state for the act of the offense, such as
+Specific intent crimes were ones which required a  a special mental element (these elevate the crime) of intent or purposely or knowingly or with recklessness or negligence or something like that, required beyond the mental state for the act of the offense. For example:
 
 - Intent to commit a future act (i.e. assault with intent to kill);
 - A special motive or purpose (i.e. humiliation – we see this in hate crimes); or
 - Awareness of attendant circumstance (i.e. knowing that someone is under 18)
 
-If it has any of these, the idea is that those crimes were to be punished more severely.
+If the statute has any of these, the idea is that those crimes were to be punished more severely.
 
 **Battery statute:** General intent would be to cause battery (grievous bodily harm), but specific intent would be to disfigure (check this)
 
