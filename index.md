@@ -28,11 +28,11 @@
 
 ## Legality and previously defined conduct
 
-<b>Commonwealth v. Mochan (1955)</b> (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) <i>Also falls under violation of due process because vague</i></p>
+<p style="margin-left:7%; margin-right:10%;"><b>Commonwealth v. Mochan (1955)</b> (Mochan said obscene and sexually suggestive things to Mrs. Zivkovich; convicted under common law of “violating public morality” [p.91]) <i>Also falls under violation of due process because vague</i></p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The court cannot create a crime; only the legislature can create a crime.</p>
 
-<p style="margin-left:10%; margin-right:10%;">No punishment without law: <b>NYPL § 5.05 (3)</b> “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”</p>
+No punishment without law: <b>NYPL § 5.05 (3)</b> “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
 
 ## Due process
 
@@ -52,13 +52,7 @@
 <p style="margin-left:7%; margin-right:10%;"><b>In Re Banks (1978)</b> (Peeping Tom)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a statute is too vague or indefinite or too broad, it violates due process.</p>
-<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth.</p>
-
-<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:</p>
-
-<p style="margin-left:15%; margin-right:10%;">1. Interpret statute (Does statute violate due process?)</p>
-<p style="margin-left:15%; margin-right:10%;">2. Is statute too vague or not definite enough or overbroad?</p>
-<p style="margin-left:15%; margin-right:10%;">3. If it is too vague, can it be saved by judicial interpretation?</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Notes:</b> In <i>In Re Banks</i> the court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps: (1) Interpret statute (Does statute violate due process?); (2) is statute too vague or not definite enough or overbroad?; (3) if it is too vague, can it be saved by judicial interpretation?</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.</p>
 
@@ -68,7 +62,7 @@
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> It is not for the court to define murder. Once legislature defined murder the court can interpret it.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Notes:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process. The dissent argued that the definition of corpse has changed and the definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i></p>
+<p style="margin-left:10%; margin-right:10%;"><b>Notes:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. (including fetuses in the definition of human being would also not provide fair warning to the defendant and would thus violate his constitutional right to due process). Dissent argued that definitions of corpse and human being have changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i></p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>In Re Banks</b> (Peeping Tom law not overbroad)</p>
 
@@ -80,9 +74,10 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended for one.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Notes:</b> Defendant was found guilty of second degree rape under the “statutory rape” law of Maryland. No mens rea was required, and the statute did not allow for the affirmative defense of mistake of fact. The Court found that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>  The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute. (Mens rea modifying terms: look at <b>NYPL 15.15</b> Last sentence – “When one and only one of such terms appears in a statute defining an offense …” Also look at <b>MPC 2.02 (4)</b> “Prescribed Culpability Requirement applies to all Material Elements” [unless the Court can divine a contrary purpose from the legislature]). </p>
+Mens rea modifying terms: look at **NYPL 15.15** last sentence – “When one and only one of such terms appears in a
+statute defining an offense, it is presumed to apply to every element of the offense unless an intent to limit its application clearly appears.” Also look at **MPC 2.02 (4)** “Prescribed Culpability Requirement Applies to All Material Elements. When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears."
 
 ## Lenity doctrine
 
@@ -232,10 +227,11 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 
 ## Model Penal Code Mens Rea
 
-**Model Penal Code Section 2.02 General Requirements of Culpability**
+**MPC Section 2.02 General Requirements of Culpability**
 
-1. Minimum Requirements of Culpability. Except as provided in Section 2.05, a person is not guilty of an offense unless he acted purposely, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.
-2. Kinds of Culpability Defined.
+(1) Minimum Requirements of Culpability. Except as provided in Section 2.05, a person is not guilty of an offense unless he acted purposely, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.
+
+(2) Kinds of Culpability Defined.
 
 <p style="margin-left:7%; margin-right:10%;">(a) <b>Purposely.</b></p>
 <p style="margin-left:7%; margin-right:10%;">A person acts purposely with respect to a material element of an offense when:</p>
@@ -250,11 +246,12 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:7%; margin-right:10%;">(d) <b>Negligently.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
 
-**American Law Institute comment to MPC section 2.02** (169-70)
+**American Law Institute comment to MPC section 2.02** (pp. 169-70)
 [Section 2.02] expresses the Code’s basic requirement that unless some element of mental culpability is proved with respect to each material element of the offense, no valid criminal conviction may be obtained.  
 
 <p style="margin-left:7%; margin-right:10%;"><b>Purpose and knowledge:</b> narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results.</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Recklessness:</b> conscious risk creation. Recklessness resembles knowledge in that there is awareness, but the awareness is of risk. The risk must be substantial and unjustifiable. To warrant a finding of culpability, “the jury [must] be asked to measure the substantiality and unjustifiability of the risk by asking whether its disregard, given the actor’s perceptions, involved a gross deviation from the standard of conduct that a law-abiding person in the actor’s situation would observe” (p. 171).</p>
+
 <p style="margin-left:7%; margin-right:10%;"><b>Negligence:</b> different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Offense Silent as to Culpability:</b> unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
 
@@ -286,9 +283,8 @@ The following definitions are applicable to this chapter:
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is not required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).</p>
 
-**Presumptions of interpretation (that may be rebutted): Mens rea modifying terms**
-
-What terms does the mens rea word modify? (1) Presume modify all terms: **NYPL Sec. 15.15(1)** “When one and only one of such terms appears in a statute defining an offense …”, **MPC 2.02(4)** “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature); (2) Maybe not modify attendant circumstances.
+**Presumptions of interpretation (that may be rebutted): Mens rea modifying terms:** What terms does the mens rea word modify? (1) Presume modify all terms: **NYPL 15.15** last sentence – “When one and only one of such terms appears in a
+statute defining an offense, it is presumed to apply to every element of the offense unless an intent to limit its application clearly appears”; **MPC 2.02 (4)** “Prescribed Culpability Requirement Applies to All Material Elements. When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears." (2) Maybe not modify attendant circumstances.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b>Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I were going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
 
