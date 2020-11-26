@@ -412,7 +412,9 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 <p style="margin-left:5%; margin-right:10%;">(c) Such factual mistake is of a kind that supports a defense of justification as defined in article thirty-five of this chapter.</p>
 
 (2) A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.
+
 (3) Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the age of a child is an element thereof, knowledge by the defendant of the age of such child is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the age of the child or believed such age to be the same as or greater than that specified in the statute.
+
 (4) Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the aggregate weight of a controlled substance or marihuana is an element, knowledge by the defendant of the aggregate weight of such controlled substance or marihuana is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the aggregate weight of the controlled substance or marihuana.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:></b> If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.</p>
@@ -445,34 +447,53 @@ QUESTION 4 2016 EXAM!!!! Tax code – mistake of law - Donny
 **People v. Marrero | Court of appeals of NY 1987**
 
 Statute: “peace officer” defined as including “correction officers of any state correctional facility or of any penal correction institution”
-        Marrero says that he falls within this category. What was his job and why does he think he fits in this definition? Marrero works in a federal institution. He thinks that falls into the category of “any penal correction institution.” The court said no, that’s not what that statute says. At this point the court is accepting that Marrero read the statute wrong and that the court’s interpretation of the statute did not include federal (there’s a footnote but we just have to accept the court is right in that it does not include federal).
-        Marrero argues that the statute is ambiguous. Marrero refers to NYPL Section 15.20 (2) where it says that you don’t have a mistake of law defense unless it’s a misinterpretation of the statute: “(2) A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.”
-        **Rule:**
-        To figure out what the NYPL means, the court looks at the MPC – it has very similar language but MPC has an extra requirement that he “acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous”
-        In People v. Marrero, NY court reads MPC into NYPL, because otherwise NYPL would be too broad. Even though the NYPL had different language than the MPC, it must have meant what the MPC meant as a matter of policy because if anyone in NY who read the statute would have had such a big defense, then it would be written into the statute.
-        You do NOT have a mistake defense if you read the law wrong following consultation with a lawyer, a professor, or a prosecutor. The statute says it’s a defense only if it is a statement officially made. A court decision, an AG statement. This is a very narrow exception. If you rely upon an interpretation from a trial court and you rely upon that and you’re arrested but later that law is reversed before you’re prosecuted, you would have a defense that you acted in reliance upon that lower court decision.
 
-      **Lambert v. California | U.S. Supreme Court 1957**
-        Lambert arrested for failing to register as a felon in Los Angeles. She had been in jail for two years. Said she did not know about the felon registration requirement.
-        Issue: Whether the ordinance requiring felons to register violates due process because it creates a strict liability offense.
-        These three elements were required to override the rule that ignorance of law is no defense:
-          1. It was a malum prohibitum offense (only a crime because something prohibited by statute, i.e. jaywalking and running a stoplight); and
-          2. It punished an omission; and
-          3. The duty to act was based on a status that wouldn’t alert an ordinary law-abiding person to the need to register (they didn’t create the duty to act)
-        Holding: The strict liability offense violates due process because it punishes felons for being wholly passive. The US Supreme court held that Los Angeles’s strict liability crime for a felon to fail to register with the police chief violated due process because it criminalized wholly passive conduct and there was no evidence that felons would be aware of that legal requirement.
-        Reasoning: usually, the law comports with due process, but here the strict liability offense did not because the ordinance did not include notification. A reasonable person could not be expected to be on notice of the law.
-        Judgment: reversed.
-        Note: Lambert is a kind of unique case, but this is good to know; this is one instance where ignorance of the law is a defense
+Marrero says that he falls within this category. What was his job and why does he think he fits in this definition? Marrero works in a federal institution. He thinks that falls into the category of “any penal correction institution.” The court said no, that’s not what that statute says. At this point the court is accepting that Marrero read the statute wrong and that the court’s interpretation of the statute did not include federal (there’s a footnote but we just have to accept the court is right in that it does not include federal).
 
-      **Cheek v. United States 1991** (tax case)
-        Rule: If the government proves defendant had actual knowledge of the legal duty imposed, then the element of knowledge of the willfulness requirement is satisfied. 
-        Statute: Section 7201: Any person “who willfully attempts in any manner to evade or defeat any tax imposed by this title or the payment thereof” shall be guilty of a felony” (Title 26, 7201 of the USC)
-        Holding: The court found that Cheek was reasonable in believing that he did not have to pay taxes. The key is the word “willfully” – the court read the statute and saw that it required “willfully.” The court held that even if unreasonable, an objective belief could negate the mens rea requirement of the willfulness element of the statute. Therefore, the court reversed case because the statute has the word “willfully” that serves a mens rea purpose, needed to find guilt.
-          - Willfulness is the “voluntary, intentional violation of a known legal duty” – so the language in the statute actually requires a knowledge of the law; the court uses a definition of “willfully” from precedent U.S. v. Bishop (p. 224).
-          - It all goes back to the statute; the statute requires the “known legal duty;” knowingly does not have to be reasonably. It requires actual awareness; a “known legal duty;” the expectation that a reasonable person should know the law is not there.
-        Tax laws do not require that it be reasonable; the mens rea of tax laws don’t require reasonableness; they require knowledge of law; this is because tax laws are complex so higher threshold.
-        This is very rare; but the legislature can make a law require knowledge of law in, for example, the cases of tax codes.
-        Marrero was told that his reading of the law was unreasonable. Here we have Cheek who got information from the internet. Cheek does not depend on MPC
+Marrero argues that the statute is ambiguous. Marrero refers to NYPL Section 15.20 (2) where it says that you don’t have a mistake of law defense unless it’s a misinterpretation of the statute: “(2) A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.”
+
+**Rule:**
+To figure out what the NYPL means, the court looks at the MPC – it has very similar language but MPC has an extra requirement that he “acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous”
+
+In People v. Marrero, NY court reads MPC into NYPL, because otherwise NYPL would be too broad. Even though the NYPL had different language than the MPC, it must have meant what the MPC meant as a matter of policy because if anyone in NY who read the statute would have had such a big defense, then it would be written into the statute.
+
+You do NOT have a mistake defense if you read the law wrong following consultation with a lawyer, a professor, or a prosecutor. The statute says it’s a defense only if it is a statement officially made. A court decision, an AG statement. This is a very narrow exception. If you rely upon an interpretation from a trial court and you rely upon that and you’re arrested but later that law is reversed before you’re prosecuted, you would have a defense that you acted in reliance upon that lower court decision.
+
+**Lambert v. California | U.S. Supreme Court 1957**
+
+Lambert arrested for failing to register as a felon in Los Angeles. She had been in jail for two years. Said she did not know about the felon registration requirement.
+
+Issue: Whether the ordinance requiring felons to register violates due process because it creates a strict liability offense.
+
+These three elements were required to override the rule that ignorance of law is no defense:
+1. It was a malum prohibitum offense (only a crime because something prohibited by statute, i.e. jaywalking and running a stoplight); and
+2. It punished an omission; and
+3. The duty to act was based on a status that wouldn’t alert an ordinary law-abiding person to the need to register (they didn’t create the duty to act)
+
+Holding: The strict liability offense violates due process because it punishes felons for being wholly passive. The US Supreme court held that Los Angeles’s strict liability crime for a felon to fail to register with the police chief violated due process because it criminalized wholly passive conduct and there was no evidence that felons would be aware of that legal requirement.
+
+Reasoning: usually, the law comports with due process, but here the strict liability offense did not because the ordinance did not include notification. A reasonable person could not be expected to be on notice of the law.
+
+Judgment: reversed.
+
+Note: Lambert is a kind of unique case, but this is good to know; this is one instance where ignorance of the law is a defense
+
+**Cheek v. United States 1991** (tax case)
+
+Rule: If the government proves defendant had actual knowledge of the legal duty imposed, then the element of knowledge of the willfulness requirement is satisfied. 
+
+Statute: Section 7201: Any person “who willfully attempts in any manner to evade or defeat any tax imposed by this title or the payment thereof” shall be guilty of a felony” (Title 26, 7201 of the USC)
+
+Holding: The court found that Cheek was reasonable in believing that he did not have to pay taxes. The key is the word “willfully” – the court read the statute and saw that it required “willfully.” The court held that even if unreasonable, an objective belief could negate the mens rea requirement of the willfulness element of the statute. Therefore, the court reversed case because the statute has the word “willfully” that serves a mens rea purpose, needed to find guilt.
+
+- Willfulness is the “voluntary, intentional violation of a known legal duty” – so the language in the statute actually requires a knowledge of the law; the court uses a definition of “willfully” from precedent U.S. v. Bishop (p. 224).
+- It all goes back to the statute; the statute requires the “known legal duty;” knowingly does not have to be reasonably. It requires actual awareness; a “known legal duty;” the expectation that a reasonable person should know the law is not there.
+
+Tax laws do not require that it be reasonable; the mens rea of tax laws don’t require reasonableness; they require knowledge of law; this is because tax laws are complex so higher threshold.
+
+This is very rare; but the legislature can make a law require knowledge of law in, for example, the cases of tax codes.
+
+Marrero was told that his reading of the law was unreasonable. Here we have Cheek who got information from the internet. Cheek does not depend on MPC
 
       **Mistake of law mens rea example**
         Jurisdiction A statute: A person is guilty of murder if she/he intentionally kills a human being.
