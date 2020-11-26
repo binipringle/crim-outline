@@ -121,38 +121,26 @@ If it is a result crime, we do not need to prove causation.
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A defendant may not be convicted of attempt unless the defendant intentionally commits an act tending to the commission of a crime, which is so near to accomplishment of the crime that in all reasonable probability the crime itself would have been committed but for timely interference. (This becomes the dangerous proximity test)</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>State v. Jack Sawyer (2018)</b> (planned a shooting at former high school; question is whether was attempting to commit a crime)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Jack Sawyer (2018)</b> (planned a shooting at former high school; question is whether was attempting to commit a crime) (No dangerous proximity [<i>see Rizzo</i>])</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Intent to commit a crime is not sufficient for conviction of attempt to commit a crime; if there is no actus reus there is no crime (my rule)</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The Vermont Supreme Court held that “the weight of the evidence is not great that defendant has committed any act or combination of acts that would satisfy Vermont’s definition of an attempt to commit any of the charged crimes.” (No dangerous proximity [see Rizzo])</p>
-
 ## 2. Voluntary Act OR Omission of Duty
-
-Voluntary Act steps of analaysis
-1. Rule synthesize (including definition and case “rules out”)
-2. Cases
-3. Hypos
-
-Omission + Duty steps of analysis
-1. Rule synthesis (including definition and 5 scenarios)
-2. Cases
-3. Hypos (underneath each hypo)
 
 **NYPL Section 15.00:** Voluntary Act
 
 “Voluntary act” means a bodily movement performed consciously as a result of effort or determination and includes the possession of property if the actor was aware of his physical possession or control thereof for a sufficient period to have been able to terminate it.
 
 **MPC Section 2.01 (1)** Requirement of Voluntary Act
-1. A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable.
-2. The following are not voluntary acts within the meaning of this Section:
+(1) A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable.
+(2) The following are not voluntary acts within the meaning of this Section:
 
 <p style="margin-left:7%; margin-right:10%;">(a) a reflex or convulsion;</p>
 <p style="margin-left:7%; margin-right:10%;">(b) a bodily movement during unconsciousness or sleep;</p>
 <p style="margin-left:7%; margin-right:10%;">(c) conduct during hypnosis or resulting from hypnotic suggestion;</p>
 <p style="margin-left:7%; margin-right:10%;">(d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.</p>
 
-Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor K in the face” and you punched him, this would still be a voluntary act.
+Coercion does not make something involuntary. If someone said, “I’m going to shoot you unless you punch Prof K in the face” and you punched prof K, your act in punching him would be a voluntary act.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Martin v State (1944)</b> (involuntarily and forcibly taken onto public highway by law enforcement officers after being arrested)</p>
 
@@ -162,21 +150,15 @@ Coercion does not make something involuntary. If somebody says, “I’m going t
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The definition of voluntary does not have any knowledge requirement. </p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
-
-<p style="margin-left:10%; margin-right:10%;"> Person was knocked unconscious, kidnapped and brought to the United States. Person is arrested and charged with entering or being in the United States without proper documentation.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Person was knocked unconscious, kidnapped and brought to the United States. Person is arrested and charged with entering or being in the United States without proper documentation.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person is not voluntarily in a public place that person cannot be unlawfully in a public place (my rule, I think). </p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
-
-<p style="margin-left:10%; margin-right:10%;"> Defendant is charged with “intending to assassinate the President.” Defendant confesses to intending to assassinate the President.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Defendant is charged with “intending to assassinate the President.” Defendant confesses to intending to assassinate the President.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person expressed intent in a way that signifies harm to society, is not deterred by threat of sanction, and has demonstrated an identifiable occurrence of acts following from thoughts, the person should be punished for intending to assassinate the President. </p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
-
-<p style="margin-left:10%; margin-right:10%;"> California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict. Issue is whether someone can be criminalized for being an addict.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict. Issue is whether someone can be criminalized for being an addict.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The U.S. Constitution forbids punishment for a mere status </p>
 
@@ -185,7 +167,7 @@ Coercion does not make something involuntary. If somebody says, “I’m going t
 **Omission + Duty**
 
 Law/statute imposes duty when a person:
-- has a certain status relationship with the victim (i.e., child, elderly parent, maybe spouse; if adult sibling, no duty to care.)
+- has a certain status relationship with the victim (i.e., child, elderly parent, maybe spouse; if adult sibling, no duty to care)
 - assumed contractual duty of care
 - voluntarily assumed duty of care
 - creates risk of harm to another
@@ -202,21 +184,17 @@ Liability for the commission of an offense may not be based on an omission unacc
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If there is no status relationship there is no duty to act to protect an infant or child unless there is (1) assumed contractual duty of care, (2) voluntarily assumed duty of care, or (3) the risk of harm to another created by the defendant.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b> (p. 146)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard. (p. 146)</p>
 
-<p style="margin-left:10%; margin-right:10%;">David Cash walked into a restroom and saw his close friend Jeffrey Strohmeyer struggling with a seven-year-old girl in a bathroom stall. Cash walked away. Strohmeyer raped and killed the girl. Las Vegas police said Cash did nothing wrong by failing to stop the crime or report it to a nearby casino security guard.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If I burned down my house I would have a duty to rescue people</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person creates a risk of harm to another, the person who created the risk has a duty to care for the person at risk</p>
 
-<p style="margin-left:10%; margin-right:10%;">Where one creates a risk of harm to another: if I burned down my house I would have a duty to rescue people</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Prof K drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b>In order to punish a person for an omission, the person must owe a legal duty to the victim.</p>
 
-<p style="margin-left:10%; margin-right:10%;">Professor K drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.</p>
-
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
-
-<p style="margin-left:10%; margin-right:10%;">Barry was walking on the Coney Island boardwalk around 8 pm. No lifeguards were on duty. Suddenly, he heard frantic splashing and yelling. To his horror, a swimmer seemed to be floundering badly about 100 yards out in the water. A crowd of stricken onlookers were beginning to approach, several grumbling about having no cellphone service this far out on the beach. Seeing that he had full cell service, Barry loudly announced to the crowd, “Don’t worry, everyone, I’m calling 911 right now!” But before he could place the call, he was hit with an unstoppable craving for a hot dog. Barry left the scene, went to Nathan’s, and ordered a chili dog. While he was waiting for his food, the swimmer in the ocean drowned.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Barry was walking on the Coney Island boardwalk around 8 pm. No lifeguards were on duty. Suddenly, he heard frantic splashing and yelling. To his horror, a swimmer seemed to be floundering badly about 100 yards out in the water. A crowd of stricken onlookers were beginning to approach, several grumbling about having no cellphone service this far out on the beach. Seeing that he had full cell service, Barry loudly announced to the crowd, “Don’t worry, everyone, I’m calling 911 right now!” But before he could place the call, he was hit with an unstoppable craving for a hot dog. Barry left the scene, went to Nathan’s, and ordered a chili dog. While he was waiting for his food, the swimmer in the ocean drowned.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> In New York, Barry would not satisfy the second element (voluntary act/omission plus legal duty)of actus reus</p>
 
@@ -285,6 +263,10 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:7%; margin-right:10%;"><b>Negligence:</b> different in that negligence does not require awareness. When a person inadvertently creates a substantial and unjustifiable risk of which he ought to be aware; and his failure to perceive [the risk] is a gross deviation from the care that would be exercised by a reasonable person in his situation (p. 171).</p>
 <p style="margin-left:7%; margin-right:10%;"><b>Offense Silent as to Culpability:</b> unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).</p>
 
+**MPC Section 2.02 (7)** proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly" than the MPC.
+
+Under **NYPL**, knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly."
+
 ## New York Penal Law Mens Rea
 
 **NYPL Section 15.05: Culpability; definitions of culpable mental states**
@@ -305,10 +287,6 @@ The following definitions are applicable to this chapter:
 
 <p style="margin-left:10%; margin-right:10%;"><b>Note:</b> Under Missouri law, endangering welfare of a child is if a person “knowingly encourages, aids or causes a child less than 17 years old to engage in any conduct [which tends to injure a child’s welfare].” (Here, Nations was found not guilty because she was not aware of the age of the dancer; in NY she also would have been found not guilty).</p>
 
-**MPC Section 2.02 (7)** proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. The Revised Statutes of Missouri have a narrower definition of “knowingly" than the MPC.
-
-Under **NYPL**, knowledge requires awareness. If the NY legislature wanted to make someone guilty of this crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly."
-
 <p style="margin-left:7%; margin-right:10%;"><b>State v. Miles (2017)</b> (Appellant said he did not know there were more than four grams of oxycodone in the package he picked up)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is not required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).</p>
@@ -322,8 +300,6 @@ What terms does the mens rea word modify? (1) Presume modify all terms: **NYPL S
 <p style="margin-left:10%; margin-right:10%;">Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I am going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b>A lot of courts would say that “intentionally” does not modify dwelling house; that it only modifies breaking and entering. In the Miles case, the morphine etc. was not modified by knowingly. Dwelling house and morphine are attendant circumstances. See <b>NYPL 220.20</b> subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)</p>
-
-## General Issues in Proving Culpability: Intent
 
 ## General and Specific Intent
 
@@ -360,9 +336,7 @@ If it has any of these, the idea is that those crimes were to be punished more s
 
 <p style="margin-left:10%; margin-right:10%;"><b>Application:</b> Here, intent was inferred by “[T]he surrounding circumstances, the use of a bottle, the absence of warning and the force of the blow are facts from which the jury could reasonably infer the intent to cause permanent disability."</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>People v. Navarro (1979)</b> (defendant took four beams of wood from a construction site) <i>This case is also in Mistake of Fact</i></p>
-
-<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> This is a case where the common law approach to mens rea is gone into. Common law mens rea: most common definition (3rd one)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Navarro (1979)</b> (defendant took four beams of wood from a construction site) <i>This case is also in Mistake of Fact</i>(Note: This is a case where the common law approach to mens rea is gone into.)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> General intent: Any mental state that relates solely to the acts that constitute the criminal offense. Ex. “knowingly hit.” Specific intent: Contains a special mental element required beyond the element required beyond the mental state.</p>
 
