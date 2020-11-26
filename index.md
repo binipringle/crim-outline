@@ -152,7 +152,7 @@ Omission + Duty steps of analysis
 <p style="margin-left:7%; margin-right:10%;">(c) conduct during hypnosis or resulting from hypnotic suggestion;</p>
 <p style="margin-left:7%; margin-right:10%;">(d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.</p>
 
-Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor Kirchmeier in the face” and you punched him, this would still be a voluntary act.
+Coercion does not make something involuntary. If somebody says, “I’m going to shoot you unless you punch Professor K in the face” and you punched him, this would still be a voluntary act.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Martin v State (1944)</b> (involuntarily and forcibly taken onto public highway by law enforcement officers after being arrested)</p>
 
@@ -166,17 +166,17 @@ Coercion does not make something involuntary. If somebody says, “I’m going t
 
 <p style="margin-left:10%; margin-right:10%;"> Person was knocked unconscious, kidnapped and brought to the United States. Person is arrested and charged with entering or being in the United States without proper documentation.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> If a person is not voluntarily in a public place that person cannot be unlawfully in a public place (my rule, I think). </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person is not voluntarily in a public place that person cannot be unlawfully in a public place (my rule, I think). </p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
 
-<p style="margin-left:10%; margin-right:10%;"> Person is charged with “intending to assassinate the President.” Person confesses to intending to assassinate the President.</p>
+<p style="margin-left:10%; margin-right:10%;"> Defendant is charged with “intending to assassinate the President.” Defendant confesses to intending to assassinate the President.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If Person expressed intent in a way that signifies harm to society, is not deterred by threat of sanction, and has demonstrated an identifiable occurrence of acts following from thoughts, Person should be punished for intending to assassinate the President. </p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person expressed intent in a way that signifies harm to society, is not deterred by threat of sanction, and has demonstrated an identifiable occurrence of acts following from thoughts, the person should be punished for intending to assassinate the President. </p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></P>
 
-<p style="margin-left:10%; margin-right:10%;"> California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict <i>(this confuses me; is the act whereby the person became an addict important because it involves committing a different crime?)</i> Issue is whether someone can be criminalized for being an addict.</p>
+<p style="margin-left:10%; margin-right:10%;"> California had a statute that permitted a person to be convicted for the “status” of being an addict, without requiring proof of any act whereby that person became an addict. Issue is whether someone can be criminalized for being an addict.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The U.S. Constitution forbids punishment for a mere status </p>
 
@@ -184,11 +184,11 @@ Coercion does not make something involuntary. If somebody says, “I’m going t
 
 **Omission + Duty**
 
-Law/statute imposes duty when:
-- Certain status relationships (generally, there is a duty to care for children, elderly person. Might go as far as spouse. If -adult sibling, no duty to care.)
-- Assumed contractual duty of care
-- Voluntarily assumed duty of care
-- Person creates risk of harm to another
+Law/statute imposes duty when a person:
+- has a certain status relationship with the victim (i.e., child, elderly parent, maybe spouse; if adult sibling, no duty to care.)
+- assumed contractual duty of care
+- voluntarily assumed duty of care
+- creates risk of harm to another
 
 **MPC Section 2.01 (3)** Omission as Basis of Liability
 
@@ -212,7 +212,7 @@ Liability for the commission of an offense may not be based on an omission unacc
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:10%; margin-right:10%;">Professor Kirchmeier drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.</p>
+<p style="margin-left:10%; margin-right:10%;">Professor K drowning; illustrates the bystander effect, and also if you try to save them you might drown too. You can’t be penalized for not acting.</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
@@ -221,20 +221,23 @@ Liability for the commission of an offense may not be based on an omission unacc
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> In New York, Barry would not satisfy the second element (voluntary act/omission plus legal duty)of actus reus</p>
 
 **Justifications for the common law approach to punishing people for omissions (pp. 146-7)**
+
 - Punishing people for omission increases the risk of convicting morally innocent persons
 - Difficult line-drawing questions arise: for example, if a person is dying of a knife wound in a city street and 100 people walk by, who should be punished for omission?
 - Bystander effect: everyone thinks someone else is going to help
-- Issue of freedom: A penal law that prohibits an individual from X (i.e. killing another person) permits that individual to do anything other than X. In contrast, a law that requires a person to do Y (e.g. help a bystander) bars that person from doing anything other than Y. (I don’t understand this).
+- Issue of freedom: A penal law that prohibits an individual from X (i.e. killing another person) permits that individual to do anything other than X. In contrast, a law that requires a person to do Y (e.g. help a bystander) bars that person from doing anything other than Y.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Kitty Genovese case</b> (young woman coming home late at night, attacked, neighbors yelled, walked away)</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b> (see slide) (someone in hallway shouting help vicious dog and I don’t want to get up and stop watching TV. Am I legally responsible?)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> No, because ...</p>
+<p style="margin-left:10%; margin-right:10%;">Person in hallway shouting help vicious dog. Prof K in apartment, does want to get up and stop watching TV. Is Prof K legally responsible? No, he's not.)</p>
 
-<p style="margin-left:10%; margin-right:10%;"> What if I’m standing with door open and I‘m looking and person is running towards open door and I slam it?</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> There is no criminal liability for failure to act unless there is a legal duty to act.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Yes, I'm responsible because it’s a voluntary act, so the Voluntary act element of actus reus is satisfied. <i>This doesn’t mean that there is a crime.</i></p>
+<p style="margin-left:10%; margin-right:10%;">Same situation, but Prof K is standing with door open and looking. Person is running towards the open door chased by vicious dog, and Prof K slams the door closed. Is Prof K legally responsible? Yes, because slamming the door was a voluntary act.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Answer:</b> If a person performs a voluntary act that results in harm to another person, the voluntary act element of actus reus is satisfied. (This doesn’t mean that there's a crime)</p>
 
 **Distinguishing Acts from omissions**
 
