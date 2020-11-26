@@ -207,15 +207,13 @@ Liability for the commission of an offense may not be based on an omission unacc
 
 <p style="margin-left:7%; margin-right:10%;"><b>Kitty Genovese case</b> (young woman coming home late at night, attacked, neighbors yelled, walked away)</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
-
-<p style="margin-left:10%; margin-right:10%;">Person in hallway shouting help vicious dog. Prof K in apartment, does want to get up and stop watching TV. Is Prof K legally responsible? No, he's not.)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b>Person in hallway shouting help vicious dog. Prof K in apartment, does want to get up and stop watching TV. Is Prof K legally responsible? No, he's not.)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> There is no criminal liability for failure to act unless there is a legal duty to act.</p>
 
-<p style="margin-left:10%; margin-right:10%;">Same situation, but Prof K is standing with door open and looking. Person is running towards the open door chased by vicious dog, and Prof K slams the door closed. Is Prof K legally responsible? Yes, because slamming the door was a voluntary act.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b>Same situation, but Prof K is standing with door open and looking. Person is running towards the open door chased by vicious dog, and Prof K slams the door closed. Is Prof K legally responsible? Yes, because slamming the door was a voluntary act.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Answer:</b> If a person performs a voluntary act that results in harm to another person, the voluntary act element of actus reus is satisfied. (This doesn’t mean that there's a crime)</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person performs a voluntary act that results in harm to another person, the voluntary act element of actus reus is satisfied. (This doesn’t mean that there's a crime)</p>
 
 **Distinguishing Acts from omissions**
 
@@ -295,9 +293,7 @@ The following definitions are applicable to this chapter:
 
 What terms does the mens rea word modify? (1) Presume modify all terms: **NYPL Sec. 15.15(1)** “When one and only one of such terms appears in a statute defining an offense …”, **MPC 2.02(4)** “Prescribed Culpability Requirement applies to all Material Elements” (unless the Court can divine a contrary purpose from the legislature); (2) Maybe not modify attendant circumstances.
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
-
-<p style="margin-left:10%; margin-right:10%;">Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I am going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b>Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I were going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b>A lot of courts would say that “intentionally” does not modify dwelling house; that it only modifies breaking and entering. In the Miles case, the morphine etc. was not modified by knowingly. Dwelling house and morphine are attendant circumstances. See <b>NYPL 220.20</b> subsection 4: Mens rea and Attendant Circumstances: “It is a felony to cause …. “ (drat! Switched slide)</p>
 
@@ -338,7 +334,7 @@ If it has any of these, the idea is that those crimes were to be punished more s
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Navarro (1979)</b> (defendant took four beams of wood from a construction site) <i>This case is also in Mistake of Fact</i>(Note: This is a case where the common law approach to mens rea is gone into.)</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> General intent: Any mental state that relates solely to the acts that constitute the criminal offense. Ex. “knowingly hit.” Specific intent: Contains a special mental element required beyond the element required beyond the mental state.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> General intent: any mental state that relates solely to the acts that constitute the criminal offense, i.e. “knowingly hit.” Specific intent: Contains a special mental element required beyond the element required beyond the mental state.</p>
 
 ## Transferred intent
 
@@ -348,13 +344,11 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 **Definition:** When a D intends to cause harm to one person but accidentally causes the same harm to another, courts typically rely on a “legal fiction” known as the “transferred intent” doctrine. Under classic formulation of common law doctrine of transferred intent, D’s guilt is “exactly what it would have been had the blow fallen upon the intended victim instead of the bystander.” (p. 165) "Peculiarly mischievous legal fiction" because it assumes D (1) could escape liability for murder if there were no transferred intent doctrine, and (2) had mens rea in relation to intended V (there is no requirement of an unlawful attempt to kill an intended victim; here, Common law speaks in terms of an unlawful attempt to kill a person, not the person intended to be killed). Also, result of crime can change. For example,
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> P threw rock at X, intending to strike him with it. P missed X, but rock hit a window and broke it. If P charged with “intentional injury to property,” should prosecutor be able to transfer intent to hit X to the window?</p>
 
-<p style="margin-left:10%; margin-right:10%;">P threw rock at X, intending to strike him with it. P missed X, but rock hit a window and broke it. If P charged with “intentional injury to property,” should prosecutor be able to transfer intent to hit X to the window?</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b></p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
-
-<p style="margin-left:10%; margin-right:10%;">What happens if bullet hits intended victim and another victim? Courts have applied doctrine to two counts of murder based on one intent to kill. (lots more hypos on pp 166-167)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> What happens if bullet hits intended victim and another victim? Courts have applied doctrine to two counts of murder based on one intent to kill. (lots more hypos on pp 166-167)</p>
 
 ## Strict Liability
 
@@ -386,9 +380,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Courts should only read a mens rea requirement into a statutory rape law if the legislature clearly intended one.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> Defendant was required to know the age of Erica Frazier when he had sexual intercourse with her to be guilty of second degree rape under the “statutory rape” law of Maryland (Maryland Code [1957, 1992 Repl.Vol.] Article 27, Section 463). Judgment was Affirmed.</p>
-
-<p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b> The Court finds that Maryland’s rape statute does not omit mens rea because it is was generally understood to be a minimum requirement for culpability at the time the statute was written and therefore would be read in (200); instead, the Court finds that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> The Court finds that Maryland’s rape statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
 
 ## Mistake of Fact
 
@@ -397,66 +389,64 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 (1) If no specific intent or other special mental element is required for guilt of the offense (general intent), a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds.
 (2) If the offense is a specific intent crime, a good faith mistake of fact can be a defense when it negates the mens rea requirement. 
 
-    **People v. Navarro | Appellate Department of the Los Angeles County Superior Court 1979**
-      Navarro took four wooden beams from a construction site. Was convicted of petty theft for stealing four beams (205).
-      Theft: “every person who shall feloniously steal … the personal property of another … is guilty of theft”
-      Issue: Whether the defendant should be acquitted [of petty theft] if there is a reasonable doubt that he had a good faith belief that the property had been abandoned or that he had the permission of the owner to take the property, even if the defendant’s good faith belief was objectively unreasonable (206).¬
-      **Rule:** “If no specific intent or other special mental element is required for guilt of the offense charged, a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds” (207)
-      Holding: The defendant should not be convicted [of petty theft] because there is a reasonable doubt that he had a good faith belief that the property had been abandoned or that he had the permission of the owner to take the property (206).
-      Judgment: Reversed.
-      Reasoning: The relevant statute says that anyone who steals another person’s property with a felonious motive is guilty of theft. At trial, Navarro proposed jury instructions saying that if he took the wood beams with the good faith belief they were abandoned or that he had permission to take them, he was not guilty of theft, even if his good faith belief was unreasonable. The court instead instructed the jury that if Navarro took the wood beams with the good faith belief that they were abandoned or that he had permission to take them, he was not guilty of theft as long as his good faith belief was reasonable. The court held that the lower court was wrong in requiring reasonableness.
-      The court pointed out that in California, the mistake of fact defense is permissible in general intent crimes but not in specific intent crimes.
-      Note: Larceny is a specific intent crime because it requires that you trespass with the intent of in the future stealing the personal property of another person. Larceny: “trespassory taking and carrying away of the personal property of another with the intent to steal the property.”
-      Why would a higher specific intent crime sometimes be preferred by the defense? Because more is required to prove a specific intent crime because the penalty is more severe.
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Navarro (1979)</b> (convicted of petty theft for stealing four beams from a construction site) (p. 205)</p>
 
-  **Model Penal Code Section 2.04. Ignorance or Mistake.**
-      1. Ignorance or mistake as to a matter of fact or law is a defense if:
-      (a) the ignorance or mistake negatives the purpose, knowledge, belief, recklessness or negligence required to establish a material element of the offense;  or
-      (b) the law provides that the state of mind established by such ignorance or mistake constitutes a defense.
-      2. Although ignorance or mistake would otherwise afford a defense to the offense charged, the defense is not available if the defendant would be guilty of another offense had the situation been as he supposed.  In such case, however, the ignorance or mistake of the defendant shall reduce the grade and degree of the offense of which he may be convicted to those of the offense of which he would be guilty had the situation been as he supposed.
-      3. A belief that conduct does not legally constitute an offense is a defense to a prosecution for that offense based upon such conduct when:
-      (a) the statute or other enactment defining the offense is not known to the actor and has not been published or otherwise reasonably made available prior to the conduct alleged;  or
-      (b) he acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous, contained in (i) a statute or other enactment;  (ii) a judicial decision, opinion or judgment;  (iii) an administrative order or grant of permission;  or (iv) an official interpretation of the public officer or body charged by law with responsibility for the interpretation, administration or enforcement of the law defining the offense.
-      4. The defendant must prove a defense arising under Subsection (3) of this Section by a preponderance of evidence.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b>If no specific intent or other special mental element is required for guilt of the offense charged, a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds.  (p. 207)</p>
 
-  **NYPL Section 15.20 Effect of ignorance or mistake upon liability** (says in negative so a little harder we have to flip around)
-    1. A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief of fact, unless:
-      (a) Such factual mistake negatives the culpable mental state required for the commission of an offense; or
-      (b) The statute defining the offense or a statute related thereto expressly provides that such factual mistake constitutes a defense or exemption; or
-      (c) Such factual mistake is of a kind that supports a defense of justification as defined in article thirty-five of this chapter.
-    2. A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.
-    3. Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the age of a child is an element thereof, knowledge by the defendant of the age of such child is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the age of the child or believed such age to be the same as or greater than that specified in the statute.
-    4. Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the aggregate weight of a controlled substance or marihuana is an element, knowledge by the defendant of the aggregate weight of such controlled substance or marihuana is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the aggregate weight of the controlled substance or marihuana.
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> Larceny is a specific intent crime because it requires that you trespass with the intent of in the future stealing the personal property of another person. Larceny: “trespassory taking and carrying away of the personal property of another with the intent to steal the property.”</p>
 
-  **Hypo**
+**Model Penal Code Section 2.04. Ignorance or Mistake.**
 
-    If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.
+(1) Ignorance or mistake as to a matter of fact or law is a defense if:
+<p style="margin-left:7%; margin-right:10%;">(a) the ignorance or mistake negatives the purpose, knowledge, belief, recklessness or negligence required to establish a material element of the offense;  or</p>
+<p style="margin-left:7%; margin-right:10%;">(b) the law provides that the state of mind established by such ignorance or mistake constitutes a defense.</p>
+(2) Although ignorance or mistake would otherwise afford a defense to the offense charged, the defense is not available if the defendant would be guilty of another offense had the situation been as he supposed.  In such case, however, the ignorance or mistake of the defendant shall reduce the grade and degree of the offense of which he may be convicted to those of the offense of which he would be guilty had the situation been as he supposed.
+(3) A belief that conduct does not legally constitute an offense is a defense to a prosecution for that offense based upon such conduct when:
+<p style="margin-left:7%; margin-right:10%;">(a) the statute or other enactment defining the offense is not known to the actor and has not been published or otherwise reasonably made available prior to the conduct alleged;  or</p>
+<p style="margin-left:7%; margin-right:10%;">(b) he acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous, contained in (i) a statute or other enactment;  (ii) a judicial decision, opinion or judgment;  (iii) an administrative order or grant of permission;  or (iv) an official interpretation of the public officer or body charged by law with responsibility for the interpretation, administration or enforcement of the law defining the offense.
+(4) The defendant must prove a defense arising under Subsection (3) of this Section by a preponderance of evidence.</p>
 
-    If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.
+**NYPL Section 15.20 Effect of ignorance or mistake upon liability** (says in negative so a little harder we have to flip around)
+1. A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief of fact, unless:
 
-  **Perjury hypo**
-        A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”
-        Hint: use definition of “knowingly”
+<p style="margin-left:5%; margin-right:10%;">(a) Such factual mistake negatives the culpable mental state required for the commission of an offense; or</p>
+<p style="margin-left:5%; margin-right:10%;">(b) The statute defining the offense or a statute related thereto expressly provides that such factual mistake constitutes a defense or exemption; or</p>
+<p style="margin-left:5%; margin-right:10%;">(c) Such factual mistake is of a kind that supports a defense of justification as defined in article thirty-five of this chapter.</p>
 
-  **Hypo**
-        R charged with “recklessly causing serious physical injury to another by means of a deadly weapon” after he shot and wounded V with a rifle. Defendant claims did not know gun was loaded. What would you need to define to determine if a defendant has a mistake of fact defense?
-        Recklessly. Look at NYPL definition of recklessly. Did I know there was a risk? Was this a gross deviation from what a reasonable person could be expected to believe? You’d have to analyze and see. In NYPL and MPC all you have to look at is whether the offense satisfies the mens rea terms. Here, it would focus largely on whether I was aware there was a risk that the gun was loaded – defense could say there’s always a risk with a gun.
+2. A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.
+3. Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the age of a child is an element thereof, knowledge by the defendant of the age of such child is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the age of the child or believed such age to be the same as or greater than that specified in the statute.
+4. Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the aggregate weight of a controlled substance or marihuana is an element, knowledge by the defendant of the aggregate weight of such controlled substance or marihuana is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the aggregate weight of the controlled substance or marihuana.
 
-  **Strict liability crimes and mistake of fact**
-      When may a defendant have a mistake of fact defense to a strict liability crime? (slide)
-      You can’t. There is no mens rea to negate. Garnett case. He tried to argue that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court said no, it’s strict liability, so there is no mens rea and your not knowing is irrelevant.
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:></b> If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If no specific intent or other special mental element is required for guilt of the offense charged, a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds.  (p. 207)</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Perjury Hypo:></b>A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Hint:></b> use definition of “knowingly”</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:></b> R charged with “recklessly causing serious physical injury to another by means of a deadly weapon” after he shot and wounded V with a rifle. Defendant claims did not know gun was loaded. What would you need to define to determine if a defendant has a mistake of fact defense?
+
+<p style="margin-left:10%; margin-right:10%;"><b>Analysis:></b> Look at NYPL definition of recklessly. Did I know there was a risk? Was this a gross deviation from what a reasonable person could be expected to believe? You’d have to analyze and see. In NYPL and MPC all you have to look at is whether the offense satisfies the mens rea terms. Here, it would focus largely on whether I was aware there was a risk that the gun was loaded – defense could say there’s always a risk with a gun.</p>
+
+**Strict liability crimes and mistake of fact**
+
+When may a defendant have a mistake of fact defense to a strict liability crime? (slide) You can’t. There is no mens rea to negate. Garnett case. He tried to argue that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court said no, it’s strict liability, so there is no mens rea and your not knowing is irrelevant.
 
 ## Mistake of Law
 
-  Three types of mistake of law issues
-    1. Mistake/ignorance of law as penal law exception (Marrero)
-    2. Mistake/ignorance of law as a constitutional claim (Lambert)
-    3. Mistake/ignorance of law as a mens rea issue (Cheek)
+Three types of mistake of law issues
+1. Mistake/ignorance of law as penal law exception (Marrero)
+2. Mistake/ignorance of law as a constitutional claim (Lambert)
+3. Mistake/ignorance of law as a mens rea issue (Cheek)
 
-    QUESTION 4 2016 EXAM!!!! Tax code – mistake of law - Donny
+QUESTION 4 2016 EXAM!!!! Tax code – mistake of law - Donny
 
-      **People v. Marrero | Court of appeals of NY 1987**
-        Statute: “peace officer” defined as including “correction officers of any state correctional facility or of any penal correction institution”
+**People v. Marrero | Court of appeals of NY 1987**
+
+Statute: “peace officer” defined as including “correction officers of any state correctional facility or of any penal correction institution”
         Marrero says that he falls within this category. What was his job and why does he think he fits in this definition? Marrero works in a federal institution. He thinks that falls into the category of “any penal correction institution.” The court said no, that’s not what that statute says. At this point the court is accepting that Marrero read the statute wrong and that the court’s interpretation of the statute did not include federal (there’s a footnote but we just have to accept the court is right in that it does not include federal).
         Marrero argues that the statute is ambiguous. Marrero refers to NYPL Section 15.20 (2) where it says that you don’t have a mistake of law defense unless it’s a misinterpretation of the statute: “(2) A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.”
         **Rule:**
