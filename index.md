@@ -52,16 +52,15 @@
 <p style="margin-left:7%; margin-right:10%;"><b>In Re Banks (1978)</b> (Peeping Tom)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a statute is too vague or indefinite or too broad, it violates due process.</p>
-<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth. It also gives an individual fair notice of the conduct prohibited, to guide the judge in its application and a law in defending one charged with its violation.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the statute is not unconstitutional because it is sufficiently definitive and does not meet the doctrine of overbreadth.</p>
+
 <p style="margin-left:10%; margin-right:10%;"><b>Reasoning:</b>Here, court reads “secretly” as “the wrongful spying upon a female with the intent of violating the female’s legitimate expectation of privacy.” Important principle that comes out is that a court may narrow and thus save a statute from being unconstitutional, because of this prior judicial interpretation. Steps:</p>
 
-1. Interpret statute (Does statute violate due process?)
-2. Is statute too vague or not definite enough or overbroad?
-3. If it is too vague, can it be saved by judicial interpretation?
+<p style="margin-left:15%; margin-right:10%;">1. Interpret statute (Does statute violate due process?)</p>
+<p style="margin-left:15%; margin-right:10%;">2. Is statute too vague or not definite enough or overbroad?</p>
+<p style="margin-left:15%; margin-right:10%;">3. If it is too vague, can it be saved by judicial interpretation?</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo</b></p>
-
-<p style="margin-left:10%; margin-right:10%;"> Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Criminal impersonation (ignorance of the law would not be a defense because the statute is written/enacted therefore there is notice); however, the law as stated here is vague and does not specify impersonation of whom of what.</p>
 
 **Overbroad**
 
