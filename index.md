@@ -66,11 +66,9 @@
 
 <p style="margin-left:7%; margin-right:10%;"><b>Keeler v. Superior Court (1970)</b> (struck pregnant ex-wife in belly intending to kill fetus, charged with murder)</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> It is not for the court to define murder. Once legislature defined murder the court can interpret it</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> It is not for the court to define murder. Once legislature defined murder the court can interpret it.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process.</p>
-
-<p style="margin-left:10%; margin-right:10%;"><b>Dissent argues</b> definition of corpse has changed and definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i></p>
+<p style="margin-left:10%; margin-right:10%;"><b>Notes:</b> The court held that the CA murder statute was not intended to include fetuses in the definition of human being because to apply it as if it did, would broaden the definition and exceed judicial power. It would also not provide fair warning to the defendant regarding the illegality of the said acts and would violate his constitutional right due process. The dissent argued that the definition of corpse has changed and the definition of human being has changed; in Keeler the court applied some kind of lenity doctrine so that they wouldn’t expand the definition of human being. <i>Legislature did not change the definition of human being but changed the law to include fetuses as well.</i></p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>In Re Banks</b> (Peeping Tom law not overbroad)</p>
 
