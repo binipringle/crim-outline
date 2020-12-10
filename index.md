@@ -303,9 +303,7 @@ statute defining an offense, it is presumed to apply to every element of the off
 
 <p style="margin-left:7%; margin-right:10%;"><b>How to recognize general intent in a statute/sentence:</b> mens rea term + conduct; for example, "knowingly break," "intentionally steal.""</p>
 
-**Specific intent:** This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition).
-
-Specific intent crimes were ones which required a  a special mental element (these elevate the crime) of intent or purposely or knowingly or with recklessness or negligence or something like that, required beyond the mental state for the act of the offense. For example:
+**Specific intent:** This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition). Specific intent crimes were ones which required a  a special mental element (these elevate the crime) of intent or purposely or knowingly or with recklessness or negligence or something like that, required beyond the mental state for the act of the offense. For example:
 
 - Intent to commit a future act (i.e. assault with intent to kill);
 - A special motive or purpose (i.e. humiliation – we see this in hate crimes); or
@@ -333,9 +331,7 @@ If the statute has any of these, the idea is that those crimes were to be punish
 
 ## Transferred intent
 
-Only applies in Model Penal Code jurisdictions!
-
-Transferred intent is built into NY second-degree murder statute **NYPL Section 125.25**
+Only applies in Model Penal Code jurisdictions! Transferred intent is built into NY second-degree murder statute **NYPL Section 125.25**
 
 **Definition:** When a D intends to cause harm to one person but accidentally causes the same harm to another, courts typically rely on a “legal fiction” known as the “transferred intent” doctrine. Under classic formulation of common law doctrine of transferred intent, D’s guilt is “exactly what it would have been had the blow fallen upon the intended victim instead of the bystander.” (p. 165) "Peculiarly mischievous legal fiction" because it assumes D (1) could escape liability for murder if there were no transferred intent doctrine, and (2) had mens rea in relation to intended V (there is no requirement of an unlawful attempt to kill an intended victim; here, Common law speaks in terms of an unlawful attempt to kill a person, not the person intended to be killed). Also, result of crime can change. For example,
 
@@ -349,14 +345,14 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 **Factors to consider for finding strict liability** (factors that may lead a court to conclude that a statute does not require mens rea):
 
-- Statutory interpretation principles;
+- statutory interpretation principles;
 - congressional purpose;
-- Statute omits mention of mens rea;
-- Policy (i.e. public welfare offense);
-- The standard is reasonable and proper to expect people to follow;
-- The penalty is relatively small;
-- The crime does not carry a heavy stigma.
-- Common law treatment of the crime – sometimes the court will look at how the courts handled the crime in the past.
+- statute omits mention of mens rea;
+- policy (i.e. public welfare offense);
+- the standard is reasonable and proper to expect people to follow;
+- the penalty is relatively small;
+- the crime does not carry a heavy stigma.
+- common law treatment of the crime – sometimes the court will look at how the courts handled the crime in the past.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Morisette v. United States (U.S. Supreme Court 1952)</b> (Morisette took spent bomb casings from a bombing range, which he flattened and sold)</p>
 
@@ -422,7 +418,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 <p style="margin-left:10%; margin-right:10%;"><b>Note:</b> If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Perjury Hypo:</b>A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”</p>
+<p style="margin-left:7%; margin-right:10%;"><b> Perjury Hypo:</b>A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Hint:</b> use definition of “knowingly”</p>
 
@@ -434,7 +430,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 Mistake of fact is an affirmative defense (an affirmative defense is a defense in which the defendant introduces evidence, which, if found to be credible, will negate criminal liability even if it is proven that the defendant committed the alleged acts).
 
-<p style="margin-left:7%; margin-right:10%;"><b>Garnett case:</b> 20-year old defendant with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant) <i> See also Garnett under statutory interpretation, where there is a different rule.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Garnett case:</b> 20-year old defendant with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant) <i> See also Garnett under statutory interpretation, where there is a different rule.</i></p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A defendant cannot have a mistake of fact defense to a strict liability crime because there is no mens rea to negate.</p>
 
