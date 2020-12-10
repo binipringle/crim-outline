@@ -284,8 +284,12 @@ The following definitions are applicable to this chapter:
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow Rule:</b> Knowing the specific kind of illegal drug being transported when transporting more than four grams of oxycodone is not required for conviction of the crime of illegal drug trafficking as defined by section 44-53-370(e) of the South Carolina Code (179).</p>
 
-**Presumptions of interpretation (that may be rebutted): Mens rea modifying terms:** What terms does the mens rea word modify? (1) Presume modify all terms: **NYPL 15.15** last sentence – “When one and only one of such terms appears in a
-statute defining an offense, it is presumed to apply to every element of the offense unless an intent to limit its application clearly appears”; **MPC 2.02 (4)** “Prescribed Culpability Requirement Applies to All Material Elements. When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears." (2) Maybe not modify attendant circumstances.
+**Presumptions of interpretation (that may be rebutted): Mens rea modifying terms:**  
+
+*Presume modify all terms:* **NYPL 15.15** last sentence – “When one and only one of such terms appears in a
+statute defining an offense, it is presumed to apply to every element of the offense unless an intent to limit its application clearly appears”
+
+*Maybe not modify attendant circumstances:* **MPC 2.02 (4)** “Prescribed Culpability Requirement Applies to All Material Elements. When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears."
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b>Going back to the burglary statute, “intentionally breaking and entering the dwelling house of another.” Suppose I were going to break into a dwelling house of another, but I thought it was a shed. I have the actus reus elements – I broke, I entered, it was a dwelling house, but I didn’t know it was a dwelling house.</p>
 
@@ -297,7 +301,7 @@ statute defining an offense, it is presumed to apply to every element of the off
 
 **General intent:** Any mental state that relates solely to the acts that constitute the criminal offense (in Common Law, a general intent crime would be only to show that someone was acting wickedly in the general sense; that was sufficient).
 
-<p><b><i>How to recognize general intent in a statute/sentence:</b></i> mens rea term + conduct; for example, "knowingly break," "intentionally steal.""</p>
+<p style="margin-left:7%; margin-right:10%;"><b>How to recognize general intent in a statute/sentence:</b> mens rea term + conduct; for example, "knowingly break," "intentionally steal.""</p>
 
 **Specific intent:** This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition).
 
