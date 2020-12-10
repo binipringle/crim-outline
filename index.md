@@ -248,7 +248,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:7%; margin-right:10%;">(d) <b>Negligently.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
 
-**Selected American Law Institute comments to MPC section 2.02** (pp. 169-70)
+**Selected American Law Institute comments to MPC section 2.02:** (pp. 169-70)
 
 **Purpose and knowledge:** Narrow distinction; in both purpose and knowledge there is knowledge. Knowledge is awareness that conduct is of a certain nature or that it will cause certain results.
 
@@ -297,7 +297,7 @@ statute defining an offense, it is presumed to apply to every element of the off
 
 **General intent:** Any mental state that relates solely to the acts that constitute the criminal offense (in Common Law, a general intent crime would be only to show that someone was acting wickedly in the general sense; that was sufficient).
 
-*How to recognize general intent in a statute/sentence:* mens rea term + conduct; for example, "knowingly break," "intentionally steal.""
+<p><b><i>How to recognize general intent in a statute/sentence:</b></i> mens rea term + conduct; for example, "knowingly break," "intentionally steal.""</p>
 
 **Specific intent:** This is not used by NYPL; this is history (different courts applied different definitions for “specific intent;” no universal definition).
 
@@ -344,6 +344,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 ## Strict Liability
 
 **Factors to consider for finding strict liability** (factors that may lead a court to conclude that a statute does not require mens rea):
+
     - Statutory interpretation principles;
     - congressional purpose;
     - Statute omits mention of mens rea;
@@ -417,17 +418,23 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 <p style="margin-left:10%; margin-right:10%;"><b>Note:</b> If I truly believe the person I killed was not a human being but a ghost and did not have the awareness that the person is a human being, then I am not guilty because I don’t have the mens rea. Supposing the jury believes that I really believed it was a ghost. In NY you don’t have to look for specific intent because you just look at the mens rea – the definition of knowingly sec 15.05. How do you know what somebody actually knew? It is essentially up to the jury.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Perjury Hypo:></b>A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Perjury Hypo:</b>A government official is guilty of a crime if “she or he knowingly makes a false statement to the public about a hurricane”</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Hint:></b> use definition of “knowingly”</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Hint:</b> use definition of “knowingly”</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo:></b> R charged with “recklessly causing serious physical injury to another by means of a deadly weapon” after he shot and wounded V with a rifle. Defendant claims did not know gun was loaded. What would you need to define to determine if a defendant has a mistake of fact defense?</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> R charged with “recklessly causing serious physical injury to another by means of a deadly weapon” after he shot and wounded V with a rifle. Defendant claims did not know gun was loaded. What would you need to define to determine if a defendant has a mistake of fact defense?</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Analysis:></b> Look at NYPL definition of recklessly. Did I know there was a risk? Was this a gross deviation from what a reasonable person could be expected to believe? You’d have to analyze and see. In NYPL and MPC all you have to look at is whether the offense satisfies the mens rea terms. Here, it would focus largely on whether I was aware there was a risk that the gun was loaded – defense could say there’s always a risk with a gun.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b> Look at NYPL definition of recklessly. Did I know there was a risk? Was this a gross deviation from what a reasonable person could be expected to believe? You’d have to analyze and see. In NYPL and MPC all you have to look at is whether the offense satisfies the mens rea terms. Here, it would focus largely on whether I was aware there was a risk that the gun was loaded – defense could say there’s always a risk with a gun.</p>
 
 **Strict liability crimes and mistake of fact**
 
-A defendant cannot have a mistake of fact defense to a strict liability crime? There is no mens rea to negate (Garnett case - (20-year old defendant with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape; argued that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court determined that the legislative intent was not to include mens rea. Therefore, the offense was strict liability, so no mens rea).
+Mistake of fact is an affirmative defense (an affirmative defense is a defense in which the defendant introduces evidence, which, if found to be credible, will negate criminal liability even if it is proven that the defendant committed the alleged acts).
+
+<p style="margin-left:7%; margin-right:10%;"><b>Garnett case:</b> 20-year old defendant with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant) <i> See also Garnett under statutory interpretation, where there is a different rule.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A defendant cannot have a mistake of fact defense to a strict liability crime because there is no mens rea to negate.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Notes:</b> Defendant was found guilty of second degree rape under the “statutory rape” law of Maryland. Defendant argued that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court determined that the legislative intent was not to include mens rea. Therefore, the offense was strict liability. No mens rea was required, and the statute did not allow for the affirmative defense of mistake of fact.</p>
 
 ## Mistake of Law
 
