@@ -556,7 +556,7 @@ i.	If there was an intervening cause, analyze the chain of causation.
 
 **Apparent safety (victim) doctrine:** When a D’s active force has come to rest in a position of apparent safety, the court will follow it no longer (238) (People v. Rideout: V had come to rest in a position of apparent safety on the side of the road when they went to check on D.)
 
-- Voluntary human intervention: Free, deliberate and informed human intervention by interventor (State v. Presler - woman who freezes to death)
+Voluntary human intervention: Free, deliberate and informed human intervention by interventor (State v. Presler - woman who freezes to death)
 
 **Factors that weigh in favor of finding defendant WAS a proximate cause** (i.e. these generally do not break the chain of causation)
 
