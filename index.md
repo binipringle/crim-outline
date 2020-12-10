@@ -77,7 +77,9 @@ Courts must interpret ambiguous statutory terms according to legislative intent.
 <p style="margin-left:10%; margin-right:10%;"><b>Notes:</b> Defendant was found guilty of second degree rape under the “statutory rape” law of Maryland. No mens rea was required, and the statute did not allow for the affirmative defense of mistake of fact. The Court found that the statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
 
 Mens rea modifying terms: look at **NYPL 15.15** last sentence – “When one and only one of such terms appears in a
-statute defining an offense, it is presumed to apply to every element of the offense unless an intent to limit its application clearly appears.” Also look at **MPC 2.02 (4)** “Prescribed Culpability Requirement Applies to All Material Elements. When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears."
+statute defining an offense, it is presumed to apply to every element of the offense unless an intent to limit its application clearly appears.”
+
+Also look at **MPC 2.02 (4)** “Prescribed Culpability Requirement Applies to All Material Elements. When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears."
 
 ## Lenity doctrine
 
