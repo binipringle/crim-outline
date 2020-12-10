@@ -407,7 +407,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 (4) Notwithstanding the use of the term “knowingly” in any provision of this chapter defining an offense in which the aggregate weight of a controlled substance or marihuana is an element, knowledge by the defendant of the aggregate weight of such controlled substance or marihuana is not an element of any such offense and it is not, unless expressly so provided, a defense to a prosecution therefor that the defendant did not know the aggregate weight of the controlled substance or marihuana.
 
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo:></b> If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If I were out walking in the week of Halloween with my baseball bat and I really truly believe in ghosts, and someone says “who” and I think they said “boo” so I hit the ghost but it turns out to be a person. It was my mistaken belief that the person who was before me was a ghost. I didn’t have the intent to kill a human being. Remember the Nations case where she thought the dancer was not underage; the firearm case; the statutory rape case; these are mistake of fact cases; they didn’t know.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If no specific intent or other special mental element is required for guilt of the offense charged, a mistake of fact will not be recognized as an excuse unless it was based upon reasonable grounds.  (p. 207)</p>
 
@@ -423,7 +423,7 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 **Strict liability crimes and mistake of fact**
 
-When may a defendant have a mistake of fact defense to a strict liability crime? (slide) You can’t. There is no mens rea to negate. Garnett case. He tried to argue that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court said no, it’s strict liability, so there is no mens rea and your not knowing is irrelevant.
+A defendant cannot have a mistake of fact defense to a strict liability crime? There is no mens rea to negate (Garnett case - (20-year old defendant with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant; charged with statutory rape; argued that there was a mens rea requirement in the statute so he could say he didn’t know and argue mistake of fact. Court determined that the legislative intent was not to include mens rea. Therefore, the offense was strict liability, so no mens rea).
 
 ## Mistake of Law
 
@@ -434,159 +434,140 @@ Three types of mistake of law issues
 
 QUESTION 4 2016 EXAM!!!! Tax code – mistake of law - Donny
 
-**People v. Marrero | Court of appeals of NY 1987**
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Marrero | Court of appeals of NY 1987</b>(Federal corrections officer arrested at a Manhattan social club for carrying a gun which he believed he was legally allowed to carry in NY)</p>
 
-Statute: “peace officer” defined as including “correction officers of any state correctional facility or of any penal correction institution”
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b>You do NOT have a mistake of law defense if you read the law wrong based on good faith and/or consultation with a lawyer, a professor, or a prosecutor. A mistake of law defense is only allowable if it is based on a statement officially made.</p>
 
-Marrero says that he falls within this category. What was his job and why does he think he fits in this definition? Marrero works in a federal institution. He thinks that falls into the category of “any penal correction institution.” The court said no, that’s not what that statute says. At this point the court is accepting that Marrero read the statute wrong and that the court’s interpretation of the statute did not include federal (there’s a footnote but we just have to accept the court is right in that it does not include federal).
+<p style="margin-left:10%; margin-right:10%;"><b>Statute:</b>NYPL Section 15.20</b>(2) A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.</p>
 
-Marrero argues that the statute is ambiguous. Marrero refers to NYPL Section 15.20 (2) where it says that you don’t have a mistake of law defense unless it’s a misinterpretation of the statute: “(2) A person is not relieved of criminal liability for conduct because he engages in such conduct under a mistaken belief that it does not, as a matter of law, constitute an offense, unless such mistaken belief is founded upon an official statement of the law contained in (a) a statute or other enactment, or (b) an administrative order or grant of permission, or (c) a judicial decision of a state or federal court, or (d) an interpretation of the statute or law relating to the offense, officially made or issued by a public servant, agency or body legally charged or empowered with the responsibility or privilege of administering, enforcing or interpreting such statute or law.”
+<p style="margin-left:10%; margin-right:10%;"><b>Statutory interpretation:</b>NY court reads MPC into NYPL, because otherwise NYPL would be too broad. Even though the NYPL had different language than the MPC, it must have meant what the MPC meant as a matter of policy because if anyone in NY who read the statute would have had such a big defense, then this big defense would be written into the statute. NYPL has very similar language to MPC but MPC has an extra requirement that the defendant “acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous”</p>
 
-**Rule:**
-To figure out what the NYPL means, the court looks at the MPC – it has very similar language but MPC has an extra requirement that he “acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous”
+<p style="margin-left:7%; margin-right:10%;"><b>Lambert v. California (1957)</b>(Lambert arrested for failing to register as a felon in Los Angeles. She had been in jail for two years. Said she did not know about the felon registration requirement.)</p>
 
-In People v. Marrero, NY court reads MPC into NYPL, because otherwise NYPL would be too broad. Even though the NYPL had different language than the MPC, it must have meant what the MPC meant as a matter of policy because if anyone in NY who read the statute would have had such a big defense, then it would be written into the statute.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A strict liability offense violates due process if it criminalizes wholly passive conduct.</p>
 
-You do NOT have a mistake defense if you read the law wrong following consultation with a lawyer, a professor, or a prosecutor. The statute says it’s a defense only if it is a statement officially made. A court decision, an AG statement. This is a very narrow exception. If you rely upon an interpretation from a trial court and you rely upon that and you’re arrested but later that law is reversed before you’re prosecuted, you would have a defense that you acted in reliance upon that lower court decision.
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b>These three elements were required to override the rule that ignorance of law is no defense:</p>
+<p style="margin-left:13%; margin-right:10%;">(1) It was a malum prohibitum offense (only a crime because something prohibited by statute, i.e. jaywalking and running a stoplight); and</p>
+<p style="margin-left:13%; margin-right:10%;">(2) It punished an omission; and</p>
+<p style="margin-left:13%; margin-right:10%;">(3) The duty to act was based on a status that wouldn’t alert an ordinary law-abiding person to the need to register (they didn’t create the duty to act)</p>
+<p style="margin-left:10%; margin-right:10%;">(Lambert is a kind of unique case, but this is good to know; this is one instance where ignorance of the law is a defense.</p>
 
-**Lambert v. California | U.S. Supreme Court 1957**
+<p style="margin-left:7%; margin-right:10%;"><b>Cheek v. United States (1991)</b> (tax case)</p>
 
-Lambert arrested for failing to register as a felon in Los Angeles. She had been in jail for two years. Said she did not know about the felon registration requirement.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> To satisfy the element of knowledge of a willfulness requirement in a tax law, the government must prove that the defendant had actual knowledge of the legal duty imposed by the tax law. The mens rea of tax laws do not require that a defendant's interpretation of tax laws be reasonable. The mens rea of tax laws require knowledge of law (this is because tax laws are complex so there is a higher threshold). </p>
 
-Issue: Whether the ordinance requiring felons to register violates due process because it creates a strict liability offense.
+<p style="margin-left:10%; margin-right:10%;"><b>Statute:</b> Any person “who willfully attempts in any manner to evade or defeat any tax imposed by this title or the payment thereof ... shall be guilty of a felony." (Title 26, 7201 of the USC)</p>
 
-These three elements were required to override the rule that ignorance of law is no defense:
-1. It was a malum prohibitum offense (only a crime because something prohibited by statute, i.e. jaywalking and running a stoplight); and
-2. It punished an omission; and
-3. The duty to act was based on a status that wouldn’t alert an ordinary law-abiding person to the need to register (they didn’t create the duty to act)
+<p style="margin-left:10%; margin-right:10%;"><b>Statutory interpretation:</b> Willfulness is the “voluntary, intentional violation of a known legal duty” so the language in the statute actually requires a knowledge of the law; in Cheek, the court uses a definition of “willfully” from precedent U.S. v. Bishop (p. 224). The court held that even if unreasonable, an objective belief could negate the mens rea requirement of the willfulness element of the statute. Therefore, the court reversed case because the statute has the word “willfully” that serves a mens rea purpose, needed to find guilt.</p>
 
-Holding: The strict liability offense violates due process because it punishes felons for being wholly passive. The US Supreme court held that Los Angeles’s strict liability crime for a felon to fail to register with the police chief violated due process because it criminalized wholly passive conduct and there was no evidence that felons would be aware of that legal requirement.
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> This is very rare; but the legislature can make a law require knowledge of law in, for example, the cases of tax codes. (Marrero was told that his reading of the law was unreasonable. Here we have Cheek who got information from the internet. Cheek does not depend on MPC.)</p>
 
-Reasoning: usually, the law comports with due process, but here the strict liability offense did not because the ordinance did not include notification. A reasonable person could not be expected to be on notice of the law.
+**Mistake of law mens rea example**
 
-Judgment: reversed.
+Jurisdiction A statute: A person is guilty of murder if she/he intentionally kills a human being.
+Jurisdiction B statute: A person is guilty of murder if she/he intentionally kills a human being and knows that the killing is unlawful.
 
-Note: Lambert is a kind of unique case, but this is good to know; this is one instance where ignorance of the law is a defense
+<p style="margin-left:7%; margin-right:10%;"><b>Defund the police hypo:</b> Suppose we were in a room together, and Prof M told Prof K that because of the defund the police movement professors have the authority to arrest people, so K arrests everyone.</p>
 
-**Cheek v. United States 1991** (tax case)
+<p style="margin-left:10%; margin-right:10%;"><b>Statute:</b> "A person who willfully seizes, confines, inveigles, or kidnaps another, with intent to cause him, without authority of law, to be confined or imprisoned … within the stater … against his will … is guilty of kidnapping.""</p>
 
-Rule: If the government proves defendant had actual knowledge of the legal duty imposed, then the element of knowledge of the willfulness requirement is satisfied. 
+<p style="margin-left:10%; margin-right:10%;"><b>Statutory interpretation:</b> Willfully is the key word – Prof K did not willfully (“voluntary, intentional violation of a known legal duty”) violate the law – did not willfully ignore a known legal duty – did not know that he was without authority of law. Prosecution would have said that “without authority of law” is not modified by “willfully.”</p>
 
-Statute: Section 7201: Any person “who willfully attempts in any manner to evade or defeat any tax imposed by this title or the payment thereof” shall be guilty of a felony” (Title 26, 7201 of the USC)
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo C page 221:</b> On July 1, a state law requiring pharmacists to compile records of the names and addresses of all purchasers of Viagra, a prescription drug for erectile dysfunction. A pharmacist, unaware of the law (she was on an around-the-world vacation from January 1 until July 15), is prosecuted for her week-long recordkeeping omissions after she returned to work. Does <i>Lambert</I> protect her?</p>
 
-Holding: The court found that Cheek was reasonable in believing that he did not have to pay taxes. The key is the word “willfully” – the court read the statute and saw that it required “willfully.” The court held that even if unreasonable, an objective belief could negate the mens rea requirement of the willfulness element of the statute. Therefore, the court reversed case because the statute has the word “willfully” that serves a mens rea purpose, needed to find guilt.
-
-- Willfulness is the “voluntary, intentional violation of a known legal duty” – so the language in the statute actually requires a knowledge of the law; the court uses a definition of “willfully” from precedent U.S. v. Bishop (p. 224).
-- It all goes back to the statute; the statute requires the “known legal duty;” knowingly does not have to be reasonably. It requires actual awareness; a “known legal duty;” the expectation that a reasonable person should know the law is not there.
-
-Tax laws do not require that it be reasonable; the mens rea of tax laws don’t require reasonableness; they require knowledge of law; this is because tax laws are complex so higher threshold.
-
-This is very rare; but the legislature can make a law require knowledge of law in, for example, the cases of tax codes.
-
-Marrero was told that his reading of the law was unreasonable. Here we have Cheek who got information from the internet. Cheek does not depend on MPC
-
-      **Mistake of law mens rea example**
-        Jurisdiction A statute: A person is guilty of murder if she/he intentionally kills a human being.
-        Jurisdiction B statute: A person is guilty of murder if she/he intentionally kills a human being and knows that the killing is unlawful.
-
-      **Defund the police hypo**
-        Suppose we were in a room together, and M told K that because of the defund the police movement professors have the authority to arrest people, so supposingly K arrests everyone.
-        Statute: "A person who willfully seizes, confines, inveigles, or kidnaps another, with intent to cause him, without authority of law, to be confined or imprisoned … within the stater … against his will … is guilty of kidnapping.""
-        Willfully is the key word – Prof D did not willfully (“voluntary, intentional violation of a known legal duty”) violate the law – did not willfully ignore a known legal duty – did not know that he was without authority of law.
-        Prosecution would have said that “without authority of law” is not modified by “willfully.”
-
-      **Hypo C** (221)
-        Court would probably have upheld it because someone who is in a specialized field like a pharmacist would have been expected to know the regulations. It relates to having a duty; even though it’s an omission, it relates to people having a duty.
+<p style="margin-left:7%; margin-right:10%;"><b>Answer:</b> Court would probably have upheld it because someone who is in a specialized field like a pharmacist would have been expected to know the regulations. It relates to having a duty; even though it’s an omission, it relates to people having a duty.</p>
 
 # Causation
 
-  The reason causation is important is because the statute is prohibiting a result, not a conduct. If the statute prohibits a result, for fairness purposes, there has to be a connection established between the cause and the result.
+The reason causation is important is because the statute is prohibiting a result, not a conduct. If the statute prohibits a result, for fairness purposes, there has to be a connection established between the cause and the result.
 
-  Note that our focus is on common law rules still applied by the courts. Some causation in MPC but common law generally used.
+Note that our focus is on common law rules still applied by the courts. Some causation in MPC but common law generally used.
 
-    a.	Actual causation (cause-in-fact) was M cause? Yes
-    b.	Proximate causation – is it fair to hold M responsible?
+a.	Actual causation (cause-in-fact) was M cause? Yes
+b.	Proximate causation – is it fair to hold M responsible?
 
-  **Hypo**
-    Suppose a neighborhood not much traffic A B C D E driving around. E gets hit by a car. Nobody sees. Even E doesn’t see who hit him. Would it be fair to punish all of them? No.
-      Retributive reason: only one person deserves to be punished
-      Utilitarian reason could be that if we punish everyone they will all be more careful; but that would not be ok if punishment is severe for retributive reasons
+**Hypo**
+Suppose a neighborhood not much traffic A B C D E driving around. E gets hit by a car. Nobody sees. Even E doesn’t see who hit him. Would it be fair to punish all of them? No.
+Retributive reason: only one person deserves to be punished
+Utilitarian reason could be that if we punish everyone they will all be more careful; but that would not be ok if punishment is severe for retributive reasons
 
-  **Causation: steps of analysis**
+**Causation: steps of analysis**
 
-  ONE DEFENDANT AT A TIME: 1 defendant, 1 crime, 1 analysis. Then go on to the next. If one of the two big elements not satisfied, causation not satisfied.
+ONE DEFENDANT AT A TIME: 1 defendant, 1 crime, 1 analysis. Then go on to the next. If one of the two big elements not satisfied, causation not satisfied.
 
 ## 1. Actual causation (cause-in-fact)
 
-    **a. But-for test**
-      Rule: A defendant’s conduct is a cause-in-fact of the prohibited result if the said result would not have occurred “but for” (in the absence of) the defendant’s conduct (if satisfied move on to proximate cause)
-        i.	If the harm would not have occurred “but for” D’s conduct, the D is the actual cause (note that there may be more than 1 actual cause)
-        ii.	If the harm would have occurred but for D’s conduct, the D is not the actual cause
+**a. But-for test**
+Rule: A defendant’s conduct is a cause-in-fact of the prohibited result if the said result would not have occurred “but for” (in the absence of) the defendant’s conduct (if satisfied move on to proximate cause)
+1.	If the harm would not have occurred “but for” D’s conduct, the D is the actual cause (note that there may be more than 1 actual cause)
+2.	If the harm would have occurred but for D’s conduct, the D is not the actual cause
 
-    **b. Substantial factor test**
-        i.	If the D was a substantial factor in bringing about the result, then the D is an actual cause (narrow!)
-        ii.	Rule: Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (for analysis number and think through the pieces)
-          a.	If the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (move on to proximate cause)
-          b.	If the defendant was not a substantial factor in bringing about the result, then the defendant is not an actual cause.
+**b. Substantial factor test**
 
-    **c. Acceleration test** (variation on but-for test)
-        i.	Rule: If one person brings about an act sufficient to bring about a prohibited result, and the defendant performs an act that accelerates the prohibited result, the defendant is the actual cause.
-            a.	Narrower rule: A nonlethal injury inflicted by the D after a lethal injury inflicted by someone else is a cause in fact of the V’s death if it accelerates the V’s death.
+1. If the D was a substantial factor in bringing about the result, then the D is an actual cause (narrow!)
+2. Rule: Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (for analysis number and think through the pieces)
+(a)	If the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (move on to proximate cause)
+(b)If the defendant was not a substantial factor in bringing about the result, then the defendant is not an actual cause.
 
-    **Sometimes use substantial factor test first, before but for test**
-        (Velazquez case) Part 1 (when it applies)
-        **Rule:** Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result …
-            Then, you apply the substantial factor/inquiry test instead of the but for test …
-            Under this specific situation, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (Velasquez v. State)
-            For example, if both M and R shot K at the exact same time. But for M shooting K, would he not have died? K would have died anyway – same with R. This is when the substantial factor test would apply. Each act is sufficient to bring about K’s death. This test applies.
+**c. Acceleration test** (variation on but-for test)
+i.	Rule: If one person brings about an act sufficient to bring about a prohibited result, and the defendant performs an act that accelerates the prohibited result, the defendant is the actual cause.
+a.	Narrower rule: A nonlethal injury inflicted by the D after a lethal injury inflicted by someone else is a cause in fact of the V’s death if it accelerates the V’s death.
+
+**Sometimes use substantial factor test first, before but for test** (Velazquez case) Part 1 (when it applies)
+
+**Rule:** Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result …
+Then, you apply the substantial factor/inquiry test instead of the but for test …
+Under this specific situation, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (Velasquez v. State)
+For example, if both M and R shot K at the exact same time. But for M shooting K, would he not have died? K would have died anyway – same with R. This is when the substantial factor test would apply. Each act is sufficient to bring about K’s death. This test applies.
 
 ## 2. Proximate causation
 
-  **Proximate Cause analysis: are there any intervening cause(s)?**
-    Proximate cause is a fairness limitation for determining who among those that satisfy the but for standard should be held accountable for resulting harm.
+**Proximate Cause analysis: are there any intervening cause(s)?**
+Proximate cause is a fairness limitation for determining who among those that satisfy the but for standard should be held accountable for resulting harm.
 
-  **Rule:**
-      If there are no intervening causes, the D that is an actual cause is also said to be the proximate cause.
+**Rule:**
+If there are no intervening causes, the D that is an actual cause is also said to be the proximate cause.
 
-  **Coincidental/responsive test: steps**
-    i.	If there was an intervening cause, analyze the chain of causation.
-          1. identify intervening causes
-          2. determine whether each intervening cause is coincidental or responsive in relation to defendant’s act(s).
-          3. then,
-              - for coincidental, d is not a proximate cause if the intervening cause is unforeseeable.
-              - for responsive intervening causes (causes that are responsive in relation to D’s acts), D is not a proximate cause if the intervening cause is unforeseeable AND abnormal (Reasonable foreseeability - standard for determining whether an intervening cause supersedes - is whether the intervening cause was foreseeable based on an objective standard of reasonableness.)
+**Coincidental/responsive test: steps**
 
-  **Responsive intervening cause**
-    A responsive intervening cause happens in response to the D’s conduct  
-      i.	Was the responsive intervening cause unforeseeable and abnormal?
-    **Rule:** if a responsive intervening cause is unforeseeable and abnormal (abnormal would be, an exception to whatever happened every single time in the past 99.9 percent of the rule; would have to fall way outside the expected result), it supersedes the D’s conduct as the proximate cause of the prohibited result.
+i.	If there was an intervening cause, analyze the chain of causation.
+1. identify intervening causes
+2. determine whether each intervening cause is coincidental or responsive in relation to defendant’s act(s).
+3. then,
+- for coincidental, d is not a proximate cause if the intervening cause is unforeseeable.
+- for responsive intervening causes (causes that are responsive in relation to D’s acts), D is not a proximate cause if the intervening cause is unforeseeable AND abnormal (Reasonable foreseeability - standard for determining whether an intervening cause supersedes - is whether the intervening cause was foreseeable based on an objective standard of reasonableness.)
 
-  **Coincidental intervening cause**      
-    A coincidental intervening cause would have happened anyway;
-      i.	Was the coincidental intervening cause unforeseeable?
-    **Rule:** if a coincidental intervening cause is unforeseeable, it breaks the chain of causation.(unforeseeable is a pretty difficult test; coincidental intervening cause tends to break the chain of more easily than responsive ones)
+**Responsive intervening cause**
+A responsive intervening cause happens in response to the D’s conduct  
+i.	Was the responsive intervening cause unforeseeable and abnormal?
+**Rule:** if a responsive intervening cause is unforeseeable and abnormal (abnormal would be, an exception to whatever happened every single time in the past 99.9 percent of the rule; would have to fall way outside the expected result), it supersedes the D’s conduct as the proximate cause of the prohibited result.
 
-  **Proximate Cause factors/tests**
+**Coincidental intervening cause**      
+A coincidental intervening cause would have happened anyway;
+i.	Was the coincidental intervening cause unforeseeable?
+**Rule:** if a coincidental intervening cause is unforeseeable, it breaks the chain of causation.(unforeseeable is a pretty difficult test; coincidental intervening cause tends to break the chain of more easily than responsive ones)
 
-    **Factors that weigh in favor of finding defendant was NOT a proximate cause** (i.e. these break the chain of causation)
-      - Apparent safety (victim) doctrine:
-          When a D’s active force has come to rest in a position of apparent safety, the court will follow it no longer (238) (People v. Rideout: V had come to rest in a position of apparent safety on the side of the road when they went to check on D.)
-      - Voluntary human intervention:
-        Free, deliberate and informed human intervention by interventor (State v. Presler - woman who freezes to death)
+**Proximate Cause factors/tests**
 
-    **Factors that weigh in favor of finding defendant WAS a proximate cause** (i.e. these generally do not break the chain of causation)
-      - De minimis contribution by intervening cause (if a few seconds difference courts can say not superseding)
-      - Intended consequences of defendant doctrine (mother wanting to poison someone) (p. 241)
-      - Omissions by interventor – note 5 on page 241 (omissions are less likely to break the chain of causation)
+**Factors that weigh in favor of finding defendant was NOT a proximate cause** (i.e. these break the chain of causation)
+- Apparent safety (victim) doctrine:
+When a D’s active force has come to rest in a position of apparent safety, the court will follow it no longer (238) (People v. Rideout: V had come to rest in a position of apparent safety on the side of the road when they went to check on D.)
+- Voluntary human intervention:
+Free, deliberate and informed human intervention by interventor (State v. Presler - woman who freezes to death)
 
-    **Oxendine v. State | Supreme Court of Delaware, 1987**
-      Convicted of manslaughter in the beating death of his six-year-old son. Girlfriend had pushed Oxendine’s son into bathtub causing microscopic tears in intestines which led to peritonitis (inflammation of the peritoneum [membrane lining the cavity of the abdomen and folded over the viscera]). When Oxendine got home he saw Jeffrey had bruises. Early next morning Oxendine beat Jeffrey. Later that day Jeffrey’s abdomen became swollen. At 5 PM Oxendine got home, and Tyree urged him to take Jeffrey to the hospital. Instead, Oxendine went out and bought a newspaper. When Oxendine returned home, Tyree had got Jeffrey ready to go to the hospital. On the way to the hospital Jeffrey stopped breathing and when they got to the hospital he was dead. (228-9) The jury returned verdicts of manslaughter against Oxendine and Tyree. (230)
-      Issue: Whether the trial court committed error by denying Appellant’s motion for a judgment of acquittal on the issue of causation. Appellant argued that the State’s medical testimony was too vague and uncertain to show which of the codefendant’s repeated beatings caused the death. (228)
-      “But for” Test: But for the infliction of the second injury, would Jeffrey have died when he did? (231) The doctors are unclear. The case doesn’t pass the “but for” test.
-      **Rule:** If a person suffers a lethal injury, and the defendant subsequently inflicts a non-lethal injury that accelerates the death of the person, the defendant is an actual cause.
-      Holding: “The evidence upon causation was insufficient to sustain … conviction of manslaughter, but … the evidence was sufficient to sustain [Appellant’s] conviction of … assault in the second degree” (228)
-      Reasoning: There was acceleration, but Dr. Hoffman’s testimony that there was acceleration was not admitted because State had already closed the case-in-chief. It could not admit the prima facie case of Dr. Hoffman to support acceleration.
-      Judgment: Oxendine was convicted of assault in the second degree.
+**Factors that weigh in favor of finding defendant WAS a proximate cause** (i.e. these generally do not break the chain of causation)
+- De minimis contribution by intervening cause (if a few seconds difference courts can say not superseding)
+- Intended consequences of defendant doctrine (mother wanting to poison someone) (p. 241)
+- Omissions by interventor – note 5 on page 241 (omissions are less likely to break the chain of causation)
+
+**Oxendine v. State | Supreme Court of Delaware, 1987**
+Convicted of manslaughter in the beating death of his six-year-old son. Girlfriend had pushed Oxendine’s son into bathtub causing microscopic tears in intestines which led to peritonitis (inflammation of the peritoneum [membrane lining the cavity of the abdomen and folded over the viscera]). When Oxendine got home he saw Jeffrey had bruises. Early next morning Oxendine beat Jeffrey. Later that day Jeffrey’s abdomen became swollen. At 5 PM Oxendine got home, and Tyree urged him to take Jeffrey to the hospital. Instead, Oxendine went out and bought a newspaper. When Oxendine returned home, Tyree had got Jeffrey ready to go to the hospital. On the way to the hospital Jeffrey stopped breathing and when they got to the hospital he was dead. (228-9) The jury returned verdicts of manslaughter against Oxendine and Tyree. (230)
+Issue: Whether the trial court committed error by denying Appellant’s motion for a judgment of acquittal on the issue of causation. Appellant argued that the State’s medical testimony was too vague and uncertain to show which of the codefendant’s repeated beatings caused the death. (228)
+“But for” Test: But for the infliction of the second injury, would Jeffrey have died when he did? (231) The doctors are unclear. The case doesn’t pass the “but for” test.
+**Rule:** If a person suffers a lethal injury, and the defendant subsequently inflicts a non-lethal injury that accelerates the death of the person, the defendant is an actual cause.
+Holding: “The evidence upon causation was insufficient to sustain … conviction of manslaughter, but … the evidence was sufficient to sustain [Appellant’s] conviction of … assault in the second degree” (228)
+Reasoning: There was acceleration, but Dr. Hoffman’s testimony that there was acceleration was not admitted because State had already closed the case-in-chief. It could not admit the prima facie case of Dr. Hoffman to support acceleration.
+Judgment: Oxendine was convicted of assault in the second degree.
 
     **People v. Rideout | Court of Appeals of Michigan 2006**
       Rideout (D) driving SUV. Turns and drives into path of oncoming car driven by Reichelt. Reichelt’s car hits D’s SUV and comes to rest in the middle of the road. SUV came to rest on the side of the road. Reichelt and passenger Jonathan Kaiser not injured. They walk to D’s SUV on the side of the road to check on D. Spoke with D. Walked back to Reichalt’s car. Reichalt said he wanted to turn on the flashers and was standing next to his car when oncoming car driven by Tony Welch hit Keiser and killed him. D tested positive for alcohol. D was charged with operating a motor vehicle while intoxicated (OWI) or while visibly impaired (OWVI) and thereby causing death.
