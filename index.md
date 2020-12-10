@@ -517,18 +517,17 @@ a.	Narrower rule: A nonlethal injury inflicted by the D after a lethal injury in
 
 **Sometimes use substantial factor test first, before but-for test** (Velazquez case) Part 1 (when it applies)
 
-**Rule:** Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result …
-Then, you apply the substantial factor/inquiry test instead of the but-for test …
+**Rule:** (sorta) Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result … Then, you apply the substantial factor/inquiry test instead of the but-for test …
 Under this specific situation, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (Velasquez v. State)
-For example, if both M and R shot K at the exact same time. But for M shooting K, would he not have died? K would have died anyway – same with R. This is when the substantial factor test would apply. Each act is sufficient to bring about K’s death. This test applies.
+
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Suppose both M and R shot K at the exact same time. But for M shooting K, would he not have died? K would have died anyway – same with R. This is when the substantial factor test would apply. Each act is sufficient to bring about K’s death.</p>
 
 ## 2. Proximate causation
 
 **Proximate Cause analysis: are there any intervening cause(s)?**
 Proximate cause is a fairness limitation for determining who among those that satisfy the but for standard should be held accountable for resulting harm.
 
-**Rule:**
-If there are no intervening causes, the D that is an actual cause is also said to be the proximate cause.
+**Rule:** If there are no intervening causes, the D that is an actual cause is also said to be the proximate cause.
 
 **Coincidental/responsive test: steps**
 
@@ -555,11 +554,9 @@ i.	If there was an intervening cause, analyze the chain of causation.
 
 **Factors that weigh in favor of finding defendant was NOT a proximate cause** (i.e. these break the chain of causation)
 
-**Apparent safety (victim) doctrine:** When a D’s active force has come to rest in a position of apparent safety, the court will follow it no longer (238)
+**Apparent safety (victim) doctrine:** When a D’s active force has come to rest in a position of apparent safety, the court will follow it no longer (238) (People v. Rideout: V had come to rest in a position of apparent safety on the side of the road when they went to check on D.)
 
-(People v. Rideout: V had come to rest in a position of apparent safety on the side of the road when they went to check on D.)
-- Voluntary human intervention:
-Free, deliberate and informed human intervention by interventor (State v. Presler - woman who freezes to death)
+- Voluntary human intervention: Free, deliberate and informed human intervention by interventor (State v. Presler - woman who freezes to death)
 
 **Factors that weigh in favor of finding defendant WAS a proximate cause** (i.e. these generally do not break the chain of causation)
 
