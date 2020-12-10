@@ -349,14 +349,14 @@ Transferred intent is built into NY second-degree murder statute **NYPL Section 
 
 **Factors to consider for finding strict liability** (factors that may lead a court to conclude that a statute does not require mens rea):
 
-    - Statutory interpretation principles;
-    - congressional purpose;
-    - Statute omits mention of mens rea;
-    - Policy (i.e. public welfare offense);
-    - The standard is reasonable and proper to expect people to follow;
-    - The penalty is relatively small;
-    - The crime does not carry a heavy stigma.
-    - Common law treatment of the crime – sometimes the court will look at how the courts handled the crime in the past.
+- Statutory interpretation principles;
+- congressional purpose;
+- Statute omits mention of mens rea;
+- Policy (i.e. public welfare offense);
+- The standard is reasonable and proper to expect people to follow;
+- The penalty is relatively small;
+- The crime does not carry a heavy stigma.
+- Common law treatment of the crime – sometimes the court will look at how the courts handled the crime in the past.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Morisette v. United States (U.S. Supreme Court 1952)</b> (Morisette took spent bomb casings from a bombing range, which he flattened and sold)</p>
 
