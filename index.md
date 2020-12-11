@@ -12,6 +12,14 @@
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.</p>
 
+## Due process
+
+**Burden of proof**
+
+- The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
+- In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
+
+
 # Theories of Punishment
 
 **General:** (1) Why (and whether) the social institution of punishment is warranted; (2) What are the necessary conditions for criminal liability and punishment in particular cases; (3) What form and severity of punishment is appropriate for particular offenses and offender (p. 33).
@@ -37,13 +45,6 @@
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The court cannot create a crime; only the legislature can create a crime.</p>
 
 No punishment without law: <b>NYPL § 5.05 (3)</b> “The provisions of this chapter do not apply to or govern the construction of and punishment for any offense committed prior to the effective date of this chapter, or the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this chapter had not been enacted.”
-
-## Due process
-
-**Burden of proof**
-
-- The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
-- In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
 
 ## Statute may not be vague or overbroad
 
