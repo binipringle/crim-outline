@@ -4,10 +4,6 @@
 
 **Presumption of Innocence:** In NYPL and MPC this is implicit in burden of proof.
 
-**NYPL S 25.00 Defenses; burden of proof.** (1) When a "defense, " other than an "affirmative defense, " defined by statute is raised at a trial, the people have the burden of disproving such defense beyond a reasonable doubt. (2) When a defense declared by statute to be an "affirmative defense" is raised at a trial, the defendant has the burden of establishing such defense by a preponderance of the evidence.
-
-**MPC Sec. 2.01.  PROOF BEYOND A REASONABLE DOUBT:** All persons are presumed to be innocent and no person may be convicted of an offense unless each element of the offense is proved beyond a reasonable doubt.  The fact that he has been arrested, confined, or indicted for, or otherwise charged with, the offense gives rise to no inference of guilt at his trial.
-
 <p style="margin-left:7%; margin-right:10%;"><b>Owens v. State (1992)</b> (man sitting in non-moving car in private driveway while intoxicated)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If circumstances are inconsistent with any reasonable hypothesis of innocence, then a conviction upon circumstantial evidence may be sustained. While this may not prove guilt, it makes one of the two alternative inferences (guilty/not guilty)  less reasonable.</p>
@@ -19,6 +15,9 @@
 - The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
 - In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
 
+**NYPL S 25.00 Defenses; burden of proof.** (1) When a "defense, " other than an "affirmative defense, " defined by statute is raised at a trial, the people have the burden of disproving such defense beyond a reasonable doubt. (2) When a defense declared by statute to be an "affirmative defense" is raised at a trial, the defendant has the burden of establishing such defense by a preponderance of the evidence.
+
+**MPC Sec. 2.01.  PROOF BEYOND A REASONABLE DOUBT:** All persons are presumed to be innocent and no person may be convicted of an offense unless each element of the offense is proved beyond a reasonable doubt.  The fact that he has been arrested, confined, or indicted for, or otherwise charged with, the offense gives rise to no inference of guilt at his trial.
 
 # Theories of Punishment
 
