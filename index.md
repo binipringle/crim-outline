@@ -695,9 +695,10 @@ Our casebook organizes around: intentional homicides versus unintentional homici
 
 <p style="margin-left:10%; margin-right:10%;"><b>Narrow rule:</b> Under Virginia law, any interval of time between the forming of the intent to kill and the execution of that intent, which is of sufficient duration for the accused to be fully conscious of what he intended, is sufficient to support a conviction of first degree murder. (273)</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Morrin (note 3):</b> a reasonable person would have time to contemplate what they are doing; to premeditate is to think about beforehand; to deliberate is to measure and evaluate the major facets of a choice or problem … [although the time in not exact,] the interval between initial thought and ultimate actions should be long enough to afford a reasonable [person] time to subject the nature of his response to a “second look” (I think this is footnote 3 to Guthrie)</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Morrin (note 3):</b> a reasonable person would have time to contemplate what they are doing; to premeditate is to think about beforehand; to deliberate is to measure and evaluate the major facets of a choice or problem … [although the time in not exact,] the interval between initial thought and ultimate actions should be long enough to afford a reasonable [person] time to subject the nature of his response to a “second look” (I think this is footnote 3 to Guthrie)
+</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Midgett v. State (Arkansas 1987)</b> (Midgett physically abused his eight-year-old son regularly. One day after beating the child in the stomach, Midgett caused abdominal hemorrhage. Took son to hospital. Child died. Charged with murder in the first degree. Court found that the father did not premeditate killing the child; he intended to keep him alive so he could keep on abusing him.)
+<p style="margin-left:7%; margin-right:10%;"><b>Midgett v. State (Arkansas 1987)</b> (Midgett physically abused his eight-year-old son regularly. One day after beating the child in the stomach, Midgett caused abdominal hemorrhage. Took son to hospital. Child died. Charged with murder in the first degree. Court found that the father did not premeditate killing the child; he intended to keep him alive so he could keep on abusing him.)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The crime of first degree murder generally requires the killing to be premeditated and deliberate.</p>
 
