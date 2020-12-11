@@ -548,7 +548,7 @@ Under this specific situation, if the defendant was a substantial factor in brin
 
 <p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> If a responsive intervening cause is unforeseeable and abnormal, it supersedes the defendant’s conduct as the proximate cause of the prohibited result.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Definition of abnormal:</b> Abnormal would be an exception to whatever happened every single time in the past 99.9 percent of the rule; it would have to fall way outside the expected result.
+<p style="margin-left:7%; margin-right:10%;"><b>Definition of abnormal:</b> Abnormal would be an exception to whatever happened every single time in the past 99.9 percent of the rule; it would have to fall way outside the expected result.</p>
 
 **Coincidental intervening cause:** A coincidental intervening cause would have happened anyway.
 
@@ -576,9 +576,7 @@ Under this specific situation, if the defendant was a substantial factor in brin
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a doctor offers medical assistance to a person injured by another person, but the injured person refuses treatment and dies, then the injured person's free, deliberate and informed human intervention broke the chain of causation, and the person who caused the injuries is not the proximate cause of the injured person's death.</p>
 
-**Factors that weigh in favor of finding defendant WAS a proximate cause:**
-
-These generally do not break the chain of causation.
+**Factors that weigh in favor of finding defendant WAS a proximate cause:** These generally do not break the chain of causation.
 
 - De minimis contribution by intervening cause (if only a few seconds difference, courts can say not superseding)
 - Intended consequences of defendant doctrine (mother wanting to poison someone) (p. 241)
