@@ -596,341 +596,266 @@ Under this specific situation, if the defendant was a substantial factor in brin
 
 <p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> Velazquez met Alvarez at a restaurant in Florida. They decided to have a drag race with their respective cars. They “set up” the race together. They raced a quarter mile. Alvarez turned the car around and went back down the public road. Velazquez followed him. After the race, they drove back to the starting line at 123 mphh. At the end of road both drivers braked but could not stop. Alvarez crashed and died. The issue was whether a driver of a motor vehicle who participates in a reckless and illegal “drag race” on a public road may be properly convicted of vehicular homicide for the death of a co-participant in the race if the sole basis for imposing liability is the defendant’s participation in said race.</p>
 
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Rose (1973)</b> (Henry Rose charged with leaving the scene of an accident, death resulting, in violation of General Law of Rhode Island 1956 Section 31-26-1; negligent manslaughter)</p>
 
-    **State v. Rose | Supreme Court of Rhode Island 1973**
-      Henry Rose charged with leaving the scene of an accident, death resulting, in violation of General Law of Rhode Island 1956 Section 31-26-1; negligent manslaughter
-      V was a pedestrian crossing a road at 6:30 pm. D drove a car towards V, hit the victim with the car, causing the V’s body to be thrown up over the hood of the car. D stopped the car momentarily. Body of V rolled off hood. D drove off again. Bus driver witnessed it all but was unable to find V’s body. At 6:40 pm police found D’s car, parked on a street about 610 feet from scene of accident. Police found body of V wedged beneath the car.
-      D argued that could not be negligent manslaughter if V died upon impact. If V died upon impact, the conduct of the D in driving with V wedged under his car did not constitute culpable negligence.
-      Medical evidence says V “could have” died immediately on impact. Court unable to conclude time of death on medical evidence. “where the evidence adduced by the state and the reasonable inferences to be drawn therefrom, even when viewed in a light most favorable to the state, are insufficient to establish guilt beyond a reasonable doubt, the court must grant the D’s motion for a directed verdict.” (249)
-      Court should not have denied D’s motion for a directed verdict of acquittal.
-      New York Penal Law Section 125.10 Criminally negligent homicide: “A person is guilty of criminally negligent homicide when, with criminal negligence, he causes the death of another person. Criminally negligent homicide is a class E felony.”
-      Guilty when: with criminal negligence he causes the death of another person
-      The timing is important because Rose was not negligent at the time he hit the person. Rose was negligent when he dragged the body, but if the person was already dead when he dragged him he did not cause the death when negligent.
-      The court is reversing because you have to have all the elements of the crime at the same time. You have to have actus reus, mens rea and causation. Here they weren’t able to prove the mens rea.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Where the evidence adduced by the state and the reasonable inferences to be drawn therefrom, even when viewed in a light most favorable to the state, are insufficient to establish actus reus, mens rea and causation, the court must grant the defendant’s motion for acquittal.</p>
 
-    **Seinfeld hypo**
-      Jerry and Elaine on speedboat, Jerry driving. Crashes speedboat. Jerry drives her to hospital. Doctor operates. Does some medical malpractice that causes elaine to die. Elaine was in the hospital getting surgery in response to jerry’s crashing the boat and injuring her.
-      This doctor was usually a really good surgeon and never messed up. Doctor’s malpractice was unforeseeable, so it breaks the chain of causation.
-      BUT if a bunch of gunmen go into the hospital and shoot Elaine, or if the hospital is struck by lightning and burns down and Elaine dies in the fire, it breaks the chain of causation.
+<p style="margin-left:10%; margin-right:10%;"><b>NYPL Section 125.10 Criminally negligent homicide:</b> “A person is guilty of criminally negligent homicide when, with criminal negligence, he causes the death of another person. Criminally negligent homicide is a class E felony.”</p>
 
-    **Can the lion wander?**
-      Does the lion have the right to wander?
-      Yes, well, if M hadn’t released the lion the lion wouldn’t have killed me.  
-      is it fair to hold M responsible for releasing the lion?
+<p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> V was a pedestrian crossing a road at 6:30 pm. D drove a car towards V, hit the victim with the car, causing the V’s body to be thrown up over the hood of the car. D stopped the car momentarily. Body of V rolled off hood. D drove off again. Bus driver witnessed it all but was unable to find V’s body. At 6:40 pm police found D’s car, parked on a street about 610 feet from scene of accident. Police found body of V wedged beneath the car. D argued that could not be negligent manslaughter if V died upon impact. If V died upon impact, the conduct of the D in driving with V wedged under his car did not constitute culpable negligence. Medical evidence says V “could have” died immediately on impact. Court unable to conclude time of death on medical evidence. Guilty when: with criminal negligence he causes the death of another person. The timing is important because Rose was not negligent at the time he hit the person. Rose was negligent when he dragged the body, but if the person was already dead when he dragged him he did not cause the death when negligent.</p>
 
-    **Butterfly effect**
-      Page 233 footnote A
-      Butterfly effect: “Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas?”
+<p style="margin-left:7%; margin-right:10%;"><b>Seinfeld hypo:</b> Jerry and Elaine on speedboat, Jerry driving. Crashes speedboat. Jerry drives her to hospital. Doctor operates. Does some medical malpractice that causes elaine to die. Elaine was in the hospital getting surgery in response to jerry’s crashing the boat and injuring her. This doctor was usually a really good surgeon and never messed up. Doctor’s malpractice was unforeseeable, so it breaks the chain of causation. BUT if a bunch of gunmen go into the hospital and shoot Elaine, or if the hospital is struck by lightning and burns down and Elaine dies in the fire, it breaks the chain of causation.</p>
 
-    **The chocolate chip cookie rule**
-      If I said I had some chocolate chip cookies for breakfast, and I said I ate some flour, some butter, and all the ingredients at different times.
+<p style="margin-left:7%; margin-right:10%;"><b>Can the lion wander? Hypo:</b> Prof M released a lion that killed Prof K. Does the lion have the right to wander? Yes, well, if Prof M hadn’t released the lion the lion wouldn’t have killed Prof K. Is it fair to hold Prof M responsible for Prof K's death because she released the lion?</p>
 
-    **Wanton Endangerment (Kentucky)** (not sure why this is here)
-      In Kentucky, wanton endangerment is defined as “a person, under circumstances manifesting extreme indifference to the value of human life, who deliberately engages in conduct which creates a substantial danger of death or serious physical injury to another person.”
+<p style="margin-left:7%; margin-right:10%;"><b>Butterfly effect:</b> Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas? (Page 233 footnote A)</p>
 
-    **Hypo** (p. 232)
-      A.	Was D a cause? Yes. But-for test
-      Was X a cause? Yes. We apply a different test.
-      B.	Yes. We are only looking at the cause of death.
-      C.	D was not an actual cause
-      D.	Yes, but not substantial factor test because each wound independently was not enough to kill the V. So we use two but-for tests. Would V have died had D not stabbed? No. Would V have died had X not stabbed? No. so both satisfy but-for test
-      E.	Yes. Substantial factor test.
+<p style="margin-left:7%; margin-right:10%;"><b>The chocolate chip cookie rule:</b> If I said I had some chocolate chip cookies for breakfast, and I said I ate some flour, some butter, and all the ingredients at different times.</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Wanton Endangerment (Kentucky)</b> (not sure why this is here) In Kentucky, wanton endangerment is defined as “a person, under circumstances manifesting extreme indifference to the value of human life, who deliberately engages in conduct which creates a substantial danger of death or serious physical injury to another person.” </p>
 
 # Criminal Homicide
 
-  **Types of Criminal Homicide**
-    England common law four types of murder:
-      - Intent-to-kill;
-      - Intent to cause grievous bodily harm;
-      - Depraved heart murder;
-      - Intent to commit a felony.
+**Types of Criminal Homicide**
 
-    Manslaughter (review casebook description pp 253-54). Types of killings involved:
-      - Homicide in heat of passion;
-      - From act unduly dangerous to life or limb;
-      - Misdemeanor manslaughter.
+England common law four types of murder:
 
-    Model penal code some similarities with common law not surprising because model penal code’s purpose was to improve upon common law.
+- Intent-to-kill;
+- Intent to cause grievous bodily harm;
+- Depraved heart murder;
+- Intent to commit a felony.
 
-  **I.INTENDED KILLINGS**
-    A. Murder
-      1. Common Law Murder
-        a.“Malice aforethought.”
-      2. “Premeditation” development in some jurisdictions.
-      3. NYPL 1st Degree Murder (§ 125.27 (general categories))
-      4. NYPL 2nd Degree Murder (§ 125.25 (1))
-      5. MPC Murder (§ 210.2)
+Manslaughter (review casebook description pp 253-54). Types of killings involved:
 
-    B. Manslaughter
-      1. Common Law Manslaughter (“Heat of Passion”)
-      2. NYPL 1st Degree Man. (§§ 125.20)
-      3. MPC Manslaughter (§ 210.3)
+- Homicide in heat of passion;
+- From act unduly dangerous to life or limb;
+- Misdemeanor manslaughter.
 
-  **II.UNINTENDED KILLINGS: UNJUSTIFIED RISK-TAKING**
-    A. Murder
-      1. Common Law Murder (“abandoned and malignant heart”)
-      2. NYPL 2nd Degree Murder (§ 125.25)
-      3. MPC Murder (§ 210.2)
-    B. Manslaughter
-      1. Common Law Manslaughter
-      2. NYPL 2nd Degree Man. (§ 125.15)
-        a.Intent to Cause Serious Physical Injury: NYPL 1st Degree Man. (§ 125.20 (1))
-      3. NYPL Criminally Negligent Homicide (NYPL § 125.10)
-      4. MPC Manslaughter and Negligent Homicide
+**I.Intended killings**
 
-  **III.UNINTENDED KILLINGS:UNLAWFUL CONDUCT(FELONY MURDER: TO BE COVERED)**
+**A. Murder**
+
+- Common Law Murder. “Malice aforethought.” “Premeditation” development in some jurisdictions.
+- NYPL 1st Degree Murder § 125.27 (general categories)
+- NYPL 2nd Degree Murder § 125.25 (1)
+- MPC Murder § 210.2
+
+**B. Manslaughter**
+
+- Common Law Manslaughter “Heat of Passion”
+- NYPL 1st Degree Man. § 125.20
+- MPC Manslaughter § 210.3
+
+**II.Unintended killings: Unjustified risk-taking**
+
+**A. Murder**
+
+- Common Law Murder “abandoned and malignant heart”
+- NYPL 2nd Degree Murder § 125.25
+- MPC Murder § 210.2
+
+**B. Manslaughter**
+
+- Common Law Manslaughter
+- NYPL 1st Degree Manslaughter § 125.20 (1)(a) Intent to Cause Serious Physical Injury
+- NYPL 2nd Degree Manslaughter § 125.15
+- NYPL Criminally negligent homicide § 125.10
+- MPC Manslaughter and Negligent Homicide
+
+**III.Unintented killings: unlawful conduct (felony murder: to be covered)**
 
 ## Common Law origins
 
-  At common law, murder was defined as the unlawful killing of another human being "with malice aforethought."
+At common law, murder was defined as the unlawful killing of another human being "with malice aforethought." "Malice aforethought" became an arbitrary symbol used by judges to signify any number of mental states deemed sufficient to support liability for murder. Generally, four states of mind:
 
-  The classic definition of murder is provided by Sir Edward Coke in Institutes of the Laws of England (1797):
+1. Intent to kill, including awareness that the death of another would result from one's actions, was sufficient for murder except when death of another was caused in the heat of passion.
+2. Intent to cause grievous bodily harm, including awareness that the grievous bodily harm of another would result from one's actions was sufficient for murder if death resulted.
+3. Depraved heart murder was unintentional homicide under circumstances evincing a "depraved mind" or an "abandoned and malignant heart." Essential concept was one of extreme recklessness regarding homicidal risk. Thus, a person might be liable for murder without intent if he caused the death of another in a manner exhibiting a "wanton and wilful disregard of an unreasonable human risk."
+4. Murder based on intent to commit a felony: strict liability.
 
-    Murder is when a man of sound memory, and of the age of discretion, unlawfully killeth within any country of the realm any reasonable creature in *rerum natura* under the King’s peace, with malice aforethought, either expressed by the party or implied by law, so as the party wounded, or hurt, etc. die of the wound or hurt, etc. within a year and a day after the same.
+**The protected interest: “human being”**
 
-  Whatever the meaning, "malice aforethought" became an arbitrary symbol used by judges to signify any number of mental states deemed sufficient to support liability for murder. Generally, four states of mind:
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Eulo (New York, 1984)</b> (accused shot victim in head; victim taken to hospital in unconscious state and placed on respirator; doctors found that victim’s brain had irreversibly ceased to function; with consent of next of kin victim declared dead; artificial respirator “terminated” (cardiorespiratory machine removed/turned off); organs removed for transplantation.)</p>
 
-    1. Intent to kill, including awareness that the death of another would result from one's actions, was sufficient for murder except when death of another was caused in the heat of passion.
-    2. Intent to cause grievous bodily harm, including awareness that the grievous bodily harm of another would result from one's actions was sufficient for murder if death resulted.
-    3. Depraved heart murder was unintentional homicide under circumstances evincing a "depraved mind" or an "abandoned and malignant heart." Essential concept was one of extreme recklessness regarding homicidal risk. Thus, a person might be liable for murder without intent if he caused the death of another in a manner exhibiting a "wanton and wilful disregard of an unreasonable human risk."
-    4. Murder based on intent to commit a felony: strict liability.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If deaths were prematurely diagnosed due to a doctor’s gross negligence or intentional wrongdoing, the intervening medical procedure would interrupt the chain of causation and become the legal cause of death.</p>
 
-## The protected interest: “human being”
+<p style="margin-left:10%; margin-right:10%;"><b>Statutory interpretation:</b> In NY, the term “death” is used in many statutes but has never been defined by the legislature. Therefore, the term must be read in accordance with the apparent purpose of the statute in which it is found. (266). Legislative void: NY Legislature could have expressly recognized brain-based criteria for recognizing death (there were bills on the table) but did not. Court held that recognition of brain-based criteria for death is “not unfaithful” in prior judicial definitions of death. (267).</p>
 
-      **People v. Eulo | Court of Appeals of New York, 1984**
-        Issue: Whether causing an injury that later led to death can be considered manslaughter
-        Facts: Eulo and Bonilla similar cases: accused shot V in head; V taken to hospital in unconscious state and placed on respirator; doctors found that V’s brain had irreversibly ceased to function; with consent of next of kin V declared dead; artificial respirator “terminated” (cardiorespiratory machine removed/turned off); organs removed for transplantation.
-        Ordinarily, death is defined as irreversible cardiorespiratory repose. When heartbeat and breathing are maintained by machines life is ambiguous, but accepted medical practice determines that death occurs when brain ceases to function (267).
-        **Rule:**
-        Judgment: each D’s conduct caused the V’s death and the medical procedures were not superseding causes of death. (269)
-        Reasoning: NYPL Section 125 defines homicide in terms of “conduct which causes the death of a person.” In NY, the term “death” is used in many statutes but has never been defined by the legislature. Therefore, the term must be read in accordance with the apparent purpose of the statute in which it is found. (266).
-        Legislative void: NY Legislature could have expressly recognized brain-based criteria for recognizing death (there were bills on the table) but did not.
-        Court held that recognition of brain-based criteria for death is “not unfaithful” in prior judicial definitions of death. (267).
-        **NYPL Section 1.05**
-          In NYPL Section 1.05, the general purposes of penal law include (1) “To proscribe conduct which unjustifiably and inexcusably causes substantial harm to individual or public interests;” Therefore, here, to construe homicide statute to provide for criminal responsibility for homicide when a defendant’s conduct causes injury leading to the victim’s total loss of brain functions, is entirely consistent with the Legislature’s concept of death” (268).
+<p style="margin-left:10%; margin-right:10%;"><b>NYPL Section 1.05</b> the general purposes of penal law include (1) “To proscribe conduct which unjustifiably and inexcusably causes substantial harm to individual or public interests;” Therefore, here, to construe homicide statute to provide for criminal responsibility for homicide when a defendant’s conduct causes injury leading to the victim’s total loss of brain functions, is entirely consistent with the Legislature’s concept of death” (268).</p>
 
-          Reasoning: In this case, the juries were not instructed as to the appropriate criteria for determining death (268).
-          Court defined criteria of death in relation to the chain of causation. “By specifically charging the juries that they might consider the surgical [transplantational] procedures as superseding cause of death, the courts made clear by ready implication that death should be deemed to have occurred after all medical procedures had ended” (268).
-          Brain-based criteria for determining death are supplemental to traditional criteria: **OR, not AND**. Death is determined by either criteria. However, medical testimony diagnosing victims as dead before medical intervention is highly relevant in chain of causation, because that testimony is what caused the victims to be removed from cardiorespiratory machines. But if Vs were properly diagnosed as dead, organ removal would not have caused death. If V not dead until heart stopped V not dead when doctors surgically intervened, so surgical intervention was an intervening cause.
-          If deaths were prematurely diagnosed due to a doctor’s negligence, that negligence would not be a superseding cause relieving Ds of liability for death.
-          If deaths were prematurely diagnosed due to a doctor’s gross negligence or intentional wrongdoing, the intervening medical procedure would interrupt the chain of causation and become the legal cause of death.          
+<p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b> Brain-based criteria for determining death are supplemental to traditional criteria: <b>OR, not AND.</b> Death is determined by either criteria. However, medical testimony diagnosing victims as dead before medical intervention is highly relevant in chain of causation, because that testimony is what caused the victims to be removed from cardiorespiratory machines. But if Vs were properly diagnosed as dead, organ removal would not have caused death. If V not dead until heart stopped V not dead when doctors surgically intervened, so surgical intervention was an intervening cause. If deaths were prematurely diagnosed due to a doctor’s negligence, that negligence would not be a superseding cause relieving Ds of liability for death.</p>
 
-      **Year-and-a-day-rule** (note 3 p.269); common law
-        If M shot K in chest and K died more than a year and a day after, then M cannot be convicted of murder. Could be convicted of attempted murder or something else.
+<p style="margin-left:7%; margin-right:10%;"><b>Year-and-a-day rule:</b> (common law) If Prof M shot Prof K in chest and Prof K died more than a year and a day after, then Prof M cannot be convicted of murder. Could be convicted of attempted murder or something else. (note 3 p.269) </p>
 
 # Intentional Killings: Murder
 
-  Our casebook organizes around: intentional homicides versus unintentional homicides. We should follow the text book in terms of outlining – because this helps us see if it was an intended death or an accidental death and that will take us in different ways – and then heat of passion which are manslaughters but they are intentional too; same with unintentional; is this a depraved indifference killing, or is this a reckless manslaughter type killing or is this a criminally negligent death.
+Our casebook organizes around: intentional homicides versus unintentional homicides. We should follow the text book in terms of outlining – because this helps us see if it was an intended death or an accidental death and that will take us in different ways – and then heat of passion which are manslaughters but they are intentional too; same with unintentional; is this a depraved indifference killing, or is this a reckless manslaughter type killing or is this a criminally negligent death.
 
-    **State v. Guthrie 1995 | Supreme Court of Appeals of West Virginia 1995**
-      Issue: Whether Guthrie committed first degree or second degree murder when he stabbed Farley to death
-      Facts: Guthrie and Farley were dishwashers who generally got along well. They were at work. Guthrie was in a bad mood. Farley poked fun at Guthrie and snapped him with a dishtowel several times. The dishtowel touched Guthrie on the nose (Guthrie was obsessed with his nose – body dysmorphic disorder). Guthrie pulled knife out of pocket and stabbed Farley to death. Guthrie suffered from panic attacks, chronic depression and borderline personality disorder.
-      Procedural history: Guthrie convicted of first degree murder. Appealed, arguing that the terms willful, deliberate and premeditated were equated with a mere intent to kill (271).
-      **Rule:** Any interval of time between the forming of the intent to kill and the execution of that intent, which is of sufficient duration for the accused to be fully conscious of what he intended, is sufficient to support a conviction of first degree murder. (273)
-      Holding: judgment of trial court is reversed, case remanded for a new trial.       
-      Court had defined premeditation very broadly in jury instruction; defense said that there has to be some time for deliberation; Jury was instructed that in order to find D guilty of first degree murder it had to find five elements beyond a reasonable doubt, and instructed that murder in the first degree is when someone kills another person
-      - Unlawfully
-      - Willfully
-      - Maliciously
-      - Deliberately
-      - Premeditatedly
-      The trial court had defined these terms for the jury, saying that
-        For a killing to be premeditated. it is only necessary that the intention to kill be present before the act and need exist only for an instant; (271)
-        Shroder definition (State v. Shroder): Willfull, premeditated and deliberate was essentially “knowing” and “intentional” (272)
-        Distinction between first and second degree murder not drawn;
-        Deliberate: Appellant argues that in State v. Dodds the act must have been deliberated (thought about) and there must be a plan of destruction; (272)
-        Appeals court finds that it cannot abolish the distinction between first and second degree murders because of separation of powers (legislature makes laws, courts interpret). Believes Shroder definition is wrong. Makes some modifications to homicide common law.
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Guthrie (1995)</b> (dishwashers who generally got along well, but Guthrie was in a bad mood when Farley poked fun at him and snapped him with a dishtowel several times. The dishtowel touched Guthrie on the nose (Guthrie was obsessed with his nose – body dysmorphic disorder). Guthrie pulled knife out of pocket and stabbed Farley to death. Guthrie suffered from panic attacks, chronic depression and borderline personality disorder.)</p>
 
-        Morrin (note 3) a reasonable person would have time to contemplate what they are doing; to premeditate is to think about beforehand; to deliberate is to measure and evaluate the major facets of a choice or problem … [although the time in not exact,] the interval between initial thought and ultimate actions should be long enough to afford a reasonable [person] time to subject the nature of his response to a “second look” (I think this is footnote 3 to Guthrie)
+<p style="margin-left:10%; margin-right:10%;"><b>Narrow rule:</b> Under Virginia law, any interval of time between the forming of the intent to kill and the execution of that intent, which is of sufficient duration for the accused to be fully conscious of what he intended, is sufficient to support a conviction of first degree murder. (273)</p>
 
-    **Midgett v. State | Supreme Court of Arkansas 1987**
-      Midgett physically abused his eight-year-old son regularly. One day after beating the child in the stomach, Midgett caused abdominal hemorrhage. Took son to hospital. Child died. Charged with murder in the first degree.
-      Court found that the father did not premeditate killing the child; he intended to keep him alive so he could keep on abusing him.
-      **Rule:** The crime of first degree murder generally requires the killing to be premeditated and deliberate.
+<p style="margin-left:10%; margin-right:10%;"><b>Morrin (note 3):</b> a reasonable person would have time to contemplate what they are doing; to premeditate is to think about beforehand; to deliberate is to measure and evaluate the major facets of a choice or problem … [although the time in not exact,] the interval between initial thought and ultimate actions should be long enough to afford a reasonable [person] time to subject the nature of his response to a “second look” (I think this is footnote 3 to Guthrie)</p>
 
-    **State v. Forrest | Supreme Court of North Carolina 1987**
-      Son killed his dying father in hospital by shooting him four times in the head.
-      Premeditation and deliberation must be proved by circumstantial evidence.
-      Factors in State v. Forrest to consider when determining premeditation:
-      - No provocation by deceased;
-      - Conduct and statements by the defendant;
-      - Threats and declarations by the defendant;
-      - Ill-will between the parties;
-      - Lethal blows after the deceased has been rendered helpless;
-      - Brutal manner;
-      - Nature and number of wounds.
-      Court ultimately found that D did premeditate and deliberate. Convicted of murder in the first degree.
-      Dissent: it should have been manslaughter, because the required malice was not present. Killing a loved one to end their suffering should not be murder in the first degree.
-      Note: This case was ruled under the North Carolina murder statute. With the MPC the outcome would have been different because the MPC does not have degrees of murder, and the MPC has the extreme emotional disturbance defense (EED).
+<p style="margin-left:7%; margin-right:10%;"><b>Midgett v. State (Arkansas 1987)</b> (Midgett physically abused his eight-year-old son regularly. One day after beating the child in the stomach, Midgett caused abdominal hemorrhage. Took son to hospital. Child died. Charged with murder in the first degree. Court found that the father did not premeditate killing the child; he intended to keep him alive so he could keep on abusing him.)
 
-    **Which murder provisions of the NYPL and MPC requires premeditation and deliberation?**
-      NONE
-      NYPL has first degree but does not have the words premeditation and deliberation
-      MPC does not have degrees of murder
-      The old common law did not have premeditation and deliberation either; it had malice aforethought but not premeditation and deliberation
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The crime of first degree murder generally requires the killing to be premeditated and deliberate.</p>
 
-    **Sundance hypo** (quiz question 2 put by K on twen)
-      The D would argue that knowingly modifies the phrase “deadly weapon” under NYPL. Therefore, he does not satisfy the mens Rea requirements because he did not know that the phone was also a gun.
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Forrest (North Carolina 1987) (Son killed his dying father in hospital by shooting him four times in the head.)</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b>Under North Carolina Law, to find a defendant guilty of first-degree murder, premeditation and deliberation must be proved by circumstantial evidence.</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> This case was ruled under the North Carolina murder statute. With the MPC the outcome would have been different because the MPC does not have degrees of murder, and the MPC has the extreme emotional disturbance defense (EED).</p>
+
+**Which murder provisions of the NYPL and MPC requires premeditation and deliberation? NONE**
+
+NYPL has first degree but does not have the words premeditation and deliberation; MPC does not have degrees of murder; The old common law did not have premeditation and deliberation either; it had malice aforethought but not premeditation and deliberation.
+
+<p style="margin-left:7%; margin-right:10%;"><b>Sundance hypo:</b> (quiz question 2 put by K on twen) The D would argue that knowingly modifies the phrase “deadly weapon” under NYPL. Therefore, he does not satisfy the mens Rea requirements because he did not know that the phone was also a gun.</p>
 
 ## Model Penal Code Sections 210.1 - 210.4
 
-  Model Penal Code § 210.1. Criminal Homicide.
-  (1) A person is guilty of criminal homicide if he purposely, knowingly, recklessly or negligently causes the death of another human being.
-  (2) Criminal homicide is murder, manslaughter or negligent homicide.
+**Model Penal Code § 210.1. Criminal Homicide.**
 
-    Note: MPC § 210.1 Criminal homicide defines murder similarly to common law.
+(1) A person is guilty of criminal homicide if he purposely, knowingly, recklessly or negligently causes the death of another human being.
+(2) Criminal homicide is murder, manslaughter or negligent homicide.
 
-  Model Penal Code § 210.2. Murder.
-  (1) Except as provided in Section 210.3(1)(b), criminal homicide constitutes murder when:
-  (a) it is committed purposely or knowingly; or
-  (b) it is committed recklessly under circumstances manifesting extreme indifference to the value of human life. Such recklessness and indifference are presumed if the actor is engaged or is an accomplice in the commission of, or an attempt to commit, or flight after committing or attempting to commit robbery, rape or deviate sexual intercourse by force or threat of force, arson, burglary, kidnapping or felonious escape.
-  (2) Murder is a felony of the first degree [but a person convicted of murder may be sentenced to death, as provided in Section 210.6].
+Note: MPC § 210.1 Criminal homicide defines murder similarly to common law.
 
-    Note: MPC  § 210.2 (b) “recklessly with extreme indifference to human life” is the MPC version of “depraved heart”/”malignant heart” in common law; also 210.2 (b) similar in some ways to felony murder but not identical to felony murder; common law felony murder is strict liability; MPC while attempting to commit robbery, etc., does require mens rea.
+**Model Penal Code § 210.2. Murder.**
 
-  Model Penal Code § 210.3. Manslaughter.
-  (1) Criminal homicide constitutes manslaughter when:
-  (a) it is committed recklessly; or
-  (b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.
-  (2) Manslaughter is a felony of the second degree.
+(1) Except as provided in Section 210.3(1)(b), criminal homicide constitutes murder when:
 
-    Note: MPC § 210.3 manslaughter again has some similarities to common law – homicide in heat of passion – MPC under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse.
+<p style="margin-left:3%; margin-right:10%;">(a) it is committed purposely or knowingly; or</p>
+<p style="margin-left:3%; margin-right:10%;">(b) it is committed recklessly under circumstances manifesting extreme indifference to the value of human life. Such recklessness and indifference are presumed if the actor is engaged or is an accomplice in the commission of, or an attempt to commit, or flight after committing or attempting to commit robbery, rape or deviate sexual intercourse by force or threat of force, arson, burglary, kidnapping or felonious escape.</p>
 
-  Model Penal Code § 210.4. Negligent Homicide.
-  (1) Criminal homicide constitutes negligent homicide when it is committed negligently.
-  (2) Negligent homicide is a felony of the third degree.
+(2) Murder is a felony of the first degree [but a person convicted of murder may be sentenced to death, as provided in Section 210.6].
+
+<p style="margin-left:7%; margin-right:10%;"><b>Note:</b> MPC  § 210.2 (b) “recklessly with extreme indifference to human life” is the MPC version of “depraved heart”/”malignant heart” in common law; also 210.2 (b) similar in some ways to felony murder but not identical to felony murder; common law felony murder is strict liability; MPC while attempting to commit robbery, etc., does require mens rea.</p>
+
+**Model Penal Code § 210.3. Manslaughter.**
+
+(1) Criminal homicide constitutes manslaughter when:
+
+<p style="margin-left:3%; margin-right:10%;">(a) it is committed recklessly; or</p>
+<p style="margin-left:3%; margin-right:10%;">(b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.</p>
+
+(2) Manslaughter is a felony of the second degree.
+
+<p style="margin-left:7%; margin-right:10%;"><b>Note:</b> MPC § 210.3 manslaughter again has some similarities to common law – homicide in heat of passion – MPC under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse.</p>
+
+**Model Penal Code § 210.4. Negligent Homicide.**
+
+(1) Criminal homicide constitutes negligent homicide when it is committed negligently.
+(2) Negligent homicide is a felony of the third degree.
 
 ## New York Penal Law Sections 125.0 - 125.27 and notes
 
-  **New York Penal Law § 125.00 Homicide defined**
-    Homicide means conduct which causes the death of a person under circumstances constituting murder, manslaughter in the first degree, manslaughter in the second degree, or criminally negligent homicide.
+**New York Penal Law § 125.00 Homicide defined** Homicide means conduct which causes the death of a person under circumstances constituting murder, manslaughter in the first degree, manslaughter in the second degree, or criminally negligent homicide.
 
-  **New York Penal Law § 125.05 Homicide and related offenses; definition**
-    The following definition is applicable to this article:
-    “Person,” when referring to the victim of a homicide, means a human being who has been born and is alive.
+**New York Penal Law § 125.05 Homicide and related offenses; definition** The following definition is applicable to this article: “Person,” when referring to the victim of a homicide, means a human being who has been born and is alive.
 
-  **New York Penal Law § 125.10 Criminally negligent homicide**
-    A person is guilty of criminally negligent homicide when, with criminal negligence, he causes the death of another person.
-    Criminally negligent homicide is a class E felony.
+**New York Penal Law § 125.10 Criminally negligent homicide** A person is guilty of criminally negligent homicide when, with criminal negligence, he causes the death of another person. Criminally negligent homicide is a class E felony.
 
-  **New York Penal Law § 125.11 Aggravated criminally negligent homicide**
-    A person is guilty of aggravated criminally negligent homicide when, with criminal negligence, he or she causes the death of a police officer or peace officer where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer.
-    Aggravated criminally negligent homicide is a class C felony.
+**New York Penal Law § 125.11 Aggravated criminally negligent homicide** A person is guilty of aggravated criminally negligent homicide when, with criminal negligence, he or she causes the death of a police officer or peace officer where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer. Aggravated criminally negligent homicide is a class C felony.
 
-  *(not included here: § 125.12 Vehicular Manslaughter in the Second Degree; § 125.13 Vehicular Manslaughter in the First Degree; § 125.14 Aggravated Vehicular Homicide)*
+*(not included here: § 125.12 Vehicular Manslaughter in the Second Degree; § 125.13 Vehicular Manslaughter in the First Degree; § 125.14 Aggravated Vehicular Homicide)*
 
-  **New York Penal Law § 125.15 Manslaughter in the second degree**
-    A person is guilty of manslaughter in the second degree when:
-    1. He recklessly causes the death of another person; or
-    2. Repealed by L.2019, c. 1, § 8, eff. Jan. 22, 2019.
-    3. He intentionally causes or aids another person to commit suicide.
-    Manslaughter in the second degree is a class C felony.
+**New York Penal Law § 125.15 Manslaughter in the second degree** A person is guilty of manslaughter in the second degree when:
 
-  **New York Penal Law § 125.20 Manslaughter in the first degree**
-    A person is guilty of manslaughter in the first degree when:
-    1. With intent to cause serious physical injury to another person, he causes the death of such person or of a third person; or
-    2. With intent to cause the death of another person, he causes the death of such person or of a third person under circumstances which do not constitute murder because he acts under the influence of extreme emotional disturbance, as defined in paragraph (a) of subdivision one of section 125.25. The fact that homicide was committed under the influence of extreme emotional disturbance constitutes a mitigating circumstance reducing murder to manslaughter in the first degree and need not be proved in any prosecution initiated under this subdivision; or
-    3. Repealed by L.2019, c. 1, § 9, eff. Jan. 22, 2019.
-    4. Being eighteen years old or more and with intent to cause physical injury to a person less than eleven years old, the defendant recklessly engages in conduct which creates a grave risk of serious physical injury to such person and thereby causes the death of such person.
-    Manslaughter in the first degree is a class B felony.
+(1) He recklessly causes the death of another person; or
+(2) Repealed by L.2019, c. 1, § 8, eff. Jan. 22, 2019.
+(3) He intentionally causes or aids another person to commit suicide.
+Manslaughter in the second degree is a class C felony.
 
-  **New York Penal Law § 125.21 Aggravated manslaughter in the second degree**
-    A person is guilty of aggravated manslaughter in the second degree when he or she recklessly causes the death of a police officer or peace officer where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer.
-    Aggravated manslaughter in the second degree is a class C felony.
+**New York Penal Law § 125.20 Manslaughter in the first degree** A person is guilty of manslaughter in the first degree when:
 
-  **New York Penal Law § 125.22 Aggravated manslaughter in the first degree**
-    A person is guilty of aggravated manslaughter in the first degree when:
-    1. with intent to cause serious physical injury to a police officer or peace officer, where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or a peace officer, he or she causes the death of such officer or another police officer or peace officer; or
-    2. with intent to cause the death of a police officer or peace officer, where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer, he or she causes the death of such officer or another police officer or peace officer under circumstances which do not constitute murder because he or she acts under the influence of extreme emotional disturbance, as defined in paragraph (a) of subdivision one of section 125.25. The fact that homicide was committed under the influence of extreme emotional disturbance constitutes a mitigating circumstance reducing murder to aggravated manslaughter in the first degree or manslaughter in the first degree and need not be proved in any prosecution initiated under this subdivision.
-    Aggravated manslaughter in the first degree is a class B felony.
+(1) With intent to cause serious physical injury to another person, he causes the death of such person or of a third person; or
+(2) With intent to cause the death of another person, he causes the death of such person or of a third person under circumstances which do not constitute murder because he acts under the influence of extreme emotional disturbance, as defined in paragraph (a) of subdivision one of section 125.25. The fact that homicide was committed under the influence of extreme emotional disturbance constitutes a mitigating circumstance reducing murder to manslaughter in the first degree and need not be proved in any prosecution initiated under this subdivision; or
+(3) Repealed by L.2019, c. 1, § 9, eff. Jan. 22, 2019.
+(4) Being eighteen years old or more and with intent to cause physical injury to a person less than eleven years old, the defendant recklessly engages in conduct which creates a grave risk of serious physical injury to such person and thereby causes the death of such person.
+Manslaughter in the first degree is a class B felony.
 
-  **New York Penal Law § 125.25 Murder in the second degree**
-    A person is guilty of murder in the second degree when:
-    1. With intent to cause the death of another person, he causes the death of such person or of a third person; except that in any prosecution under this subdivision, it is an affirmative defense that:
-      (a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the first degree or any other crime.
-      (ii) It shall not be a “reasonable explanation or excuse” pursuant to subparagraph (i) of this paragraph when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth; or
-      (b) The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the second degree or any other crime; or
-    2. Under circumstances evincing a depraved indifference to human life, he recklessly engages in conduct which creates a grave risk of death to another person, and thereby causes the death of another person; or
-    3. Acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants; except that in any prosecution under this subdivision, in which the defendant was not the only participant in the underlying crime, it is an affirmative defense that the defendant:
-      (a) Did not commit the homicidal act or in any way solicit, request, command, importune, cause or aid the commission thereof; and
-      (b) Was not armed with a deadly weapon, or any instrument, article or substance readily capable of causing death or serious physical injury and of a sort not ordinarily carried in public places by law-abiding persons; and
-      (c) Had no reasonable ground to believe that any other participant was armed with such a weapon, instrument, article or substance; and
-      (d) Had no reasonable ground to believe that any other participant intended to engage in conduct likely to result in death or serious physical injury; or
-    4. Under circumstances evincing a depraved indifference to human life, and being eighteen years old or more the defendant recklessly engages in conduct which creates a grave risk of serious physical injury or death to another person less than eleven years old and thereby causes the death of such person; or
-    5. Being eighteen years old or more, while in the course of committing rape in the first, second or third degree, criminal sexual act in the first, second or third degree, sexual abuse in the first degree, aggravated sexual abuse in the first, second, third or fourth degree, or incest in the first, second or third degree, against a person less than fourteen years old, he or she intentionally causes the death of such person.
-    Murder in the second degree is a class A-I felony.
+**New York Penal Law § 125.21 Aggravated manslaughter in the second degree** A person is guilty of aggravated manslaughter in the second degree when he or she recklessly causes the death of a police officer or peace officer where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer. Aggravated manslaughter in the second degree is a class C felony.
 
-  **New York Penal Law § 125.26 Aggravated murder**
-    A person is guilty of aggravated murder when:
-    1. With intent to cause the death of another person, he or she causes the death of such person, or of a third person who was a person described in subparagraph (i), (ii), (ii-a) or (iii) of paragraph (a) of this subdivision engaged at the time of the killing in the course of performing his or her official duties; and
-    (a) Either:
-    (i) the intended victim was a police officer as defined in subdivision thirty-four of section 1.20 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was a police officer; or
-    (ii) the intended victim was a peace officer as defined in paragraph a of subdivision twenty-one, subdivision twenty-three, twenty-four or sixty-two (employees of the division for youth) of section 2.10 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was such a uniformed court officer, parole officer, probation officer, or employee of the division for youth; or
-    (ii-a) the intended victim was a firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse involved in a first response team, or any other individual who, in the course of official duties, performs emergency response activities and was engaged in such activities at the time of killing and the defendant knew or reasonably should have known that the intended victim was such firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse; or
-    (iii) the intended victim was an employee of a state correctional institution or was an employee of a local correctional facility as defined in subdivision two of section forty of the correction law, who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was an employee of a state correctional institution or a local correctional facility; and
-    (b) The defendant was more than eighteen years old at the time of the commission of the crime; or
-    2. (a) With intent to cause the death of a person less than fourteen years old, he or she causes the death of such person, and the defendant acted in an especially cruel and wanton manner pursuant to a course of conduct intended to inflict and inflicting torture upon the victim prior to the victim's death. As used in this subdivision, “torture” means the intentional and depraved infliction of extreme physical pain that is separate and apart from the pain which otherwise would have been associated with such cause of death; and
-    (b) The defendant was more than eighteen years old at the time of the commission of the crime.
-    3. In any prosecution under subdivision one or two of this section, it is an affirmative defense that:
-    (a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, aggravated manslaughter in the first degree, manslaughter in the first degree or any other crime except murder in the second degree. (ii) It shall not be a “reasonable explanation or excuse” pursuant to subparagraph (i) of this paragraph when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth; or
-    (b) The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, aggravated manslaughter in the second degree, manslaughter in the second degree or any other crime except murder in the second degree.
-    Aggravated murder is a class A-I felony.
+**New York Penal Law § 125.22 Aggravated manslaughter in the first degree** A person is guilty of aggravated manslaughter in the first degree when:
+(1) with intent to cause serious physical injury to a police officer or peace officer, where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or a peace officer, he or she causes the death of such officer or another police officer or peace officer; or
+(2) with intent to cause the death of a police officer or peace officer, where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer, he or she causes the death of such officer or another police officer or peace officer under circumstances which do not constitute murder because he or she acts under the influence of extreme emotional disturbance, as defined in paragraph (a) of subdivision one of section 125.25. The fact that homicide was committed under the influence of extreme emotional disturbance constitutes a mitigating circumstance reducing murder to aggravated manslaughter in the first degree or manslaughter in the first degree and need not be proved in any prosecution initiated under this subdivision.
+Aggravated manslaughter in the first degree is a class B felony.
 
-  **New York Penal Law § 125.27 Murder in the first degree**
-    A person is guilty of murder in the first degree when:
-    1. With intent to cause the death of another person, he causes the death of such person or of a third person; and
-    (a) Either:
-    (i) the intended victim was a police officer as defined in subdivision 34 of section 1.20 of the criminal procedure law who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was a police officer; or
-    (ii) the intended victim was a peace officer as defined in paragraph a of subdivision twenty-one, subdivision twenty-three, twenty-four or sixty-two (employees of the division for youth) of section 2.10 of the criminal procedure law who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was such a uniformed court officer, parole officer, probation officer, or employee of the division for youth; or
-    (ii-a) the intended victim was a firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse involved in a first response team, or any other individual who, in the course of official duties, performs emergency response activities and was engaged in such activities at the time of killing and the defendant knew or reasonably should have known that the intended victim was such firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse; or
-    (iii) the intended victim was an employee of a state correctional institution or was an employee of a local correctional facility as defined in subdivision two of section forty of the correction law, who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was an employee of a state correctional institution or a local correctional facility; or
-    (iv) at the time of the commission of the killing, the defendant was confined in a state correctional institution or was otherwise in custody upon a sentence for the term of his natural life, or upon a sentence commuted to one of natural life, or upon a sentence for an indeterminate term the minimum of which was at least fifteen years and the maximum of which was natural life, or at the time of the commission of the killing, the defendant had escaped from such confinement or custody while serving such a sentence and had not yet been returned to such confinement or custody; or
-    (v) the intended victim was a witness to a crime committed on a prior occasion and the death was caused for the purpose of preventing the intended victim's testimony in any criminal action or proceeding whether or not such action or proceeding had been commenced, or the intended victim had previously testified in a criminal action or proceeding and the killing was committed for the purpose of exacting retribution for such prior testimony, or the intended victim was an immediate family member of a witness to a crime committed on a prior occasion and the killing was committed for the purpose of preventing or influencing the testimony of such witness, or the intended victim was an immediate family member of a witness who had previously testified in a criminal action or proceeding and the killing was committed for the purpose of exacting retribution upon such witness for such prior testimony. As used in this subparagraph “immediate family member” means a husband, wife, father, mother, daughter, son, brother, sister, stepparent, grandparent, stepchild or grandchild; or
-    (vi) the defendant committed the killing or procured commission of the killing pursuant to an agreement with a person other than the intended victim to commit the same for the receipt, or in expectation of the receipt, of anything of pecuniary value from a party to the agreement or from a person other than the intended victim acting at the direction of a party to such agreement; or
-    (vii) the victim was killed while the defendant was in the course of committing or attempting to commit and in furtherance of robbery, burglary in the first degree or second degree, kidnapping in the first degree, arson in the first degree or second degree, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse in the first degree or escape in the first degree, or in the course of and furtherance of immediate flight after committing or attempting to commit any such crime or in the course of and furtherance of immediate flight after attempting to commit the crime of murder in the second degree; provided however, the victim is not a participant in one of the aforementioned crimes and, provided further that, unless the defendant's criminal liability under this subparagraph is based upon the defendant having commanded another person to cause the death of the victim or intended victim pursuant to section 20.00 of this chapter, this subparagraph shall not apply where the defendant's criminal liability is based upon the conduct of another pursuant to section 20.00 of this chapter; or
-    (viii) as part of the same criminal transaction, the defendant, with intent to cause serious physical injury to or the death of an additional person or persons, causes the death of an additional person or persons; provided, however, the victim is not a participant in the criminal transaction; or
-    (ix) prior to committing the killing, the defendant had been convicted of murder as defined in this section or section 125.25 of this article, or had been convicted in another jurisdiction of an offense which, if committed in this state, would constitute a violation of either of such sections; or
-    (x) the defendant acted in an especially cruel and wanton manner pursuant to a course of conduct intended to inflict and inflicting torture upon the victim prior to the victim's death. As used in this subparagraph, “torture” means the intentional and depraved infliction of extreme physical pain; “depraved” means the defendant relished the infliction of extreme physical pain upon the victim evidencing debasement or perversion or that the defendant evidenced a sense of pleasure in the infliction of extreme physical pain; or
-    (xi) the defendant intentionally caused the death of two or more additional persons within the state in separate criminal transactions within a period of twenty-four months when committed in a similar fashion or pursuant to a common scheme or plan; or
-    (xii) the intended victim was a judge as defined in subdivision twenty-three of section 1.20 of the criminal procedure law and the defendant killed such victim because such victim was, at the time of the killing, a judge; or
-    (xiii) the victim was killed in furtherance of an act of terrorism, as defined in paragraph (b) of subdivision one of section 490.05 of this chapter; and
-    (b) The defendant was more than eighteen years old at the time of the commission of the crime.
-    2. In any prosecution under subdivision one, it is an affirmative defense that:
-    (a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the first degree or any other crime except murder in the second degree. (ii) It shall not be a “reasonable explanation or excuse” pursuant to subparagraph (i) of this paragraph when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth; or
-    (b) The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the second degree or any other crime except murder in the second degree.
-    Murder in the first degree is a class A-I felony.
+**New York Penal Law § 125.25 Murder in the second degree** A person is guilty of murder in the second degree when:
 
-  **List of statutes I need to know for midterm**
-    I should know these by heart:
-    NYPL § 125.25 Murder in the second degree
-    Subsections (1), (2), and (3)
-    NYPL § 125.20 Manslaughter in the first degree
-    Subsections (1) and (2)
-    NYPL § 125.15 Manslaughter in the second degree
-    Subsection 1
-    NYPL § 125.10 Criminally negligent homicide
+(1) With intent to cause the death of another person, he causes the death of such person or of a third person; except that in any prosecution under this subdivision, it is an affirmative defense that:
 
-    Notes:
-    Felony murder or depraved indifference murder or intent to kill murder in new York are all second-degree murder.
-    NYPL manslaughter also similarities with MPC and common law
-    NY aggravated homicides – certain individuals are entitled to more protection, so killing a police officer or a peace officer
-    NY first-degree murder – this is new York’s death penalty statute – basically second degree intent to kill plus aggravating factor, which can include various categories – killing a child, killing by torture, but we are not going to focus on those but I should glance at them
+<p style="margin-left:3%; margin-right:10%;">(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the first degree or any other crime.</p>
+<p style="margin-left:3%; margin-right:10%;">(ii) It shall not be a “reasonable explanation or excuse” pursuant to subparagraph (i) of this paragraph when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth; or</p>
+<p style="margin-left:3%; margin-right:10%;">(b) The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the second degree or any other crime; or</p>
+
+(2) Under circumstances evincing a depraved indifference to human life, he recklessly engages in conduct which creates a grave risk of death to another person, and thereby causes the death of another person; or
+(3) Acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants; except that in any prosecution under this subdivision, in which the defendant was not the only participant in the underlying crime, it is an affirmative defense that the defendant:
+
+<p style="margin-left:3%; margin-right:10%;">(a) Did not commit the homicidal act or in any way solicit, request, command, importune, cause or aid the commission thereof; and</p>
+<p style="margin-left:3%; margin-right:10%;">(b) Was not armed with a deadly weapon, or any instrument, article or substance readily capable of causing death or serious physical injury and of a sort not ordinarily carried in public places by law-abiding persons; and</p>
+<p style="margin-left:3%; margin-right:10%;">(c) Had no reasonable ground to believe that any other participant was armed with such a weapon, instrument, article or substance; and</p>
+<p style="margin-left:3%; margin-right:10%;">(d) Had no reasonable ground to believe that any other participant intended to engage in conduct likely to result in death or serious physical injury; or</p>
+
+(4) Under circumstances evincing a depraved indifference to human life, and being eighteen years old or more the defendant recklessly engages in conduct which creates a grave risk of serious physical injury or death to another person less than eleven years old and thereby causes the death of such person; or
+(5) Being eighteen years old or more, while in the course of committing rape in the first, second or third degree, criminal sexual act in the first, second or third degree, sexual abuse in the first degree, aggravated sexual abuse in the first, second, third or fourth degree, or incest in the first, second or third degree, against a person less than fourteen years old, he or she intentionally causes the death of such person.
+Murder in the second degree is a class A-I felony.
+
+**New York Penal Law § 125.26 Aggravated murder** A person is guilty of aggravated murder when:
+(1) With intent to cause the death of another person, he or she causes the death of such person, or of a third person who was a person described in subparagraph (i), (ii), (ii-a) or (iii) of paragraph (a) of this subdivision engaged at the time of the killing in the course of performing his or her official duties; and (a) Either:
+(i) the intended victim was a police officer as defined in subdivision thirty-four of section 1.20 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was a police officer; or
+(ii) the intended victim was a peace officer as defined in paragraph a of subdivision twenty-one, subdivision twenty-three, twenty-four or sixty-two (employees of the division for youth) of section 2.10 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was such a uniformed court officer, parole officer, probation officer, or employee of the division for youth; or
+(ii-a) the intended victim was a firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse involved in a first response team, or any other individual who, in the course of official duties, performs emergency response activities and was engaged in such activities at the time of killing and the defendant knew or reasonably should have known that the intended victim was such firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse; or
+(iii) the intended victim was an employee of a state correctional institution or was an employee of a local correctional facility as defined in subdivision two of section forty of the correction law, who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was an employee of a state correctional institution or a local correctional facility; and
+(b) The defendant was more than eighteen years old at the time of the commission of the crime; or
+(2) (a) With intent to cause the death of a person less than fourteen years old, he or she causes the death of such person, and the defendant acted in an especially cruel and wanton manner pursuant to a course of conduct intended to inflict and inflicting torture upon the victim prior to the victim's death. As used in this subdivision, “torture” means the intentional and depraved infliction of extreme physical pain that is separate and apart from the pain which otherwise would have been associated with such cause of death; and
+(b) The defendant was more than eighteen years old at the time of the commission of the crime.
+(3) In any prosecution under subdivision one or two of this section, it is an affirmative defense that:
+(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, aggravated manslaughter in the first degree, manslaughter in the first degree or any other crime except murder in the second degree. (ii) It shall not be a “reasonable explanation or excuse” pursuant to subparagraph (i) of this paragraph when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth; or
+(b) The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, aggravated manslaughter in the second degree, manslaughter in the second degree or any other crime except murder in the second degree.
+Aggravated murder is a class A-I felony.
+
+**New York Penal Law § 125.27 Murder in the first degree** A person is guilty of murder in the first degree when:
+
+(1) With intent to cause the death of another person, he causes the death of such person or of a third person; and
+
+<p style="margin-left:3%; margin-right:10%;">(a) Either:</p>
+
+<p style="margin-left:5%; margin-right:10%;">(i) the intended victim was a police officer as defined in subdivision 34 of section 1.20 of the criminal procedure law who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was a police officer; or</p>
+<p style="margin-left:5%; margin-right:10%;">(ii) the intended victim was a peace officer as defined in paragraph a of subdivision twenty-one, subdivision twenty-three, twenty-four or sixty-two (employees of the division for youth) of section 2.10 of the criminal procedure law who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was such a uniformed court officer, parole officer, probation officer, or employee of the division for youth; or</p>
+<p style="margin-left:5%; margin-right:10%;">(ii-a) the intended victim was a firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse involved in a first response team, or any other individual who, in the course of official duties, performs emergency response activities and was engaged in such activities at the time of killing and the defendant knew or reasonably should have known that the intended victim was such firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse; or</p>
+<p style="margin-left:5%; margin-right:10%;">(iii) the intended victim was an employee of a state correctional institution or was an employee of a local correctional facility as defined in subdivision two of section forty of the correction law, who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was an employee of a state correctional institution or a local correctional facility; or</p>
+<p style="margin-left:5%; margin-right:10%;">(iv) at the time of the commission of the killing, the defendant was confined in a state correctional institution or was otherwise in custody upon a sentence for the term of his natural life, or upon a sentence commuted to one of natural life, or upon a sentence for an indeterminate term the minimum of which was at least fifteen years and the maximum of which was natural life, or at the time of the commission of the killing, the defendant had escaped from such confinement or custody while serving such a sentence and had not yet been returned to such confinement or custody; or</p>
+<p style="margin-left:5%; margin-right:10%;">(v) the intended victim was a witness to a crime committed on a prior occasion and the death was caused for the purpose of preventing the intended victim's testimony in any criminal action or proceeding whether or not such action or proceeding had been commenced, or the intended victim had previously testified in a criminal action or proceeding and the killing was committed for the purpose of exacting retribution for such prior testimony, or the intended victim was an immediate family member of a witness to a crime committed on a prior occasion and the killing was committed for the purpose of preventing or influencing the testimony of such witness, or the intended victim was an immediate family member of a witness who had previously testified in a criminal action or proceeding and the killing was committed for the purpose of exacting retribution upon such witness for such prior testimony. As used in this subparagraph “immediate family member” means a husband, wife, father, mother, daughter, son, brother, sister, stepparent, grandparent, stepchild or grandchild; or</p>
+<p style="margin-left:5%; margin-right:10%;">(vi) the defendant committed the killing or procured commission of the killing pursuant to an agreement with a person other than the intended victim to commit the same for the receipt, or in expectation of the receipt, of anything of pecuniary value from a party to the agreement or from a person other than the intended victim acting at the direction of a party to such agreement; or</p>
+<p style="margin-left:5%; margin-right:10%;">(vii) the victim was killed while the defendant was in the course of committing or attempting to commit and in furtherance of robbery, burglary in the first degree or second degree, kidnapping in the first degree, arson in the first degree or second degree, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse in the first degree or escape in the first degree, or in the course of and furtherance of immediate flight after committing or attempting to commit any such crime or in the course of and furtherance of immediate flight after attempting to commit the crime of murder in the second degree; provided however, the victim is not a participant in one of the aforementioned crimes and, provided further that, unless the defendant's criminal liability under this subparagraph is based upon the defendant having commanded another person to cause the death of the victim or intended victim pursuant to section 20.00 of this chapter, this subparagraph shall not apply where the defendant's criminal liability is based upon the conduct of another pursuant to section 20.00 of this chapter; or</p>
+<p style="margin-left:5%; margin-right:10%;">(viii) as part of the same criminal transaction, the defendant, with intent to cause serious physical injury to or the death of an additional person or persons, causes the death of an additional person or persons; provided, however, the victim is not a participant in the criminal transaction; or</p>
+<p style="margin-left:5%; margin-right:10%;">(ix) prior to committing the killing, the defendant had been convicted of murder as defined in this section or section 125.25 of this article, or had been convicted in another jurisdiction of an offense which, if committed in this state, would constitute a violation of either of such sections; or</p>
+<p style="margin-left:5%; margin-right:10%;">(x) the defendant acted in an especially cruel and wanton manner pursuant to a course of conduct intended to inflict and inflicting torture upon the victim prior to the victim's death. As used in this subparagraph, “torture” means the intentional and depraved infliction of extreme physical pain; “depraved” means the defendant relished the infliction of extreme physical pain upon the victim evidencing debasement or perversion or that the defendant evidenced a sense of pleasure in the infliction of extreme physical pain; or</p>
+<p style="margin-left:5%; margin-right:10%;">(xi) the defendant intentionally caused the death of two or more additional persons within the state in separate criminal transactions within a period of twenty-four months when committed in a similar fashion or pursuant to a common scheme or plan; or</p>
+<p style="margin-left:5%; margin-right:10%;">(xii) the intended victim was a judge as defined in subdivision twenty-three of section 1.20 of the criminal procedure law and the defendant killed such victim because such victim was, at the time of the killing, a judge; or</p>
+<p style="margin-left:5%; margin-right:10%;">(xiii) the victim was killed in furtherance of an act of terrorism, as defined in paragraph (b) of subdivision one of section 490.05 of this chapter; and</p>
+<p style="margin-left:3%; margin-right:10%;">(b) The defendant was more than eighteen years old at the time of the commission of the crime.</p>
+
+(2) In any prosecution under subdivision one, it is an affirmative defense that:
+
+<p style="margin-left:3%; margin-right:10%;">(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the first degree or any other crime except murder in the second degree. (ii) It shall not be a “reasonable explanation or excuse” pursuant to subparagraph (i) of this paragraph when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth; or</p>
+<p style="margin-left:3%; margin-right:10%;">(b) The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the second degree or any other crime except murder in the second degree. Murder in the first degree is a class A-I felony.</p>
+
+<p style="margin-left:5%; margin-right:10%;"><b>Notes:</b> Felony murder or depraved indifference murder or intent to kill murder in new York are all second-degree murder. NYPL manslaughter also similarities with MPC and common law. NY aggravated homicides – certain individuals are entitled to more protection, so killing a police officer or a peace officer. NY first-degree murder – this is new York’s death penalty statute – basically second degree intent to kill plus aggravating factor, which can include various categories – killing a child, killing by torture, but we are not going to focus on those but I should glance at them.</p>
 
 ## Intentional Killings: Manslaughter: Heat of Passion
 
-  **Common law Heat of Passion (voluntary manslaughter)**
-    Intentional homicide done in a (1) sudden heat of passion caused by (2) adequate provocation, (3) before there has been a reasonable opportunity for the passion to cool; (4) causal connection between provocation and act.
-    (1)Excuse (2) justification (3) justification
+**Common law Heat of Passion (voluntary manslaughter)** Intentional homicide done in a (1) sudden heat of passion caused by (2) adequate provocation, (3) before there has been a reasonable opportunity for the passion to cool; (4) causal connection between provocation and act. (1)Excuse (2) justification (3) justification
 
-  **Excuse and justification defenses**
-    Justification defenses (approval of actor’s conduct, as in self-defense)
-    Excuse defenses (defendant did wrong act but is not morally blameworthy, as in insanity defense)
+**Excuse and justification defenses** Justification defenses (approval of actor’s conduct, as in self-defense). Excuse defenses (defendant did wrong act but is not morally blameworthy, as in insanity defense).
 
-    Is heat of passion a partial justification or a partial excuse defense?
-    Why does that matter? Well, imagine a situation where a D is Aaron, and Ben drives up and kills Aaron’s daughter Sue, and Ralph steps in and tries to get past Ralph to kill Ben, and kills Ralph. Should that be an excuse defense or a justification defense? If excuse, not morally blameworthy because very upset. If excuse defense,
+Is heat of passion a partial justification or a partial excuse defense? Why does that matter? Well, imagine a situation where a D is Aaron, and Ben drives up and kills Aaron’s daughter Sue, and Ralph steps in and tries to get past Ralph to kill Ben, and kills Ralph. Should that be an excuse defense or a justification defense? If excuse, not morally blameworthy because very upset. If excuse defense,
 
-    **Girouard v. State | Court of Appeals of Maryland 1991**
-      Issue: Whether words alone are a provocation adequate to justify a conviction of murder in the second degree.
+  **Girouard v. State Court of Appeals of Maryland 1991**
+  Issue: Whether words alone are a provocation adequate to justify a conviction of murder in the second degree.
       Holding: The provocation of Steven by Joyce was not sufficient to mitigate the second-degree murder charge against Steven to voluntary manslaughter.
       **Rule:** Words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter. Also, one of the questions this case leaves us with is, what is a reasonable man.
       Common law: voluntary manslaughter: “an intentional homicide, done in a sudden heat of passion, caused by adequate provocation, before there has been a reasonable opportunity for the passion to cool” (285). Difference between murder and manslaughter is the presence or absence of malice.
