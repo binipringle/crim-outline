@@ -701,7 +701,7 @@ Our casebook organizes around: intentional homicides versus unintentional homici
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The crime of first degree murder generally requires the killing to be premeditated and deliberate.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>State v. Forrest (North Carolina 1987) (Son killed his dying father in hospital by shooting him four times in the head.)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Forrest (North Carolina 1987)</b> (Son killed his dying father in hospital by shooting him four times in the head.)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b>Under North Carolina Law, to find a defendant guilty of first-degree murder, premeditation and deliberation must be proved by circumstantial evidence.</p>
 
