@@ -493,128 +493,115 @@ Jurisdiction B statute: A person is guilty of murder if she/he intentionally kil
 
 # Causation
 
-The reason causation is important is because the statute is prohibiting a result, not a conduct. If the statute prohibits a result, for fairness purposes, there has to be a connection established between the cause and the result.
+Causation is important when the statute is prohibiting a result, not a conduct. If the statute prohibits a result, for fairness purposes, there has to be a connection established between the cause and the result.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Suppose a neighborhood not much traffic A B C D E driving around. E gets hit by a car. Nobody sees. Even E doesn’t see who hit him. Would it be fair to punish all of them? No. Retributive reason: only one person deserves to be punished. Utilitarian reason could be that if we punish everyone they will all be more careful; but that would not be ok if punishment is severe for retributive reasons. </p>
 
 ## Causation: steps of analysis
 
-**ONE DEFENDANT AT A TIME:** 1 defendant, 1 crime, 1 analysis. Then go on to the next. If one of the two big elements not satisfied, causation not satisfied.
+**ONE DEFENDANT AT A TIME:** 1 defendant, 1 crime, 1 analysis. Then go on to the next. If one of the two big elements is not satisfied, causation is not satisfied.
 
 ## 1. Actual causation (cause-in-fact)
 
 **a. But-for test**
-Rule: A defendant’s conduct is a cause-in-fact of the prohibited result if the said result would not have occurred “but for” (in the absence of) the defendant’s conduct (if satisfied move on to proximate cause)
-1.	If the harm would not have occurred “but for” D’s conduct, the D is the actual cause (note that there may be more than 1 actual cause)
-2.	If the harm would have occurred but for D’s conduct, the D is not the actual cause
+
+**Rule:** A defendant’s conduct is a cause-in-fact of the prohibited result if the said result would not have occurred “but for” (in the absence of) the defendant’s conduct (if satisfied move on to proximate cause)
+
+1. If the harm would not have occurred “but for” the defendant’s conduct, the defendant is the actual cause (note that there may be more than 1 actual cause)
+2. If the harm would have occurred but for the defendant’s conduct, the defendant is not the actual cause
 
 **b. Substantial factor test**
 
-1. If the D was a substantial factor in bringing about the result, then the D is an actual cause (narrow!)
-2. Rule: Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (for analysis number and think through the pieces)
-(a)	If the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (move on to proximate cause)
-(b)If the defendant was not a substantial factor in bringing about the result, then the defendant is not an actual cause.
+**Rule:** Where two defendant’s are acting independently and not in concert AND commit two separate acts each of which alone is sufficient to bring about the prohibited result, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (for analysis number and think through the pieces)
+
+<p style="margin-left:7%; margin-right:10%;">(a) If the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (move on to proximate cause)</p>
+<p style="margin-left:7%; margin-right:10%;">(b) If the defendant was not a substantial factor in bringing about the result, then the defendant is not an actual cause.</p>
 
 **c. Acceleration test** (variation on but-for test)
-i.	Rule: If one person brings about an act sufficient to bring about a prohibited result, and the defendant performs an act that accelerates the prohibited result, the defendant is the actual cause.
-a.	Narrower rule: A nonlethal injury inflicted by the D after a lethal injury inflicted by someone else is a cause in fact of the V’s death if it accelerates the V’s death.
 
-**Sometimes use substantial factor test first, before but-for test** (Velazquez case) Part 1 (when it applies)
+**Rule:** If one person brings about an act sufficient to bring about a prohibited result, and the defendant performs an act that accelerates the prohibited result, the defendant is the actual cause.
 
-**Rule:** (sorta) Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result … Then, you apply the substantial factor/inquiry test instead of the but-for test …
+<p style="margin-left:7%; margin-right:10%;"><b>Example:</b> A nonlethal injury inflicted by the defendant after a lethal injury inflicted by someone else is a cause in fact of the victim’s death if it accelerates the victims’s death.</p>
+
+**Sometimes use substantial factor test first the before but-for test** (Velazquez case) Part 1 (when it applies)
+
+**Rule/steps of analysis:** Where two D’s are acting independently and not in concert AND commit two separate acts, each of which alone is sufficient to bring about the prohibited result … Then, you apply the substantial factor/inquiry test instead of the but-for test …
 Under this specific situation, if the defendant was a substantial factor in bringing about the result, then the defendant is an actual cause. (Velasquez v. State)
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Suppose both M and R shot K at the exact same time. But for M shooting K, would he not have died? K would have died anyway – same with R. This is when the substantial factor test would apply. Each act is sufficient to bring about K’s death.</p>
 
-## 2. Proximate causation
+## 2. Proximate cause
 
 **Proximate Cause analysis: are there any intervening cause(s)?**
 
-**Rule:** Proximate cause is a fairness limitation for determining who among those that satisfy the but-for standard should be held accountable for resulting harm.
+**Rule:** Proximate cause is a fairness limitation for determining who among those that satisfy the but-for standard should be held accountable for resulting harm. If there are no intervening causes, the defendant that is an actual cause is also said to be the proximate cause.
 
-**Rule:** If there are no intervening causes, the defendant that is an actual cause is also said to be the proximate cause.
+**Coincidental/responsive test: steps:** If there was an intervening cause, analyze the chain of causation.
 
-**Coincidental/responsive test: steps**
-
-i.	If there was an intervening cause, analyze the chain of causation.
 1. identify intervening causes
 2. determine whether each intervening cause is coincidental or responsive in relation to defendant’s act(s).
 3. then,
-- for coincidental, d is not a proximate cause if the intervening cause is unforeseeable.
-- for responsive intervening causes (causes that are responsive in relation to D’s acts), D is not a proximate cause if the intervening cause is unforeseeable AND abnormal (Reasonable foreseeability - standard for determining whether an intervening cause supersedes - is whether the intervening cause was foreseeable based on an objective standard of reasonableness.)
 
-**Responsive intervening cause:** A responsive intervening cause happens in response to the D’s conduct.
+<p style="margin-left:7%; margin-right:10%;">(a) for coincidental, the defendant is not a proximate cause if the intervening cause is unforeseeable.</p>
 
-**First step of analysis:** Was the responsive intervening cause unforeseeable and abnormal?
+<p style="margin-left:7%; margin-right:10%;">(b) for responsive intervening causes, the defendant is not a proximate cause if the intervening cause is unforeseeable AND abnormal</p>
 
-**Rule:** if a responsive intervening cause is unforeseeable and abnormal (abnormal would be, an exception to whatever happened every single time in the past 99.9 percent of the rule; would have to fall way outside the expected result), it supersedes the D’s conduct as the proximate cause of the prohibited result.
+<p style="margin-left:7%; margin-right:10%;"><b>Reasonable foreseeability:</b> An intervening cause supersedes if the intervening cause was foreseeable based on an objective standard of reasonableness.</p>
+
+**Responsive intervening cause:** Causes that happen in response to the defendant’s conduct.
+
+<p style="margin-left:7%; margin-right:10%;"><b>First step of analysis:</b> Was the responsive intervening cause unforeseeable and abnormal?</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> If a responsive intervening cause is unforeseeable and abnormal, it supersedes the defendant’s conduct as the proximate cause of the prohibited result.</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Definition of abnormal:</b> Abnormal would be an exception to whatever happened every single time in the past 99.9 percent of the rule; it would have to fall way outside the expected result.
 
 **Coincidental intervening cause:** A coincidental intervening cause would have happened anyway.
 
-**First step of analysis:** Was the coincidental intervening cause unforeseeable?
+<p style="margin-left:7%; margin-right:10%;"><b>First step of analysis:</b> Was the coincidental intervening cause unforeseeable?</p>
 
-**Rule:** if a coincidental intervening cause is unforeseeable, it breaks the chain of causation.(unforeseeable is a pretty difficult test; coincidental intervening cause tends to break the chain of more easily than responsive ones)
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> If a coincidental intervening cause is unforeseeable, it breaks the chain of causation.(unforeseeable is a pretty difficult test; coincidental intervening cause tends to break the chain of more easily than responsive ones)</p>
 
 **Proximate Cause factors/tests**
 
-**Factors that weigh in favor of finding defendant was NOT a proximate cause** (i.e. these break the chain of causation)
+**Factors that weigh in favor of finding defendant was NOT a proximate cause** (these break the chain of causation)
 
-**Apparent safety (victim) doctrine:** When a D’s active force has come to rest in a position of apparent safety, the court will follow it no longer (238) (People v. Rideout: V had come to rest in a position of apparent safety on the side of the road when they went to check on D.)
+**Apparent safety doctrine:** When a defendant’s active force has come to rest in a position of apparent safety, the court will follow it no longer.
 
-Voluntary human intervention: Free, deliberate and informed human intervention by interventor (State v. Presler - woman who freezes to death)
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Rideout (2006)</b> (the victim had come to rest in a position of apparent safety on the side of the road when he decided to go turn on the car's emergency lights)</p>
 
-**Factors that weigh in favor of finding defendant WAS a proximate cause** (i.e. these generally do not break the chain of causation)
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> The Victim’s injury must be “a direct and natural result” of the defendant’s actions (236)</p>
 
-- De minimis contribution by intervening cause (if a few seconds difference courts can say not superseding)
+<p style="margin-left:10%; margin-right:10%;"><b>Holding:</b> The court found that there was insufficient evidence to establish proximate cause (whether intervening cause was responsive or coincidental in this case is arguable at best). (238) </p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> Rideout driving SUV. Turns and drives into path of oncoming car driven by Reichelt. Reichelt’s car hits D’s SUV and comes to rest in the middle of the road. SUV came to rest on the side of the road. Reichelt and passenger Jonathan Kaiser not injured. They walk to D’s SUV on the side of the road to check on D. Spoke with D. Walked back to Reichalt’s car. Reichalt said he wanted to turn on the flashers and was standing next to his car when oncoming car driven by Tony Welch hit Keiser and killed him. D tested positive for alcohol. D was charged with operating a motor vehicle while intoxicated (OWI) or while visibly impaired (OWVI) and thereby causing death.</p>
+
+**Voluntary human intervention:** Free, deliberate and informed human intervention by interventor.
+
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Presler (1856)</b> (woman who flees abusive partner and freezes to death because chooses not to go to father’s house.<i> Voluntary human intervention</i> (page 238 and note 7 on page 242)</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a doctor offers medical assistance to a person injured by another person, but the injured person refuses treatment and dies, then the injured person's free, deliberate and informed human intervention broke the chain of causation, and the person who caused the injuries is not the proximate cause of the injured person's death.</p>
+
+**Factors that weigh in favor of finding defendant WAS a proximate cause** (these generally do not break the chain of causation)
+
+- De minimis contribution by intervening cause (if only a few seconds difference, courts can say not superseding)
 - Intended consequences of defendant doctrine (mother wanting to poison someone) (p. 241)
 - Omissions by interventor – note 5 on page 241 (omissions are less likely to break the chain of causation)
 
-**Oxendine v. State | Supreme Court of Delaware, 1987**
-Convicted of manslaughter in the beating death of his six-year-old son. Girlfriend had pushed Oxendine’s son into bathtub causing microscopic tears in intestines which led to peritonitis (inflammation of the peritoneum [membrane lining the cavity of the abdomen and folded over the viscera]). When Oxendine got home he saw Jeffrey had bruises. Early next morning Oxendine beat Jeffrey. Later that day Jeffrey’s abdomen became swollen. At 5 PM Oxendine got home, and Tyree urged him to take Jeffrey to the hospital. Instead, Oxendine went out and bought a newspaper. When Oxendine returned home, Tyree had got Jeffrey ready to go to the hospital. On the way to the hospital Jeffrey stopped breathing and when they got to the hospital he was dead. (228-9) The jury returned verdicts of manslaughter against Oxendine and Tyree. (230)
-Issue: Whether the trial court committed error by denying Appellant’s motion for a judgment of acquittal on the issue of causation. Appellant argued that the State’s medical testimony was too vague and uncertain to show which of the codefendant’s repeated beatings caused the death. (228)
-“But-for” Test: But for the infliction of the second injury, would Jeffrey have died when he did? (231) The doctors are unclear. The case doesn’t pass the “but-for” test.
-**Rule:** If a person suffers a lethal injury, and the defendant subsequently inflicts a non-lethal injury that accelerates the death of the person, the defendant is an actual cause.
-Holding: “The evidence upon causation was insufficient to sustain … conviction of manslaughter, but … the evidence was sufficient to sustain [Appellant’s] conviction of … assault in the second degree” (228)
-Reasoning: There was acceleration, but Dr. Hoffman’s testimony that there was acceleration was not admitted because State had already closed the case-in-chief. It could not admit the prima facie case of Dr. Hoffman to support acceleration.
-Judgment: Oxendine was convicted of assault in the second degree.
+<p style="margin-left:7%; margin-right:10%;"><b>Oxendine v. State (1987)</b> (convicted of manslaughter in the beating death of his six-year-old son)</p>
 
-    **People v. Rideout | Court of Appeals of Michigan 2006**
-      Rideout (D) driving SUV. Turns and drives into path of oncoming car driven by Reichelt. Reichelt’s car hits D’s SUV and comes to rest in the middle of the road. SUV came to rest on the side of the road. Reichelt and passenger Jonathan Kaiser not injured. They walk to D’s SUV on the side of the road to check on D. Spoke with D. Walked back to Reichalt’s car. Reichalt said he wanted to turn on the flashers and was standing next to his car when oncoming car driven by Tony Welch hit Keiser and killed him. D tested positive for alcohol. D was charged with operating a motor vehicle while intoxicated (OWI) or while visibly impaired (OWVI) and thereby causing death.
-      Issue: Did Rideout cause Kaiser's death?
-      **Holding:** Court found that there was insufficient evidence to establish proximate cause. Whether intervening cause was responsive or coincidental in this case is arguable at best (238)
-      Trial court improperly instructed jury on causation (court only instructed jury on cause-in-fact, not on proximate cause and superseding cause)
-      Insufficient evidence of causation to prove D’s guilt
-      Factual cause not in dispute; D’s driving was the but-for cause of the second accident
-      Proximate cause harder to establish
-      Victim’s injury must be “a direct and natural result” of D’s actions (236)
-      Intervening cause (was there an intervening cause?)
-      If an intervening cause superseded the D’s act as a legally significant causal factor, then the D’s conduct will not be deemed a proximate cause of the victim’s injury. (236)
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person suffers a lethal injury, and the defendant subsequently inflicts a non-lethal injury that accelerates the death of the person, the defendant is an actual cause.</p>
 
-    **State v. Presler 1856** (page 238) (also note 7 on page 242)
-      Woman who flees abusive partner and freezes to death because chooses not to go to father’s house.
-      *Voluntary human intervention*
-      Page something – if taken to get medical assistance and doctor wants to help but I say no and die, then my free, deliberate and informed human intervention broke the chain of causation, and it’s no longer the D’s fault I died.
+<p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> Oxendine's girlfriend had pushed Oxendine’s son into the bathtub causing microscopic tears in intestines which led to peritonitis (inflammation of the peritoneum [membrane lining the cavity of the abdomen and folded over the viscera]). When Oxendine got home he saw Jeffrey had bruises. Early next morning Oxendine beat Jeffrey. Later that day Jeffrey’s abdomen became swollen. At 5 PM Oxendine got home, and Tyree urged him to take Jeffrey to the hospital. Instead, Oxendine went out and bought a newspaper. When Oxendine returned home, Tyree had got Jeffrey ready to go to the hospital. On the way to the hospital Jeffrey stopped breathing and when they got to the hospital he was dead. (228-9) The jury returned verdicts of manslaughter against Oxendine and Tyree. (230) The defense argued that the State’s medical testimony was too vague and uncertain to show which of the codefendant’s repeated beatings caused the death. (228). The court asked expert witness doctors whether but for the infliction of the second injury Jeffrey would have died when he did. The doctors were unclear. The case didn't pass the “but-for” test.</p>
 
-    **Velazquez v. State 1990**
-      Velazquez met Alvarez at a restaurant in Florida. They decided to have a drag race with their respective cars. They “set up” the race (I understand this means they agreed on the route of the race) together. They raced a quarter mile. Alvarez turned the car around and went back down the public road. Velazquez followed him. They drove back to the starting line at 123 mph, Alvarez in front. At end of road both drivers braked but neither could stop. Alvarez crashed through a guardrail and his car flew over the canal, landing on the far bank. He was thrown from his car, then the car landed on him, and he died instantly. D also drove through guardrail but landed in canal and swam to safety.
-      Statute/common law: “Vehicular homicide” is the killing of a human being by the operation of a motor vehicle by another in a reckless manner likely to cause the death of, or great bodily harm to, another.”
-      Issue: whether a D driver of a motor vehicle who participates in a reckless and illegal “drag race” on a public road may be properly convicted of vehicular homicide for the death of a co-participant in the race if the sole basis for imposing liability is the defendant’s participation in said race (244)
-      **Rule:**
-      Even where a D’s conduct is a cause-in-fact of a particular result, Florida declines to impose criminal liability
-        1.	Where the prohibited result of the D’s conduct is beyond the scope of any fair assessment created by the D’s conduct; or
-        2.	Where it would otherwise be unjust, based on fairness and policy considerations, to hold the D criminally responsible for the prohibited result (245)
-      D’s participation in race was a but-for cause-in-fact of V’s death.
-      Drag race was over when V sped back to the starting line, so this was apparent safety
-        Applying responsive/coincidental intervening cause test:
-          1. Identify intervening cause
-          1. Was the intervening cause responsive or coincidental
-            a.	coincidental
-              i.	Was it unforeseeable or abnormal?
-                1. Yes
-                  a.	Breaks chain of causation. Velazquez not responsible for V’s death
-      Defendant’s voluntary act: drag racing
-      Intervening cause: victim turns car around and speeds back
-      Result: death
+<p style="margin-left:7%; margin-right:10%;"><b>Velazquez v. State (1990)</b> (two men had a drag race in Florida and one died)</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Even where a defendant’s conduct was a cause-in-fact of a particular result, a court in Florida declines to impose criminal liability (1) where the prohibited result of the defendant’s conduct is beyond the scope of any fair assessment created by the defendant’s conduct; or (2) where it would otherwise be unjust, based on fairness and policy considerations, to hold the defendant criminally responsible for the prohibited result (p. 245)</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Common Law:</b> “Vehicular homicide” is the killing of a human being by the operation of a motor vehicle by another in a reckless manner likely to cause the death of, or great bodily harm to, another.”</p>
+
+<p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> Velazquez met Alvarez at a restaurant in Florida. They decided to have a drag race with their respective cars. They “set up” the race together. They raced a quarter mile. Alvarez turned the car around and went back down the public road. Velazquez followed him. After the race, they drove back to the starting line at 123 mphh. At the end of road both drivers braked but could not stop. Alvarez crashed and died. The issue was whether a driver of a motor vehicle who participates in a reckless and illegal “drag race” on a public road may be properly convicted of vehicular homicide for the death of a co-participant in the race if the sole basis for imposing liability is the defendant’s participation in said race.</p>
+
 
     **State v. Rose | Supreme Court of Rhode Island 1973**
       Henry Rose charged with leaving the scene of an accident, death resulting, in violation of General Law of Rhode Island 1956 Section 31-26-1; negligent manslaughter
