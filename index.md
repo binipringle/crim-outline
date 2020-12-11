@@ -705,11 +705,9 @@ Our casebook organizes around: intentional homicides versus unintentional homici
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b>Under North Carolina Law, to find a defendant guilty of first-degree murder, premeditation and deliberation must be proved by circumstantial evidence.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> This case was ruled under the North Carolina murder statute. With the MPC the outcome would have been different because the MPC does not have degrees of murder, and the MPC has the extreme emotional disturbance defense (EED).</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> This case was ruled under the North Carolina murder statute. With the MPC the outcome would have been different because the MPC does not have degrees of murder, and the MPC has the extreme emotional disturbance defense (EED). </p>
 
-**Which murder provisions of the NYPL and MPC requires premeditation and deliberation? NONE**
-
-NYPL has first degree but does not have the words premeditation and deliberation; MPC does not have degrees of murder; The old common law did not have premeditation and deliberation either; it had malice aforethought but not premeditation and deliberation.
+**Which murder provisions of the NYPL and MPC requires premeditation and deliberation? NONE** NYPL has first degree but does not have the words premeditation and deliberation; MPC does not have degrees of murder; The old common law did not have premeditation and deliberation either; it had malice aforethought but not premeditation and deliberation.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Sundance hypo:</b> (quiz question 2 put by K on twen) The D would argue that knowingly modifies the phrase “deadly weapon” under NYPL. Therefore, he does not satisfy the mens Rea requirements because he did not know that the phone was also a gun.</p>
 
