@@ -2,7 +2,16 @@
 
 ## Proof of Guilt: “Beyond a reasonable doubt”
 
-**Presumption of Innocence**
+**Presumption of Innocence:** In NYPL and MPC this is implicit in burden of proof.
+
+**NYPL S 25.00 Defenses; burden of proof.**
+
+(1) When a "defense, " other than an "affirmative defense, " defined by statute is raised at a trial, the people have the burden of disproving such defense beyond a reasonable doubt.
+(2) When a defense declared by statute to be an "affirmative defense" is raised at a trial, the defendant has the burden of establishing such defense by a preponderance of the evidence.
+
+**MPC Sec. 2.01.  PROOF BEYOND A REASONABLE DOUBT:**  
+
+All persons are presumed to be innocent and no person may be convicted of an offense unless each element of the offense is proved beyond a reasonable doubt.  The fact that he has been arrested, confined, or indicted for, or otherwise charged with, the offense gives rise to no inference of guilt at his trial.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Owens v. State (1992)</b> (man sitting in non-moving car in private driveway while intoxicated)</p>
 
@@ -426,7 +435,7 @@ Only applies in Model Penal Code jurisdictions! Transferred intent is built into
 
 **Strict liability crimes and mistake of fact**
 
-Mistake of fact is an affirmative defense (an affirmative defense is a defense in which the defendant introduces evidence, which, if found to be credible, will negate criminal liability even if it is proven that the defendant committed the alleged acts).
+Mistake of fact is an affirmative defense (an affirmative defense where the ).
 
 <p style="margin-left:7%; margin-right:10%;"><b>Garnett case:</b> 20-year old defendant with cognitive disabilities had sexual intercourse with 13-year old, who became pregnant) <i> See also Garnett under statutory interpretation, where there is a different rule.</i></p>
 
@@ -525,9 +534,10 @@ Under this specific situation, if the defendant was a substantial factor in brin
 ## 2. Proximate causation
 
 **Proximate Cause analysis: are there any intervening cause(s)?**
-Proximate cause is a fairness limitation for determining who among those that satisfy the but for standard should be held accountable for resulting harm.
 
-**Rule:** If there are no intervening causes, the D that is an actual cause is also said to be the proximate cause.
+**Rule:** Proximate cause is a fairness limitation for determining who among those that satisfy the but-for standard should be held accountable for resulting harm.
+
+**Rule:** If there are no intervening causes, the defendant that is an actual cause is also said to be the proximate cause.
 
 **Coincidental/responsive test: steps**
 
@@ -1592,6 +1602,7 @@ Judgment: Oxendine was convicted of assault in the second degree.
 
   Judgement: order of Appellate Division reversed, dismissed counts of the indictment reinstated.
 
+If Prof K were paranoid about Prof M shooting him, and Prof M pulled out a toy gun and he freaked out and killed her.
 
   S 35.00 Justification; a defense.
     In any prosecution for an offense, justification, as defined in sections 35.05 through 35.30, is a defense.
@@ -1996,7 +2007,11 @@ Judgment: Oxendine was convicted of assault in the second degree.
 
   NYPL section 40.00
 
-  Affirmative defense (burden of proof on defendant by preponderance of evidence)
+Affirmative defense (burden of proof on defendant by preponderance of evidence)
+
+In NY only means that the defense has a burden of proof. An affirmative defense means that the defendant has to prove, for example, duress, by a preponderance of evidence.
+
+If just a defense, the prosecution has the burden of disproving the defense. So in this example, the prosecution would have to prove by a preponderance of evidence that certain conditions do not exist.
 
   Duress is affirmative defense.
 
