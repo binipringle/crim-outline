@@ -873,78 +873,56 @@ Aggravated murder is a class A-I felony.
 
 **Excuse and justification defenses** Justification defenses (approval of actor’s conduct, as in self-defense). Excuse defenses (defendant did wrong act but is not morally blameworthy, as in insanity defense).
 
-Is heat of passion a partial justification or a partial excuse defense? Why does that matter? Well, imagine a situation where a D is Aaron, and Ben drives up and kills Aaron’s daughter Sue, and Ralph steps in and tries to get past Ralph to kill Ben, and kills Ralph. Should that be an excuse defense or a justification defense? If excuse, not morally blameworthy because very upset. If excuse defense,
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> a situation where a D is Aaron, and Ben drives up and kills Aaron’s daughter Sue, and Ralph steps in and tries to get past Ralph to kill Ben, and kills Ralph. Should that be an excuse defense or a justification defense? If excuse, not morally blameworthy because very upset. If justification, then we're saying it's ok to do that.</p>
 
-  **Girouard v. State Court of Appeals of Maryland 1991**
-  Issue: Whether words alone are a provocation adequate to justify a conviction of murder in the second degree.
-      Holding: The provocation of Steven by Joyce was not sufficient to mitigate the second-degree murder charge against Steven to voluntary manslaughter.
-      **Rule:** Words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter. Also, one of the questions this case leaves us with is, what is a reasonable man.
-      Common law: voluntary manslaughter: “an intentional homicide, done in a sudden heat of passion, caused by adequate provocation, before there has been a reasonable opportunity for the passion to cool” (285). Difference between murder and manslaughter is the presence or absence of malice.
-      Facts: Steven and Joyce Girouard married. Argued a lot. Steven got home and heard Joyce on phone telling friend she would leave Steven. Steven went into the bedroom and lay down. Joyce followed him in, stepped onto the bed, pulled his hair and verbally taunted him, saying she wished she had never married him and wanted a divorce. Steven picked up a pillow, went into the kitchen, got a knife, and went back into the bedroom with the knife concealed behind the pillow. Joyce continued to verbally taunt him. Steven stabbed Joyce 19 times. Then he took a shower, tried to kill himself, and called the police to say I murdered my wife. At trial, a psychologist testified that in his opinion Steven had reached the limit of his ability “to bottle up strong emotions.” (284 bottom para).
-      In his appeal, Steven argued that the conviction of second degree murder should be mitigated to manslaughter because there was no malice. He acknowledged that traditionally this mitigation is limited to circumstances of
-      - Extreme assault or battery upon the defendant;
-      - Mutual combat;
-      - Defendant’s illegal arrest;
-      - Injury or serious abuse of a close relative of the defendant; or
-      - The sudden discovery of a spouse’s adultery.
-      Steven argued that the verbal provocation was sufficient, and that categories of provocation to mitigate should be broadened.
-      The court countered by stating that although there is no finite list of legally adequate provocations, under common law, words spoken by the victim, no matter how abusive or taunting, are not sufficient to mitigate murder to manslaughter. The court argued that if words were deemed sufficient to mitigate, “nearly every domestic argument ending in the death of one party could be mitigated to manslaughter” (285).
+<p style="margin-left:7%; margin-right:10%;"><b>Girouard v. State (Maryland 1991)</b> (Steven and Joyce Girouard married in the army, argue, she follows him into bedroom, taunts him, he goes into kitchen, gets knife and stabs her 19 times)/b>
 
-  **Who is the reasonable person?**
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:<b> Under common law, words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter.</P>
 
-    The book doesn’t really tell us. Historically in common law, if you’re thinking of the reasonable person are we thinking about an objective sort of blank person, or do we give the reasonable person some of the characteristics of the D?
+**Common law: voluntary manslaughter:** “an intentional homicide, done in a sudden heat of passion, caused by adequate provocation, before there has been a reasonable opportunity for the passion to cool” (285). Difference between murder and manslaughter is the presence or absence of malice.
 
-    Courts generally have said that if a characteristic is related to the provocation, it should be considered in the reasonable person standard. (See note 4 p. 298)
+**Who is the reasonable person?** The book doesn’t really tell us. Historically in common law, if you’re thinking of the reasonable person are we thinking about an objective sort of blank person, or do we give the reasonable person some of the characteristics of the defendant? Courts generally have said that if a characteristic is related to the provocation, it should be considered in the reasonable person standard. (See note 4 p. 298)
 
-    You have to look at what the characteristics were, and consider
+<p style="margin-left:7%; margin-right:10%;"><b>Director of Public Prosecutions v. Camplin (House of Lords 1978): (Khan, a middle-aged man, sodomized Camplin, a 15-year-old boy, in Khan’s home, and then laughed at him. Camplin took a heavy kitchen pan and killed Khan. Camplin was charged with murder. Appealed, arguing that conviction should be reduced to manslaughter.)</p>
 
-    **Director of Public Prosecutions v. Camplin | House of Lords 1978**
-      Khan, a middle-aged man sodomized Camplin, a 15-year-old boy, in Khan’s home, and then laughed at him. Camplin took a heavy kitchen pan and killed Khan. Camplin was charged with murder. Appealed, arguing that conviction should be reduced to manslaughter.
-      Holding: Court reduced murder to manslaughter.
-      **Rule:** A “reasonable man” is a person having the power of self-control to be expected of an ordinary person of the sex and age of the accused, but in other respects sharing such of the acccused’s characteristics as they think would affect the gravity of the provocation (p. 299)
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A “reasonable man” is a person having the power of self-control to be expected of an ordinary person of the sex and age of the accused, but in other respects sharing such of the accused’s characteristics as they think would affect the gravity of the provocation (p. 299)</p>
 
-      MPC and NYPL do it a little differently, but generally juries are less likely to raise issues about sex or age.
+<p style="margin-left:10%; margin-right:10%;"><b>MPC and NYPL</b> do it a little differently, but generally juries are less likely to raise issues about sex or age.</p>
 
 ## Extreme emotional disturbance
 
-  MPC takes a little different approach from NYPL (see MPC and NYPL laws above)
+MPC takes a little different approach from NYPL (see MPC and NYPL laws above)
 
-    **People v. Cassassa | Court of Appeals of New York, 1980**
-      Facts: Victoria Le Consolo (Victim) and Victor Cassassa (Defendant) lived in the same building. After dating for 3 or 4 months, Ms. Le Consolo told the D she was not in falling in love with him. D became obsessed with Ms. Le Consolo. On one occasion the D broke into the apartment below Ms. Le Consolo’s to eavesdrop, and on another occasion broke into her apartment and lay in her bed. One evening D went to Ms. Le Consolo’s apartment with bottles of wine and liquor which he wanted to give to Ms. Le Consolo. Ms. Le Consolo refused to accept the wine and liquor. D pulled out a steak knife and stabbed Ms. Le Consolo several times in the throat, then dragged her body to the bathroom and submerged it in water “to make sure she was dead.”
-      Procedural history: At trial, D did not contest the facts, but argued that at the time of the killing he was experiencing extreme emotional disturbance. At trial, D had one witness, a psychiatrist, who testified that Ms. Le Consolo’s rejection of D combined with his “personality attributes” caused him to be under the influence of extreme emotional disturbance at the time of the killing (301).
-      The People had several witnesses including a psychiatrist, who testified that in his opinion D was not under the influence of extreme emotional disturbance for the purposes of mitigation, because the disturbed state was due to internal factors, not external ones.
-      Trial court noted that extreme emotional disturbance could be caused by a series of events but D had the burden of showing that his reaction was reasonable. Trial court found that D’s reaction to events were so personal to him as not to be reasonable and convicted D of murder in the second degree (301).
-      **Rule:**
-      Reasoning: On Appeal, D said that trial court erred. D held that he had a mental infirmity that did not rise to the level of insanity, and within that mental state, from his subjective point of view, his reaction to a series of events causing him to kill V was reasonable. NYPL Section 125.25 (1)(a) provides that it is an affirmative defense to the crime of murder in the second degree where “the defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.” (301) The extreme emotional disturbance defense is an outgrowth of the heat of passion defense.
-      In heat of passion defense, response to provocation; a cooling off period completely negates the mitigating effect of the response to provocation.
-      In extreme emotional disturbance defense, it may be that significant mental trauma has affected D’s mind for a substantial period of time. The standard by which the reasonableness of the D’s reaction is tested is entirely subjective (302). Under the MPC, defense of extreme emotional disturbance the D must have
-      Acted under the influence of extreme emotional disturbance; and
-      There must have been a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant’s situation as the D believed them to be.
-      Test is in part subjective, and in part objective. The intention of the statute is to give the jury the opportunity to weigh facts and exercise mercy. Appeals court finds that trial court had the opportunity to do all of this and found that the D’s conduct was not reasonable even if seen from the D’s subjective viewpoint.
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Cassassa (New York, 1980)</b> (man obsessively in love wiith woman living in the same building, ends up killing her because she rejected him)
 
-      MPC Sec. 210.3 does not use heat of passion; uses something similar: extreme emotional disturbance. Note that MPC says that extreme emotional disturbance can be a defense to all types of murder, including recklessness.
-      NYPL Secs 125.25; 125.27 – NYPL says only applies to intentional murder, not recklessness.
-      NYPL Sec 125.20 (2) mentions EED in the manslaughter statute because it refers back to second degree murder in 125.25 – so EED does not apply to 125.20(1) but it does apply to 125.20(2) because 125.20(2) is second degree murder reduced to manslaughter (125.20(2) and 125.25 EED are basically the same thing)
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</> Under New York law, if a defendant had a mental infirmity that did not rise to the level of insanity, and within that mental state, from his subjective point of view, his reaction to a series of events causing him to kill the victim was reasonable, he may have an extreme emotional disturbance defense. NYPL Section 125.25 (1)(a) provides that it is an affirmative defense to the crime of murder in the second degree where “the defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.” (301) The extreme emotional disturbance defense is an outgrowth of the heat of passion defense.</p>
 
-      **Model Penal Code § 210.3. Manslaughter.**
-      (1) Criminal homicide constitutes manslaughter when:
-      (a) it is committed recklessly; or
-      (b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.
-      **NYPL § 125.25 Murder in the second degree (1)**
-        “it is an affirmative defense that:(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be.”
-      **Compare with common Law:**
-        Heat of passion only applied to intentional murders
-      MPC makes some distinctions from common law; MPC is trying to incorporate more modern understandings of psychology, trying to understand that in certain circumstances words might be enough; if someone came in and said  hey I killed your child, and D loses it; in common law words were not enough, but MPC recognizes that words may be enough, and also says well, as a general matter, it should be a general rule that time makes everything better, but actually this is not a general rule in EED because sometimes time makes things worse; some people might become extremely disturbed in different circumstances;
+Note:</b> In People v. Cassassa court accepted the first prong, that D was sincerely really emotionally disturbed because he had been rejected; but court said that his conduct was not reasonable even if seen from his subjective viewpoint.</p>
 
-      In People v. Cassassa court accepted the first prong, that D was sincerely really emotionally disturbed because he had been rejected; but court said that his conduct was not reasonable even if seen from his subjective viewpoint.  
 
-      The word provocation does not appear in NYPL or in MPC. There are no elements of justification; it doesn’t have a provocation requirement. EED is more of an excuse defense than a justification defense.
+<p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> Victoria Le Consolo (Victim) and Victor Cassassa (Defendant) lived in the same building. After dating for 3 or 4 months, Ms. Le Consolo told the D she was not in falling in love with him. D became obsessed with Ms. Le Consolo. On one occasion the D broke into the apartment below Ms. Le Consolo’s to eavesdrop, and on another occasion broke into her apartment and lay in her bed. One evening D went to Ms. Le Consolo’s apartment with bottles of wine and liquor which he wanted to give to Ms. Le Consolo. Ms. Le Consolo refused to accept the wine and liquor. D pulled out a steak knife and stabbed Ms. Le Consolo several times in the throat, then dragged her body to the bathroom and submerged it in water “to make sure she was dead.” At trial, D did not contest the facts, but argued that at the time of the killing he was experiencing extreme emotional disturbance. At trial, D had one witness, a psychiatrist, who testified that Ms. Le Consolo’s rejection of D combined with his “personality attributes” caused him to be under the influence of extreme emotional disturbance at the time of the killing (301). The People had several witnesses including a psychiatrist, who testified that in his opinion D was not under the influence of extreme emotional disturbance for the purposes of mitigation, because the disturbed state was due to internal factors, not external ones.</p>
 
-      Both MPC and NYPL have EED – what types of murder are mitigated? See above (MPC all and NYPL only intentional)
+In **heat of passion defense**, response to provocation; a cooling off period completely negates the mitigating effect of the response to provocation.
 
-    **Name of case**
-      Issue: whether D’s state of extreme emotional disturbance when he killed V can be considered a reasonable reaction to a series of events sufficient to mitigate the charge of second degree murder to manslaughter.
-      Holding: Sentence of murder in the second degree was affirmed.
+In **extreme emotional disturbance defense**, it may be that significant mental trauma has affected D’s mind for a substantial period of time. The standard by which the reasonableness of the D’s reaction is tested is entirely subjective (302).
+
+Under the **MPC**, defense of extreme emotional disturbance the D must have acted under the influence of extreme emotional disturbance; and there must have been a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant’s situation as the D believed them to be.
+
+**MPC Sec. 210.3** extreme emotional disturbance. Note that MPC says that extreme emotional disturbance can be a defense to all types of murder, including recklessness. Test is in part subjective, and in part objective. The intention of the statute is to give the jury the opportunity to weigh facts and exercise mercy.
+
+**NYPL Secs 125.25; 125.27** – NYPL says only applies to intentional murder, **not recklessness.** NYPL Sec 125.20 (2) mentions EED in the manslaughter statute because it refers back to second degree murder in 125.25 – so EED does not apply to 125.20(1) but it does apply to 125.20(2) because 125.20(2) is second degree murder reduced to manslaughter (125.20(2) and 125.25 EED are basically the same thing)
+
+**Model Penal Code § 210.3. Manslaughter.**
+
+(1) Criminal homicide constitutes manslaughter when:
+(a) it is committed recklessly; or
+(b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.
+
+**NYPL § 125.25 Murder in the second degree (1)** “it is an affirmative defense that:(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be.”
+
+**Compare with common Law:** Heat of passion only applied to intentional murders. MPC makes some distinctions from common law; MPC is trying to incorporate more modern understandings of psychology, trying to understand that in certain circumstances words might be enough; if someone came in and said  hey I killed your child, and D loses it; in common law words were not enough, but MPC recognizes that words may be enough, and also says well, as a general matter, it should be a general rule that time makes everything better, but actually this is not a general rule in EED because sometimes time makes things worse; some people might become extremely disturbed in different circumstances;
+
+The word provocation does not appear in NYPL or in MPC. There are no elements of justification; it doesn’t have a provocation requirement. EED is more of an excuse defense than a justification defense.
 
 ## Unintentional Killings
 
@@ -1068,45 +1046,6 @@ Is heat of passion a partial justification or a partial excuse defense? Why does
   ii.	“damages a special building” Is this building a special building? (this could cause problems – address legality, overbreadth and vagueness issues, stating rules) And what is “damages”?
 
 
-  For class of 10-5-20
-
-  •	Girouard v. State | Court of Appeals of Maryland 1991
-  o	Issue: Whether words alone are a provocation adequate to justify a conviction of second degree murder
-  o	Narrow issue: Whether the provocation of Steven by Joyce was sufficient to mitigate the murder charge against Steven to voluntary manslaughter.
-  o	Facts: Steven S. and Joyce M Girouard met in the army, where they worked in the same building. About three months after meeting, they got married. About two months after getting married, Steven killed Joyce. Their marriage had been tense and strained. While married, Joyce had possibly resumed a relationship with a former boyfriend. On the day Joyce was killed, Joyce was in the couple’s apartment talking to a friend on the phone, and said that she was requesting a hardship discharge because Steven didn’t love her. Steven asked her what that was about and Joyce said nothing. Steven went into the bedroom and lay down. Joyce followed him in and stepped onto the bed, pulled his hair and verbally taunted him. Joyce told Steven she wished she had never married him and wanted a divorce. Steven picked up a pillow, went into the kitchen, got a knife, and went back into the bedroom with the knife concealed behind the pillow. Joyce continued to verbally taunt him. Steven listened, and then lunged at Joyce and stabbed her 19 times. After stabbing her he took a shower to wash the blood off and then tried to kill himself. When he failed to die he called the police and said I murdered my wife. When the police got there Steven was outside waiting for them, very upset. At trial, a psychologist testified that in his opinion Steven had reached the limit of his ability “to bottle up strong emotions.” (284 bottom para). Steven was charged with second degree murder.
-  	In his appeal, Steven argued that the conviction of second degree murder should be mitigated to manslaughter because there was no malice, which is essential for a conviction of murder. He acknowledged that traditionally this mitigation is limited to circumstances of
-  •	Extreme assault or battery upon the defendant;
-  •	Mutual combat;
-  •	Defendant’s illegal arrest;
-  •	Injury or serious abuse of a close relative of the defendant; or
-  •	The sudden discovery of a spouse’s adultery.
-  	Steven argued that the verbal provocation was sufficient, and that categories of provocation to mitigate should be broadened.
-  	The court countered by stating that although there is no finite list of legally adequate provocations, under common law, words spoken by the victim, no matter how abusive or taunting, are not sufficient to mitigate murder to manslaughter. The court argued that if words were deemed sufficient to mitigate, “nearly every domestic argument ending in the death of one party could be mitigated to manslaughter” (285).
-  	The court noted that the difference between murder and manslaughter is the presence or absence of malice. Voluntary manslaughter has been defined as “an intentional homicide, done in a sudden heat of passion, caused by adequate provocation, before there has been a reasonable opportunity for the passion to cool” (285).
-  o	Holding: Here, the court argues that circumstances show that there was not adequate provocation.
-  o	Rule: Words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter.
-
-
-  For class of 10-5-20
-
-  People v. Cassassa | Court of Appeals of New York, 1980
-  Issue: whether D’s state of extreme emotional disturbance when he killed V can be considered a reasonable reaction to a series of events sufficient to mitigate the charge of second degree murder to manslaughter.
-  o	Facts: Victoria Le Consolo (Victim) and Victor Cassassa (Defendant) lived in the same building. After dating for 3 or 4 months, Ms. Le Consolo told the D she was not in falling in love with him. D became obsessed with Ms. Le Consolo. On one occasion the D broke into the apartment below Ms. Le Consolo’s to eavesdrop, and on another occasion broke into her apartment and lay in her bed. One evening D went to Ms. Le Consolo’s apartment with bottles of wine and liquor which he wanted to give to Ms. Le Consolo. Ms. Le Consolo refused to accept the wine and liquor. D pulled out a steak knife and stabbed Ms. Le Consolo several times in the throat, then dragged her body to the bathroom and submerged it in water “to make sure she was dead.”
-  o	Procedural history:
-  	At trial, D did not contest the facts, but argued that at the time of the killing he was experiencing extreme emotional disturbance. At trial, D had one witness, a psychiatrist, who testified that Ms. Le Consolo’s rejection of D combined with his “personality attributes” caused him to be under the influence of extreme emotional disturbance at the time of the killing (301).
-  	The People had several witnesses including a psychiatrist, who testified that in his opinion D was not under the influence of extreme emotional disturbance for the purposes of mitigation, because the disturbed state was due to internal factors, not external ones.
-  	Trial court noted that extreme emotional disturbance could be caused by a series of events but D had the burden of showing that his reaction was reasonable. Trial court found that D’s reaction to events were so personal to him as not to be reasonable and convicted D of murder in the second degree (301).
-  o	Reasoning: On Appeal, D said that trial court erred. D held that he had a mental infirmity that did not rise to the level of insanity, and within that mental state, from his subjective point of view, his reaction to a series of events causing him to kill V was reasonable. NYPL Section 125.25 (1)(a) provides that it is an affirmative defense to the crime of murder in the second degree where “the defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.” (301) The extreme emotional disturbance defense is an outgrowth of the heat of passion defense.
-  	In heat of passion defense, response to provocation; a cooling off period completely negates the mitigating effect of the response to provocation.
-  	In extreme emotional disturbance defense, it may be that significant mental trauma has affected D’s mind for a substantial period of time. The standard by which the reasonableness of the D’s reaction is tested is entirely subjective (302). Under the MPC, defense of extreme emotional disturbance the D must have
-  •	Acted under the influence of extreme emotional disturbance; and
-  •	There must have been a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant’s situation as the D believed them to be.
-  	Test is in part subjective, and in part objective. The intention of the statute is to give the jury the opportunity to weigh facts and exercise mercy. Appeals court finds that trial court had the opportunity to do all of this, and found that the D’s conduct was not reasonable even if seen from the D’s subjective viewpoint.
-  o	Holding: Sentence of murder in the second degree was affirmed.
-  o	Rule:
-
-
-  2020-10-21
 
   Felony murder
 
@@ -1534,9 +1473,8 @@ If Prof K were paranoid about Prof M shooting him, and Prof M pulled out a toy g
     (b)  The actor was the initial aggressor; except that in such case the use of physical force is  nevertheless  justifiable  if  the  actor  has withdrawn   from   the   encounter  and  effectively  communicated  such withdrawal to such other person but the latter  persists  in  continuing
   the  incident by the use or threatened imminent use of unlawful physical force; or  (c) The physical  force  involved  is  the  product  of  a  combat  by agreement not specifically authorized by law.
     2.  A  person  may  not  use deadly physical force upon another person under circumstances specified in subdivision one unless: (a) The actor reasonably believes that such other person is  using  or about  to  use  deadly  physical  force. Even in such case, however, the actor may not use deadly physical force if he or  she  knows  that  with complete  personal safety, to oneself and others he or she may avoid the necessity of so doing by retreating; except that the actor is  under  no duty to retreat if he or she is:
-    (i) in his or her dwelling and not the initial aggressor; or
-    (ii) a police officer or peace officer or a person assisting a police
-  officer or a peace officer at the latter`s direction, acting pursuant to section 35.30; or
+(i) in his or her dwelling and not the initial aggressor; or
+(ii) a police officer or peace officer or a person assisting a police officer or a peace officer at the latter's direction, acting pursuant to section 35.30; or
     (b) He or she reasonably believes that such other person is committing or attempting to commit a kidnapping, forcible rape,  forcible  criminal sexual act or robbery; or (c) He or she reasonably believes that such other person is committing or  attempting to commit a burglary, and the circumstances are such that the use of deadly physical force is authorized by subdivision three of section 35.20.
 
   Goetz’s defense was that he had the subjective belief that he was in imminent danger; the defense said that under MPC – if the jury believed that goestz really believed that he was in danger but his belief was unreasonable, he could be convicted of negligence
@@ -1911,7 +1849,7 @@ Suppose somebody comes along and sees prof mott is threatening to use unlawful f
   Queen v. Dudley & Stephens
 
   Here we’re seeing some of the opinion that we didn’t see back then. Here we are looking at different aspect – necessity –
-  RULE: Common law principle that necessity cannot be used as a defense for murder.
+  RULE: Common law principle that necessity cannot be used as a defense for murder. Under the common law, necessity and duress were not defenses to murder,
 
   What about if Dudley and Stephens did this in NY. There is no specific language in NYPL 35.05 that serves as a blanket prohibition of applying necessity to murder. Nor does MPC. The challenge would be “clearly outweigh” – Dudley and Stephens would have argued 3 people or 1 person.
 
