@@ -746,17 +746,13 @@ Note: MPC § 210.1 Criminal homicide defines murder similarly to common law.
 (1) Criminal homicide constitutes negligent homicide when it is committed negligently.
 (2) Negligent homicide is a felony of the third degree.
 
-## New York Penal Law Sections 125.0 - 125.27 and notes
+## New York Penal Law: Homicide
 
 **New York Penal Law § 125.00 Homicide defined** Homicide means conduct which causes the death of a person under circumstances constituting murder, manslaughter in the first degree, manslaughter in the second degree, or criminally negligent homicide.
 
 **New York Penal Law § 125.05 Homicide and related offenses; definition** The following definition is applicable to this article: “Person,” when referring to the victim of a homicide, means a human being who has been born and is alive.
 
 **New York Penal Law § 125.10 Criminally negligent homicide** A person is guilty of criminally negligent homicide when, with criminal negligence, he causes the death of another person. Criminally negligent homicide is a class E felony.
-
-**New York Penal Law § 125.11 Aggravated criminally negligent homicide** A person is guilty of aggravated criminally negligent homicide when, with criminal negligence, he or she causes the death of a police officer or peace officer where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer. Aggravated criminally negligent homicide is a class C felony.
-
-*(not included here: § 125.12 Vehicular Manslaughter in the Second Degree; § 125.13 Vehicular Manslaughter in the First Degree; § 125.14 Aggravated Vehicular Homicide)*
 
 **New York Penal Law § 125.15 Manslaughter in the second degree** A person is guilty of manslaughter in the second degree when:
 
@@ -774,14 +770,6 @@ Manslaughter in the second degree is a class C felony.
 (3) Repealed by L.2019, c. 1, § 9, eff. Jan. 22, 2019.
 
 (4) Being eighteen years old or more and with intent to cause physical injury to a person less than eleven years old, the defendant recklessly engages in conduct which creates a grave risk of serious physical injury to such person and thereby causes the death of such person. Manslaughter in the first degree is a class B felony.
-
-**New York Penal Law § 125.21 Aggravated manslaughter in the second degree** A person is guilty of aggravated manslaughter in the second degree when he or she recklessly causes the death of a police officer or peace officer where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer. Aggravated manslaughter in the second degree is a class C felony.
-
-**New York Penal Law § 125.22 Aggravated manslaughter in the first degree** A person is guilty of aggravated manslaughter in the first degree when:
-
-(1) with intent to cause serious physical injury to a police officer or peace officer, where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or a peace officer, he or she causes the death of such officer or another police officer or peace officer; or
-
-(2) with intent to cause the death of a police officer or peace officer, where such officer was in the course of performing his or her official duties and the defendant knew or reasonably should have known that such victim was a police officer or peace officer, he or she causes the death of such officer or another police officer or peace officer under circumstances which do not constitute murder because he or she acts under the influence of extreme emotional disturbance, as defined in paragraph (a) of subdivision one of section 125.25. The fact that homicide was committed under the influence of extreme emotional disturbance constitutes a mitigating circumstance reducing murder to aggravated manslaughter in the first degree or manslaughter in the first degree and need not be proved in any prosecution initiated under this subdivision. Aggravated manslaughter in the first degree is a class B felony.
 
 **New York Penal Law § 125.25 Murder in the second degree** A person is guilty of murder in the second degree when:
 
@@ -808,21 +796,6 @@ Manslaughter in the second degree is a class C felony.
 (4) Under circumstances evincing a depraved indifference to human life, and being eighteen years old or more the defendant recklessly engages in conduct which creates a grave risk of serious physical injury or death to another person less than eleven years old and thereby causes the death of such person; or
 
 (5) Being eighteen years old or more, while in the course of committing rape in the first, second or third degree, criminal sexual act in the first, second or third degree, sexual abuse in the first degree, aggravated sexual abuse in the first, second, third or fourth degree, or incest in the first, second or third degree, against a person less than fourteen years old, he or she intentionally causes the death of such person. Murder in the second degree is a class A-I felony.
-
-**New York Penal Law § 125.26 Aggravated murder** A person is guilty of aggravated murder when:
-
-(1) With intent to cause the death of another person, he or she causes the death of such person, or of a third person who was a person described in subparagraph (i), (ii), (ii-a) or (iii) of paragraph (a) of this subdivision engaged at the time of the killing in the course of performing his or her official duties; and (a) Either:
-(i) the intended victim was a police officer as defined in subdivision thirty-four of section 1.20 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was a police officer; or
-(ii) the intended victim was a peace officer as defined in paragraph a of subdivision twenty-one, subdivision twenty-three, twenty-four or sixty-two (employees of the division for youth) of section 2.10 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was such a uniformed court officer, parole officer, probation officer, or employee of the division for youth; or
-(ii-a) the intended victim was a firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse involved in a first response team, or any other individual who, in the course of official duties, performs emergency response activities and was engaged in such activities at the time of killing and the defendant knew or reasonably should have known that the intended victim was such firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse; or
-(iii) the intended victim was an employee of a state correctional institution or was an employee of a local correctional facility as defined in subdivision two of section forty of the correction law, who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was an employee of a state correctional institution or a local correctional facility; and
-(b) The defendant was more than eighteen years old at the time of the commission of the crime; or
-(2) (a) With intent to cause the death of a person less than fourteen years old, he or she causes the death of such person, and the defendant acted in an especially cruel and wanton manner pursuant to a course of conduct intended to inflict and inflicting torture upon the victim prior to the victim's death. As used in this subdivision, “torture” means the intentional and depraved infliction of extreme physical pain that is separate and apart from the pain which otherwise would have been associated with such cause of death; and
-(b) The defendant was more than eighteen years old at the time of the commission of the crime.
-(3) In any prosecution under subdivision one or two of this section, it is an affirmative defense that:
-(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, aggravated manslaughter in the first degree, manslaughter in the first degree or any other crime except murder in the second degree. (ii) It shall not be a “reasonable explanation or excuse” pursuant to subparagraph (i) of this paragraph when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth; or
-(b) The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide. Nothing contained in this paragraph shall constitute a defense to a prosecution for, or preclude a conviction of, aggravated manslaughter in the second degree, manslaughter in the second degree or any other crime except murder in the second degree.
-Aggravated murder is a class A-I felony.
 
 **New York Penal Law § 125.27 Murder in the first degree** A person is guilty of murder in the first degree when:
 
@@ -867,6 +840,8 @@ Aggravated murder is a class A-I felony.
 
 <p style="margin-left:5%; margin-right:10%;"><b>Notes:</b> Felony murder or depraved indifference murder or intent to kill murder in new York are all second-degree murder. NYPL manslaughter also similarities with MPC and common law. NY aggravated homicides – certain individuals are entitled to more protection, so killing a police officer or a peace officer. NY first-degree murder – this is new York’s death penalty statute – basically second degree intent to kill plus aggravating factor, which can include various categories – killing a child, killing by torture, but we are not going to focus on those but I should glance at them.</p>
 
+**Note on felony murder:** Felony murder or depraved indifference murder or intent to kill murder in new York are all second-degree murder. NYPL manslaughter also similarities with MPC and common law. NY aggravated homicides – certain individuals are entitled to more protection, so killing a police officer or a peace officer. NY first-degree murder – this is new York’s death penalty statute – basically second degree intent to kill plus aggravating factor, which can include various categories – killing a child, killing by torture, but we are not going to focus on those but I should glance at them.
+
 ## Intentional Killings: Manslaughter: Heat of Passion
 
 **Common law Heat of Passion (voluntary manslaughter)** Intentional homicide done in a (1) sudden heat of passion caused by (2) adequate provocation, (3) before there has been a reasonable opportunity for the passion to cool; (4) causal connection between provocation and act. (1)Excuse (2) justification (3) justification
@@ -897,8 +872,7 @@ MPC takes a little different approach from NYPL (see MPC and NYPL laws above)
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</> Under New York law, if a defendant had a mental infirmity that did not rise to the level of insanity, and within that mental state, from his subjective point of view, his reaction to a series of events causing him to kill the victim was reasonable, he may have an extreme emotional disturbance defense. NYPL Section 125.25 (1)(a) provides that it is an affirmative defense to the crime of murder in the second degree where “the defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.” (301) The extreme emotional disturbance defense is an outgrowth of the heat of passion defense.</p>
 
-Note:</b> In People v. Cassassa court accepted the first prong, that D was sincerely really emotionally disturbed because he had been rejected; but court said that his conduct was not reasonable even if seen from his subjective viewpoint.</p>
-
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> In People v. Cassassa court accepted the first prong, that D was sincerely really emotionally disturbed because he had been rejected; but court said that his conduct was not reasonable even if seen from his subjective viewpoint.</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> Victoria Le Consolo (Victim) and Victor Cassassa (Defendant) lived in the same building. After dating for 3 or 4 months, Ms. Le Consolo told the D she was not in falling in love with him. D became obsessed with Ms. Le Consolo. On one occasion the D broke into the apartment below Ms. Le Consolo’s to eavesdrop, and on another occasion broke into her apartment and lay in her bed. One evening D went to Ms. Le Consolo’s apartment with bottles of wine and liquor which he wanted to give to Ms. Le Consolo. Ms. Le Consolo refused to accept the wine and liquor. D pulled out a steak knife and stabbed Ms. Le Consolo several times in the throat, then dragged her body to the bathroom and submerged it in water “to make sure she was dead.” At trial, D did not contest the facts, but argued that at the time of the killing he was experiencing extreme emotional disturbance. At trial, D had one witness, a psychiatrist, who testified that Ms. Le Consolo’s rejection of D combined with his “personality attributes” caused him to be under the influence of extreme emotional disturbance at the time of the killing (301). The People had several witnesses including a psychiatrist, who testified that in his opinion D was not under the influence of extreme emotional disturbance for the purposes of mitigation, because the disturbed state was due to internal factors, not external ones.</p>
 
@@ -906,150 +880,69 @@ In **heat of passion defense**, response to provocation; a cooling off period co
 
 In **extreme emotional disturbance defense**, it may be that significant mental trauma has affected D’s mind for a substantial period of time. The standard by which the reasonableness of the D’s reaction is tested is entirely subjective (302).
 
-Under the **MPC**, defense of extreme emotional disturbance the D must have acted under the influence of extreme emotional disturbance; and there must have been a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant’s situation as the D believed them to be.
+Under the **MPC Sec. 210.3**, defense of EED: the D must have acted under the influence of extreme emotional disturbance; and there must have been a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant’s situation as the D believed the situation to be. Note that MPC says that extreme emotional disturbance can be a defense to all types of murder, **including recklessness**. Test is in part subjective, and in part objective. The intention of the statute is to give the jury the opportunity to weigh facts and exercise mercy.
 
-**MPC Sec. 210.3** extreme emotional disturbance. Note that MPC says that extreme emotional disturbance can be a defense to all types of murder, including recklessness. Test is in part subjective, and in part objective. The intention of the statute is to give the jury the opportunity to weigh facts and exercise mercy.
-
-**NYPL Secs 125.25; 125.27** – NYPL says only applies to intentional murder, **not recklessness.** NYPL Sec 125.20 (2) mentions EED in the manslaughter statute because it refers back to second degree murder in 125.25 – so EED does not apply to 125.20(1) but it does apply to 125.20(2) because 125.20(2) is second degree murder reduced to manslaughter (125.20(2) and 125.25 EED are basically the same thing)
+**NYPL Secs 125.25; 125.27** – NYPL says **only applies to intentional murder, not recklessness.** NYPL Sec 125.20 (2) mentions EED in the manslaughter statute because it refers back to second degree murder in 125.25 – so EED does not apply to 125.20(1) but it does apply to 125.20(2) because 125.20(2) is second degree murder reduced to manslaughter (125.20(2) and 125.25 EED are basically the same thing).
 
 **Model Penal Code § 210.3. Manslaughter.**
 
 (1) Criminal homicide constitutes manslaughter when:
-(a) it is committed recklessly; or
-(b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.
+
+<p style="margin-left:3%; margin-right:10%;">(a) it is committed recklessly; or</p>
+
+<p style="margin-left:3%; margin-right:10%;">(b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.</p>
 
 **NYPL § 125.25 Murder in the second degree (1)** “it is an affirmative defense that:(a)(i) The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be.”
 
-**Compare with common Law:** Heat of passion only applied to intentional murders. MPC makes some distinctions from common law; MPC is trying to incorporate more modern understandings of psychology, trying to understand that in certain circumstances words might be enough; if someone came in and said  hey I killed your child, and D loses it; in common law words were not enough, but MPC recognizes that words may be enough, and also says well, as a general matter, it should be a general rule that time makes everything better, but actually this is not a general rule in EED because sometimes time makes things worse; some people might become extremely disturbed in different circumstances;
+**Compare with common Law:** Heat of passion only applied to intentional murders. MPC makes some distinctions from common law; MPC is trying to incorporate more modern understandings of psychology, trying to understand that in certain circumstances words might be enough; in common law words were not enough, but MPC recognizes that words may be enough, and also says well, as a general matter, it should be a general rule that time makes everything better, but actually this is not a general rule in EED because sometimes time makes things worse; some people might become extremely disturbed in different circumstances;
 
-The word provocation does not appear in NYPL or in MPC. There are no elements of justification; it doesn’t have a provocation requirement. EED is more of an excuse defense than a justification defense.
+*The word provocation does not appear in NYPL or in MPC.* There are no elements of justification; it doesn’t have a provocation requirement. EED is more of an excuse defense than a justification defense.
 
 ## Unintentional Killings
 
-  **People v. Knoller | Supreme Court of California, 2007**
-    Bane, a dog owned by Marjorie Knoller (D); and Robert Noel (co-D) killed Diane Whipple (V) in the hallway of an apartment building in San Francisco. Bane was one of four huge presa canario dogs Ds wanted to breed and sell as guard dogs/attack dogs. D had been warned that dogs had killed sheep. When D had dogs vaccinated vet said dogs weighed around 100 pounds each and had had no training or discipline of any sort; are therefore “a liability in any household.” Over about 8 months there were 30 episodes of dogs being out of control and threatening humans and other dogs. V lived across lobby from Ds. V on way home. In hallway, Bane attacked her. Neighbor called 911. When police arrived V naked and bleeding and dying. Bled to death. 77 discrete injuries covering body from head to toe. Plaster molds from injuries compared with Bane’s teeth showed that Bane had killed V.
-    At trial, D said she did not know dog was dangerous. Said people who had said they were threatened by dogs had been lying. Said she had no idea that Bane would ever do that to anybody.
-    Statute: Under CA Penal Code Section 187 subdivision (a), murder is “the unlawful killing of a human being, or a fetus, with malice aforethought.” Under CAPC Section 188, “Malice may be either express or implied. It is express when there is manifested a deliberate intention to take away the life of a fellow creature. It is implied, when no considerable provocation appears, or when the circumstances attending the killing show an abandoned and malignant heart.”
-    At issue here is the definition of “implied malice.” (317)  Implied malice requires a D’s awareness of the risk of death to another (317).
-    Malice is implied when the killing is proximately caused by “an act, the natural consequences of which are dangerous to life, which act was deliberately performed by a person who knows that his conduct endangers the life of another and who acts with conscious disregard for life” (317)
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Knoller (California, 2007)</b> (Bane, a dog owned by two sleazy attorneys killed Diane Whipple in the hallway of an apartment building in San Francisco)
 
-    By the act of failing to keep Bane in the apartment (omission + duty) D proximately caused the death of the V by deliberately disregarding the danger that the dog  
+<p style="margin-left:10%; margin-right:10%;"><b>Statute:</B> Under CA Penal Code Section 187 subdivision (a), murder is “the unlawful killing of a human being, or a fetus, with malice aforethought.” Under CAPC Section 188, “Malice may be either express or implied. It is express when there is manifested a deliberate intention to take away the life of a fellow creature. It is implied, when no considerable provocation appears, or when the circumstances attending the killing show an abandoned and malignant heart.” (At issue here is the definition of “implied malice” (317);  Implied malice requires a D’s awareness of the risk of death to another (317))</P>
 
-    Court used People v Thomas test and People v. Philips test. (p. 317). Court prefers Philips – they like both but prefer Philips.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Under California law (common law?), Malice is implied when the killing is proximately caused by “an act, the natural consequences of which are dangerous to life, which act was deliberately performed by a person who knows that his conduct endangers the life of another and who acts with conscious disregard for life” (317)</p>
 
-  **People v. Thomas test:**
-    Malice is implied when “the defendant for a base, antisocial motive and with wanton disregard for human like, does an act that involves a high probability that it will result in death.”
+<p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b> By the act of failing to keep Bane in the apartment (omission + duty) D proximately caused the death of the V by deliberately disregarding the danger that the dog leave the apartment. Court used People v Thomas test and People v. Philips test. (p. 317). Court prefers Philips – they like both but prefer Philips.</p>
 
-  **People v. Philips test:**
-    Malice is implied when the killing is proximately caused by “an act, the natural consequences of which are dangerous to life, which act was deliberately performed by a person who knows that his conduct endangers the life of another and who acts with conscious disregard for life.”
+<p style="margin-left:13%; margin-right:10%;"><b>People v. Philips test:</b> Malice is implied when the killing is proximately caused by “an act, the natural consequences of which are dangerous to life, which act was deliberately performed by a person who knows that his conduct endangers the life of another and who acts with conscious disregard for life.”</p>
 
-    That D showed no remorse should probably play in sentencing; the defense would argue that it’s not relevant; but people might argue that lack of remorse indicates disregard for life.
+<p style="margin-left:13%; margin-right:10%;"><b>People v. Thomas test:</b> Malice is implied when “the defendant for a base, antisocial motive and with wanton disregard for human like, does an act that involves a high probability that it will result in death.”</p>
 
-    NYPL 125.25(2) says a depraved indifference to human life – second degree murder – similar to malignant and depraved heart in common law. Remember that from our definition of recklessness (see NYPL sec 15.05) have to be aware of the risk and consciously take that risk. Depraved indifference is a step higher because one simply does not care.
+<p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> Bane was one of four huge presa canario dogs Ds wanted to breed and sell as guard dogs/attack dogs. D had been warned that dogs had killed sheep. When D had dogs vaccinated vet said dogs weighed around 100 pounds each and had had no training or discipline of any sort; are therefore “a liability in any household.” Over about 8 months there were 30 episodes of dogs being out of control and threatening humans and other dogs. V lived across lobby from Ds. V on way home. In hallway, Bane attacked her. Neighbor called 911. When police arrived V naked and bleeding and dying. Bled to death. 77 discrete injuries covering body from head to toe. At trial, D said she did not know dog was dangerous. Said people who had said they were threatened by dogs had been lying. Said she had no idea that Bane would ever do that to anybody.</p>
 
-    **People v. Suarez (NY)**
-      “depraved indifference is best understood as an utter disregard for the value of human life – a willingness to act not because one intends harm but because one simply doesn’t care whether grievous harm results or not. (note 4 p. 319)
+**NYPL 125.25(2)** says a depraved indifference to human life – second degree murder – similar to malignant and depraved heart in common law. Remember that from our definition of recklessness (see NYPL sec 15.05) have to be aware of the risk and consciously take that risk. **Depraved indifference is a step higher because one simply does not care.**
 
-    **Manslaughter in the first degree NY 125.20 (1) “with intent to cause” note difference with NY 120.20:**   
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Suarez (NY)</b> (Defendant, who stabbed her former boyfriend in the chest during an argument, and then immediately called 911 and requested an ambulance, was not, as a matter of law, guilty of depraved indifference murder. Defendant's conduct may have reflected recklessness but did not fall within the small, and finite, category of cases evidencing utter depravity, uncommon brutality and inhuman cruelty required for depraved indifference murder.)
 
-      NYPL § 125.20 Manslaughter in the first degree
-      A person is guilty of manslaughter in the first degree when:
-      1. With intent to cause serious physical injury to another person, he causes the death of such person or of a third person;
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Depraved indifference is best understood as an utter disregard for the value of human life – a willingness to act not because one intends harm but because one simply doesn’t care whether grievous harm results or not. (note 4 p. 319)</p>
 
-      NYPL § 120.20 Reckless endangerment in the second degree
-      A person is guilty of reckless endangerment in the second degree when he recklessly engages in conduct which creates a substantial risk of serious physical injury to another person.
-      Reckless endangerment in the second degree is a class A misdemeanor.
+**NY Depraved indifference murder (Penal Law § 125.25 [2])** properly applies only to a small, and finite, category of cases where the defendant's conduct is at least as morally reprehensible as intentional murder. The use of a weapon can never result in depraved indifference murder when there is a manifest intent to kill because indifference to the victim's life contrasts with the intent to take it. Further, a defendant may be convicted of depraved indifference murder when but a single person is endangered in only a few rare circumstances. To constitute depraved indifference, the defendant's conduct must be so wanton, so deficient in a moral sense of concern, so devoid of regard of the life or lives of others, and so blameworthy as to warrant the same criminal liability as that which the law imposes upon a person who intentionally causes *203 the death of another. The statutory provision that a defendant act “[u]nder circumstances evincing a depraved indifference to human life” constitutes an additional requirement of the crime, which in turn comprises both depravity and indifference, that has meaning independent of the gravity of the risk of death.</p>
 
-    **State v. Williams | Court of Appeals of Washington, 1971**
-      Native American people. Didn’t take child to doctor. Court is saying that they should have known how serious the illness was. Convicted of negligently causing the death of the child.
-      Washington court uses definition of negligence RCW 9.48.150 which requires ordinary deviation from reasonable standard of care.
-      Court finds that Ds deviate from what reasonable behavior would be.
-      Compare to NYPL 15.05 which requires gross deviation from standard of care.
-      NYPL § 15.05 (4). ““Criminal negligence.” A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.”
-      Here, the prosecutor did not have to show that the Ds had knowledge that they were doing anything wrong. MPC struggled with this; negligent homicide is problematic.
+**Manslaughter in the first degree NY 125.20 (1) “with intent to cause” note difference with NY 120.20:**   
 
+**NYPL § 125.20 Manslaughter in the first degree** A person is guilty of manslaughter in the first degree when: (1) With intent to cause serious physical injury to another person, he causes the death of such person or of a third person;
 
-## Midterm strategies and review
+**NYPL § 120.20 Reckless endangerment in the second degree** A person is guilty of reckless endangerment in the second degree when he recklessly engages in conduct which creates a substantial risk of serious physical injury to another person.
 
-  Midterm Review: multiple choice
-  Prep:
-  Create own outline, including information about cases, and study
-  Learn crimes/statutes and practice identifying elements
-  Practice
-  Not only rules from cases but information about cases – relevant facts, relevant statutory language, outcome – to see if I get a question about a similar case I can use this – a few times in class we have paused to take the time to hash out a rule – for example, but-for is a bit difficult to say it as a rule – maybe not as important for the midterm but for the final – statutes that have been relevant look over – NYPL homicide statutes – break down and analyze if I want some practice – but also give me some practice –
-  The practice questions we’re doing should help me understand where my outline helps me and where I can improve it.
-  Look at the outline as something that is not set in stone; it’s a tool for me to use; put question marks; ask K and M, post on TWEN.
-  If I’m missing things in practice questions, go back to outline, is it there, is it in the wrong place;
-  Taking Exam:
-  Pace yourself
-  Read carefully
-  Select “best” answer after eliminating answers – not necessarily the 100% answer, but the “best” answer
-  M: have scrap paper next to me; write notes about question; I’m looking for something that proves the rule.
-  Eliminate two, be stuck with best two answers, then choose.
-  Trust yourself.
-  Multiple Choice: “Best” answer
-  Criminal Law Examples:
-  INSTRUCTIONS: Read the questions carefully before selecting an answer. For each MCQ, select the best answer to the question (i.e., if you think more than one answer could be cocrrect, cchoose the one that best answers the question
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Williams (Washington, 1971)</b> (Native American people. Didn’t take child to doctor. Court is saying that they should have known how serious the illness was. Convicted of negligently causing the death of the child.)</p>
 
-  Review problem: Taylor (K had asked us to look at it before class)
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If a person commits ordinary negligence, i.e. fails to exercise ordinary caution that a reasonable man would exercise under the same or similar circumstances, and such negligence proximately causes the death of another, the person is guilty of homicide. </p>
 
-  Outline issues on scrap paper
-  I.	Second degree manslaughter
-  A.	Mens rea issues?
-  B.	Actus Reus
-  a.	Voluntary act
-  b.	Statutory elements
-  C.	Causation issues? (if result crime)
-  a.	Actual cause
-  b.	Proximate cause
-  (more -see slide)
+<p style="margin-left:10%; margin-right:10%;"><b>Law:</b> Washington court uses definition of negligence RCW 9.48.150 which requires ordinary deviation from reasonable standard of care (court finds that Ds deviate from what reasonable behavior would be). <b>Compare to NYPL 15.05 which requires gross deviation from standard of care.</b></p>
 
-  1.	State the rule
-  2.	Break it down into the elements
+<p style="margin-left:10%; margin-right:10%;"><b>NYPL § 15.05 (4)</b> ““Criminal negligence.” A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.”</p>
 
-  A.	Did taylor recklessly cause the death? “reckless is wehere person is “aware and consciously disregards a substantial and unjustifiable risk” that the result will occur.
-  the risk must be so that disregard constitutes a gross deviation from the standard of conduct that a reasonable person would observe in that situation.
-  B.	Mens rea – if we’re looking we’ere looking at what the specific mens rea word modifies; here the question is did he recklessly cause death.
-  a.	Was taylor aware of a substantial and undjjustifiable risk of death?
-  i.	Substantial and unjusti risk: was there a gross deviation from a reasonable persons conduct
-  b.	Was taylor aware of the risk?
-  Did taylor consciously disregard the risk of death?
+<p style="margin-left:10%; margin-right:10%;"><b>Note:</b> Here, the prosecutor did not have to show that the Ds had knowledge that they were doing anything wrong. MPC struggled with this; negligent homicide is problematic.</p>
 
-  1.	Voluntary actus reus:
-  a.	Was there a voluntary act? State rule and apply – conscious bodily movement – you don’t want to skip it even if it looks obvious
-  2.	Statutory actus reus:
-  a.	did “death” result?
-  b.	Was the death of “another person”?
+# Felony murder
 
-  C.	Causation: did Taylor cause the death of the fireman? Explain that need actual cause and proximate cause
-  a.	Actual cause: state rule.
-  i.	Had taylor not started the fire, the fire would not have occurred
-  b.	Proximate cause: was it coincidental or responsive? (I can break it down to quite a few intervening causes. If there’s more than one actor or force that’s the way you can center it.
-  i.	Intervening cause 1: coincidental
-  Apply rule
-  ii.	Intervening cause 2: responsive
-  Apply rule
-  D.	Conclusion:
-
-  One of the practice questions: rule: guilty when one “damages a special building by intentionally starting a fire or causing an explosion.”
-
-  (I can start with mens rea)
-
-  A.	Mens rea:
-  a.	What terms does “intentionally” modify?
-  b.	Did taylor intentionally start a fire?
-  c.	Is there any mens rea for “damages a special building”? (could argue that “intentionally” does not modify “damages a special building”)
-  B.	Actus Reus
-  a.	Voluntary act analysis. State rule and apply. If essay question I could say as stated above in mens rea above d satisfies
-  b.	Statutory actus reus elements
-  i.	“starting a fire” did d start a fire?
-  ii.	“damages a special building” Is this building a special building? (this could cause problems – address legality, overbreadth and vagueness issues, stating rules) And what is “damages”?
+The main doctrine as a starting point comes from the common law. Highest most punished murder is if someone dies as a result of any murder committed during the course of a felony. Whether an accident or intentional. In NYPL, felony murder is in the second degree murder statute.
 
 
-
-  Felony murder
-
-  The main doctrine as a starting point comes from the common law. Highest most punished murder is if someone dies as a result of any murder committed during the course of the murder. Whether an accident or whether it was intentional
 
   There are some ways –
 
