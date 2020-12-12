@@ -1078,7 +1078,7 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 ## Burden of Proof
 
-<p style="margin-left:7%; margin-right:10%;"><b>Patterson v. New York (U.S. Supreme Court 1977)</b> (Patterson became estranged from wife Roberta, who resumed prior engagement with neighbor John Northrup. Patterson borrowed a rifle from an acquaintance, then went to his father-in-law’s house, looked through a window, saw his wife partly undressed with Northrop, went into the house and killed Northrop by shooting him twice in the head. Patterson was charged with second-degree murder. He raised the defense of EED.)
+<p style="margin-left:7%; margin-right:10%;"><b>Patterson v. New York (U.S. Supreme Court 1977)</b> (Patterson became estranged from wife Roberta, who resumed prior engagement with neighbor John Northrup. Patterson borrowed a rifle from an acquaintance, then went to his father-in-law’s house, looked through a window, saw his wife partly undressed with Northrop, went into the house and killed Northrop by shooting him twice in the head. Patterson was charged with second-degree murder. He raised the defense of EED.)</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under NYS law, if the prosecution can prove beyond reasonable doubt (1) the death, (2) the intent to kill, and (3) causation, then the burden of proving the defense of extreme emotional disturbance with a preponderance of evidence rests upon the defendant. The affirmative defense of extreme emotional disturbance does not negate any facts of the crime.</p>
 
