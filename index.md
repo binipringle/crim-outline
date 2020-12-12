@@ -974,7 +974,7 @@ New York has the **careful felon defense** – if you commit a murder while comm
 
 ## Limitations to felony murder rule
 
-Limits on Felonies for the felony-murder rule: (1) inherently dangerous felony limitation (fact v abstract), and (2) merger or "independent felony" limitation.
+Limits on Felonies for the felony-murder rule: (A)(1) inherently dangerous felony limitation (fact v abstract), and (2) merger or "independent felony" doctrine. (B) Act that resulted in the death must be in furtherance of a felony or during perpetration. The res gestae requirement of time, distance and causal relationship must be satisfied, and the policy must be the agency approach or proximate cause (a jurisdiction will never use both).
 
 **Inherently dangerous felony limitiation (fact v abstract)** (usually applied in the abstract as opposed to to the facts)
 
@@ -1041,162 +1041,54 @@ Different jurisdictions take different approaches when the defendant did not act
 
 <p style="margin-left:10%; margin-right:10%;">Same as above, but with bystander E. If police officer D accidentally kills E during the robbery, is A guilty of felony murder? In NY, yes.</p>
 
-**Affirmative defense in NY:** NY has a very narrow defense; if the defendant can prove all four factors, the defendant is not guilty of felony murder. (factors a, b, c, and d).
+**Affirmative defense in NY:** NY has a very narrow defense; if the defendant can prove all four factors, the defendant is not guilty of felony murder. Factors: (a) not aid in homicide, (b) not armed, (c) no reasonable ground to believe others armed, and (d) no reasonable ground to believe other participant would kill.
 
+# Capital Punishment
 
-RACIAl BIAS IN CRIMINAL JUSTICE SYSTEM
+The death penalty originated before there were prisons. Common Law murder: murders done with malice aforethought and done without malice aforethought. In the United States, murders by degrees tries to limit the death penalty.
 
-  Investigation/arrests/enforcement – police officers using deadly force disproportionally against poc. Bias can come through systemic enforcement laws, through police depts and through individuals
-  Statutes (explicit and implicit) – the way statutes are written; can be written explicitly and in more implicit ways, laws that created much more severe punishments for crack cocaine than for powder cocaine; the different treatment was not justified for the way the laws were written; a lot of other laws show bias – the american exchange something write statures and give them to conservative groups who push the laws through; a lot of the laws they were involved – netflix watch Thirteenth. Criminal bias in the criminal laws
-  Criminal procedure – laws are set up to exclude African americcans from juries; not the statute itself but the ways the procedures were carried out; colored paper; if corresponded to black drawer woul but them back in
-  Prosecutors, judges, defense attorneys, jurors, others
+Relevant to the constitutionality of the death penalty, (1) Option. Mandatory death penalty for certain crimes. (2) Starting in 1837-1838 option – sentencer (judge or jury) has complete discretion. Mostly southern states. The way this was used was that with all white juries in the south, they would choose to sentence Blacks to death. U.S. Supreme Court: the Bill of Rights initially didn’t apply to the states, only to the Federal government. So many death penalty cases didn’t go the supreme court. There was a death by firing squad.
 
-  Who are america’s prosecutors (prosecutors have a lot of power)? 79% are white men. 1% are black women
+The electric chair was invented before toasters and things like that; the electric chair there was competition between Thomas Edison, who pushed for the electric chair because he hoped people would see how dangerous electricity was. Leading up to the 60s and 70s, the NAACP Legal Defense Fund, lawyers working with social justice advocates on a social justice issue, initially began challenging the death penalty on equal protection grounds, but eventually thought it should be struck down for other reasons and began challenging it on constitutional grounds – 14th Amendment due process, 8th Amendment cruel and unusual punishment; largely based on how death penalty was applied. Furman v. Georgia 1972 – giving jurors complete discretion to apply the death penalty made the death penalty capricious; at this time there was a trend around the world which had started in the 1940s – capital punishment was abolished in France, Israel except for nazis, England, Austria Denmark, Sweden, Portugal, - meanwhile in the U.S. the death penalty was dwindling in the 60s and 70s during civil rights era – man wrote books on death row in CA – NAACP had coordinated attorneys nationwide to challenge the death penalty – ended up going to the USC in Furman v Georgia 1972 – majority found that the death penalty was unconstitutional because the jurors had too much discretion so arbitrary so violated the 8th Amendment. Many people thought that was the end to the death penalty in the U.S. States responded to Furman by writing new laws – became a political issue, states’ rights; new death penalty laws gave jurors factors to weigh – aggravating factors which are similar to what is in NYs aggravating murder factors. So, these new statues went to the supreme court and the USC upheld these new death penalty laws.
 
-  Capital Punishment
+<p style="margin-left:7%; margin-right:10%;"><b>Gregg v. Georgia.</b> Plurality. Procedures: the discretion to be exercised is controlled by clear and objective standards so as to produce non-discriminatory application of death penalty. Justices William Brennan and Thurgood Marshall: dissented; said they were against the death penalty in all cases and continued to dissent after that.</p>
 
-  Presenting evidence of racial bias to the court
+**Executions and the death penalty**
 
-  Capital punishment policy
+<p style="margin-left:7%; margin-right:10%;"><b>McCleskey v. Kemp</b> ("This case presents, as we know, an attack on capital punishment itself." - Justice Powell in interoffice memo duringg McClesky v. Kemp considerations) (McCleskey was convicted of murdering a white police officer in Georgia. In his appeal he raised 18 claims.)</p>
 
-  Arguments for capital punishment
+<p style="margin-left:7%; margin-right:10%;"><b>Challenge:</b> Fourteenth Amendment: purposeful discrimination (court said that McClensky had to show not just discrimination in general); Eighth Amendment: arbitrariness (McClesky lost Eighth Amendment challenge). At the time of his trial Georgia had the confederate flag flying over the courthouse and in the courthouse. McClesky was executed on September 25, 1991.
 
-  Arguments against capital punishment
+New York legislature passed death penalty law in 1995 (but see People v. Lavalle [2004])
 
-  See Laura’s spreadsheet
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Gregory</b> (“we hold that Washington’s death penalty is unconstitutional, as administered, because it is imposed in an arbitrary and racially biased manner. Given the manner in which it is imposed, the death penalty also fails to serve any legitimate penological goals” - Washington Supreme Court 2018)</p>
 
-  The death penalty originated before there were prisons.
+**Most compelling argument against death penalty:** Innocent people. Shows the arbitrary nature of the death penalty; who gets the death penalty even if they get the death penalty.
 
-  Common Law Murder
+# General Defenses to Crimes
 
-  Malice Aforethought
+## Major Categories of Defenses
 
-  Murders done with malice aforethought and done without malice aforethought
+- Failure of proof defenses – burden of proof on defense? Mistake of fact
+- Justifications – defenses where we condone what a defendant did; we say there are special justifying circumstances; even though they committed a crime the wrong would have been worse had they not committed the crime; for example, if a person burns corn field to create a fire break because huge forest fire threatening town, they could claim self-defense; if someone is shooting at me and I shoot them to save my life, it could be said that I was justified.
+- Excuses – what the person did was wrong but they are not responsible for what they did; insanity; partial excuse defenses which mitigate crimes are heat of passion and EED
+- Non-exculpatory public policy defenses – do not make a person not morally responsible for the crime, but makes them not be punished; for example, statute of limitations; the idea is that there is certain policy not to punish someone if the crime was done so long ago; another example would be diplomatic immunity – diplomats are immune from a lot of crimes because we want to maintain good relationships with diplomats from other countries, so we don’t want to punish them for crimes.
 
-  In the United States, murders by degrees tries to limit the death penalty
+## Burden of Proof
 
-  Execution methods
+<p style="margin-left:7%; margin-right:10%;"><b>Patterson v. New York (U.S. Supreme Court 1977)</b> (Patterson became estranged from wife Roberta, who resumed prior engagement with neighbor John Northrup. Patterson borrowed a rifle from an acquaintance, then went to his father-in-law’s house, looked through a window, saw his wife partly undressed with Northrop, went into the house and killed Northrop by shooting him twice in the head. Patterson was charged with second-degree murder. He raised the defense of EED.)
 
-  Different societies would use different execution methods depending on the crime. In ancient rome if someone were
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under NYS law, if the prosecution can prove beyond reasonable doubt (1) the death, (2) the intent to kill, and (3) causation, then the burden of proving the defense of extreme emotional disturbance with a preponderance of evidence rests upon the defendant. The affirmative defense of extreme emotional disturbance does not negate any facts of the crime.</p>
 
-  Parricide Rome – leather sack cock dog viper into sea
+**Burden of production:** who has to initially bring an issue before the court; to raise a defense; for example, we’ve talked about heat of passion and EED; these are not addressed in every single murder case; burden is a small burden but burden is to get the court to talk about an issue; sometimes called a burden of going forward with the issue; whoever has this burden has the burden to provide at least more than a scintilla of evidence that there was there is enough evidence to go forward with this.
 
-  Guillotine in France – the great equalizer
+**Burden of persuasion:** is the burden of convincing the fact finder that this may be true. Two questions: what is the burden, and who has the burden? What is the legislature doing, and what is the constitution doing?
 
-  In NY – the gas chamber –
+**Extreme emotional disturbance** defense to Second Degree Murder (NYPL) "(1) Intent to cause death of another person; (2) Causing death of such person or of a third person. Defense: acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.
 
-  Relevant to the constitutionality of the death penalty,
-  1.	Option. Mandatory death penalty for certain crimes
-  2.	Starting in 1837-1838 option – sentencer (judge or jury) has complete discretion. Mostly southern states. The way this was used was that with all white juries in the south, they would choose to sentence Blacks to death.
+**Common law:** Malice aforethought is with no provocation. In Maine, malice aforethought is in the statute, so they overlap (in NYPL, mens rea is not part of the elements of the crime in the statute, so they do not overlap at all).
 
-  U.S. Supreme Court
-  The Bill of Rights initially didn’t apply to the states, only to the Federal government. So many death penalty cases didn’t go the supreme court. There was a death by firing squad.
-
-  The electric chair was invented before toasters and things like that; the electric chair there was competition between Thomas Edison, who pushed for the electric chair because he hoped people would see how dangerous electricity was.
-
-  Leading up to the 60s and 70s, the NAACP Legal Defense Fund, lawyers working with social justice advocates on a social justice issue, initially began challenging the death penalty on equal protection grounds, but eventually thought it should be struck down for other reasons and began challenging it on constitutional grounds – 14th A due process, 8th A cruel and unusual punishment; largely based on how death penalty was applied
-
-  Furman v. Georgia 1972 – giving jurors complete discretion to apply the death penalty made the death penalty capricious; at this time there was a trend around the world which had started in the 1940s – capital punishment was abolished in France, Israel except for nazis, England, Austria Denmark, Sweden, Portugal, - meanwhile in the u.s. the death penalty was dwindling in the 60s and 70s during civil rights era – man wrote books on death row in CA – NAACP had coordinated attorneys nationwide to challenge the death penalty – ended up going to the USC in Furman v Georgia 1972 – majority found that the death penalty was unconstitutional because the jurors had too much discretion so arbitrary so violated the 8th amendment. Many people thought that was the end to the death penalty in the us. States responded to Furman by writing new laws – became a political issue, states’ rights; new death penalty laws gave jurors factors to weigh – aggravating factors which are similar to what is in NYs aggravating murder factors. So, these new statues went to the supreme court and the uscc upheld these new death penalty laws.
-  Gregg v. Georgia. Plurality.
-  Procedures: the discretion to be exercised is controlled by clear and objective standards so as to produce non-discriminatory application of death penalty.
-
-  Justices William Brennan and Thurgood Marshall: dissented; said they were against the death penalty in all cases and continued to dissent after that.
-
-  Executions and the death penalty.
-
-  McClesky – convicted of murdering a white police officer in Georgia. In his appeal he raised 18 claims.  
-
-  Study by David Baldus et al.
-  A defendant charged with killing a white victim was more than twice as likely to receive the death penalty than a defendant charged with killing an African-American victim.
-  Ultimately, the courts were favoring the lives of Whites over Blacks. Just the fact that the victim was …
-
-  Race of victim (4.3) vs. aggravating factors
-  Armed robbery (4.2); (SEE SLIDE – REALLY GOOD SLIDE)
-
-  Fourteenth A claim – court said that McClensky had to show not just discrimination in general/discrimination in general
-
-  What must a capital defendant show to establish the existence of purposef discrimination that had a discriminatory impact on the defendant? They would have to show that the … (SEE SLIDE)
-
-  Why did McCleskey lose his eight amendment challenge when the court had been concerned with arbitrariness since Furman v Georgia?
-
-  Racial bias: “apparent disparities in sentencing are an inevitable part of our criminal justice system.”
-
-  Could the court have drawn a line that applied to racial classifications? Of course they could have.
-
-  Justice Brennan’s dissent. What concerns do the dissenting justices express?
-
-  Execution
-  September 25, 1991
-
-  At the time of his trial Georgia had the confederate flag flying over the courthouse and in the courthouse
-
-  Today there are approximately 2,603 people on death row. Recent trend has been states abolishing death penalty. Election maps.
-
-  State v. Gregory
-  “we hold that washington’s death penalty is unconstitutional, as administered, because it is imposed in an arbitrary and racially biased manner. Given the manner in which it is imposed, the death penalty also fails to serve any legitimate penological goals” Washington supreme court 2018
-
-  Most compelling argument against death penalty. Innocent people. Shows the arbitrary nature of the death penalty; who gets the death penalty even if they get the death penalty.
-
-  For class 10-28-20
-
-  Patterson v. New York | U.S. Supreme Court 1977
-
-  Opinion delivered by White
-
-  Issue: Whether burdening the defendant in a NYS murder trial with proving the affirmative defense of EED as defined by NYS law is constitutional under the DP clause of the 14th A.
-
-  Facts: After brief and unstable marriage Gordon Patterson became estranged from wife Roberta. Roberta resumed engagement with neighbor John Northrup, who she had been engaged to before marrying Patterson. Patterson borrowed a rifle from an acquaintance, then went to his father-in-law’s house and looked through a window, saw his wife partly undressed with Northrop, went into the house and killed Northrop by shooting him twice in the head.
-
-  Procedural history: Patterson charged with second-degree murder. Patterson raised the defense of EED.
-  1.	Prosecution had to establish beyond a reasonable doubt that Patterson intended when he fired the gun to kill Northrop or another person; and
-  2.	Patterson had to prove that he acted under EED by a preponderance of the evidence.
-  Patterson appealed. Appeals court looked at recent case Mullany v. Wilbur, in which a court found that a Maine statute allowing a defendant to rebut malice aforethought by proving heat of passion violated due process because it shifted burden onto defendant. In the NY Court of appeals Patterson argued that NY’s murder statute was functionally equivalent to Maine statute and therefore also unconstitutional.
-  	Court of appeals rejected appeal, holding that NYS murder law is consistent with due process. Court of appeals distinguished Mullany from NY murder law in that NY murder law does not shift onto the defendant the burden of disproving any fact essential to the offense charged since EED bears no direct relationship to any element of murder. (what is a direct relationship? [my question]).
-  	In Leland v. Oregon (1952) the Court upheld ruling that an Oregon statute placing burden of proving insanity on defendant was constitutional.
-  	Here, the Court found that Mullaney decision did not call into question the ruling in Leland with respect to insanity.
-  	In Rivera v. Delaware (1976) the Court confirmed that it remained constitutional to burden the defendant with proving insanity.
-
-  Here, Court find that Patterson’s conviction under NYS law did not deprive him of due process. The Court says that if the prosecution can prove beyond reasonable doubt
-  •	The death
-  •	The intent to kill
-  •	Causation
-  Then the burden of proving the defense of EED with a preponderance of evidence rests upon the defendant.
-  	Here, the Court found that the State proved beyond a reasonable doubt “every fact necessary to constitute the crime with which Patterson was charged.”  (507)
-  	The affirmative defense does not negate any facts of the crime.
-  	The Court finds that NY EED law does not violate the DP clause, “and unless we are to overturn Leland and Rivera … Patterson’s conviction must be sustained.” (507)
-
-
-  Major Categories of Defenses
-
-  Failure of proof defenses – burden of proof on defense? Mistake of fact
-  Justifications – defenses where we condone what a d did; we say there are special justifying circumstances; even though they committed a crime the wrong would have been worse had they not committed the crime; man burns corn field to create a fire break because huge forest fire threatening town; self-defense; if someone shooting at me and I shoot at them to save my life, it could be said that I was justified
-  Excuses – what the person did was wrong but they are not responsible for what they did; insanity; partial excuse defenses which mitigate crimes are heat of passion and EED
-  (non-exculpatory public policy defenses) – does not make a person not morally responsible for the crime, but makes them not be punished; for example, statute of limitations; the idea is that there is certain policy not to punish someone if the crime was done so long ago; another example would be diplomatic immunity – diplomats are immune from a lot of crimes because we want to maintain good relationships with diplomats from other countries, so we don’t want to punish them for crimes;
-
-  Burden of Proof
-
-  Patterson case
-  Burdens in Criminal Law
-
-  •	Burden of production – who has to initially bring an issue before the court; to raise a defense; for example, we’ve talked about heat of passion and EED; these are not addressed in every single murder case; burden is a small burden but burden is to get the court to talk about an issue; sometimes called a burden of going forward with the issue; whoever has this burden has the burden to provide at least more than a scintilla of evidence that there was there is enough evidence to go forward with this
-  •	Burden of persuasion – who has the burden of convincing the fact finder that this may be true?
-  o	Two questions: what is the burden, and who has the burden? What is the legislature doing, and what is the constitution doing?
-
-  For EED the court said that the
-
-  Second Degree Murder (NYPL)
-  1.	Intent to cause death of another person;
-  2.	Causing death of such person or of a third person
-
-  Defense: acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.
-  Malice aforethought is with no provocation –
-  In Maine, malice aforethought is in the statute, so they overlap
-
-  In NYPL, mens rea is not part of the elements of the crime in the statute, so they do not overlap at all
-
-  Dissent: Justice Powell says that this allows legislatures to write their statutes so that they can avoid putting the burden on the prosecution.
-
-  Footnote 15: why does the majority (Justice White) believe its decision – permitting states to put the burden on the defendant – will allow “legislative reform?”
+Dissent: Justice Powell says that this allows legislatures to write their statutes so that they can avoid putting the burden on the prosecution. Footnote 15: why does the majority (Justice White) believe its decision – permitting states to put the burden on the defendant – will allow “legislative reform?”
 
   What might NY have done had this case cocme out differently and the burden was on the prosecution to prove EED? If the courts putting the burdens on all the prosecutors the states might have gotten rid of lots of defenses;
 
