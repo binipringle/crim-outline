@@ -850,7 +850,7 @@ Manslaughter in the second degree is a class C felony.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> a situation where a D is Aaron, and Ben drives up and kills Aaron’s daughter Sue, and Ralph steps in and tries to get past Ralph to kill Ben, and kills Ralph. Should that be an excuse defense or a justification defense? If excuse, not morally blameworthy because very upset. If justification, then we're saying it's ok to do that.</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Girouard v. State (Maryland 1991)</b> (Steven and Joyce Girouard married in the army, argue, she follows him into bedroom, taunts him, he goes into kitchen, gets knife and stabs her 19 times)/b>
+<p style="margin-left:7%; margin-right:10%;"><b>Girouard v. State (Maryland 1991)</b> (Steven and Joyce Girouard married in the army, argue, she follows him into bedroom, taunts him, he goes into kitchen, gets knife and stabs her 19 times)</b>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Rule:<b> Under common law, words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter.</P>
 
