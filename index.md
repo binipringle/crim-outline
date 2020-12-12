@@ -868,7 +868,7 @@ Manslaughter in the second degree is a class C felony.
 
 MPC takes a little different approach from NYPL (see MPC and NYPL laws above)
 
-<p style="margin-left:7%; margin-right:10%;"><b>People v. Cassassa (New York, 1980)</b> (man obsessively in love wiith woman living in the same building, ends up killing her because she rejected him)
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Cassassa (New York, 1980)</b> (man obsessively in love wiith woman living in the same building, ends up killing her because she rejected him)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Under New York law, if a defendant had a mental infirmity that did not rise to the level of insanity, and within that mental state, from his subjective point of view, his reaction to a series of events causing him to kill the victim was reasonable, he may have an extreme emotional disturbance defense. NYPL Section 125.25 (1)(a) provides that it is an affirmative defense to the crime of murder in the second degree where “the defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.” (301) The extreme emotional disturbance defense is an outgrowth of the heat of passion defense.</p>
 
