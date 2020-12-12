@@ -852,7 +852,7 @@ Manslaughter in the second degree is a class C felony.
 
 <p style="margin-left:7%; margin-right:10%;"><b>Girouard v. State (Maryland 1991)</b> (Steven and Joyce Girouard married in the army, argue, she follows him into bedroom, taunts him, he goes into kitchen, gets knife and stabs her 19 times)</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Rule:<b> Under common law, words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter.</P>
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under common law, words alone are not adequate provocation to mitigate second-degree murder to voluntary manslaughter.</P>
 
 **Common law: voluntary manslaughter:** “an intentional homicide, done in a sudden heat of passion, caused by adequate provocation, before there has been a reasonable opportunity for the passion to cool” (285). Difference between murder and manslaughter is the presence or absence of malice.
 
