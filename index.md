@@ -687,9 +687,11 @@ At common law, murder was defined as the unlawful killing of another human being
 
 <p style="margin-left:7%; margin-right:10%;"><b>Year-and-a-day rule:</b> (common law) If Prof M shot Prof K in chest and Prof K died more than a year and a day after, then Prof M cannot be convicted of murder. Could be convicted of attempted murder or something else. (note 3 p.269) </p>
 
-# Intentional Killings: Murder
+# Intentional Killings
 
 Our casebook organizes around: intentional homicides versus unintentional homicides. We should follow the text book in terms of outlining – because this helps us see if it was an intended death or an accidental death and that will take us in different ways – and then heat of passion which are manslaughters but they are intentional too; same with unintentional; is this a depraved indifference killing, or is this a reckless manslaughter type killing or is this a criminally negligent death.
+
+## Intentional killings: murder
 
 <p style="margin-left:7%; margin-right:10%;"><b>State v. Guthrie (1995)</b> (dishwashers who generally got along well, but Guthrie was in a bad mood when Farley poked fun at him and snapped him with a dishtowel several times. The dishtowel touched Guthrie on the nose (Guthrie was obsessed with his nose – body dysmorphic disorder). Guthrie pulled knife out of pocket and stabbed Farley to death. Guthrie suffered from panic attacks, chronic depression and borderline personality disorder.)</p>
 
@@ -898,7 +900,7 @@ Under the **MPC Sec. 210.3**, defense of EED: the D must have acted under the in
 
 *The word provocation does not appear in NYPL or in MPC.* There are no elements of justification; it doesn’t have a provocation requirement. EED is more of an excuse defense than a justification defense.
 
-## Unintentional Killings
+# Unintentional Killings
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Knoller (California, 2007)</b> (Bane, a dog owned by two sleazy attorneys killed Diane Whipple in the hallway of an apartment building in San Francisco)</p>
 
@@ -916,11 +918,11 @@ Under the **MPC Sec. 210.3**, defense of EED: the D must have acted under the in
 
 **NYPL 125.25(2)** says a depraved indifference to human life – second degree murder – similar to malignant and depraved heart in common law. Remember that from our definition of recklessness (see NYPL sec 15.05) have to be aware of the risk and consciously take that risk. **Depraved indifference is a step higher because one simply does not care.**
 
-<p style="margin-left:7%; margin-right:10%;"><b>People v. Suarez (NY)</b> (Defendant, who stabbed her former boyfriend in the chest during an argument, and then immediately called 911 and requested an ambulance, was not, as a matter of law, guilty of depraved indifference murder. Defendant's conduct may have reflected recklessness but did not fall within the small, and finite, category of cases evidencing utter depravity, uncommon brutality and inhuman cruelty required for depraved indifference murder.)
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Suarez (NY)</b> (Defendant, who stabbed her former boyfriend in the chest during an argument, and then immediately called 911 and requested an ambulance, was not, as a matter of law, guilty of depraved indifference murder. Defendant's conduct may have reflected recklessness but did not fall within the small, and finite, category of cases evidencing utter depravity, uncommon brutality and inhuman cruelty required for depraved indifference murder.)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Depraved indifference is best understood as an utter disregard for the value of human life – a willingness to act not because one intends harm but because one simply doesn’t care whether grievous harm results or not. (note 4 p. 319)</p>
 
-**NY Depraved indifference murder (Penal Law § 125.25 [2])** properly applies only to a small, and finite, category of cases where the defendant's conduct is at least as morally reprehensible as intentional murder. The use of a weapon can never result in depraved indifference murder when there is a manifest intent to kill because indifference to the victim's life contrasts with the intent to take it. Further, a defendant may be convicted of depraved indifference murder when but a single person is endangered in only a few rare circumstances. To constitute depraved indifference, the defendant's conduct must be so wanton, so deficient in a moral sense of concern, so devoid of regard of the life or lives of others, and so blameworthy as to warrant the same criminal liability as that which the law imposes upon a person who intentionally causes *203 the death of another. The statutory provision that a defendant act “[u]nder circumstances evincing a depraved indifference to human life” constitutes an additional requirement of the crime, which in turn comprises both depravity and indifference, that has meaning independent of the gravity of the risk of death.</p>
+**NY Depraved indifference murder (Penal Law § 125.25 [2])** properly applies only to a small, and finite, category of cases where the defendant's conduct is at least as morally reprehensible as intentional murder. The use of a weapon can never result in depraved indifference murder when there is a manifest intent to kill because indifference to the victim's life contrasts with the intent to take it. Further, a defendant may be convicted of depraved indifference murder when but a single person is endangered in only a few rare circumstances. To constitute depraved indifference, the defendant's conduct must be so wanton, so deficient in a moral sense of concern, so devoid of regard of the life or lives of others, and so blameworthy as to warrant the same criminal liability as that which the law imposes upon a person who intentionally causes the death of another. The statutory provision that a defendant act “[u]nder circumstances evincing a depraved indifference to human life” constitutes an additional requirement of the crime, which in turn comprises both depravity and indifference, that has meaning independent of the gravity of the risk of death.</p>
 
 **Manslaughter in the first degree NY 125.20 (1) “with intent to cause” note difference with NY 120.20:**   
 
