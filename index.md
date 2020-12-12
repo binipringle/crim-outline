@@ -858,7 +858,7 @@ Manslaughter in the second degree is a class C felony.
 
 **Who is the reasonable person?** The book doesn’t really tell us. Historically in common law, if you’re thinking of the reasonable person are we thinking about an objective sort of blank person, or do we give the reasonable person some of the characteristics of the defendant? Courts generally have said that if a characteristic is related to the provocation, it should be considered in the reasonable person standard. (See note 4 p. 298)
 
-<p style="margin-left:7%; margin-right:10%;"><b>Director of Public Prosecutions v. Camplin (House of Lords 1978): (Khan, a middle-aged man, sodomized Camplin, a 15-year-old boy, in Khan’s home, and then laughed at him. Camplin took a heavy kitchen pan and killed Khan. Camplin was charged with murder. Appealed, arguing that conviction should be reduced to manslaughter.)</p>
+<p style="margin-left:7%; margin-right:10%;"><b>Director of Public Prosecutions v. Camplin (House of Lords 1978)</b> (Khan, a middle-aged man, sodomized Camplin, a 15-year-old boy, in Khan’s home, and then laughed at him. Camplin took a heavy kitchen pan and killed Khan. Camplin was charged with murder. Appealed, arguing that conviction should be reduced to manslaughter.)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> A “reasonable man” is a person having the power of self-control to be expected of an ordinary person of the sex and age of the accused, but in other respects sharing such of the accused’s characteristics as they think would affect the gravity of the provocation (p. 299)</p>
 
