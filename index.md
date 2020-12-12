@@ -1059,7 +1059,7 @@ The electric chair was invented before toasters and things like that; the electr
 
 <p style="margin-left:7%; margin-right:10%;"><b>McCleskey v. Kemp</b> ("This case presents, as we know, an attack on capital punishment itself." - Justice Powell in interoffice memo duringg McClesky v. Kemp considerations) (McCleskey was convicted of murdering a white police officer in Georgia. In his appeal he raised 18 claims.)</p>
 
-<p style="margin-left:7%; margin-right:10%;"><b>Challenge:</b> Fourteenth Amendment: purposeful discrimination (court said that McClensky had to show not just discrimination in general); Eighth Amendment: arbitrariness (McClesky lost Eighth Amendment challenge). At the time of his trial Georgia had the confederate flag flying over the courthouse and in the courthouse. McClesky was executed on September 25, 1991.
+<p style="margin-left:7%; margin-right:10%;"><b>Challenge:</b> Fourteenth Amendment: purposeful discrimination (court said that McClensky had to show not just discrimination in general); Eighth Amendment: arbitrariness (McClesky lost Eighth Amendment challenge). At the time of his trial Georgia had the confederate flag flying over the courthouse and in the courthouse. McClesky was executed on September 25, 1991.</p>
 
 New York legislature passed death penalty law in 1995 (but see People v. Lavalle [2004])
 
