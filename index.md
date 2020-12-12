@@ -248,7 +248,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 <p style="margin-left:10%; margin-right:10%;">(i) if the element involves the nature of his conduct or the attendant circumstances, he is aware that his conduct is of that nature or that such circumstances exist; and</p>
 <p style="margin-left:10%; margin-right:10%;">(ii) if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result.</p>
 <p style="margin-left:7%; margin-right:10%;">(c) <b>Recklessly.</b></p>
-<p style="margin-left:10%; margin-right:10%;">A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.</p>
+<p style="margin-left:10%; margin-right:10%;">A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.<b> Conley!</b></p>
 <p style="margin-left:7%; margin-right:10%;">(d) <b>Negligently.</b></p>
 <p style="margin-left:10%; margin-right:10%;">A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.</p>
 
@@ -256,7 +256,7 @@ The term “mens rea,” meaning “a guilty mind; a guilty or wrongful purpose;
 
 **Offense Silent as to Culpability:** unless the kind of culpability sufficient to establish a material element of an offense has been prescribed by law, it is established if a person acted purposely, knowingly or recklessly with respect thereto; … since negligence is an exceptional basis of liability, it should be excluded as a basis unless explicitly prescribed (p. 172).
 
-**MPC Section 2.02 (7)** proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. Under **NYPL**, knowledge requires awareness. If the NY legislature wanted to make someone guilty of a crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly."
+**Note: MPC Section 2.02 (7)** proposes that “when knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence, [unless he believes that it does not actually exist].” The MPC definition of “knowingly” is similar to its definition of “recklessly” in that both require awareness. Under **NYPL**, knowledge requires awareness. If the NY legislature wanted to make someone guilty of a crime but didn’t want to adopt the broad definition of “knowingly,” how might they write the definition of a crime without changing the definition of knowingly? They could use “recklessly."
 
 ## New York Penal Law Mens Rea
 
@@ -268,7 +268,7 @@ The following definitions are applicable to this chapter:
 <p style="margin-left:3%; margin-right:10%;">(2) <b>Knowingly</b></p>
 <p style="margin-left:5%; margin-right:10%;">A person acts knowingly with respect to conduct or to a circumstance described by a statute defining an offense when he is aware that his conduct is of such nature or that such circumstances exist.</p>
 <p style="margin-left:3%; margin-right:10%;">(3) <b>Recklessly</b></p>
-<p style="margin-left:5%; margin-right:10%;">A person acts recklessly with respect to a result or to a circumstance described by a statute defining an offense when he is aware of and consciously disregards a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that disregard thereof constitutes a gross deviation from the standard of conduct that a reasonable person would observe in the situation.  A person who creates such a risk but is unaware thereof solely by reason of voluntary intoxication also acts recklessly with respect thereto.</p>
+<p style="margin-left:5%; margin-right:10%;">A person acts recklessly with respect to a result or to a circumstance described by a statute defining an offense when he is aware of and consciously disregards a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that disregard thereof constitutes a gross deviation from the standard of conduct that a reasonable person would observe in the situation.  A person who creates such a risk but is unaware thereof solely by reason of voluntary intoxication also acts recklessly with respect thereto. <b> Conley! Natural and probable consequences doctrine - for defense when recklessness mens rea</b></p>
 <p style="margin-left:3%; margin-right:10%;">(4) <b>Criminal Negligence</b></p>
 <p style="margin-left:5%; margin-right:10%;">A person acts with criminal negligence with respect to a result or to a circumstance described by a statute defining an offense when he fails to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists.  The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.</p>
 
@@ -383,7 +383,7 @@ Only applies in Model Penal Code jurisdictions! Transferred intent is built into
 
 <p style="margin-left:10%; margin-right:10%;"><b>Note:</b> Larceny is a specific intent crime because it requires that you trespass with the intent of in the future stealing the personal property of another person. Larceny: “trespassory taking and carrying away of the personal property of another with the intent to steal the property.”</p>
 
-**Model Penal Code Section 2.04. Ignorance or Mistake.**
+**Model Penal Code Section 2.04. Ignorance or Mistake.** (Mistake of fact is not an affirmative defense in New York!)
 
 (1) Ignorance or mistake as to a matter of fact or law is a defense if:
 <p style="margin-left:7%; margin-right:10%;">(a) the ignorance or mistake negatives the purpose, knowledge, belief, recklessness or negligence required to establish a material element of the offense;  or</p>
@@ -600,7 +600,7 @@ Under this specific situation, if the defendant was a substantial factor in brin
 
 <p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Where the evidence adduced by the state and the reasonable inferences to be drawn therefrom, even when viewed in a light most favorable to the state, are insufficient to establish actus reus, mens rea and causation, the court must grant the defendant’s motion for acquittal.</p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>NYPL Section 125.10 Criminally negligent homicide:</b> “A person is guilty of criminally negligent homicide when, with criminal negligence, he causes the death of another person. Criminally negligent homicide is a class E felony.”</p>
+<p style="margin-left:10%; margin-right:10%;"><b>NYPL Section 125.10 Criminally negligent homicide:</b> “A person is guilty of criminally negligent homicide when, with criminal negligence, he causes the death of another person. Criminally negligent homicide is a class E felony.” Analogize with <b>State v. Williams</b></p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Facts:</b> V was a pedestrian crossing a road at 6:30 pm. D drove a car towards V, hit the victim with the car, causing the V’s body to be thrown up over the hood of the car. D stopped the car momentarily. Body of V rolled off hood. D drove off again. Bus driver witnessed it all but was unable to find V’s body. At 6:40 pm police found D’s car, parked on a street about 610 feet from scene of accident. Police found body of V wedged beneath the car. D argued that could not be negligent manslaughter if V died upon impact. If V died upon impact, the conduct of the D in driving with V wedged under his car did not constitute culpable negligence. Medical evidence says V “could have” died immediately on impact. Court unable to conclude time of death on medical evidence. Guilty when: with criminal negligence he causes the death of another person. The timing is important because Rose was not negligent at the time he hit the person. Rose was negligent when he dragged the body, but if the person was already dead when he dragged him he did not cause the death when negligent.</p>
 
@@ -1753,7 +1753,7 @@ If Prof K were paranoid about Prof M shooting him, and Prof M pulled out a toy g
 
   Look at note on p.572 note 4
 
-  Suppose somebody comes along and sees prof mott is threatening to use unlawful force against prof k – third person steps in to stop her – but turns out that prof k started the fight; in ny we use the alter ego rule; a person aiding another person only has the right of self defense to the extent that the v has the same right to self-defense of the person they are defending.
+Suppose somebody comes along and sees prof mott is threatening to use unlawful force against prof k – third person steps in to stop her – but turns out that prof k started the fight; in ny we DON'T use the alter ego rule (BUT ANALOGIZE - say that iin other jurisdictions they look at the situation from the shoes of the person in peril); a person aiding another person only has the right of self defense to the extent that the v has the same right to self-defense of the person they are defending.
 
   NY does not have the aler ego rule; ny looks at what the person reasonably believes
 
@@ -2426,3 +2426,10 @@ If just a defense, the prosecution has the burden of disproving the defense. So 
   You can attempt a reckless conduct crime; you can’t attempt a reckless result crime
 
   You can be an accomplice to a reckless result crime
+
+  S 20.00 Criminal liability for conduct of another.
+  When one person engages in conduct which constitutes an offense,
+another person is criminally liable for such conduct when, acting with
+the mental culpability required for the commission thereof, he solicits,
+requests, commands, importunes, or intentionally aids such person to
+engage in such conduct.
