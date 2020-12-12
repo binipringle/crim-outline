@@ -783,7 +783,7 @@ Manslaughter in the second degree is a class C felony.
 
 (2) Under circumstances evincing a depraved indifference to human life, he recklessly engages in conduct which creates a grave risk of death to another person, and thereby causes the death of another person; or
 
-(3) Acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants; except that in any prosecution under this subdivision, in which the defendant was not the only participant in the underlying crime, <b>it is an affirmative defense that the defendant:</>
+(3) Acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants; except that in any prosecution under this subdivision, in which the defendant was not the only participant in the underlying crime, <b>it is an affirmative defense that the defendant:
 
 <p style="margin-left:3%; margin-right:10%;">(a) Did not commit the homicidal act or in any way solicit, request, command, importune, cause or aid the commission thereof; and</p>
 
@@ -900,7 +900,7 @@ Under the **MPC Sec. 210.3**, defense of EED: the D must have acted under the in
 
 ## Unintentional Killings
 
-<p style="margin-left:7%; margin-right:10%;"><b>People v. Knoller (California, 2007)</b> (Bane, a dog owned by two sleazy attorneys killed Diane Whipple in the hallway of an apartment building in San Francisco)
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Knoller (California, 2007)</b> (Bane, a dog owned by two sleazy attorneys killed Diane Whipple in the hallway of an apartment building in San Francisco)</p>
 
 <p style="margin-left:10%; margin-right:10%;"><b>Statute:</B> Under CA Penal Code Section 187 subdivision (a), murder is “the unlawful killing of a human being, or a fetus, with malice aforethought.” Under CAPC Section 188, “Malice may be either express or implied. It is express when there is manifested a deliberate intention to take away the life of a fellow creature. It is implied, when no considerable provocation appears, or when the circumstances attending the killing show an abandoned and malignant heart.” (At issue here is the definition of “implied malice” (317);  Implied malice requires a D’s awareness of the risk of death to another (317))</P>
 
@@ -940,205 +940,111 @@ Under the **MPC Sec. 210.3**, defense of EED: the D must have acted under the in
 
 # Felony murder
 
-The main doctrine as a starting point comes from the common law. Highest most punished murder is if someone dies as a result of any murder committed during the course of a felony. Whether an accident or intentional. In NYPL, felony murder is in the second degree murder statute.
+The main doctrine as a starting point comes from the common law in England (England has abolished felony murder). Highest most punished murder is if someone dies as a result of any murder committed during the course of a felony. Whether an accident or intentional.
 
+<p style="margin-left:7%; margin-right:10%;"><b>People v Fuller (California 1978)</b> (burglars stole spare tyres from parked cars; police showed up; when fleeing from police, burglars ran a red light and hit another car, causing the other driver’s death. Fuller was charged with murder under the felony-murder rule. The trial court struck the murder charges. The appeals court was bound by precedent and overturned, and Fuller was convicted of first-degree murder under the felony murder rule)</p>
 
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> Under the California felony-murder rule, a death resulting from the commission of a dangerous felony, including burglary, is murder.</p>
 
-  There are some ways –
+<p style="margin-left:10%; margin-right:10%;"><b>Justification of felony murder:</b> Main policies behind it is this idea of deterrence and of making felons more careful. Book mentions other justifications; could make a retributive argument that people are more deserving; but main justification is deterrence; consistent with thus being so punitive in this area. To summarize, main justifications are (1) Deterrence of committing felony in the first place; (2) the idea is that if someone does decide to do a felony they will be more careful.</p>
 
-  People v Fuller 1978
-  The court upholds felony murder
+In New York, felony murder is in the second degree murder statute.
 
-  Watch video because I’m reading cases I didn’t read
+**New York Penal Law § 125.25 Murder in the second degree** A person is guilty of murder in the second degree when: (3) Acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants; except that in any prosecution under this subdivision, in which the defendant was not the only participant in the underlying crime, <b>it is an affirmative defense that the defendant: (see full statute for defenses)
 
-  1.	Deterrence of committing felony in the first place
-  2.	The idea is that if someone does decide to do a felony they will be more careful.
+**NYPL 125.27 murder in the first degree subsection 7 is NOT felony murder** because in beginning of statute it states that “a person is guilty of murder in the first degree when: (1) with intent to cause the death of another person, he causes the death of such person or of a third person; AND (a) Either ... (vii) the victim was killed while the defendant was in the course of committing or attempting to commit and in furtherance of [certain felonies], or in the course of and furtherance of immediate flight after committing or attempting to commit any such crime ...""
 
-  If Fuller not guilty of murder what would –
+In the second degree provision it was with an “or” not an “and”: First degree is intent to kill AND; Second degree is something OR.
 
-  Not really strict liability because the prosecutor still has to prove the mens rea of the felony; does not have to prove mens rea with respect to the death.
-  The other option is the prosecutor has to prove a mens rea with regard to the homicide.
+In **New York**, it would not be possible to eliminate the felony murder rule because it’s written into the code, so the courts come up with ways to limit the application of the statute while still being consistent with what the legislature wanted.
 
-  Does come from common law in England but England abolished felony murder.
+New York has the **careful felon defense** – if you commit a murder while committing a felony if you can show that there was no recklessness with extreme indifference when committing the felony that is a defense; to some degree NY is trying to mitigate the felony murder rule, but it does allow a very narrow defense;
 
-  Main policies behind it is this idea of deterrence and of making felons more careful. Book mentions other justifications; could make a retributive argumentthat people are more deserving; but main justification is deterrence; consistent with theus being so punitive in this area.
+**MPC 210.2** Drafters of MPC thought felony murder rule was not great in terms of policy, so they didn’t get rid of it completely; *not a felony muRder because* **the MPC does not have felony murder**; You can create a presumption of mens rea if you can prove recklessness with extreme indifference when committing a felony; mens rea is still an issue, and it makes it easier for the prosecutor but does not make the mens rea irrelevant.
 
-  NYPL felony murder is in the second degree murder statute sec 125.25
-  Subsection 3. “in the course of such crime or immediate flight therefore”
+**Inherently dangerous felony limitation:** Originally, felony murder applied to all felonies, but then courts started limiting the felonies where the doctrine applied. Some jurisdictions apply this doctrine so that only felonies that are inherently dangerous may be used for felony murder. Courts start knocking out some felonies from the felony murder rule.
 
-  As long as one of the felons causes the death they can both be convicted of felony murder – New York adds on a provision for very careful felons, saying that they would be not guilty if coareful
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Howard (California 2005)</b> (police tried to pull over Howard because his car was missing a license plate; Howard was on crystal meth and had a suspended license; fled from police; police pursued; high speed chase; Howard burned red light and crashed into another car, killing the driver)</p>  
 
-  At some point you might be looking at the careful felon defense
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> In some jurisdictions, courts only apply the felony murder rule to felonies that are inherently dangerous to human life.</p>
 
-  NYPL 125.27 murder in the first degree
-  Subsection 7
-  Not felony murder because in beginning of statute it states that “a person is guilty of murder in the first degree when: (1) with intent to cause the death of another person, he causes the death of such person or of a third person; and (a) Either (vii) “
+<p style="margin-left:10%; margin-right:10%;"><b>Analysis:</b> Sometimes in some jurisdictions they look at facts. In others, they look in the abstract. <b>Looking in the abstract is looking at the statute.</b> Here, the requirement for inherently dangerous felony in this case was three traffic violations.If someone is driving without a license with lights off and a little over the speed limit, they are not posing a substantial risk to human life, so this statute is crossed off the felony murder list forever in California.</p>
 
-  This is just that first degree murder is intent to commit murder and in the course of committing a crime.
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If Prof M says “let’s go rob a bank” Prof K will say “no, that’s an inherently dangerous felony; if someone dies, we’ll be charged with felony murder.” Or he might say “ok let’s do it but we have to be really careful.” Basically the inherently dangerous felony rule for felony murder is for purposes of deterrence.</p>
 
-  In the second degree provision it was with an “or” not an “and”
+## Limitations to felony murder rule
 
-  First degree is intent to kill AND
-  Second degree is something OR
+Limits on Felonies for the felony-murder rule: (1) inherently dangerous felony limitation (fact v abstract), and (2) merger or "independent felony" limitation.
 
-  New York has the careful felon defense – if you commit a murder while committing a felony if you can show that there was no recklessness with extreme indifference when committing the felony that is a defense; to some degree ny is trying to mitigate the felony murder rule, but it does allow a very narrow defense;
+**Inherently dangerous felony limitiation (fact v abstract)** (usually applied in the abstract as opposed to to the facts)
 
-  MPC 210.2 –
+- Firing a firearm at an inhabited dwelling – yes, inherently dangerous.
+- False imprisonment: no, not inherently dangerous (you can lock someone up for a short time so no, not always substantial risk to human life) **(we’re looking at the statute, not the crime, so we’re looking in the abstract).**
+- Child abuse – depends how it is defined in the statute – if it is defined in the state in a way that does not always create a substantial risk that someone will die, then felony murder does not apply because statute is not inherently dangerous when interpreted in the abstract.
 
-  Drafters of MPC thought felony murder rule was not great in terms of policy, so they didn’t get rid of it completely; not a felony muder because the mpc does not have felony murder;
-  You can create a presumption of mens rea if you can prove recklessness with extreme indifference when committing a felony; mens rea still an issue; makes it easier for the prosecutor but does not make the mens rea irrelevant;
+Most jurisdictions apply the inherently dangerous felony rule **in the abstract** because if you apply it on the facts the felony murder will be applied quite often, as if you look at the facts acts are often inherently dangerous in their facts. This is why most courts reject the facts-based analysis and apply it in the abstract. If you apply in the abstract that statute can never be applied in felony murder. If you apply facts statute can be applied sometimes.
 
-  Inherently dangerous felony limitation
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo note 5 p. 347:</b> “Every person having the custody …" No, not inherently dangerous because someone could have the custody of a fifteen-year old and have drunk people in the house all the time; not substantial risk that someone will die.</p>
 
-  Originally, felony murder applied to all felonies, but then courts started limiting the felonies where the doctrine applied …
-  Some jurisdictions apply this doctrine so that only felonies that are inherently dangerous may be used for felony murder
+A question is whether the felony-murder rule is necessary in these cases. In all these cases the prosecutor would have the option of convicting defendants with manslaughter or second-degree murder. Should all deaths that occur in the course of a felony be felony murder? This would be illogical; felony murder should not be applied to manslaughter crimes; manslaughter is a felony and is inherently dangerous, so this would elevate all manslaughters to murder.
 
-  Courts start knocking out some felonies from the felony murder rule.
+**Merger (or "independent felony" limitation**
 
-  In New York, it would not be possible to eliminate the felony murder rule because it’s written into the code, so the courts come up with ways to limit the application of the statute while still being consistent with what the legislature wanted.
+If the prosecution could charge felony murder every time someone shot someone with a gun, they would never have to prove that there was mens rea, because if assault with a deadly weapon could be the felony then a prosecutor could always charge someone with assault with a deadly weapon and then boost that up to felony murder.
 
-  People v. Howard | Supreme Court of California 2005
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Smith (California 1984)</b> (woman assaulted her two-year old daughter by hitting her when the daughter wouldn't listen; as a result of injuries daughter died in hospital)</p>
 
-  The defendant driving, flees from police, stops, police pursue again, d burns red light, runs someone over;  
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under California law, a felony that is assaultive in nature cannot serve as the basis of a felony-murder charge unless the felony was committed with an independent felonious purpose.</p>
 
-  Why is it relevant that it is an inherently dangerous felony? In this case, the course says that the felony murder rule will only apply to inherently dangerous felonies. For example, if someone had a heart attack when someone was committing a bribery,
+<p style="margin-left:7%; margin-right:10%;"><b>Ireland case:</b> Don't know what this is! </p>
 
-  If Prof Mott says “let’s go rob a bank” Prof K will say “no, that’s an inherently dangerous felony; if someone dies, we’ll be charged with felony murder.” Or he might say “ok let’s do it but we have to be really careful.”
+**Rule for the merger doctrine:** The felony-murder doctrine does not apply to felonies that are an integral part of and included in fact within the homicide. **EXCEPTION:** BUT felony-murder does apply to the felony (i.e., no merger) if the underlying offense was committed with an **“independent felonious purpose”**.
 
-  Basically the inherently dangerous felony rule for felony murder is for purposes of deterrence.
+Felony murder does not apply to a felony if both:
 
-  Two deterrence reasons: one is to deter felons from committing the crime, the other is to make them more careful if they do commit the felony.
+1.	The felony is an integral part of (and included in fact within) the homicide; and
+2.	The homicide did not result from conduct for an independent felonious purpose
 
-  How do you determine whether a felony is inherently dangerous? What are they and how do you define them?
+Again, the idea is deterrence; the policy reason for not applying the felony murder rule to these is that if someone is going to commit murder we can't make them more careful, but if someone is going to commit robbery and kills someone, we can deter other robbers from being reckless when they rob. Felony murder applies to:
 
-  Is this an inherently dangerous felon?
+- Robbery – YES
+- Burglary – breaking and entering with intent to assault with a deadly weapon – NO, because intent to assault
+- Burglary second degree – breaking and entering with intent to steal – YES, you can apply felony murder to this
+- Child abuse of assaultive nature? – NO, because assault is an integral part of the felony
 
-  Specific question is whether driving with a willful or wanton disregard for the safety of persons or property while fleeing from a pursuing police officer an inherently dangerous felony for purposes of the second-de…” (CA statute)
+## Res gestae doctrine
 
-  Sometimes in some jurisdictions they look at facts. In others, they look in the abstract. Looking in the abstract is looking at the statute.
+**Factors for determining whether the killing occurred during the course of the felony:** Time, distance, and the causal relation between the felony and the killing.
 
-  Court says if act cannot be committed without creating substantial risk that someone will be killed, then the felony is
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If prof K robs a bank and someone dies several days later in an accident he causes. If Prof K robs a bank and an hour later someone dies in an accident he causes. If he sees the police and is driving away and that’s when he had the accident.</p>
 
-  RULE: Felony is inherently dangerous if by felonys natute it cannot be cocmmitted without creating a “substantial tisk that someone will be killed”
+Different jurisdictions take different approaches when the defendant did not actually do the killing.
 
-  200.2(b): “A willful or wanton disregard for the safety of persons or property includes, but it  not limited to, diriving while fleeing or attemting to elude aa pursuing peace officer during which time either three or more violations that are assigned a traffic violation point count … occur, or damage to property occurs” [three traffic violations] – if someone is driving without a license with lights off and a little over the speed limit, they are not posing a substantial risk to human life, so this statute is crossed off the felony muder list foever in californai.
+1.	**Agency approach** – limits felony murder to homicides committed by the felon **or the felon's agent**; any killing by the felons is implicated to their co-felons. Prof K and Prof Mott robbing bank; if prof K kills someone prof Mott can also be criminally liable. In Sosophone case, the lower court used the agency approach but the higher court overruled and used proximate cause approach.
+2.	**Proximate cause approach** allows liabiility for any death caused by the unlawful activity, even when it isn't caused by the felon. Defendant can be held liable for a killing if the defendant merely sets in action the events that cause the death. (p. 356)
 
-  You have to ask can someone violate this statute without creating a substantial risk that someone can be killed”
+<p style="margin-left:7%; margin-right:10%;"><b>State v. Sophophone (Kansas 2001)</b> (Sophophone and three other men broke into a residence. The resident was home and called the police. One officer arrested Sophophone. Another shot and killed Sysoumphone.  Trial court convicted Sophophone of felony murder based on the officer’s killing of Sysoumphone. Supreme Court of Kansas reversed, and used agency approach instead of proximate cause approach.)
 
-  Firing a firearm at an inhabited dwelling – yes inh. Dangerous
-  False imprisonment: impris… effected by vilence, menace, faud, or decetit – no not inh. Dangerous (you can lock someone up for a short time so no, not always substantial risk to human life) (we’ere looking at the statute, not the crime, so we’re looking in the abstract)
-  Child abuse – depends how it is defined in the statute – if it is defined in the state in a way that does not always create a substantial risk that someone will die, then felony murder does not apply because statute is not inherently dangeroue when interpreted in the abstract
-  Highest court in a jurisdiction would …
-  Most jurisdictions apply it in the abstract because if you apply it on the facts the felony murder will be applied quite often, because if you look at the facts acts are onften inherently dangerous in their facts. This is why most courts reject the facts- based analysis and apply it in the abstract
-  If you apply in the abstract that statute can never be applied in felony murder
-  If you apply facts statute can be applied sometimes
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under Kansas law, where a killing is the lawful act of a non-felon, the felony-murder rule is inapplicable.</p>
 
-  Problem – hypo – note 5 p. 347
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Agency theory jurisdiction. Felons A, B, C. Police officer D. If A kills police officer D during robbery, B and C are guilty of felony murder. They are each an agent of the other so if one person does the killing, they are all guilty by agency.</p>
 
-  “Every person having the custody …
-  No, not inherently dangerous because someone could have the custody of a fifteen-year old and have drunk people in the house all the time; not substantial risk that someone will die.
+<p style="margin-left:10%; margin-right:10%;">If officer D kills robbers A and B during the robbery, is C is guilty of felony murder? No. (similar to Sophophone case).</p>
 
-  Is the felony-murder rule necessary in these cases?
-  In all these cases the prosecutor would have the option of convicted them with manslaughter, or second-degree murder.
+<p style="margin-left:10%; margin-right:10%;">A, B and C are felons. Police officer D bystander E. If police officer D accidentally kills E during the robbery, is A guilty of felony murder? No.</p>
 
-  People v. Smith 1984
+**NYPL sec. 125.25 subsection 3** is felony murder rule in New York. New York applies the proximate cause approach; if felons are the proximate cause of death, they can be convicted of felony murder. A jurisdiction will apply either agency approach or proximate cause approach; a jurisdiction will not bounce back and forth.
 
-  Should all deaths that occur in the cours of a felony be felony murder? This would be illogical; felony murder should not be applied to manslaughter crimes; manslaughter is a felony and is inherently dangerous, so this would elevate all manslaughters to murder.
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> NY jurisdiction. Robbers A, B and C. Police officer D. If D police officer D kills robbers A and B during the robbery, is C guilty of felony murder? Yes.</p>
 
-  Ireland case
-  Facts
-  If every time someone shot someone with a gun, you would never have to prove that there was mensa rea, because if assault with a deadly weapon could be the felony then a prosecutor could always charge someone with assault with a deadly weapon tand then boost that up to felony murder
+<p style="margin-left:10%; margin-right:10%;">NY has an additional requirement – ASK PROF K ABOUT THIS –</p>
 
-  So what is the rule for the merger doctrine?
+<p style="margin-left:10%; margin-right:10%;">Same as above, but with bystander E. If police officer D accidentally kills E during the robbery, is A guilty of felony murder? In NY, yes.</p>
 
-  If the felony has an assaultive nature then it merges into
+**Affirmative defense in NY:** NY has a very narrow defense; if the defendant can prove all four factors, the defendant is not guilty of felony murder. (factors a, b, c, and d).
 
-  Rule the felony-murder doctrine does not apply to felonies that are an integral part of and included in fact within the homicide
 
-  EXCEPTION
-  BUT felony-murder does apply to the felony (i.e., no merger) if the underlying offense was committed with an “independent felonious purpose”
-
-  For an armed robbery for example, when there is an
-
-  Is there another way to say this?
-
-  Felony murder does not apply to a felony if both:
-  1.	The felony is an integral part of (and included in fact within) the homicide; and
-  2.	The homicide did not result from conduct for an independent felonious purpose
-
-  Again, the idea is deterrence; the policy reason for not applying the felony murder rule to these is that if somone is going to commit murder we cant make them more careful, but if someone is going to commit robbery and kills someone.
-
-  Does felony murder rule apply to…
-  Robbery – yes
-  Burglary – breaking and entering with intent to assault with a deadly weapon – no because intent to assault
-  Burglary second degree – breaking and entering with intent to steal – yes you can apply felony murder to this
-
-  This is because the core of the policy is deterrence; so second degree
-
-  Discharging a weapon
-  Sth else
-
-  Child abuse of assaultive nature? – it does not apply
-  Because assault is an integral part of the felony
-
-  Jurisdictions apply both inherently dangerous rule and
-
-
-  Next class: res gestae doctrine – not a case – state v sophophone –
-
-  Limits on Felonies for the felony-murder rule:
-  1.	Inherently dangerous felony limitation (fact v abstract)
-  2.	Merger / independent felony
-
-  Res gestae doctrine:
-
-  Factors for determining whether the killing occurred during the course of the felony:
-  Time, distance, and the causal relation between the felony and the killing.
-
-  If prof K robs a bank and someone dies several days later in an accident he causes. If Prof K robs a bank and an hour later someone dies in an accident he causes. If he sees the police and is driving away and that’s when he had the accident
-
-  What fatal act performed by somoen besides the defendant beig charged
-
-  Different jurisdictions take different approaches when the defendant did not actually do thekilling
-  1.	Agency approach – any killing by the felons is implicated to their co-felons. Prof K and Prof Mott robbing bank; if prof K kills someone prof Mott can also
-  2.	Proximate cause approach (p. 356)
-
-  In Sosophone case, they don’t use the proximate cause approach; they use the agency approach.
-
-  Hypo: agency theory jurisdiction
-
-  Felons A, B, C
-  Police officer D
-  If A kills police officer D during robbery, are B and C guilty of felony murder? Yes.
-
-  They are each an agent of the other so if one person does the killing, they are all guilty by agency
-
-  If D police officer kills robbers A and B during the robbery, is C guilty of felony murder? No.
-  (similar to Sosophone case)
-
-  A, B and C are felons. Police officer D bystander E.
-  If police officer D accidentally kills E during the robbery, is A guilty of felony murder? No.
-
-  NYPL sec. 125.25 subsection 3
-  Felony murder rule in NY
-
-  New York applies the proximate cause approach; are they proximate cause of death and if so, they can be convicted of felony murder.
-  A jurisdiction will apply either agency approach or proximate cause approach; a jurisdiction will not bounce back and forth.
-
-  Hypo: NY jurisdiction
-  Felons A, B Cc
-  Police officer D
-  If D police officer kills robbers A and B during he robbery, is C guilty of felony murder? Yes
-
-  NY has an additional requirement – ASK KIRCCHMEIER ABOUT THIS –
-
-  If police officer D accidetall kills E during the robbery, is A guilty of felony murder? In NY, yes
-
-  Affirmative defense: NY has a very narrow defense; if the defendant can prove all 4 factors, the d is not guilty of felony murder. (a, b, c, and d)
-
-  Affirmative defense means defendant has to prove this
-
-  RACIAl BIAS IN CRIMINAL JUSTICE SYSTEM
+RACIAl BIAS IN CRIMINAL JUSTICE SYSTEM
 
   Investigation/arrests/enforcement – police officers using deadly force disproportionally against poc. Bias can come through systemic enforcement laws, through police depts and through individuals
   Statutes (explicit and implicit) – the way statutes are written; can be written explicitly and in more implicit ways, laws that created much more severe punishments for crack cocaine than for powder cocaine; the different treatment was not justified for the way the laws were written; a lot of other laws show bias – the american exchange something write statures and give them to conservative groups who push the laws through; a lot of the laws they were involved – netflix watch Thirteenth. Criminal bias in the criminal laws
