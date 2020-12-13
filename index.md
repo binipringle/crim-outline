@@ -10,10 +10,9 @@
 
 ## Due process
 
-**Burden of proof**
+**Burden of proof** The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
 
-- The preponderance of evidence is that whoever has the burden of proof has to prove how likely or not it is.
-- In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
+**Rule:** In criminal law, the constitution in the due process clause requires that the burden be on the prosecution. Thus, guilt must be proved beyond a reasonable doubt. The burden of proof for proving guilt is much higher than the burden of proof for proving innocence.
 
 **NYPL S 25.00 Defenses; burden of proof.** (1) When a "defense, " other than an "affirmative defense, " defined by statute is raised at a trial, the people have the burden of disproving such defense beyond a reasonable doubt. (2) When a defense declared by statute to be an "affirmative defense" is raised at a trial, the defendant has the burden of establishing such defense by a preponderance of the evidence.
 
@@ -370,6 +369,16 @@ Only applies in Model Penal Code jurisdictions! Transferred intent is built into
 
 <p style="margin-left:10%; margin-right:10%;"><b>Note:</b> The Court finds that Maryland’s rape statute omits mens rea in (a)(3) by legislative design, because it includes mens rea in (a)(2) of the statute.</p>
 
+**Strict liability IRAC from Oil on the Tracks**
+
+<p style="margin-left:3%; margin-right:10%;">R: Mens rea is the mental ingredient of any crime. Because the burden of proof is usually on the prosecution (with the exception of affirmative defenses), the prosecution generally wants low mens rea while the defense wants high mens rea to make it harder for the prosecution to prove.</p>
+<p style="margin-left:3%; margin-right:10%;">A:</p>
+<p style="margin-left:5%; margin-right:10%;">I: Where the mens rea element of a statute is not clear on its face, we interpret the statute to determine legislative intent.</p>
+<p style="margin-left:5%; margin-right:10%;">R: Under NY law, when a statue contains no mens rea, courts consider strict liability factors when determining whether the legislature intended that the statute contain mens rea or be a strict liability crime. Under NY law, no mens rea is required if the offense (1) is a public welfare offense; (2) has a standard that is reasonable and proper to expect people to follow; (3) the penalty is relatively small; or (4) the crime does not carry a heavy stigma.</p>
+<p style="margin-left:5%; margin-right:10%;">A: Here, there is no mens rea requirement for the offense of littering on the railroad tracks because there is no mens rea in the statute. Here, the littering on the railroad tracks offense is (1) a public welfare offense because the railroad is a public system of railway tracks. Here, the standard of requiring that people not throw, dump or place on the railroad tracks any refuse, trash, garbage, rubbish, litter or any nauseous or offensive matter is (2) a reasonable and proper standard to expect people to follow.</p>
+<p style="margin-left:5%; margin-right:10%;">C: Therefore, a court will likely find that there is no mens rea requirement for the littering on the railroad tracks offense because littering on the railroad tracks is a public offense and has a standard that is reasonable and proper to expect people to follow. The defense will likely argue that mens rea should be read into the statute because although the penalty is relatively small, the crime still carries a stigma because there is a penalty.</p>
+<p style="margin-left:3%; margin-right:10%;">C: Therefore, the prosecution has a prima facie case against Eileen for littering on the railroad tracks, where she threw a garbage bag containing 10 different quart-sized cans and bottles full of old oil over the bridge and onto the railroad tracks without looking.</p>
+
 ## Mistake of Fact
 
 **Common Law Mistake of Fact**
@@ -532,6 +541,8 @@ Under this specific situation, if the defendant was a substantial factor in brin
 
 **Coincidental/responsive test: steps:** If there was an intervening cause, analyze the chain of causation.
 
+**Rule** A coincidental intervening cause is something that would have happened anyway. A coincidental intervening cause will break the chain of causation if it was unforeseeable. If the chain of causation is broken, the defendant’s act is not a proximate cause of the resulting harm.
+
 1. identify intervening causes
 2. determine whether each intervening cause is coincidental or responsive in relation to defendant’s act(s).
 3. then,
@@ -543,6 +554,8 @@ Under this specific situation, if the defendant was a substantial factor in brin
 <p style="margin-left:7%; margin-right:10%;"><b>Reasonable foreseeability:</b> An intervening cause supersedes if the intervening cause was foreseeable based on an objective standard of reasonableness.</p>
 
 **Responsive intervening cause:** Causes that happen in response to the defendant’s conduct.
+
+**Rule:** A responsive intervening cause is something that happens in response to the defendant’s conduct. A responsive intervening cause will break the chain of causation if it was unforeseeable and abnormal.
 
 <p style="margin-left:7%; margin-right:10%;"><b>First step of analysis:</b> Was the responsive intervening cause unforeseeable and abnormal?</p>
 
@@ -950,7 +963,7 @@ The main doctrine as a starting point comes from the common law in England (Engl
 
 <p style="margin-left:10%; margin-right:10%;"><b>Justification of felony murder:</b> Main policies behind it is this idea of deterrence and of making felons more careful. Book mentions other justifications; could make a retributive argument that people are more deserving; but main justification is deterrence; consistent with thus being so punitive in this area. To summarize, main justifications are (1) Deterrence of committing felony in the first place; (2) the idea is that if someone does decide to do a felony they will be more careful.</p>
 
-In New York, felony murder is in the second degree murder statute.
+In New York, felony murder is in the second degree murder statute. **Under NYPL, the victim in a felony murder cannot be a co-felon under the second-degree murder statute.**
 
 **New York Penal Law § 125.25 Murder in the second degree** A person is guilty of murder in the second degree when: (3) Acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants; except that in any prosecution under this subdivision, in which the defendant was not the only participant in the underlying crime, <b>it is an affirmative defense that the defendant: (see full statute for defenses)
 
@@ -1090,76 +1103,37 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 **Common law:** Malice aforethought is with no provocation. In Maine, malice aforethought is in the statute, so they overlap (in NYPL, mens rea is not part of the elements of the crime in the statute, so they do not overlap at all).
 
-Dissent: Justice Powell says that this allows legislatures to write their statutes so that they can avoid putting the burden on the prosecution. Footnote 15: why does the majority (Justice White) believe its decision – permitting states to put the burden on the defendant – will allow “legislative reform?”
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Judge instructs jury that defendant must prove by preponderance of evidence the defense of self-defense. How would you argue that the burden for disproving self-defense should be on prosecutor? Because self-defense overlaps with the definition of the crime, so the burden should be on the prosecutor to prove it. </p>
 
-  What might NY have done had this case cocme out differently and the burden was on the prosecution to prove EED? If the courts putting the burdens on all the prosecutors the states might have gotten rid of lots of defenses;
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If the definition of the defense overlaps with the definition of the crime, the burden of disproving the defense rests on the prosecution.
 
-  Hypo
+**New York Burdens** See NYPL Section 25.00. SEE NYPL SECTION 35.15 Self defense.
 
-  Murder: “purposely, and with prior calculation and design, causes the death of another.”
+For defenses, focus on New York definitions, and just learn any major differences between NY and common law
 
-  Judge instructs jury that defendant must prove by preponderance of evidence the defense of self-defense
-  How would you argue that the burden for disproving self-defense should be on prosecutor?
-  Because self-defense overlaps with the definition of the crime, so the burden should be on the prosecutor to prove it
+United States v. Patterson
 
-  If the definition of the defense overlaps with the definition of the crime, the burden of disproving the defense rests on the prosecution.
+- Initial aggressor
+- Retreat doctrine
+- Castle doctrine
 
-  New York Burdens
+**Posted handout on self-defense on TWEN; way to break it down into the elements to make it clear** Whole bunch of hypos pages 522-527 DO THESE!!
 
-  See NYPL Section 25.00
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Goetz (New York 1986)</b> (four kids in subway train. Goetz entered subway car carrying a loaded gun. Kids ask him for $5. Goetz shoots them four times. Shot Canty in the chest, Allen in the back, Ramseur in the arm and left side, Cabey in the side, severing his spinal cord and resulting in paralysis and some degree of brain damage. Goetz ran away. Surrendered to the police in Concord ten days later. Stated that he believed he was going to be robbed and/or maimed, and that he intended to “murder [the four youths], to hurt them, to make them suffer as much as possible.”) (529)</p>
 
-  SEE NYPL SECTION 35.15 Self defense
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> In New York, a person is justified in using deadly force in self-defense or defense of another only if she objectively and reasonably believes an attacker is either (1) using or about to use deadly force or (2) committing or attempting to commit a kidnapping, forcible rape, forcible sodomy, or robbery.
 
-  For defenses, focus on New York definitions, and just learn any major differences between NY and common law
+<p style="margin-left:7%; margin-right:10%;"><b>Reasoning:</b> Because Goetz stated that he believed he was going to be maimed and/or robbed, the prosecution charged the justification defense. A grand juror asked for clarification on “reasonably believes.” The prosecutor responded by instructing the jurors to determine “whether the defendant’s conduct was that of a reasonable man in the defendant’s situation.” (530) The prosecutor’s use of “a reasonable man” was the grounds for dismissal. Because Section 35.15 says “he reasonably believes” the test should be “reasonable to him” not to a reasonable man.</p>
 
-  I WAS REALLY TIRED AND I HAD A REALLY HARD TIME FOLLOWING – I NEED TO GO BACK AND WATCH THE VIDEO AGAIN (PROF K RECORDED IT)
+MPC drafters position was that any culpability which arises from a mistaken belief in the need to use [deadly] force should be no greater than the culpability such a mistake would give rise to if it were made with respect to an element of a crime. (531). Under **MPC Section 3.04**, if a person mistakenly believed that they were justified in using deadly force, if the belief were recklessly or negligently formed, the person could be convicted of the homicide requiring only a reckless or negligent mens rea. (531)  MPC test is wholly subjective; differed from law in most states by its omission of any requirement of reasonableness. (531)
 
-  United States v. Patterson
+**NYPL Section 35.15** chose to use a single statutory section which would provide either a complete defense or no defense. **Drafters of NYPL crucially inserted word “reasonably” before “believes.”** (531) Plurality agreed that drafters of NYPL 35.15 evinced a legislative intent to conform to the subjective standard in MPC. However, the Court of Appeals finds that if this had been their intent, drafters of NYPL 35.15 would have simply used the language from MPC 3.04.
 
-  Initial aggressor
-  Retreat doctrine
-  Castle doctrine
+**RULE:** In a justification of self-defense, an objective standard of reasonableness must be based on the “circumstances” facing a defendant or his “situation,” including any relevant knowledge the defendant had about the potential assailant, the physical attributes of all persons involved, any prior experiences the defendant had which could provide a reasonable basis for a belief that another person’s intentions were to injure or rob him or that the use of deadly force was necessary under the circumstances. (532)
 
-  Posted handout on self-defense on TWEN; way to break it down into the elements to make it clear
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If Prof K were paranoid about Prof M shooting him, and Prof M pulled out a toy gun and he freaked out and killed her. </p>
 
-  NYPL section 35.15
-  See handout on TWEN!!!
-
-  Whole bunch of hypos pages 522-527 DO THESE!!
-
-  People v. Goetz | Court of Appeals of New York 1986
-
-  Four kids in subway train. Goetz entered subway car carrying a loaded gun. Kids ask him for $5. Goetz shoots them four times. Shot Canty in the chest, Allen in the back, Ramseur in the arm and left side, Cabey in the side, severing his spinal cord and resulting in paralysis and some degree of brain damage. Goetz ran away. Surrendered to the police in Concord ten days later. Stated that he believed he was going to be robbed and/or maimed, and that he intended to “murder [the four youths], to hurt them, to make them suffer as much as possible.” (529)
-
-  Grand jury indictment: four charges of attempted murder, four charges of assault in the first degree, one charge of reckless endangerment in the first degree, and one charge of criminal possession of a weapon in the second degree. (529)
-  Goetz moved to dismiss the charges alleging that the prosecutors’ instructions to that grand jury on the defense of justification were erroneous. The trial court granted Goetz’s motion, holding that the prosecutor “had erroneously introduced an objective element into this defense by instructing the grand jurors to consider whether Goetz’s conduct was that of ‘a reasonable man in [Goetz’s] situation.’”
-  The court concluded that the statutory test for whether the use of deadly force is justified to protect a person should be “wholly subjective.” (529) The court concluded that dismissal was required for this error because “the justification was at the heart of the case.”
-  A divided appellate court affirmed the dismissal of the charges.
-
-  Because Goetz stated that he believed he was going to be maimed and/or robbed, the prosecution charged the justification defense.
-
-  A grand juror asked for clarification on “reasonably believes.” The prosecutor responded by instructing the jurors to determine “whether the defendant’s conduct was that of a reasonable man in the defendant’s situation.” (530) The prosecutor’s use of “a reasonable man” was the grounds for dismissal. Because Section 35.15 says “he reasonably believes” the test should be “reasonable to him” not to a reasonable man.
-
-  NYPL Section 35 – from MPC 3.04 but not verbatim
-
-  MPC drafters position was that any culpability which arises from a mistaken belief in the need to use [deadly] force should be no greater than the culpability such a mistake would give rise to if it were made with respect to an element of a crime. (531)
-  Under the MPC, if a person mistakenly believed that they were justified in using deadly force, if the belief were recklessly or negligently formed, the person could be convicted of the homicide requiring only a reckless or negligent mens rea. (531)
-  MPC test is wholly subjective; differed from law in most states by its omission of any requirement of reasonableness. (531)
-
-  NYPL Section 35.15 chose to use a single statutory section which would provide either a complete defense or no defense. Drafters of NYPL crucially inserted word “reasonably” before “believes.” (531)
-
-  Plurality agreed that drafters of NYPL 35.15 evinced a legislative intent to conform to the subjective standard in MPC. However, the Court of Appeals finds that if this had been their intent, drafters of NYPL 35.15 would have simply used the language from MPC 3.04.
-
-  Question for Prof K: what is an objective element? Is it the reasonable man as opposed to the subjective reasonableness of a defendant (i.e. the defendant’s belief that what they were doing was reasonable?
-
-  RULE: In a justification of self-defense, an objective standard of reasonableness must be based on the “circumstances” facing a defendant or his “situation,” including any relevant knowledge the defendant had about the potential assailant, the physical attributes of all persons involved, any prior experiences the defendant had which could provide a reasonable basis for a belief that another person’s intentions were to injure or rob him or that the use of deadly force was necessary under the circumstances. (532)
-
-  Judgement: order of Appellate Division reversed, dismissed counts of the indictment reinstated.
-
-If Prof K were paranoid about Prof M shooting him, and Prof M pulled out a toy gun and he freaked out and killed her.
-
-  S 35.00 Justification; a defense.
-    In any prosecution for an offense, justification, as defined in sections 35.05 through 35.30, is a defense.
+**NYPL S 35.00 Justification; a defense.** In any prosecution for an offense, justification, as defined in sections 35.05 through 35.30, is a defense.
 
   S 35.15 Justification; use of physical force in defense of a person.
     1.  A  person  may,  subject to the provisions of subdivision two, use physical force upon another person when and to  the  extent  he  or  she reasonably believes such to be necessary to defend himself, herself or a third  person  from  what he or she reasonably believes to be the use or imminent use of unlawful physical force by such other person, unless: (a) The latter's conduct was provoked by  the  actor  with  intent  to cause physical injury to another person; or
@@ -1533,9 +1507,32 @@ Suppose somebody comes along and sees prof mott is threatening to use unlawful f
 
   Someone might break a trespassing law to protest a nuclear power plant; they are not saying that the trespassing law is bad; they are breaking it to raise awareness of danger of nuclear power plant
 
-  In civil disobedience note that NY has a provision in 35.05 “the necessity andjustifiability of such conduct may not rest upon considerations, pertaining only to the morality and adviseablity of the … app to a part.
+  In civil disobedience note that NY has a provision in 35.05 “the necessity and justifiability of such conduct may not rest upon considerations, pertaining only to the morality and adviseablity of the … app to a part.
 
   So NY has a provision that says you cannot use necessity defense in the case that you are protesting the statute or law itself. Why? Because the idea is that if you want the law changed you should go through the political process as opposed to breaking the laws to protest. This is often not feasible because you want to bring attention to the law.
+
+  S 35.05 Justification; generally.
+  Unless otherwise limited by the ensuing provisions of this article
+defining justifiable use of physical force, conduct which would
+otherwise constitute an offense is justifiable and not criminal when:
+  1. Such conduct is required or authorized by law or by a judicial
+decree, or is performed by a public servant in the reasonable exercise
+of his official powers, duties or functions; or
+  2. Such conduct is necessary as an emergency measure to avoid an
+imminent public or private injury which is about to occur by reason of a
+situation occasioned or developed through no fault of the actor, and
+which is of such gravity that, according to ordinary standards of
+intelligence and morality, the desirability and urgency of avoiding such
+injury clearly outweigh the desirability of avoiding the injury sought
+to be prevented by the statute defining the offense in issue.  The
+necessity and justifiability of such conduct may not rest upon
+considerations pertaining only to the morality and advisability of the
+statute, either in its general application or with respect to its
+application to a particular class of cases arising thereunder. Whenever
+evidence relating to the defense of justification under this subdivision
+is offered by the defendant, the court shall rule as a matter of law
+whether the claimed facts and circumstances would, if established,
+constitute a defense.
 
   Necessity and Duress
 
