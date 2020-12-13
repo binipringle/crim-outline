@@ -1095,9 +1095,9 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 <p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under NYS law, if the prosecution can prove beyond reasonable doubt (1) the death, (2) the intent to kill, and (3) causation, then the burden of proving the defense of extreme emotional disturbance with a preponderance of evidence rests upon the defendant. The affirmative defense of extreme emotional disturbance does not negate any facts of the crime.</p>
 
-**Burden of production:** who has to initially bring an issue before the court; to raise a defense; for example, we’ve talked about heat of passion and EED; these are not addressed in every single murder case; burden is a small burden but burden is to get the court to talk about an issue; sometimes called a burden of going forward with the issue; whoever has this burden has the burden to provide at least more than a scintilla of evidence that there was there is enough evidence to go forward with this.
+**Burden of production:** The burden of production is a small burden to get the court to talk about an issue. Sometimes it is called a burden of going forward with the issue. Whoever has this burden has the burden to provide at least more than a scintilla of evidence that there was there is enough evidence to go forward with this.
 
-**Burden of persuasion:** is the burden of convincing the fact finder that this may be true. Two questions: what is the burden, and who has the burden? What is the legislature doing, and what is the constitution doing?
+**Burden of persuasion:** The burden of persuasion is the burden of convincing the fact finder that something may be true. The questions here are (1) what is the burden, and (2) who has the burden. In other words, what is the legislature doing, and what is the constitution doing?
 
 **Extreme emotional disturbance** defense to Second Degree Murder (NYPL) "(1) Intent to cause death of another person; (2) Causing death of such person or of a third person. Defense: acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse.
 
@@ -1105,7 +1105,7 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Judge instructs jury that defendant must prove by preponderance of evidence the defense of self-defense. How would you argue that the burden for disproving self-defense should be on prosecutor? Because self-defense overlaps with the definition of the crime, so the burden should be on the prosecutor to prove it. </p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If the definition of the defense overlaps with the definition of the crime, the burden of disproving the defense rests on the prosecution.
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If the definition of the defense overlaps with the definition of the crime, the burden of disproving the defense rests on the prosecution.</p>
 
 **New York Burdens** See NYPL Section 25.00. SEE NYPL SECTION 35.15 Self defense.
 
@@ -1116,6 +1116,25 @@ United States v. Patterson
 - Initial aggressor
 - Retreat doctrine
 - Castle doctrine
+
+## A. Justification Defenses
+
+Self-defense (NYPL § 35.15)
+
+Defense of Others (NYPL §35.15)
+
+**Necessity (NYPL § 35.05 (2))**
+
+**Defense of necessity IRAC from Alicia and the Plastic Factory**
+
+<p style="margin-left:3%; margin-right:10%;">I: The defense would likely raise the defense of necessity to the charge of arson in the first degree.</p>
+<p style="margin-left:3%; margin-right:10%;">R: A necessity defense arises when an individual must choose between committing a lesser harm or allowing a greater harm to occur.  Some jurisdictions limit necessity to circumstances arising from a “non-human condition” (like a natural disaster), while disallowing it in man-made cases (such as a runaway truck). Some jurisdictions have also limited the availability of necessity to cases involving the protection of persons or property. Under NYPL Section 35.05, conduct which would otherwise constitute an offense is justifiable and not criminal when this conduct is necessary as an emergency measure to avoid an imminent public or private injury which is about to occur by reason of a situation occasioned or developed through no fault of the actor, and which is of such gravity that, according to ordinary standards of intelligence and morality, the desirability and urgency of avoiding such injury clearly outweigh the desirability of avoiding the injury sought to be prevented by the statute defining the offense in issue.</p>  
+<p style="margin-left:3%; margin-right:10%;">A: Here, the defense would argue that Alicia believed that the toxic smoke from her fire would warn nearby people about the dangers of the public injury of 8 million metric tons of plastic entering the ocean every year and harming human water supply system. The prosecution would argue that the danger of plastics harming human water supply systems is a long-term problem and not about to occur, hence the desirability and urgency of avoiding this injury does not outweigh the injury of destroying one wall of the McGuire Plastics plastic manufacturing plant by fire. The defense would likely argue that Alicia reasonably believed that there was an imminent threat to the water supply. In New York, if you are not reasonable you do not have self-defense for any crime. However, precedent in New York State v. Goetz shows that a comparison of NYPL with the MPC can have some influence on statutory interpretation. Under the MPC, if the belief is unreasonable, the mens rea requirement can be reduced to negligence or recklessness. The defense in Goetz was that he had the subjective belief that he was in imminent danger; under the MPC, if the jury believed that Goetz really believed that he was in danger, but his belief was unreasonable, he could be convicted of negligence or recklessness instead of a crime, such as arson, that requires a higher mens rea.</p>
+<p style="margin-left:3%; margin-right:10%;">C: Therefore, Alicia may have a defense of necessity for arson in the first degree.</p>
+
+## B.Excuse Defenses
+
+Duress (NYPL § 40.00)
 
 **Posted handout on self-defense on TWEN; way to break it down into the elements to make it clear** Whole bunch of hypos pages 522-527 DO THESE!!
 
