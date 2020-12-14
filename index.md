@@ -1091,965 +1091,408 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 ## A. Justification Defenses
 
+MPC drafters position was that any culpability which arises from a mistaken belief in the need to use [deadly] force should be no greater than the culpability such a mistake would give rise to if it were made with respect to an element of a crime. Under **MPC Section 3.04**, if a person mistakenly believed that they were justified in using deadly force, if the belief were recklessly or negligently formed, the person could be convicted of the homicide requiring only a reckless or negligent mens rea.  MPC test is wholly subjective; differed from law in most states by its omission of any requirement of reasonableness. **NYPL Section 35.15** chose to use a single statutory section which would provide either a complete defense or no defense. **Drafters of NYPL crucially inserted word “reasonably” before “believes.”** Plurality agreed that drafters of NYPL 35.15 evinced a legislative intent to conform to the subjective standard in MPC. However, the Court of Appeals finds that if this had been their intent, drafters of NYPL 35.15 would have simply used the language from MPC 3.04.
 
+**Self-defense rule:** In a justification of self-defense, an objective standard of reasonableness must be based on the “circumstances” facing a defendant or his “situation,” including any relevant knowledge the defendant had about the potential assailant, the physical attributes of all persons involved, any prior experiences the defendant had which could provide a reasonable basis for a belief that another person’s intentions were to injure or rob him or that the use of deadly force was necessary under the circumstances. (532)
 
-Self-defense (NYPL § 35.15)
+**Self-defense and defense of others: NYPL Section 35.15 Justification; use of physical force in defense of a person.** (1) A person may, subject to the provisions of subdivision two, use physical force upon another person when and to the extent he or she reasonably believes such to be necessary to defend himself, herself or a third person from what he or she reasonably believes to be the use or imminent use of unlawful physical force by such other person, unless: (a) The latter's conduct was provoked by the actor with intent to cause physical injury to another person; or (b) The actor was the initial aggressor; except that in such case the use of physical force is nevertheless justifiable if the actor has withdrawn from the encounter and effectively communicated such withdrawal to such other person but the latter persists in continuing the incident by the use or threatened imminent use of unlawful physical force; or (c) The physical force involved is the product of a combat by agreement not specifically authorized by law. (2) A person may not use deadly physical force upon another person under circumstances specified in subdivision one unless: (a) The actor reasonably believes that such other person is using or about to use deadly physical force. Even in such case, however, the actor may not use deadly physical force if he or she knows that with complete personal safety, to oneself and others he or she may avoid the necessity of so doing by retreating; except that the actor is under no duty to retreat if he or she is: (i) in his or her dwelling and not the initial aggressor; or (ii) a police officer or peace officer or a person assisting a police officer or a peace officer at the latter's direction, acting pursuant to section 35.30; or (b) He or she reasonably believes that such other person is committing or attempting to commit a kidnapping, forcible rape, forcible criminal sexual act or robbery; or (c) He or she reasonably believes that such other person is committing or attempting to commit a burglary, and the circumstances are such that the use of deadly physical force is authorized by subdivision three of section 35.20.
 
-Defense of Others (NYPL §35.15)
-
-**Necessity (NYPL § 35.05 (2))**
-
-**Under NYPL Section 35.05**, conduct which would otherwise constitute an offense is justifiable and not criminal when this conduct is necessary as an emergency measure to avoid an imminent public or private injury which is about to occur by reason of a situation occasioned or developed through no fault of the actor, and which is of such gravity that, according to ordinary standards of intelligence and morality, the desirability and urgency of avoiding such injury clearly outweigh the desirability of avoiding the injury sought to be prevented by the statute defining the offense in issue.
-
-## B.Excuse Defenses
-
-Duress (NYPL § 40.00)
-
-**Posted handout on self-defense on TWEN; way to break it down into the elements to make it clear** Whole bunch of hypos pages 522-527 DO THESE!!
+**Necessity (NYPL § 35.05 (2))** Under NYPL Section 35.05, conduct which would otherwise constitute an offense is justifiable and not criminal when this conduct is necessary as an emergency measure to avoid an imminent public or private injury which is about to occur by reason of a situation occasioned or developed through no fault of the actor, and which is of such gravity that, according to ordinary standards of intelligence and morality, the desirability and urgency of avoiding such injury clearly outweigh the desirability of avoiding the injury sought to be prevented by the statute defining the offense in issue.
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Goetz (New York 1986)</b> (four kids in subway train. Goetz entered subway car carrying a loaded gun. Kids ask him for $5. Goetz shoots them four times. Shot Canty in the chest, Allen in the back, Ramseur in the arm and left side, Cabey in the side, severing his spinal cord and resulting in paralysis and some degree of brain damage. Goetz ran away. Surrendered to the police in Concord ten days later. Stated that he believed he was going to be robbed and/or maimed, and that he intended to “murder [the four youths], to hurt them, to make them suffer as much as possible.”) (529)</p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> In New York, a person is justified in using deadly force in self-defense or defense of another only if she objectively and reasonably believes an attacker is either (1) using or about to use deadly force or (2) committing or attempting to commit a kidnapping, forcible rape, forcible sodomy, or robbery.
 
-<p style="margin-left:7%; margin-right:10%;"><b>Reasoning:</b> Because Goetz stated that he believed he was going to be maimed and/or robbed, the prosecution charged the justification defense. A grand juror asked for clarification on “reasonably believes.” The prosecutor responded by instructing the jurors to determine “whether the defendant’s conduct was that of a reasonable man in the defendant’s situation.” (530) The prosecutor’s use of “a reasonable man” was the grounds for dismissal. Because Section 35.15 says “he reasonably believes” the test should be “reasonable to him” not to a reasonable man.</p>
-
-MPC drafters position was that any culpability which arises from a mistaken belief in the need to use [deadly] force should be no greater than the culpability such a mistake would give rise to if it were made with respect to an element of a crime. (531). Under **MPC Section 3.04**, if a person mistakenly believed that they were justified in using deadly force, if the belief were recklessly or negligently formed, the person could be convicted of the homicide requiring only a reckless or negligent mens rea. (531)  MPC test is wholly subjective; differed from law in most states by its omission of any requirement of reasonableness. (531)
-
-**NYPL Section 35.15** chose to use a single statutory section which would provide either a complete defense or no defense. **Drafters of NYPL crucially inserted word “reasonably” before “believes.”** (531) Plurality agreed that drafters of NYPL 35.15 evinced a legislative intent to conform to the subjective standard in MPC. However, the Court of Appeals finds that if this had been their intent, drafters of NYPL 35.15 would have simply used the language from MPC 3.04.
-
-**RULE:** In a justification of self-defense, an objective standard of reasonableness must be based on the “circumstances” facing a defendant or his “situation,” including any relevant knowledge the defendant had about the potential assailant, the physical attributes of all persons involved, any prior experiences the defendant had which could provide a reasonable basis for a belief that another person’s intentions were to injure or rob him or that the use of deadly force was necessary under the circumstances. (532)
+<p style="margin-left:7%; margin-right:10%;"><b>Reasoning:</b> Because Goetz stated that he believed he was going to be maimed and/or robbed, the prosecution charged the justification defense. A grand juror asked for clarification on “reasonably believes.” The prosecutor responded by instructing the jurors to determine “whether the defendant’s conduct was that of a reasonable man in the defendant’s situation.” (530) The prosecutor’s use of “a reasonable man” was the grounds for dismissal. Because Section 35.15 says “he reasonably believes” the test should be “reasonable to him” not to a reasonable man. Goetz’s defense was that he had the subjective belief that he was in imminent danger; the defense said that under MPC – if the jury believed that goestz really believed that he was in danger but his belief was unreasonable, he could be convicted of negligence In NY if you are not reasonable you do not have self-defense, period. If you are not reasonable you do not have self defense for any crime. Under MPC if the belief is unreasonable the mens rea requirement can be reduced to negligence or recklessness. The court in Goetz says it is a reasonable person standard because the statute has reasonably believes. Goetz’s lawyer is arguing that since the statute does not say that it is a reasonable person, but a person who reasonably believes, Goetz is not being held to the standard of a reasonable person (by objective standards of reasonableness) Goetz’s defense is that past experience, physical characteristics. What were the jurors thinking – we don’t really know – maybe saying that he was more out of his mind than acting in self defense </p>
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If Prof K were paranoid about Prof M shooting him, and Prof M pulled out a toy gun and he freaked out and killed her. </p>
 
-**NYPL S 35.00 Justification; a defense.** In any prosecution for an offense, justification, as defined in sections 35.05 through 35.30, is a defense.
+**State v. Wanrow (Washington 1977)** (Native American woman, child molester neighbor)
 
-  S 35.15 Justification; use of physical force in defense of a person.
-    1.  A  person  may,  subject to the provisions of subdivision two, use physical force upon another person when and to  the  extent  he  or  she reasonably believes such to be necessary to defend himself, herself or a third  person  from  what he or she reasonably believes to be the use or imminent use of unlawful physical force by such other person, unless: (a) The latter's conduct was provoked by  the  actor  with  intent  to cause physical injury to another person; or
-    (b)  The actor was the initial aggressor; except that in such case the use of physical force is  nevertheless  justifiable  if  the  actor  has withdrawn   from   the   encounter  and  effectively  communicated  such withdrawal to such other person but the latter  persists  in  continuing
-  the  incident by the use or threatened imminent use of unlawful physical force; or  (c) The physical  force  involved  is  the  product  of  a  combat  by agreement not specifically authorized by law.
-    2.  A  person  may  not  use deadly physical force upon another person under circumstances specified in subdivision one unless: (a) The actor reasonably believes that such other person is  using  or about  to  use  deadly  physical  force. Even in such case, however, the actor may not use deadly physical force if he or  she  knows  that  with complete  personal safety, to oneself and others he or she may avoid the necessity of so doing by retreating; except that the actor is  under  no duty to retreat if he or she is:
-(i) in his or her dwelling and not the initial aggressor; or
-(ii) a police officer or peace officer or a person assisting a police officer or a peace officer at the latter's direction, acting pursuant to section 35.30; or
-    (b) He or she reasonably believes that such other person is committing or attempting to commit a kidnapping, forcible rape,  forcible  criminal sexual act or robbery; or (c) He or she reasonably believes that such other person is committing or  attempting to commit a burglary, and the circumstances are such that the use of deadly physical force is authorized by subdivision three of section 35.20.
+**RULE:** the justification of self-defense is to be evaluated in light of all circumstances known to the defendant, including those know substantially before the killing.
 
-  Goetz’s defense was that he had the subjective belief that he was in imminent danger; the defense said that under MPC – if the jury believed that goestz really believed that he was in danger but his belief was unreasonable, he could be convicted of negligence
+**Facts:** Yvonne Wanrow convicted of second degree murder. Wanrow’s two children were staying with Ms. Hooper. Months before, Hooper’s 7 year old daughter had got a venereal disease but had not told her mother who had raped her. Wanrow’s son came in and said a man had tried to pull him off bike and take him into a house. Minutes later William Wesler, who was probably mentally ill, appeared on the porch and said through the door I didn’t touch the kid, I didn’t touch the kid. Hooper’s daughter saw Wesler and told her mother that was the man who had molested her. Hooper’s landlord saw Wesler leaving and told Hooper that Wesler had tried to molest a boy who used to live in her house. Hooper called the police. Police said they couldn’t arrest Wesler until Monday morning. Fah suggested Hooper get a baseball bat. Cop said yes but wait until he gets into the house before you hit him with it. Two days before the shooting someone had tried to get into Hooper’s bedroom and slashed the window screen. Hooper called Wanrow and told her what was up and asked her to stay the night. Wanrow’s sister and brother-in law Chuck Michel also went to stay over. 4 adults 8 children. Did not sleep. At 5 AM Michel went to Wesler’s house and accused him off molesting children, then brought him back to Hooper’s house and let him in. Not good. Wanrow went to the door looking for Michel. Turned around, saw Wesler, and shot him. Wanrow convicted of second-degree murder. In appeal, asks for charges to be dismissed because of jury was erroneously instructed to consider only those acts and circumstances occurring “at or immediately before the killing.” (544). Judgement: Conviction reversed, case remanded for a new trial. Notes from class: it could factor in that Wanrow knew that the decedent was dangerous to children; reasonable woman in this situation a woman knowing the decedent’s history
 
-  In NY if you are not reasonable you do not have self-defense, period. If you are not reasonable ou do not have self defense for any crime.
+**Notes:** Objective standard, but allowed the jury to consider a person who knew what she knew in the circumstances. On page 545 the court refers to the jury instruction where the jury was to factor in not only the circumstances of the crime but also that the jury should bring in considerations of the d’s perceptions which “were the product of our nation’s ‘long and ….” – is the court trying to introduce a reasonable woman standard? And is this standard fair or does it ocnsisst in a higher standard for women? Reasonable person. What does the court hold about time? About a person’s gender? About wanrow’s native American culture? The court rejected that her native American identity. Question is could she use the force as she knew the circumstances; where her experience factors in is how much force can she use that would be reasonable; it would affect the amound of force she would be able to use, but wouldn’t necessarily change what she can reasonably do. The jury would make these detrminations of reasonableness
 
-  Under MPC if the belief is unreasonable the mens rea requirement can be reduced to negligence or recklessness
+**State v. Norman (North Carolina, 1988)** (JT Norman physically and psychologically abused his wife and forced her to prostitute herself every day. On the day he died he had been beating his wife all day. His wife Norman went to her mother’s house, got a gun, returned to her house, loaded the gun and shot him twice in the head while he slept.)
 
-  The court in Goetz says it is a reasonable person standard because the statute has reasonably believes. Goetz’s lawyer is arguing that since the statute does not say that it is a reasonable person, but a person who reasonably believes, Goetz is not being held to the standard of a reasonable person (by objective standards of reasonablementss)
+**RULE:** With the battered spouse there can be, under certain circumstances, killing of a passive victim that does not preclude the defense of self-defense. (555) To determine whether a homicide was self-defense, both subjective and objective standards are to be applied, including the inability of a defendant to withdraw from the hostile situation and the vulnerability of a defendant. (554)
 
-  Goetz’s defense is that past experience, physical characteristics
+**Holding:** Self-defense admitted. “The defendant’s act was not without the provocation required for … self-defense [and] the defendant did not use more force than reasonably appeared necessary to her under the circumstances to protect herself from death or great bodily harm” (555)
 
-  What was the jury thinking
+**State v. Norman (North Carolina, 1989) (A year later)** (Court of Appeals granted new trial citing as evidence of the trial court’s refusal to submit a possible verdict of acquittal by reason of self-defense. Judgment: reversed)
 
-  What were the jurors thinking – we don’t really know – maybe saying that he was more out of his mind than acting in self defense
+**RULE:** Even when there is BWS, an actual attack or threat of attack by the husband at the moment the wife uses deadly force is required to justify self-defense.
 
-  State v Wanrow
+**Reasoning:** The Court finds that the evidence of BWS does not support a finding that the D killed her husband “due to a reasonable fear of imminent death or great bodily harm, as is required before a defendant is entitled to jury instructions concerning self-defense.” Court found that (1)	Evidence showed that the threat was not imminent (“All” of the evidence showed that the D had “ample time and opportunity to resort to other means of preventing further abuse of her husband.”); (2) D’s “speculative beliefs concerning her remote and indefinite future” showed that she did not believe threat was imminent (556-7); (3) As a matter of policy, if a person who kills their spouse without immediate provocation can recourse to the defense of self-defense, women would kill their husbands all the time. (556-7)
 
+**Battered spouse defense is not a defense;** the defense attorneys took bsd and took the self-defense defense and used it with the expert testimony to support the claim that she reasonably believed that her husband posed an imminent deadly threat to her person. There was enough for the jury to weigh the expert testimony to derernmine if she reasonabley believed that threat was imminent.
 
+**Note:** Attorneys often prefer to try to make an argument under self-defense because EED is a partial defense – it would just reduce the crime to manslaughter. Another reason is that self-defense is a justification defense; the burden of proof is on the prosecution; because saying someone is justified is given more weight than if you are saying someone is excused; a policy reason for trying to make the argument for … There are still critiques of this defense from other perspectives – the successful woman as opposed to the a victim – scholars have argued that – in some ways its progressive to bring up these arguments but there are also questions of who the law excludes.
 
 
-  State v. Wanrow | Supreme Court of Washington 1977
+## Self-defense (non-deadly)
 
-  Yvonne Wanrow convicted of second degree murder. Wanrow’s two children were staying with Ms. Hooper. Months before, Hooper’s 7 year old daughter had got a venereal disease but had not told her mother who had raped her. Wanrow’s son came in and said a man had tried to pull him off bike and take him into a house. Minutes later William Wesler, who was probably mentally ill, appeared on the porch and said through the door I didn’t touch the kid, I didn’t touch the kid. Hooper’s daughter saw Wesler and told her mother that was the man who had molested her. Hooper’s landlord saw Wesler leaving and told Hooper that Wesler had tried to molest a boy who used to live in her house. Hooper called the police. Police said they couldn’t arrest Wesler until Monday morning. Fah suggested Hooper get a baseball bat. Cop said yes but wait until he gets into the house before you hit him with it. Two days before the shooting someone had tried to get into Hooper’s bedroom and slashed the window screen. Hooper called Wanrow and told her what was up and asked her to stay the night.
+Person may “use physical force upon another person when and to extent he or she reasonably believes”: (1) Such to be necessary to defend self or third person … (2) From use or imminent use of unlawful physical force by the other person
 
-  Wanrow’s sister and brother-in law Chuck Michel also went to stay over. 4 adults 8 children. Did not sleep. At 5 AM Michel went to Wesler’s house and accused him off molesting children, then brought him back to Hooper’s house and let him in. Not good. Wanrow went to the door looking for Michel. Turned around, saw Wesler, and shot him.
+**Hypo:** If prof K on busy street and prof Mott next to him and he pushes prof mott into street with a light push and she is hit by a car then…
 
-  Wanrow convicted of second-degree murder. In appeal, asks for charges to be dismissed because of jury was erroneously instructed to consider only those acts and circumstances occurring “at or immediately before the killing.” (544).
+**Exception:** no self-defense where (a) Other person was provoked by the D with intent to cause physical injury to another; or (b) D was the initial aggressor; (i) However, initial aggressor may use defense if has withdrawn and effectively communicated that withdrew… (see slide) ... Same as previous bbut also “the actor reasonably believes that other person is using or about to use deadly force; or (see slide)
 
-  RULE: the justification of self-defense is to be evaluated in light of all circumstances known to the defendant, including those know substantially before the killing.
+**Exceptions to 1:** Retreat doctrine (see slide); castle doctrine (see slide for rule)
 
-  Judgement: Conviction reversed, case remanded for a new trial.
+**Hypo:** Carl passed out, woke up, found David in bed with wife; Carl lunged at him with knife; David shot Carl. Self-defense.
 
-  Notes from class: it could factor in that Wanrow knew that the decedent was dangerous to children; reasonable woman in this situation a woman knowing the decedent’s history
+**Hypo:** Note 3 page 523 Jim throws a punch at Frank. Frank pulls a gun on Jim. Jim pulls out his gun and shoots Frank. Self-defense? Difficulty here is that although Jim was the initial aggressor, he used non-deadly force. When Frank pulled out the gun it escalated to deadly force so there’s a new crime now so Jim would be able to use self-defense. Tricky because statute says you do not have self-defense if you are the initial aggressor. The answer is maybe, it depends. A question is are the police allowed to use disproportionate deadly force.
 
-  Objective standard, but allowed the jury to consider a person who knew what she knew in the circumstances
-  On page 545 the court refers to the jury instruction where the jury was to factor in not only the circumstances of the crime but also that the jury should bring in considerations of the d’s perceptions which “were the product of our nation’s ‘long and ….” – is the court trying to introduce a reasonable woman standard? And is this standard fair or does it ocnsisst in a higher standard for women?
+## Hypos & policy
 
-  State v. Wanrow: reasonable person
-  What does the court hold about time?
-  About a person’s gender?
-  About wanrow’s native American culture?
+- Withdrawal
+- Necessity
+- Retreat
+- Castle Doctrine
+- Proportionality
+- Imminency
 
-  Question is could she use the force as she knew the circumstances; where her experience factors in is how much force can she use that would be reasonable; it would affect the amound of force she would be able to use, but wouldn’t necessarily change what she can reasonably do. The jury would make these detrminations of reasonableness
+**State v. Dill (LA 1984)** (Exchange of words; d got out of car and shot decedent; Car doesn’t count for castle doctrine because car can drive away. If you can retreat with complete safety. If they could have driven away safely then thy would be required to retreat.
 
-  The court rejected that her native American identity.
+**Both MPC and NYPL use this retreat requirement**; lots of other states, such as Florida, do not have a retreat requirement. In NY it is to safeguard the sanctity of life; it is only a requirement in situations where there is deadly force; Zimmerman; Trayvon Martin. In Trayvon Martin case, initial aggressor maybe but following Trayvon might not have been an initial act. The castle exception is the exception to the retreat doctrine; the MPC 3.04.
 
+If both people live in same house and domestic violence situation neither have to retreat. Definition of dwelling is where you actually live but depends on jurisdiction; if you are a tenant of a hotel for a night you could make an argument. If somebody lightly shoves you you probably can’t use deadly force; the other requirement is that the use of deadly force is imminent; if I say I’m going to punch you tomorrow you can’t punch me today to prevent that. George Bush rule? Yeah. Would have done better if they had used this before going to war. The only way that you can know that something is imminent is if it’s about to happen.
 
-  State v. Norman | Court of Appeals of North Carolina, 1988
+**The MPC doesn’t use the word “imminent.”** It uses “immediately necessary;” if you believet he use of force is immediately necessary to prevent …
 
-  JT Norman physically and psychologically abused his wife and forced her to prostitute herself every day. On the day he died he had been beating his wife all day. His wife Norman went to her mother’s house, got a gun, returned to her house, loaded the gun and shot him twice in the head while he slept.
+**Hypo:** Page 534. Two persons speeding through the desert, one person says I’ll go up ahead and poison the well; the next day; NYPL would not see murdering the person who is going to poison the well self defense because no imminent danger; but if only chance to stop the person from poisoning the well then maybe justified; is poisoning a well deadly force?
 
-  To determine whether a homicide was self-defense, both subjective and objective standards are to be applied, including the inability of a defendant to withdraw from the hostile situation and the vulnerability of a defendant. (554)
+## Defense of others
 
-  RULE: With the battered spouse there can be, under certain circumstances, killing of a passive victim that does not preclude the defense of self-defense. (555)
+**People v. Kurr (Michigan, 2002)** (Kurr was sixteen or seventeen months pregnant. Following an argument with her boyfriend Antonio Peña, he punched her in the stomach twice. Kurr warned him not to hit her again because she was carrying his babies. Peña came towards her again and she killed him by stabbing him in the chest.)
 
-  Holding: Self-defense admitted. “The defendant’s act was not without the provocation required for … self-defense [and] the defendant did not use more force than reasonably appeared necessary to her under the circumstances to protect herself from death or great bodily harm” (555)
+**RULE:** in Michigan, the defense of others theory is admissible in cases where a D kills an aggressor to defend an unviable fetus or embryo when the D reasonably believes that the decedent is threatening death or great bodily harm to the embryo or unviable fetus.
 
-  State v. Norman | Court of Appeals of North Carolina, 1989
+**Defense of others in NYPL 35.15 subsection 2,** “third person” – in ny you can use deadly force to defend a person and you can use non-deadly force to defend a third person – so we have to look at the definition of a “person” in the penal law. If we look at homicide in section 125.25 … of NYPL – a human being is a person who was born and is alive. **Section 125.25 says definition only for this statute; MPC does exclude fetuses from definition of person.**
 
-  Court of Appeals granted new trial citing as evidence of the trial court’s refusal to submit a possible verdict of acquittal by reason of self-defense.
+**Hypo:** Suppose somebody comes along and sees prof mott is threatening to use unlawful force against prof k – third person steps in to stop her – but turns out that prof k started the fight; in ny we DON'T use the alter ego rule (BUT ANALOGIZE - say that iin other jurisdictions they look at the situation from the shoes of the person in peril); a person aiding another person only has the right of self defense to the extent that the v has the same right to self-defense of the person they are defending.
 
-  What is “natural law”? (556)
+## Alter ego rule
 
-  Self defense can be justified only by the utmost real or apparent necessity brought about by the decedent.
+**NY does not have the alter ego rule;** NY looks at what the person reasonably believes. **Policy:** If you want people to help each other, you should give them a good defense
 
-  If D killed due to a reasonable belief that death or great bodily harm was imminent can the justification for homicide be rooted in necessity. (556)
+**MPC Section 3.05. Use of Force for the Protection of Other Persons.** (1) Subject to the provisions of this Section and of Section 3.09, the use of force upon or toward the person of another is justifiable to protect a third person when: (a) the actor would be justified under Section 3.04 in using such force to protect himself against the injury he believes to be threatened to the person whom he seeks to protect; and (b) under the circumstances as the actor believes them to be, the person whom he seeks to protect would be justified in using such protective force; and (c) the actor believes that his intervention is necessary for the protection of such other person. (2) Notwithstanding Subsection (1) of this Section: (a) when the actor would be obliged under Section 3.04 to retreat, to surrender the possession of a thing or to comply with a demand before using force in self-protection, he is not obliged to do so before using force for the protection of another person, unless he knows that he can thereby secure the complete safety of such other person;  and (b) when the person whom the actor seeks to protect would be obliged under Section 3.04 to retreat, to surrender the possession of a thing or to comply with a demand if he knew that he could obtain complete safety by so doing, the actor is obliged to try to cause him to do so before using force in his protection if the actor knows that he can obtain complete safety in that way; and (c) neither the actor nor the person whom he seeks to protect is obliged to retreat when in the other's dwelling or place of work to any greater extent than in his own.
 
-  The Court finds that the evidence of BWS does not support a finding that the D killed her husband “due to a reasonable fear of imminent death or great bodily harm, as is required before a defendant is entitled to jury instructions concerning self-defense.” Court found that
-  1.	Evidence showed that the threat was not imminent
-  “All” of the evidence showed that the D had “ample time and opportunity to resort to other means of preventing further abuse of her husband.”
-  2.	D’s “speculative beliefs concerning her remote and indefinite future” showed that she did not believe threat was imminent (556-7)  
-  3.	As a matter of policy, if a person who kills their spouse without immediate provocation can recourse to the defense of self-defense, women would kill their husbands all the time. (556-7)
+**MPC Section 1.13 General Definitions.** (8) "person," "he" and "actor" include any natural person and, where relevant, a corporation or an unincorporated association;
 
-  RULE: Even when there is BWS, an actual attack or threat of attack by the husband at the moment the wife uses deadly force is required to justify self-defense.
+**MPC Section 3.04. Use of Force in Self-Protection.** (1) Use of Force Justifiable for Protection of the Person.  Subject to the provisions of this Section and of Section 3.09, the use of force upon or toward another person is justifiable when the actor believes that such force is immediately necessary for the purpose of protecting himself against the use of unlawful force by such other person on the present occasion. **(2) Limitations on Justifying Necessity for Use of Force.** (a) The use of force is not justifiable under this Section: (i) to resist an arrest which the actor knows is being made by a peace officer, although the arrest is unlawful; or (ii) to resist force used by the occupier or possessor of property or by another person on his behalf, where the actor knows that the person using the force is doing so under a claim of right to protect the property, except that this limitation shall not apply if: (1) the actor is a public officer acting in the performance of his duties or a person lawfully assisting him therein or a person making or assisting in a lawful arrest; or (2) the actor has been unlawfully dispossessed of the property and is making a re-entry or recaption justified by Section 3.06; or (3) the actor believes that such force is necessary to protect himself against death or serious bodily harm.(b) The use of deadly force is not justifiable under this Section unless the actor believes that such force is necessary to protect himself against death, serious bodily harm, kidnapping or sexual intercourse compelled by force or threat; nor is it justifiable if: (i) the actor, with the purpose of causing death or serious bodily harm, provoked the use of force against himself in the same encounter; or (ii) the actor knows that he can avoid the necessity of using such force with complete safety by retreating or by surrendering possession of a thing to a person asserting a claim of right thereto or by complying with a demand that he abstain from any action which he has no duty to take, except that: (1) the actor is not obliged to retreat from his dwelling or place of work, unless he was the initial aggressor or is assailed in his place of work by another person whose place of work the actor knows it to be; and (2) a public officer justified in using force in the performance of his duties or a person justified in using force in his assistance or a person justified in using force in making an arrest or preventing an escape is not obliged to desist from efforts to perform such duty, effect such arrest or prevent such escape because of resistance or threatened resistance by or on behalf of the person against whom such action is directed. (c) Except as required by paragraphs (a) and (b) of this Subsection, a person employing protective force may estimate the necessity thereof under the circumstances as he believes them to be when the force is used, without retreating, surrendering possession, doing any other act which he has no legal duty to do or abstaining from any lawful action. (3) Use of Confinement as Protective Force.  The justification afforded by this Section extends to the use of confinement as protective force only if the actor takes all reasonable measures to terminate the confinement as soon as he knows that he safely can, unless the person confined has been arrested on a charge of crime.
 
-  Judgment: reversed
+**MPC Section 3.09. Mistake of Law as to Unlawfulness of Force or Legality of Arrest; Reckless or Negligent Use of Otherwise Justifiable Force; Reckless or Negligent Injury or Risk of Injury to Innocent Persons.** (1) The justification afforded by Sections 3.04 to 3.07, inclusive, is unavailable when: (a) the actor's belief in the unlawfulness of the force or conduct against which he employs protective force or his belief in the lawfulness of an arrest which he endeavors to effect by force is erroneous; and (b) his error is due to ignorance or mistake as to the provisions of the Code, any other provision of the criminal law or the law governing the legality of an arrest or search. (2) When the actor believes that the use of force upon or toward the person of another is necessary for any of the purposes for which such belief would establish a justification under Sections 3.03 to 3.08 but the actor is reckless or negligent in having such belief or in acquiring or failing to acquire any knowledge or belief which is material to the justifiability of his use of force, the justification afforded by those Sections is unavailable in a prosecution for an offense for which recklessness or negligence, as the case may be, suffices to establish culpability. (3) When the actor is justified under Sections 3.03 to 3.08 in using force upon or toward the person of another but he recklessly or negligently injures or creates a risk of injury to innocent persons, the justification afforded by those Sections is unavailable in a prosecution for such recklessness or negligence towards innocent persons.
 
-  NOTES FROM CLASS 11-4-2O
+Deadly force may be used when arson, attempted burglary, and burglary because these are harms to people. See handout that breaks down the statute a bit 35.20(1) distinguishes between when any person can use it or any person cannot. THIS STATUTE WILL NOT BE ON THE EXAM!!! IT’S TOO COMPLICATED, SAYS PROF K
 
-  What is the weakness without the evidence? Just based on facts. Just based on the facts of the case, how do you prove self-defense?
+**Police Use of Force in Making Arrest or Preventing Escape: NYPL Section 35.30** Note that statute for police use of force is similar to self-defense statute (focusing on reasonable belief), although allows defense for arrest and preventing escape. When are police given the defense when using deadly force? Can they use deadly force for all arrests? Statute covers the criminal defense, but there are other issues, including constitutional issues regarding police use of force. The burden of proof is on the prosecution.
 
-  State v. Norman
-  North Carolina Supreme Court reverses Court of Appeals
-  BUT generally most courts allow the evidence today.
-  The experts provided the evidence of domestic abuse to say that the danger was imminent; so who is subject to domestic abuse would be able to …
+**Nelson v. State** – I DIDN’T READ THIS! SWAMP. WHY DIDN’T I READ THIS???? Page 580 – drat. Read it. Then watch video. Jury instructed on defense of necessity.
 
-  Battered spouse defense is not a defense; the defense attorneys took bsd and took the self-defense defense and used it with the expert testimony to support the claim that she reasonably believed that her husband posed an imminent deadly threat to her person. There was enough for the jury to weigh the expert testimony to derernmine if she reasonabley believed that threat was imminent.
+**Necessity NYPL 35.05: Conduct justified if conduct is:**
 
-  Why do you think attorneys often prefer to try to make an argument under self-defense? Because EED is a partial defense – it would just reduce the crime to manslaughter. Another reason is that self-defense is a justification defense; the burden of proof is on the prosecution; because saying someone is justified is given more weight than if you are saying someone is excused; a policy reason for trying to make the argument for …
+- a.	Necessary as an emergency measure
+- b.	To avoid an imminent public or private injury which is about to occur
+- c.	By reason of a situation occasioned or developed through no fault of the actor
+- d.	And which is of such gravity that, according to ordinary standards of intelligence and morality, the desirability and urgency such injury clearly … (see statute)
 
-  In nY if you have an affirmative defense the burden is upon the X ….
+**Hypo:** Prof K going to negligently start a fire. Town will burn down. Only way to create a fire break is to burn down prof Mott’s house. K accused of arson. Would he have defense of necessity in NY? NO, because c – “no fault of the actor” The criticism of the law is that maybe person not having recourse to necessity might deter person from saving houses from fire he had caused.
 
-  There are still critiques of this defense from other perspectives – the successful woman as opposed to the a victim – scholars have argued that – in some ways its progressive to bring up these arguments but there are also questions of who the law excludes
+**MPC 3.02**
 
-  For some a viagle tool, for other the theories
+1.	Does it require “imminence” like NY? No
+2.	“clearly outweigh” like NY? Hint: “greater than”
+3.	Does it require “no fault of the actor” like NY? MPC is a little different – says when tha actor was reckless or negligent does not have necessity defense if the law requires negligence or recklessness. So if you were accused of intentional arson, MPC would allow necessity defense, which (I think) would mitigate intentional arson to reckless arson. If you were accused of reckless arson, you wouldn’t have the necessity defense. Might be easier if you are talking about one house burning down or twenty houses. Ordinary standard is the objective reasonable person standard.
 
-  NOTES FROM CLASS 11-2-20
+If people demonstrating for climate change – blocking traffic – civil disobedience. Why no necessity defense? Because climate change not imminent. Protesting against police killings of Black people, we can argue necessity because threat is imminent.
 
-  NYPL Section 35.15
+Civil disobedience for example Black peaceful sit ins at lunch counters where Blacks were prohibited. Peaceful protest. Generally didn’t raise necessity defense because were raising awareness of wrongness of law.
 
-  Self-defense (non-deadly)
+Someone might break a trespassing law to protest a nuclear power plant; they are not saying that the trespassing law is bad; they are breaking it to raise awareness of danger of nuclear power plant. In civil disobedience note that NY has a provision in 35.05 “the necessity and justifiability of such conduct may not rest upon considerations, pertaining only to the morality and adviseablity of the … app to a part.
 
-  Person may “use physical force upon another person when and to extent he or she reasonably believes”:
-  1.	Such to be necessary to defend self or third person …
-  2.	From use or imminent use of unlawful physical force by the other person
+**So NY has a provision that says you cannot use necessity defense in the case that you are protesting the statute or law itself.** Why? Because the idea is that if you want the law changed you should go through the political process as opposed to breaking the laws to protest. This is often not feasible because you want to bring attention to the law.
 
-  If prof K on busy street and prof Mott next to him and he pushes prof mott into street with a light push and she is hit by a car then…
+## Necessity and Duress
 
-  Exception: no self-defense where
-  a.	Other person was provoked by the D with intent to cause physical injury to another; or
-  b.	D was the initial aggressor; (i) However, initial aggressor may use defense if has withdrawn and effectively communicated that withdrew… (see slide)
+**Queen v. Dudley & Stephens** (Here we’re seeing some of the opinion that we didn’t see back then. Here we are looking at different aspect – necessity)
 
-  Same as previous bbut also “the actor reasonably believes:
-  1.	That other person is using or about to use deadly force; or (see slide)
+**RULE:** Common law principle that necessity cannot be used as a defense for murder. Under the common law, necessity and duress were not defenses to murder.
 
-  Exceptions to 1:
-  retreat doctrine (see slide)
-  castle doctrine (see slide for rule)
+**NY and MPC** What about if Dudley and Stephens did this in NY. There is no specific language in NYPL 35.05 that serves as a blanket prohibition of applying necessity to murder. Nor does MPC. The challenge would be “clearly outweigh” – Dudley and Stephens would have argued 3 people or 1 person.
 
-  Hypos and Policy
+**Hypo:** Suppose you have some mountaneers climbing a mountain. One of the ppl loses footing and falls, but tied together. Person who fell is dangling. Can only hang on for so long. Will pull person on cliff down. They have a knife. So in this situation should this person cut the rope? If the person on cliff cuts the rope should they be accused of knowingly causing the death. Yes. Necessity? Yes.
 
-  Note 1(a) on page 522 – who is the initial aggressor
+**Hypo:** Trolley heading towards five people. One person on fork. Kills one person.
 
-  Carl passed out, woke up, found David in bed with wife; Carl lunged at him with knife; David shot Carl. Self-defence.
+**Hypo:** Doctor. Going to do kidney transplant. Has no kidney. Prof K walks in for annual physical. Doctor puts him to sleep and harvests heart and kidney, saves ten people who would otherwise have died. No difference between doctor and trolley driver.
 
-  Hypo
+# Duress
 
-  Note 3 page 523
+## B.Excuse Defenses
 
-  Jim throws a punch at Frank. Frank pulls a gun on Jim. Jim pulls out his gun and shoots Frank. Self-defense? Difficulty here is that although Jim was the initial aggressor, he used non-deadly force. When Frank pulled out the gun it escalated to deadly force so there’s a new crime now so Jim would be able to use self-defense.
+**Duress: NYPL Section 40.00 Duress.** (1) In any prosecution for an offense, it is an affirmative defense that the defendant engaged in the proscribed conduct because he was coerced to do so by the use or threatened imminent use of unlawful physical force upon him or a third person, which force or threatened force a person of reasonable firmness in his situation would have been unable to resist. (2) The defense of duress as defined in subdivision one of this section is not available when a person intentionally or recklessly places himself in a situation in which it is probable that he will be subjected to duress.
 
-  Tricky because statute says you do not have self-defense if you are the initial aggressor. The answer is maybe, it depends.
+**Posted handout on self-defense on TWEN; way to break it down into the elements to make it clear** Whole bunch of hypos pages 522-527 DO THESE!!
 
-  A question is are the police allowed to use disproportionate deadly force.
-
-  Hypos & policy
-
-  Withdrawal
-  Necessity
-  Retreat
-  Castle Doctrine
-  Proportionality
-  Imminency
-
-  Note 4 page 524
-
-  State v. Dill La ct of app 1984
-  Excahge of words; d got out of car and shot decedent
-  Car doesn’t count for castle doctrine because car can drive away
-  If you can retreat with complete safety
-  If they could have driven away safely then thy would be required to
-
-  Both MPC and NYPL use this retreat requirement; lots of other states, such as Florida, do not have a retreat requirement. In NY it is to safeguard the sanctity of life; it is only a requirement in situations where there is deadly force; Zimmerman; Trayvon Martin
-
-  In Trayvon Martin case, initial aggressor maybe but following Trayvon might not have been an initial act
-
-  The castle exception is the exception to the retreat doctrine; the MPC 3.04
-
-  If both people live in same house and domestic violence situation neither have to retreat. Definition of dwelling is where you actually live but depends on jurisdiction; if you are a tenant of a hotel for a night you could make an argument.
-
-  If somebody lightly shoves you you probably can’t use deadly force; the other requirement is that the use of deadly force is imminent; if I say I’m going to punch you tomorrow you can’t punch me today to prevent that.
-
-  George Bush rule? Yeah. Would have done better if they had used this before going to war.
-
-  The only way that you can know that something is imminent is if it’s about to happen.
-
-  The MPC doesn’t use the word “imminent.” It uses “immediately necessary;” if you believet he use of force is immediately necessary to prevent …
-
-  Hypo Page 534
-
-  Two persons speeding through the desert, one person says I’ll go up ahead and poison the well; the next day; NYPL would not see murdering the person who is going to poison the well self defense because no imminent danger; but if only chance to stop the person from poisoning the well then maybe justified; is poisoning a well deadly force?
-
-  One of the other requirements of the statute is that the person reasonably believes; is that the person reasonably believes
-
-  We talked about the reasonable person in heat of passion and EED
-
-  “reasonable belief” – Goetz case
-
-  Yes
-
-
-
-  The following is for class on 11-4-20
-
-  DEFENSE OF OTHERS
-
-  People v. Kurr | Court of Appeals of Michigan, 2002
-
-  Facts: Kurr was sixteen or seventeen months pregnant. Following an argument with her boyfriend Antonio Peña, he punched her in the stomach twice. Kurr warned him not to hit her again because she was carrying his babies. Peña came towards her again and she killed him by stabbing him in the chest. (568-9)
-
-  Kurr was accused of voluntary manslaughter. The trial court allowed her to present the defense of defense of others. At trial, Kurr requested that the jury be instructed on the defense of others. Despite its earlier ruling, the trial court disallowed the defense of others defense, because the fetus was only sixteen or seventeen months in gestation and according to a physician, a fetus under twenty-two weeks old is nonviable (would not survive outside womb). The trial court concluded that in order to assert defense of others, there had “to be a living human being existing independent of defendant.” (569).
-
-  The appeals court concludes that although a nonviable fetus is not a human being, a nonviable fetus constitutes an “other” in the context of this defense because the fetal protection act adopted by the Michigan Legislature in 1998 punishes individuals who harm or kill fetuses or embryos in other circumstances. (569) These circumstances are:
-  1.	Harming a fetus or embryo during an intentional assault against a pregnant woman;
-  2.	Causing a miscarriage or stillbirth with malicious intent toward the fetus or embryo; or
-  3.	Causing a miscarriage or stillbirth while acting “in wanton or willful disregard of the likelihood that the natural tendency of [his] conduct is to cause a miscarriage or stillbirth or great bodily harm to the embryo or fetus. (570)
-  The court of appeals finds that the plain language of this act shows the legislature’s intent to consider fetuses and embryos worthy of protection.
-
-  The act only applies to embryos or fetuses while carried in a woman’s body (570). It does not apply to fetuses or embryos frozen for future use. It cannot be used by anti-abortion activists (571)
-
-  RULE: in Michigan, the defense of others theory is admissible in cases where a D kills an aggressor to defend an unviable fetus or embryo when the D reasonably believes that the decedent is threatening death or great bodily harm to the embryo or unviable fetus.
-
-  Argument could not be used against abortion because abortion a constitutional right
-
-  Defense of others in NYPL 35.15 subsection 2, “third person” – in ny you can use deadly force to defend a person and you can use non-deadly force to defend a thrired person – so we have to look at the definition of a “person” in the penal law – section at the beginning number 7, which says “person means a human being”
-  Do we have a definition of human being? No.
-
-  If we look at homicide in section 125.25 … of NYPL – a human being is a person who was born and is alive.
-
-  Seciton 125-25 says definition only for this statute;
-
-  MPC does exclude fetuses from definition of person;
-
-  Look at note on p.572 note 4
-
-Suppose somebody comes along and sees prof mott is threatening to use unlawful force against prof k – third person steps in to stop her – but turns out that prof k started the fight; in ny we DON'T use the alter ego rule (BUT ANALOGIZE - say that iin other jurisdictions they look at the situation from the shoes of the person in peril); a person aiding another person only has the right of self defense to the extent that the v has the same right to self-defense of the person they are defending.
-
-  NY does not have the aler ego rule; ny looks at what the person reasonably believes
-
-  Policy: If you want people to help each other  you should give them a good defense
-
-  Something else (see recorded class video
-
-
-
-
-
-
-
-  Judgment: remanded to the court for a new trial
-
-
-  In 2003 Kurr was retried and reconvicted of voluntary manslaughter and sentenced to 5 to 20 years.
-
-  Note 4 p. 572: How would Kurr be decided pursuant to the MPC?
-
-  Section 3.05. Use of Force for the Protection of Other Persons.
-    (1) Subject to the provisions of this Section and of Section 3.09, the use of force upon or toward the person of another is justifiable to protect a third person when:
-      (a) the actor would be justified under Section 3.04 in using such force to protect himself against the injury he believes to be threatened to the person whom he seeks to protect; and
-      (b) under the circumstances as the actor believes them to be, the person whom he seeks to protect would be justified in using such protective force; and
-      (c) the actor believes that his intervention is necessary for the protection of such other person.
-    (2) Notwithstanding Subsection (1) of this Section:
-      (a) when the actor would be obliged under Section 3.04 to retreat, to surrender the possession of a thing or to comply with a demand before using force in self-protection, he is not obliged to do so before using force for the protection of another person, unless he knows that he can thereby secure the complete safety of such other person;  and
-      (b) when the person whom the actor seeks to protect would be obliged under Section 3.04 to retreat, to surrender the possession of a thing or to comply with a demand if he knew that he could obtain complete safety by so doing, the actor is obliged to try to cause him to do so before using force in his protection if the actor knows that he can obtain complete safety in that way; and
-     (c) neither the actor nor the person whom he seeks to protect is obliged to retreat when in the other's dwelling or place of work to any greater extent than in his own.
-
-  §1.13 General Definitions.
-  (8) "person," "he" and "actor" include any natural person and, where relevant, a corporation or an unincorporated association;
-
-  Section 3.04. Use of Force in Self-Protection.
-    (1) Use of Force Justifiable for Protection of the Person.  Subject to the provisions of this Section and of Section 3.09, the use of force upon or toward another person is justifiable when the actor believes that such force is immediately necessary for the purpose of protecting himself against the use of unlawful force by such other person on the present occasion.
-    (2) Limitations on Justifying Necessity for Use of Force.
-      (a) The use of force is not justifiable under this Section:
-        (i) to resist an arrest which the actor knows is being made by a peace officer, although the arrest is unlawful; or
-        (ii) to resist force used by the occupier or possessor of property or by another person on his behalf, where the actor knows that the person using the force is doing so under a claim of right to protect the property, except that this limitation shall not apply if:
-         (1) the actor is a public officer acting in the performance of his duties or a person lawfully assisting him therein or a person making or assisting in a lawful arrest; or
-         (2) the actor has been unlawfully dispossessed of the property and is making a re-entry or recaption justified by Section 3.06; or
-         (3) the actor believes that such force is necessary to protect himself against death or serious bodily harm.
-      (b) The use of deadly force is not justifiable under this Section unless the actor believes that such force is necessary to protect himself against death, serious bodily harm, kidnapping or sexual intercourse compelled by force or threat; nor is it justifiable if:
-        (i) the actor, with the purpose of causing death or serious bodily harm, provoked the use of force against himself in the same encounter; or
-        (ii) the actor knows that he can avoid the necessity of using such force with complete safety by retreating or by surrendering possession of a thing to a person asserting a claim of right thereto or by complying with a demand that he abstain from any action which he has no duty to take, except that:
-         (1) the actor is not obliged to retreat from his dwelling or place of work, unless he was the initial aggressor or is assailed in his place of work by another person whose place of work the actor knows it to be; and
-         (2) a public officer justified in using force in the performance of his duties or a person justified in using force in his assistance or a person justified in using force in making an arrest or preventing an escape is not obliged to desist from efforts to perform such duty, effect such arrest or prevent such escape because of resistance or threatened resistance by or on behalf of the person against whom such action is directed.
-      (c) Except as required by paragraphs (a) and (b) of this Subsection, a person employing protective force may estimate the necessity thereof under the circumstances as he believes them to be when the force is used, without retreating, surrendering possession, doing any other act which he has no legal duty to do or abstaining from any lawful action.
-    (3) Use of Confinement as Protective Force.  The justification afforded by this Section extends to the use of confinement as protective force only if the actor takes all reasonable measures to terminate the confinement as soon as he knows that he safely can, unless the person confined has been arrested on a charge of crime.
-
-  Section 3.09. Mistake of Law as to Unlawfulness of Force or Legality of Arrest; Reckless or Negligent Use of Otherwise Justifiable Force; Reckless or Negligent Injury or Risk of Injury to Innocent Persons.
-    (1) The justification afforded by Sections 3.04 to 3.07, inclusive, is unavailable when:
-      (a) the actor's belief in the unlawfulness of the force or conduct against which he employs protective force or his belief in the lawfulness of an arrest which he endeavors to effect by force is erroneous; and
-      (b) his error is due to ignorance or mistake as to the provisions of the Code, any other provision of the criminal law or the law governing the legality of an arrest or search.
-    (2) When the actor believes that the use of force upon or toward the person of another is necessary for any of the purposes for which such belief would establish a justification under Sections 3.03 to 3.08 but the actor is reckless or negligent in having such belief or in acquiring or failing to acquire any knowledge or belief which is material to the justifiability of his use of force, the justification afforded by those Sections is unavailable in a prosecution for an offense for which recklessness or negligence, as the case may be, suffices to establish culpability.
-    (3) When the actor is justified under Sections 3.03 to 3.08 in using force upon or toward the person of another but he recklessly or negligently injures or creates a risk of injury to innocent persons, the justification afforded by those Sections is unavailable in a prosecution for such recklessness or negligence towards innocent persons.
-
-  State v. Boyett | Supreme Court of New Mexico, 2008
-
-  Cecil Boyett (D) and Deborah Rhodes (V) both had a romantic interest in Renate Wilder. Wilder and V had had a relationship, which ended, but they continued to live together and work together. Wilder started having a relationship with D. Wilder fired V from her bar,  gave V’s former job to D, kicked V out of her house with a restraining order and invited D to move in. One time V saw Wilder and D near the hot tub outside the house and threatened them with a gun. V occasionally returned to Wilder’s home.
-  	D and Wilder got engaged. A few days before the wedding Wilder “absconded” with V. D tried to find Wilder and suspected she was with V but could not find them. On the day of the wedding Wilder left V’s company and had an accident on her way home, near V’s residence. V offered to claim responsibility for the accident. Wilder went home on foot. Shortly afterwards, V arrived at Wilder’s home and D shot V in the head from four feet away. Prosecutor said V had gone to Wilder’s house to return the car keys, knocked on door, D opened door and shot her.
-  	D said V had arrived at Wilder’s house and banged loudly on the door, he opened the door with gun in hand, V drew her gun, and D shot her.
-  	D said not guilty because acted lawfully in shooting V either in self defense, defense of another or defense of the habitation.
-
-  Trial court said jury instruction related to defense of habitation did not apply because V was outside the house.
-
-  On appeal/in the appeal, State argues that defense of habitation should be limited to situations in which a person forcibly enters a home and is killed while intruding therein.
-
-  Supreme Court of New Mexico said that based on precedent, entering the home is not a prerequisite for the defense.  
-
-  Defense of habitation in a homicide case is only justified if D reasonably believes that the person entering the home is going to commit a felony. (575)
-
-  Felony used to carry a connotation of greater threat.
-
-  RULE: To warrant a defense of defense of habitation, the felony that the defendant acts to prevent must be a felony that would have resulted in violence against the occcupants were it not prevented.
-
-  There had to be a reasonable belief that the person entering was going to commit a felony with violence.
-
-  Holding: the Court finds that there is no evidence that D was going to commit a violent felony when she knocked on Wilder’s door.
-
-  NOTES FROM CLASS 11-4-20
-
-  Deadly force may be used when arson, attempted burglary, and burglary because these are harms to people.
-
-  See handout that breaks down the statute a bit 35.20(1) distinguishes between when any person can use it or any person cannot. THIS STATUTE WILL NOT BE ON THE EXAM!!! IT’S TOO COMPLICATED, SAYS PROF K
-
-  Police Use of Force in Making Arrest or Preventing Escape: NYPL Section 35.30
-
-  Note that staute for police use of force is similar to self-defense statute (focusing on reasonable belief), although allows defense for arrest and preventing escape.
-  When are police given the defense when using deadly force? Can they use deadly force for all arrests?
-  Statute covers the criminal defense, but thetre are other issues, including constitutional issues regarding police use of force.
-
-  The burden of proof is on the prosection
-
-  White racism against blacks; often difficult to prosecute these cases
-
-  Police officer can use deadly force in arrest situations, and in other situations. There are some constitutional limits on police use of force; the polic
-
-  Nelson v. State – I DIDN’T READ THIS! SWAMP. WHY DIDN’T I READ THIS???? Page 580 – drat. Read it. Then watch video.
-
-  Jury instructed on defense of necessity
-
-  D argued that
-
-  2020-11-9
-
-  Wednesday negotiation exercise
-
-  Facts of case. Statutes to look at. Will be posted on TWEN.
-
-  Prosecutor L-Z (I can only talk to prosecutors about this)
-
-  Necessity NYPL 35.05: Conduct justified if conduct is:
-  a.	Necessary as an emergency measure
-  b.	To avoid an imminent public or private injury which is about to occur
-  c.	By reason of a situation occasioned or developed through no fault of the actor
-  d.	And which is of such gravity that, according to ordinary standards of intelligence and morality, the desirability and urgency such injury clearly … (see statute)
-
-
-  Prof K going to negligently start a fire. Town will burn down. Only way to create a fire break is to burn down prof Mott’s house. K accused of arson. Would he have defense of necessity in NY? NO, because c – “no fault of the actor”
-
-  The criticism of the law is that maybe person not having recourse to necessity might deter person from saving houses from fire he had caused.
-
-
-  MPC 3.02
-
-  1.	Does it require “imminence” like NY? No
-  2.	“clearly outweigh” like NY? Hint: “greater than”
-  3.	Does it require “no fault of the actor” like NY? MPC is a little different – says when tha actor was reckless or negligent does not have necessity defense if the law requires negligence or recklessness
-
-  So if you were accused of intentional arson, MPC would allow necessity defense, which (I think) would mitigate intentional arson to reckless arson. If you were accused of reckless arson, you wouldn’t have the necessity defense.
-
-  Might have a necessity defense if … reasonableness standard. Eegh didn’t get this –
-
-  Weighing values
-
-  Might be easier if you are talking about one house burning down or twenty houses. Ordinary standard is the objective reasonable person standard.
-
-  Morality and advisability
-
-  If people demonstrating for climate change – blocking traffic – civil disobedience. Why no necessity defense? Because climate change not imminent.
-
-  Protesting against police killings of black people, we can argue necessity because threat is imminent.
-
-  Civil disobedience for example black peaceful sit ins at lunch counters where blacks were prohibited. Peaceful protest. Generally didn’t raise necessity defense because were raising awareness of wrongness of law.
-
-  Someone might break a trespassing law to protest a nuclear power plant; they are not saying that the trespassing law is bad; they are breaking it to raise awareness of danger of nuclear power plant
-
-  In civil disobedience note that NY has a provision in 35.05 “the necessity and justifiability of such conduct may not rest upon considerations, pertaining only to the morality and adviseablity of the … app to a part.
-
-  So NY has a provision that says you cannot use necessity defense in the case that you are protesting the statute or law itself. Why? Because the idea is that if you want the law changed you should go through the political process as opposed to breaking the laws to protest. This is often not feasible because you want to bring attention to the law.
-
-  S 35.05 Justification; generally.
-  Unless otherwise limited by the ensuing provisions of this article
-defining justifiable use of physical force, conduct which would
-otherwise constitute an offense is justifiable and not criminal when:
-  1. Such conduct is required or authorized by law or by a judicial
-decree, or is performed by a public servant in the reasonable exercise
-of his official powers, duties or functions; or
-  2. Such conduct is necessary as an emergency measure to avoid an
-imminent public or private injury which is about to occur by reason of a
-situation occasioned or developed through no fault of the actor, and
-which is of such gravity that, according to ordinary standards of
-intelligence and morality, the desirability and urgency of avoiding such
-injury clearly outweigh the desirability of avoiding the injury sought
-to be prevented by the statute defining the offense in issue.  The
-necessity and justifiability of such conduct may not rest upon
-considerations pertaining only to the morality and advisability of the
-statute, either in its general application or with respect to its
-application to a particular class of cases arising thereunder. Whenever
-evidence relating to the defense of justification under this subdivision
-is offered by the defendant, the court shall rule as a matter of law
-whether the claimed facts and circumstances would, if established,
-constitute a defense.
-
-  Necessity and Duress
-
-  Queen v. Dudley & Stephens
-
-  Here we’re seeing some of the opinion that we didn’t see back then. Here we are looking at different aspect – necessity –
-  RULE: Common law principle that necessity cannot be used as a defense for murder. Under the common law, necessity and duress were not defenses to murder,
-
-  What about if Dudley and Stephens did this in NY. There is no specific language in NYPL 35.05 that serves as a blanket prohibition of applying necessity to murder. Nor does MPC. The challenge would be “clearly outweigh” – Dudley and Stephens would have argued 3 people or 1 person.
-
-  Hypos
-
-  Suppose you have some mountaneers climbing a mountain. One of the ppl loses footing and falls, but tied together. Person who fell is dangling. Can only hang on for so long. Will pull person on cliff down. They have a knife. So in this situation should this person cut the rope? If the person on cliff cuts the rope should they be accused of knowingly causing the death. Yes. Necessity? Yes.
-
-  Trolley heading towards five people. One person on fork. Kills one person.
-
-  Doctor. Going to do kidney transplant. Has no kidney. Prof K walks in for annual physical. Doctor puts him to sleep and harvests heart and kidney, saves ten people who would otherwise have died.
-
-  No difference between doctor and trolley driver.
-
-  Duress
-
-  NYPL section 40.00
-
-Affirmative defense (burden of proof on defendant by preponderance of evidence)
-
-In NY only means that the defense has a burden of proof. An affirmative defense means that the defendant has to prove, for example, duress, by a preponderance of evidence.
+Affirmative defense (burden of proof on defendant by preponderance of evidence). In NY only means that the defense has a burden of proof. An affirmative defense means that the defendant has to prove, for example, duress, by a preponderance of evidence.
 
 If just a defense, the prosecution has the burden of disproving the defense. So in this example, the prosecution would have to prove by a preponderance of evidence that certain conditions do not exist.
 
-  Duress is affirmative defense.
+Duress is affirmative defense. How does duress differ from necessity?
 
-  How does duress differ from necessity?
+**U.S. v. Contento-Pachon** (Court talks about differences between necessity and duress)
 
-  Why doesn’t necessity apply to the case
+**Rule, sorta:** Necessity negates actus reus; duress negates mens rea. If duress actually negates mens rea what do we actually not need? We would not need a defense. Because there would not be a crime.
 
-  U.S. v. Contento-Pachon
+**Hypo:** If someone straps a bomb to K’s body and sends him into a bank to rob the bank, prof K has the mens rea to rob the bank. We are saying in necessity and duress that if someone is threatened although they have the mens rea they are excused. So the distinction between actus reus and mens rea is really difference between excuse and justification – how necessity and duress work; not true that – we’re condoning their actions so they are justification – so necessity is justification and duress is excuse. **ALSO**, necessity usually involves forces of nature; duress is usually a human threat. Necessity is usually also choosing the lesser of two evils which isn’t the case of duress.
 
-  Court talks about differences between necessity and duress
+**Hypo:** Bailey negligently puts himself in a situation where dangerous drug dealers coerce him into transporting drugsNYPL 40.00 ( c ) says that if person recklessly puts themselves in proximity to dangerous drug dealers – recklessly places in a situation in which it is probable that will be subjected to duress, does not have defense of duress. Defense to murder? Duress – should it be used for murder?
 
-  Necessity negates actus reus; duress negates mens rea
+**People v. Anderson** (Here, the question is can the d possibly use duress as a defense to murder. Court holds that no. cannot use duress as a defense for murder. Why not? Duress is only for certain crimes. What wrong with allowing it to be a defense for murder acc to the court? Court says where do you draw the line, we can’t let people get away with killing
 
-  If duress actually negates mens rea what do we actually not need? We would not need a defense. Because there would not be a crime.
+**RULE sorta:** law should require ppl to choose to resist rather than kill an innocent person” Court also rejects reducing murder to a lesser crime; court says common law still stands.
 
-  The court doesn’t really mean that it knocks out the mens rea or the actus reus
+MPC does allow duress as a defense to homicide; NYPL also allows duress as a defense to homicide; And also other countries **COMMON LAW DOES NOT ALLOW DURESS AS A DEFENSE TO HOMICIDE**
 
-  If someone straps a bomb to K’s body and sends him into a bank to rob the bank, prof K has the mens rea to rob the bank. We are saying in necessity and duress that if someone is threatened although they have the mens rea they are excused
+Interesting is concurring dissenting opinon agree with court that it doesn’t apply but provides a hypo, saying that it should be available in some situations where if robbers go into someone car and force him to drive very fast and he kills someone. The dissent says the driver should have the defense of duress in this situation. Driver charged with recklessness with depraved indifference. Even if duress defense not applicable, not necessary, because defense could be that the driver wouldn’t have the mens rea of the crime.
 
-  So the distinction between actus reus and mens rea is really difference between excuse and justification – how necessity and duress work; not true that – we’re condoning their actions so they are justification – so necessity is justification and duress is excuse.
+# Attempt Crimes 	
 
-  ALSO, necessity usually involves forces of nature; duress is usually a human threat. Necessity is usually also choosing the lesser of two evils which isn’t the case of duress.
+## Solicitation crimes 	and accomplice liability
 
-  Hypo
+**NYPL Section 110.00: Attempt to commit a crime** A person is guilty of an attempt to commit a crime when (1) with intent to commit a crime, (2) he engages in conduct which tends to effect the commission of such crime. 	
 
-  Bailey negligently puts himself in a situation where dangerous drug dealers coerce him into transporting drugs
+**NYPL Section 100.00 (5th Degree Solicitation)**  (1) with intent that another person engage in conduct constituting a crime, (2) he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.
 
-  NYPL 40.00 ( c ) says that if person recklessly puts themselves in proximity to dangerous drug dealers – recklessly places in a situation in which it is probable that will be subjected to duress, does not have defense of duress
+**NYPL §20.00: Criminal Liability for Conduct of Another** When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when: acting with the mental culpability required for the commission thereof, he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
 
-  Defense to murder?
+**MENS REA 	MENS REA 	MENS REA**
 
-  Duress – should it be used for murder?
+You need:
+1.	Intent to commit the underlying crime  
+2.	The mens rea for the Attendant Circumstances of the underlying crime (if there are any)
 
-  People v. Anderson I DID NOT READ THIS CASE! ARGH! Page 619
+NOTE: It’s NOT possible to attempt a reckless/negligent result crime. You need:
+1.	Intent that another person commit the crime
+2.	Intent to solicit, request, command, importune or otherwise attempt to cause such other person to engage in such conduct
 
-  Is duress a defense to murder?
-  What options does the court discuss?
-  Here, the question is can the d possibly use duress as a defense to murder
-  Court holds that no. cannot use duress as a defense for murder. Why not?
-  Duress is only for certain crimes.
-  What wrong with allowing it to be a defense for murder acc to the court?
-  Court says where do you draw the line, we can’t let people get away with killing
-  “law should require ppl to choose to resist rather than kill an innocent person”
-  Court also rejects reducing murder to a lesser crime; court says common law still stands.
+(presume that mens rea term modifies everything in the statute) 	You need:  
+1.	The mental culpability required for the underlying crime
+2.	Intent to solicit, request, command, importune, or intentionally aid such person to engage in such conduct
 
-  MPC does allow duress as a defense to homicide
-  NYPL also allows duress as a defense to homicide
-  And also other countries
-  COMMON LAW DOES NOT ALLOW DURESS AS A DEFENSE TO HOMICIDE
+NOTE: It’s possible to be an accomplice of a reckless/negligent result crime.
+**ACTUS REUS 	ACTUS REUS 	ACTUS REUS**
 
-  Interesting is concurring dissenting opinon agree with court that it doesn’t apply but provides a hypo, saying that it should be available in some situations where if robbers ggo into someone car and force him to drive very fast and he kills someone. The dissent says the driver should have the defense of duress in this situation.
+Required Actus Reus elements:
+1.	engages in conduct which tends to effect the commission of such crime. (USE TESTS)
+2.	voluntary act 	Required Actus Reus elements: (1) solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct; (2) voluntary act
+3. need to show the other person committed the underlying crime
+4. Affirmative Defense: Renunciation 	
 
-  Driver charged with recklessness with depraved indifference. Even if duress defense not applicable, not necessary, because defense could be that the driver wouldn’t have the mens rea of the crime.
+#  Attempt
 
-  Attempt Crimes 	Solicitation Crimes 	Accomplice Liability
-  NYPL §110.00: Attempt to commit a crime
-   A person is guilty of an attempt to commit a crime when
-  1) with intent to commit a crime,  
-  2) he engages in conduct which tends to effect the commission of such crime 	NYPL. §100.00 (5th Degree Solicitation):  
+**Incomplete attempt** – does some of what is required to commit the crime but not everything
 
-  1) with intent that another person engage in conduct constituting a crime,  
-  2) he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.
-   	NYPL §20.00: Criminal Liability for Conduct of Another
-  When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when:
-  1) acting with the mental culpability required for the commission thereof,
-  2) he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
-  MENS REA 	MENS REA 	MENS REA
-  You need:
-  1.	Intent to commit the underlying crime  
-  2.	The mens rea for the Attendant Circumstances of the underlying crime (if there are any)
+**Complete attempt** – a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they miss)
 
-  NOTE: It’s NOT possible to attempt a reckless/negligent result crime. 	You need:
-  1.	Intent that another person commit the crime
-  2.	Intent to solicit, request, command, importune or otherwise attempt to cause such other person to engage in such conduct (presume that mens rea term modifies everything in the statute) 	You need:  
-  1.	The mental culpability required for the underlying crime
-  2.	Intent to solicit, request, command, importune, or intentionally aid such person to engage in such conduct
+**MPC 5.05**
 
-  NOTE: It’s possible to be an accomplice of a reckless/negligent result crime.
-  ACTUS REUS 	ACTUS REUS 	ACTUS REUS
-  Required Actus Reus elements:
-  1.	engages in conduct which tends to effect the commission of such crime. (USE TESTS)
-  2.	voluntary act 	Required Actus Reus elements:
-  1) solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct
-  2) voluntary act
-   	Required Actus Reus elements:
-  1) solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct
-  2) voluntary act
-  3) need to show the other person committed the underlying crime
-  Affirmative Defense: Renunciation 	Affirmative Defense: Renunciation 	 
+**NYPL 110.05**
 
+In common law attempt crimes were punished less than the actual crime. The MPC and NYPL take a little different approach – MPC less except for severe crimes – NYPL more for less severe crimes (drug crimes is why)
 
-  2020-11-15 class
+## Attempt crimes in NY
 
-  We looked at (review)
+**NYPL Section 110.00** “a person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime.”
 
-  Semester coverage
+No separate def of attempted robbery, no separate def of attempted murder, etc., so you have to look at the statute together with the crime. In NYPL 110.00 the mens rea is intent. The actus reus is “engage in conduct which tends to effect the commission of such crime”
 
-  Elements of crimes
-  Defenses
-  Some specific crimes
-  	Homicide
-  	Inchoate crimes (attempt crimes, conspiracy, solicitation)
+**People v. Gentry (1987)** (Couple drinking heavily, argument, man doused woman with gasoline, woman said she went to kitchen and accidentally set herself on fire.)
 
-  Inchoate def “only partly in existence or operation”
+**Rule (kinda sorta not really):** Under Illinois law, a person commits the crime of [attempt] murder where he kills an individual if … he intends to kill or do great bodily harm to that individual; etc… (They were arguing that strong probability of great bodily harm should be enough for attempted murder)
 
-  Most common:
+**Hypo:** Prof k with bow and arrow, blindfolded in classroom, shoots bow and arrow at target but misses target but instead arrow kills prof mott. Could be convicted of homicide with recklessy mens rea (2nd degree manslaughter, in common law depraved heart murder, in ny depraved indifference smothering). If prof mott only got wounded could he be convicted of attempted 2nd degree manslatugher? No. Because attempt crimes require the intent to commit the crime. Prof k was reckless but didn’t have the intent to kill so he can’t be convicted of intent to commit manslaughter. So if we use that for 2nd degree manslaughter or reckless manslaughter prof k would have had to have the intent the death of another person. You have to have the intent to commit the underlying crime.
 
-  Attempt
-  Conspiracy – not covering
-  Solicitation
+**No attempted felony murder: Bruce v. State (1989)** (Two people enter shoe store – point gun at shoe store owner – say we are going to kill you – store owner ducked, got shot in stomach – didn’t die. Prosecutor charged with attempted felony murder. Court said no. There’s no such crime. The court reasoned that it doesn’t make sense because if attempted felony murder was a crime, anyone committing a crime where someone dies, even from a heart attack, ppl could always be convicted of attempted felony murder all the time) Attempted reckless endangerment?
 
-  As a rough example – solicitation – someone can be prosecuted for asking so else to commit a crime
+**Hypo:** Go back to hypo of prof k blindfolding himself to do target practice. Thinks he can blindfold himself and goes to drive his car. Hits somebody and kills them. manslaughter. If prof k does not hit anyone, what crime can he be convicted of? Reckless endangerment. Goes to car but car doesn’t start. Can he be charged with attempted reckless endangerment? **YES** Why yes? Because attempted is intent to commit the underlying crime. Reckless endangerment is Recklessy engages in conduct that creates a substantial risk of serious physical injury to another person. Prof k had the intent to recklessly drive his car.
 
-  Conspiracy – agreeing to commit a crime
+If the crime involves conduct, - for the attempt crime you have to have the intent too.
 
-  Attempt –
+**RULE:** The homicide requires recklessness with respect to result, while reckless endangerment requires recklessness with regard to conduct.
 
-  Policy
+It makes sense to say that prof K intented to engage in reckless conduct, but it doesn’t make sense to say that he intended to recklessly cause a result. If it’s a result crime, the result has to be an intentional result crime and the d has to have that intent. The problem is created because you’re adding the intent statute in front of the other
 
-  Why do we punish people who do not successfully complete a crime?
-  So if prof M shoots K but misses, why would we punish prof M for the crime?
+So we talked about conduct and result, but remember there’s also attendant circumstances. How does one determine the mens rea for attendant circumstances in an attempt? **NYPL Section 125.27(1)** first degree murder when “with intent to cause ….police officer”
 
-  Attempt
-  Incomplete attempt – does some of what is required to commit the crime but not everything
-  Complete attempt – a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they miss)
+**Hypo:** Prof mott kills prof k. prof k is an undercover police officer but prof mott didn’t know that. Prof mott guilty? No. But suppose prof k sometimes wore a badge and a reasonable person would have known police officer. Guilty? Yes. But suppose prof mott tried to kill prof k knowing he was a police officer? Does someone have to intend the attendant circumstances? No. the mens rea for the attendant circumstance stays the same. Whatever mens rea is required for the actual crime is the same in both situations – in situation of attempt to commit the crime and in situation of committing the crime. So if Prof Mott tried to kill you knowing you were a police officer but didn’t manage to kill you, she could be convicted of attempted murder in the first degree? YES. How do you draw the line when the person has done some preparation for a crime?
 
-  Should an attempt crime be punished the same as the com;eted crime
-  Mpc 5.05
-  NYPL 110.05
+**The Mannuano case**
 
-  In common law attempt crimes were punished less than the actual crime
-  The mpc and nypl take a little different approach – mpc less except for severe crimes – nypl more for less severe crimes (drug crimes is why)
+## Last act test (only completed attempts)
 
-  Attempt crimes in NY
-  NYPL 110.00
-  “a person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime.”
+“he has done all that is within his power to do, but has been prevented by intervention from outside” (this came from English common law)
 
-  No separate def of attempted robbery, no separate def of attempted murder, etc., so you have to look at the statute together with the crime
+So if prof mott pulled out a gun and shot at prof k but gun didn’t fire that would be sufficient for the actus reus. Other courts adopted different tests. Four most common:
 
-  In NYPL 110.00 the mens rea is intent
+**Commonwealth v. Peaslee (1901)** (man stacked up combustibles in building and left candle and paraffin nearby, then was going to get a boy to set it alight but changed his mind)
 
-  The actus reus is “engage in conduct which tends to effect the commission of such crime”
+Is preparation enough for actus reus of attempt? Not here, because he was not close enough to completing the crime.
 
-  People v. Gentry 1987
+**FOR OUTLINE:** Felony murder should recognize that the attempted versions of some crimes should be the basis for felony murder. Attempted robbery is a felony so may be the basis for felony murder; attempted escape is also a felony – attempted crime – crimes which are specified – Second degree murder subsection 3 – if he commits or attempts to commit a burglary, robbery etc. in NY the attempt is defined as the attempt to commit a crime –
 
-  Couple drinking heavily, argument, man doused woman with gasoline, woman said she went to kitchen and accidentally set herself on fire.
+## Attempt mens rea
 
-  Illinois instruction 2: murder
-  A person commits the crime of [attempt] murder where he kills an individual if … he intends to kill or do great bodily harm to that individual; etc…
+**Rule:** If the underlying crime is not a crime which requires intent – look at the handout on TWEN – you can’t be convicted of attempting a result crime which itself does not require intent towards that result
 
-  They were arguing that strong probability of great bodily harm should be enough for attempted murder
+Second degree manslaughter is recklessly causeing someone's death – we do not have intended second degree manslaughter because there is no intent in the statute – you can’t intend to recklessly cause the death – but **for crimes which do not require intent towards the result you cannot have attempt to commit the crime**
 
-  Prof k with bow and arrow, blindfolded in classroom, shoots bow and arrow at target but misses target but instead arrow kills prof mott. Could be convicted of homicide with recklessy mens rea (2nd degree manslaughter, in common law depraved heart murder, in ny depraved indifference smothering).
-  If prof mott only got wounded could he be convicted of attempted 2nd degree manslatugher? No. Because attempt crimes require the intent to commit the crime. Prof k was reckless but didn’t have the intent to kill so he can’t be convicted of intent to commit manslaughter.
-  So if we use that for 2nd degree manslaughter or reckless manslaughter prof k would have had to have the intent the death of another person. You have to have the intent to commit the underlying crime.
+You cannot have attempted felony murder because felony murder is strict liability; there is no mens rea; no intent
 
-  Felony murder: Bruce v. State 1989
+First degree murder requires knowing or should have known – so you can have attempted first degree
 
-  Two people enter shoe store – point gun at shoe store owner – say we are going to kill you – store owner ducked, got shot in stomach – didn’t die. Prosecutor charged with attempted felony murder. Court said no. There’s no such crime. The court reasoned that it doesn’t make sense because if attempted felony murder was a crime, anyone committing a crime where someone dies, even from a heart attack, ppl could always be convicted of attempted felony murder all the time
+## Attempt actus reus tests
 
-  Attempted reckless endangerment?
+- Last act test – only guilty of attempt if they do the last act necessary for the crime; if they point a gun and pull a trigger they will be guilty of attempt but if not not guilty of attempt
+- Dangerous proximity test
+- Unequivocality (res ipsa loquitur) test
+- MPC (substantial step test)
 
-  Go back to hypo of prof k blindfolding himself to do target practice. Thinks he can blindfold himself and goes to drive his car. Hits somebody and kills them. manslaughter
+Is preparation enough for actus reus of attempt? All of these tests are trying to determine where to draw the line – where should someone be guilty up to that point – at what point should someone be guilty of that crime – innocent ppl should not be punished. For example if prof k buys a gun, should he be guilty of attempted murder?
 
-  If prof k does not hit anyone, what crime can he be convicted of? Reckless endangerment
+**McQuirter case and racial bias** p. 751 (She buys a gun, drives car, drives to v’s house, goes buys a newspaper; reads it; goes out of car with gun; is that enough? She puts her finger on trigger; is that enough? Daughter comes out and hugs father; woman puts gun down. Should she be guilty of attempted murder?)
 
-  Goes to car but car doesn’t start. Can he be charged with attempted reckless endangerment? YES
+Question is here no harm has been done; are they deserving of punishment? Are attempt crimes result crimes? No, they are incomplete. So, there are no... McQuirter – p 751 – troubling that the court has that much discretion. We have attempt crimes to prevent bad things happening.
 
-  Why yes?
+**Dangerous proximity test**
 
-  Beccause attempted is
-  Intent to comit the underlying crime
+**People v. Rizzo** Defendants had firearms, driving around in car looking for Rao. Is Rizzo guilty of attempted robbery? What test does the court apply? Dangerous proximity test. Did rizzo come very near to the completion of the crime? Court held that the conviction should be reversed because even though they planned to commit a crime he did not come dangerously close to committing it.
 
-  Reckless endangerment
-  Reccklessy engages in conduct that creates a substantial risk of serious physical injury to another person
+**Dangerous proximity test rule:** An act amount to an attempt when it is so near to the result that the danger of success is very great
 
-  Prof k had the intent to recklessly drive his car.
+In an attempt crime, we have actus reus, we have mens rea. Tends to affect the commission of the crime. If youre analyzing rizzo’s culpability you look at actus rea all elements, and if in ny you would do the dangerous proximity test. To establish the actus reus, you have the ar if the person
 
-  How does attempted reckless
+**Hypo:** p. 776 (1) (B) D provided burglars with diagram of warehouse – would d be guilty of attempted robbery? Attempted grand larceny because he intended to get proceeds of insurance proceeds? Could argue both ways. D still had several steps to do in order to get insurance proceeds
 
-  If the crime involves conduct, - for the attempt crime you have to have the intent to
+**People v. Miller** Dangerous proximity case? Def stronger ccase than rizzo – could be argued both ways. Ca applies a diff test; **res ipsa loquitur test** – the thing speaks for itself – court said no not guilty; only preparation **Unequivocality test** – acts must be unequivocal. The court said that Miller’s going into the rield with his gun did not clearly show that he intended to kill
 
-  The homicide requires recklessness with respect to result, while reckless endangerment requires recklessness with regard to conduct.
+**Res ipsa loquitur (or unequivocality) test RULE:** Under strict version of the test, an act only constitutes an attempt if the actor’s specific criinal purpose is shown from the actor’s conduct, without considering any statements the actor may have made before, during or after the incident. MPC would say that this puts less reliance on confession, so convictions are not so much based on ...
 
-  It makes sense to say that prof K intented to engage in reckless conduct, but it doesn’t make sense to say that he intended to recklessly cause a result.
+Girls – poison teacher – Prob didn’t come dang close
 
-  If it’s a result crime, the result has to be an intentional result crime and the d has to have that intent
+How did the statute change the law 781? **Statute included a substantial step.** Change the law to include that conduct include a substantial step toward the commission of the offense; so under the way the law was changed, - did they take a substantial step from the beginning? While dang proxi sees how close they got the mpc looks at how substantial a step they took towards s\commission of the crime
 
-  The problem is created because you’re adding the intent statute in front of the other
+**MPC sec 5.01** – I absolutely have to watch this part of the class again
 
-  So we talked about conduct and result, but remember there’s also attendant circumstances.
-  How does one determine the mens rea for attendant circumstances in an attempt?
+**Commonwealth v. McCloskey (PA 1975)** (D working in prison boiler room. Scaled a fence, cut another fence, then changed his mind and went back to work in boiler room. Alarm went off, guards found breach, charged with attempted prison breach. Found not guilty because - the majority says not guilty because only contemplating prison breach; not yet attempting; so no actus reus yet. If we’re talking about dangerous proximity test, maybe no actus reus; substantial factor probably would be found guilty.)
 
-  NYPL 125.27(1) first degree murder when “with intent to cause ….police officer”
+Concurring opinion says that here, there is no – they did do enough to do the actus reus and the mens rea of the crime, but in an attempt crime even if you do that you can have the affirmative defense of abandonment or renunciation of the crime.
 
-  Prof mott kills prof k. prof k is an undercover police officer but prof mott didn’t know that. Prof mott guilty? No
+In common law there was no defense for abandonment, but the MPC was actually instrumental in getting a lot of jurisdictions to adopt this defense.
 
-  But suppose prof k sometimes wore a badge and a reasonable person would have known police officer. Guilty? Yes.
+## Renunciation
 
-  But suppose prof mott tried to kill prof k knowing he was a police officer?
+**NYPL Section 40.10 (3): Renunciation** Under section 110.00 for an attempt … it is an affirmative defense that, (1)	Under circumstances manifesting a voluntary and complete renunciation of his criminal purpose, (2)	The D avoided the commission of the crime attempted by abandoning his criminal effort and,  if mere abandonment was insuffient to accomplish such avoidance, by taking further and affirmative steps which prevented the commission thereof.
 
-  Does someone have to intend the attendant circumstances? No. the mens rea for the attendant circumstance stays the same.
+## Abandonment
 
-  Attempted
-  Intent to commit the underlying crime
+What does “complete” mean (sec 40.10 (5)) – can’t mean oh im going to robb a different bank, or ill rob it tomorrow not today
 
-  1st degree murder
-  Intent to cause death
-  And
-  Defendant knew or reasonably should have known … police officer
+What does “voluntary” mean? (sec 40.10 (5)) –
 
-  Whatever mens rea is required for the actual crime is the same in both situations – in situation of attempt to commit the crime and in situation of committing the crime
+Policy: why don’t we punish someone who satisfies the elements of abandonment? From a retributive standpoint ….
 
-  So if Prof Mott tried to kill you knowing you were a police officer but didn’t manage to kill you, she could be convicted of attempted murder in the first degree? YES
+**The merger doctrine – different from the felony murder merger we talked about**
 
-  How do you draw the line when the person has done some preparation for a crime?
+Inchoate crimes if youre thinking about intent – if mott intends to kill prof k but misses she can be charged with attempted murder. If mott shoots k and kills him, she took substantial step towards killing him and also killed him – so she committed two crimes – attempt to murder and murder. This would mean a conviction of both. You cant double up and convict so of two crimes so we merge.
 
-  The Mannuano case
+NYPL – merger only applies to attempt (i.e. cannot be convicted of attempted murder and murder). In NY you can be convicted of conspiracy and solicitation and either the attempted crime and the completed crime. (check this to make sure) NY takes a more punitive approach.
 
-  Last act test (only completed attempts)
-  “he has done all that is within his power to do, but has been prevented by intervention from outside” (this came from English common law)
+MPC and common law: merger applies to attempt, conspiracy, and solicitation. MPC and common law look at it like once the crime is completed you don’t need two charges.
 
-  So if prof mott pulled out a gun and shot at prof k but gun didn’t fire that would be sufficient for the actus reus
+## Solicitation
 
-  Other courts adopted different tests
+## Inchoate crimes
 
-  Four most common:
+**NYPL Section 100.00 (5th degree solicitation)** (only have to look at 5th because complete) “with intent that another person engage in conduct constituting a crime, he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.”
 
-  Dangerous proximity test
-  Unequivocality (res ipsa loquitur) test
-  MPC test (see slide)
+**Solicitation mens rea – two mens rea requirements** Intent that another person engage in conduct constituting a crime; intends to solicit, request, command, importunes, or otherwise attempt to cause such person to engage in such conduct. (I find it difficult to read intent as applying to “solicit, etc..” as a grammatical construction.)
 
-  Commonwealth v. Peaslee 1901 (man stacked up combustibles in building and left candle and paraffin nearby, then was going to get a boy to set it alight but changed his mind)
+Solicit, command, importune or otherwise attempt to cause such other person to engage in such crime is the actus reus.
 
-  Is preparation enough for actus reus of attempt? Not here, because he was not close enough to completing the crime.
+**State v. Cotton** (D was in jail for sexual abuse, asked wife to ask daughter to not testify, gave letter to so else in jail, person in jail gave letter to law enforcement authorities.)
 
+Issue: if a d’s attempted communication does not reach the person soliciting, does it establish criminal solicitation? Under mpc 5.02 (“designed to effect”) yes. Mpc says if a person designed to commit a crime that is sufficient. In state v cotton, they say no, they left out mpc language; legislature meant not to follow mpc. Why doesn’t court follow mpc? Letter never got to daughter. It that solicitation? Does the NY statute appear to apply to a solicitation that does not reach the solicitee in the mail?)
 
-  2020-11-18
+NYPL 100.00 - With intent that another person…. Such conduct” (see above)
 
-  FOR OUTLINE:
+In NY, yes. If prof mott attempted to solicit so – send letter – but letter wasn’t sent – if mott had mens rea she is still guilty of solicitation.
 
-  Felony murder should recognize that the attempted versions of some crimes should be the basis for felony murder. Attempted robbery is a felony so may be the basis for felony murder; attempted escape is also a felony – attempted crime – crimes which are specified –
+Does that make sense from a policy standpoint? Meh. Utilitarian: deterrence; retributive: bad thing so should be punished
 
-  Second degree murder subsection 3 – if he commits or attempts to commit a burglary, robbery etc. in NY the attempt is defined as the attempt to commit a crime – last class the mens
+## Accomplices categories (common law)
 
+**Principals**
 
-  Attempt mens rea
+- First degree (perpetrators)
+-Second degree (abettors)
 
-  If the underlying crime is not a crime which requires intent – look at the handout on TWEN – you can’t be convicted of attempting a result crime which itself does not require intent towards that result
+**Accessories**
 
-  Second degree manslaughter is recklessly causeing somones death – we do not have intended second degree manslaughter because there is no intent in the stantute – you can’t intend to recklessly cause the death – but for crimes which do not require intent towards the result you cannot have attempt to dcommit tihe crime
+- Before the fact (inciters)
+- After the fact (criminal protectors)
 
-  You cannot have attempted felony murder because felony murder is strict liability; there is no mens rea; no intent
+**Hypo:** If k and m go rob a bank, m goes in and robs bank, k waits in car and then drives m away. M is a first-degree principal. At the scene and doing crime. K is getaway driver. So at the scene. But not actually doing the elements of the crime (taking money by force). K is a second-degree principal. Prof robson gave them the plan of the bank and told them how to rob it, she’s an accessory before the fact. After robbery they came back to school, the dean gave them a hiding place and protected them, so dean is an accessory after the fact.
 
-  So first degree murder requires knowing or should have known – so you can have attempted first degree
+**History:** John Wilkes Booth did a killing. Mary Seurat helped plan the killing. After when Booth was running away he was helped by a doctor mudd. If Mudd knew what had happened, he was an accessory after the fact.  
 
+Accomplice after the fact from common law now generally constitutes a separate crime
 
+Nypl 205.50 hindering a prosecution
 
-  Attempt actus reus tests
+“Accomplice” is NOT a crime itself. NYPL Section 20.00 crim liability for conduct of another (this statute is not a crime but a liability) “when one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct: when, acccting with the mental ccuclpability required for the commission thereof, he solicits requests, commands, kmportunes, or intentionally aids such person to engage in such conduct” Actus reus: solicits, request, commands, importunes, or aids such person to engage in such conduct
 
-  Last act test – only guilty of attempt if they do the last act necessary for the crime; if they point a gun and pull a trigger they will be guilty of attempt but if not not guilty of attempt
+Mens rea:
 
-  Dangerous proximity test
+1.	The mental culpability required for the underlying crime
+2.	Intentionally “solicits, requests, commands, importunes, or … aids such person to engage in such conduct.” the intent to solicit, request, command, importune with the mental culpability required for the commission [of the crime], or intentionally aids such person to engage in such conduct (mens rea term usually doesn’t modify things that went before, but here it makes sense that it does).
 
-  Unequivocality (res ipsa loquitur) test
+To determine the mental culpability required for the underlying crime, you look at the statute of the crime the principal is charged with; if the person meets the mens rea requirement for that statute, punished for that crime. So if k asked m to rob a bank, he could be convicged of solicitation AND of robbibng the bank – if m shot and killed so when robbing the bank, k could be convicted of solicitation, robbing a bank and murder.
 
-  MPC (substantial step test)
+**State v. Hoselten** – HYPOS AFTER THIS CASE ARE MORE IMPORTANT THAN THE CASE!
 
-  Commonwealth v. Peaslee
+**Rule:** Court clarified that lookouts are accomplices in the second degree but lookouts also have to have the mental culpability of the crime.
 
-  Is preparation enough for actus reus of attempt?
+In hypos,
 
-  All of these tests are trying to determine where to draw the line – where should someone be guilty up to that point – at what point should someone be guilty of that crime – innocent ppl should not be punished
+- A.	if K believed that robbers went on boat to retrieve TV, K not guilty because no mens rea
+- B.	K helped them by honking the horn; guilty? No. no intent to commit crime.
+- C.	K’s friends did not ask K to do anything or told him they were going to rob property, but K wanted them to steal property (MR) and aided them by honking horn (AR). So in this situation he would be guilty as an accomplice.
+- D.	Same as C but when K honked horn friends didn’t hear him. Probably yes. Could be argued that he didn’t actually aid them; but it could be argued that just having a lookout helps the people who were committing the crime.
 
-  For example if prof k buys a gun, should he be guilty of attempted murder
+The difference is that a person can be guilty of reckless murder as an accomplice as but not of attempted reckless murder. For accomplice liability you have to have the mens rea in the crime, but you can't have the conscious objective to get a reckless result.
 
-  Page 770 – McQuirter case and racial bias p. 751
+Court said you can be guilty as an accomplice to reckless manslaughter. Because you need the mens rea of the underlying crime, which is recklessly.
 
-  She buys a gun, drives car, drives to v’s house, goes buys a newspaper; reads it; goes out of car with gun; is that enough? She puts her finger on trigger; is that enough? Daughter comes out and hugs father; woman puts gun down. Should she be guilty of attempted murder?
+**Riley v State**
 
-  Question is here no harm has been done; are they deserving of punishment?
+**NYPL Section 20.00 Accomplice Liability** When a person is an accomplice to second degree murder they are charged with second degree murder through this statute”
 
-  Are attempt crimes result crimes? No, they are incomplete. So, there are no
+In the riley case can a person be held liable for a crime whose mens era required sth less than intent. In riley court looked at whether so could be convicted of an accomplice to recklessly causeing serious physical injury … the court said yes. Looked at their Alaska statute for accomplice liability – court said that even though statute said that accomplice liability statute contains intent and offense contains recklessly, yes
 
-  McQuirter – p 751 – troubling that the court has that much discretion
+But suppose prof mott said oh that’s a great idea where you try shooting so in class even though you've killed so every year when you did it here ill put the blindfold on you. Could prof mott also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense. Yes, if prof mott also has the mens rea required for the offense, she has all the elements – by being reckless and intentionally aiding prof k in the conduct, she could also... Here prof mott had recklessness to cause death – so mott had  mens rea
 
-  We have attempt crimes to prevent bad things happening
+**The attempt statute contains the intent mens rea**
 
-  People v. Rizzo
+The accomplice liability statute only contains the mens rea of the underlying crime
 
-  Defendants had firearms, driving around in car looking for Rao. Is Rizzo guilty of attempted robbery?
-  What test does the court apply? Dangerous proximity test.
+You can attempt a reckless conduct crime; you can’t attempt a reckless result crime
 
-  For the dangerous proximity test, to satisfy the actus reus element the d must come dangerously close to committing the crime.
+You can be an accomplice to a reckless result crime
 
-  In an attempt crime, we have actus reus, we have mens rea. Tends to affect the commission of the crime.
-
-  If youre analyzing rizzo’s culpability you look at actus rea all elements, and if in ny you would do the dangerous proximity test
-
-  To establish the actus reus, you have the ar if the person
-
-  Dangerous proximity test: An act amount to an attempt when it is so near to the result that the danger of success is very great
-
-  The act must come very near to the accomplishment of the crime
-
-  Did rizzo come very near to the completion of the crime? Court held that the conviction should be reversed because even though they planned to commit a crime he did not come dangerously close to committing it.
-
-   HYPO on p. 776 (1) (B)
-
-  D provided burglars with diagram of warehouse – would d be guilty of attempted robbery? Attempted grand larceny because he intended to get proceeds of insurance proceeds? Could argue both ways. D still had several steps to do in order to get insurance proceeds
-
-  People v. Miller
-
-  Dangerous proximity case? Def stronger ccase than rizzo – could be argued both ways
-  Ca applies a diff test; res ipsa loquitur test – the thing speaks for itself – court said no not guilty; only preparation
-  Unequivocality test – acts must be unequivocal. The court said that Miller’s going into the rield with his gun did not clearly show that he intended to kill
-
-  Res ipsa loquitur (or unequivocality) test: Under strict version of the test, an act only constitutes an attempt if the actor’s specific criinal purpose is shown from the actor’s conduct, without considering any statements the actor may have made before, during or after the incident.
-
-  MPC would say that this puts less reliance on confession, so convictions are not so much based on
-
-
-  Girls – poison teacher – find case see recording – I was reading next case
-
-  Prob didn’t come dang close
-
-  How did the statute change the law 781? Statute included a substantial step. Change the law to include that conduct include a substantial step toward the commission of the offense; so under the way the law was changed, - did they take a substantial step from the beginning? While dang proxi sees how close they got the mpc looks at how substantial a step they took towards s\commission of the crime
-
-  MPC sec 5.01 – I absolutely have to watch this part of the class again because I’m reading the next case
-
-  Commonwealth v. McCloskey PA 1975
-
-  D working in prison boiler room. Scaled a fence, cut another fence, then changed his mind and went back to work in boiler room. Alarm went off, guards found breach, charged with attempted prison breach. Found not guilty because
-
-  The majority says not guilty because only contemplating prison breach; not yet attempting; so no actus reus yet. If we’re talking about dangerous proximity test, maybe no actus reus; substantial factor probably would be found guilty.
-
-  Concurring opinion says that here, there is no – they did do enough to do the actus reus and the mens rea of the crime, but in an attempt crime even if you do that you can have the affirmative defense of abandonment or renunciation of the crime.
-
-  In common law there was no defense for abandonment, but the MPC was actually instrumental in getting a lot of jurisdictions to adopt this defense.
-
-  Affirmative defense means burden is on the defendant
-
-  NYPL SEC 40.10 (3): Renunciation
-
-  Under section 110.00 for an attempt … it is an affirmative defense that,
-  (1)	Under circumstances manifesting a voluntary and complete renunciation of his criminal purpose,
-  (2)	The D avoided the commission of the crime attempted by abandoning his criminal effort and,  if mere abandonment was insuffient to accomplish such avoidance, by taking further and affirmative steps which prevented the commission thereof.
-
-  Abandonment
-
-  What does “complete” mean (sec 40.10 (5)) – can’t mean oh im going to robb a different bank, or ill rob it tomorrow not today
-
-  What does “voluntary” mean? (sec 40.10 (5)) –
-
-  Policy: why don’t we punish someone who satisfies the elements of abandonment? From a retributive standpoint ….
-
-  11-23-20
-
-  The merger doctrine – different from the felony murder merger we talked about
-
-  Inchoate crimes if youre thinking about intent – if mott intends to kill prof k but misses she can be charged with attempted murder. If mott shoots k and kills him, she took substantial step towards killing him and also killed him – so she committed two crimes – attempt to murder and murder. This would mean a conviction of both. You cant double up and convict so of two crimes so we merge.
-
-  NYPL – merger only applies to attempt (i.e. cannot be conv of attemted murder and murder)
-  In NY you ccan be convicted of conspiracy and solicitation and either the attempted crime and the completed crime. (check this to make sure) NY takes a more pumitive approach.
-
-  MPC and common law: merger applies to attempt, conspiracy, and solicitation.
-  MPC and common law look at it like once the crime is completed you don’t need two charges.
-
-  Solicitation
-
-  Inchoate crimes
-
-  NYPL SECTION 100.00 (5TH degree solicitation) (only have to look at 5th because complete)
-
-  “with intent that another person engage in conduct constituting a crime, he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.”
-
-  Solicitation mens rea – two mens rea requirements
-  Intent that another person engage in conduct constituting a crime; intends to solicit, request, command, importunes, or otherwise attempt to cause such person to engage in such conduct.
-
-  I find it difficult to read intent as applying to “solicit, etc..” as a grammatical construction.
-
-  Solicit, command, importune or otherwise attempt to cause such other person to engage in such crime is the actus reus.
-
-  State v. Cotton
-
-  Issue: if a d’s attempted communication does not reach the person soliciting, does it establish criminal solicitation?
-
-  Under mpc 5.02 (“designed to effect”) yes. Mpc says if a person designed to commit a crime that is sufficient.
-  In state v cotton, they say no, they left out mpc language; legislature meant not to follow mpc.
-  Why doesn’t court follow mpc?
-
-  D was in jail for sexual abuse, asked wife to ask daughter to not testify, gave letter to so else in jail, person in jail gave letter to law enforcement authorities.
-
-  Letter never got to daughter. It that solicitation?
-
-  Does the NY statute appear to apply to a solicitation that does not reach the solicitee in the mail?
-
-  NYPL 100.00
-
-  With intent that another person…. Such conduct” (see above)
-
-  In NY, yes. If prof mott attempted to solicit so – send letter – but letter wasn’t sent – if mott had mens rea she is still guilty of solicitation.
-
-  Does that make sense from a policy standpoint? Meh. Utilitarian: deterrence; retributive: bad thing so should be punished
-
-  Accomplices categories (common law)
-
-  Principals
-  First degree (perpetrators)
-  Second degree (abettors)
-
-  Accessories
-  Before the fact (inciters)
-  After the fact (criminal protectors)
-
-  If k and m go rob a bank, m goes in and robs bank, k waits in car and then drives m away. M is a first-degree principal. At the scene and doing crime. K is getaway driver. So at the scene. But not actually doing the elements of the crime (taking money by force). K is a second-degree principal.
-
-  Prof robson gave them the plan of the bank and told them how to rob it, she’s an accessory before the fact. After robbery they came back to school, the dean gave them a hiding place and protected them, so dean is an accessory after the fact.
-
-  John Wilkes Booth did a killing. Mary Seurat helped plan the killing. After when Booth was running away he was helped by a doctor mudd. If Mudd knew what had happened, he was an accessory after the fact.  
-
-  In most states today…
-
-  Accomplice after the fact from common law now generally constitutes a separate crime
-
-  Nypl 205.50 hindering a prosecution
-
-  “Accomplice” is NOT a crime itself.
-
-  NYPL Section 20.00 crim liability for conduct of another (this statute is not a crime but a liability)
-
-  “when one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct: when, acccting with the mental ccuclpability required for the commission thereof, he solicits requests, commands, kmportunes, or intentionally aids such person to engage in such conduct”
-
-  Actus reus: solicits, request, commands, importunes, or aids such person to engage in such conduct
-
-  Mens rea:
-  1.	The mental culpability required for the underlying crime
-  2.	Intentionally “solicits, requests, commands, importunes, or … aids such person to engage in such conduct.”
-  the intent to solicit, request, command, importune with the mental culpability required for the commission [of the crime], or intentionally aids such person to engage in such conduct (mens rea term usually doesn’t modify things that went before, but here it makes sense that it does).
-
-  To determine the mental culpability required for the underlying crime, you look at the statute of the crime the principal is charged with; if the person meets the mens rea requirement for that statute, punished for that crime.
-
-  So if k asked m to rob a bank, he could be convicged of solicitation AND of robbibng the bank – if m shot and killed so when robbing the bank, k could be convicted of solicitation, robbing a bank and murder.
-
-  State v. hoselten – HYPOS AFTER THIS CASE ARE MORE IMPORTANT THAN THE CASE!
-
-  Court clarified that lookouts are accomplices in the second degree but lookouts also have to have the mental culpability of the crime.
-
-  In hypos,
-
-  A.	if K believed that robbers went on boat to retrieve TV, K not guilty because no mens rea
-  B.	K helped them by honking the horn; guilty? No. no intent to commit crime.
-  C.	K’s friends did not ask K to do anything or told him they were going to rob property, but K wanted them to steal property (MR) and aided them by honking horn (AR). So in this situation he would be guilty as an accomplice.
-  D.	Same as C but when K honked horn friends didn’t hear him. Probably yes. Could be argued that he didn’t actually aid them; but it could be argued that just having a lookout helps the people who were committing the crime.
-
-  Riley v. State (we’ll continue with this mon 11/30)
-
-  The difference is that a person can be guilty of reckless murder as an accomplice as but not of attempted reckless murder. For accomplice liability you have to have the mens rea in the crime, but you can't have the conscious objective to get a reckless result.
-
-
-
-  D’s convicted of … recklessly
-
-  Court said you can be guilty as an accomplice to reckless manslaughter. Because you need the mens rea of the underlying crime, which is recklessly.
-
-  2020-11-30
-
-  Riley v State
-
-  NYPL Section 20.00 Accomplice Liability
-
-  “when one person ….when (see slide)”
-
-  When a person is an accomplice to second degree murder they are charged with second degree murder through this statute”
-
-  In the riley case can a person be held liable for a crime whose mens era required sth less than intent.
-
-  In riley court looked at whether so could be convicted of an accomplice to recklessly causeing serious physical injury … the court said yes. Looked at their Alaska statute for accomplice liability – court said that even though statute said that accomplice liability statute contains intent and offense contains recklessly, yes
-
-  Why can – in nypl – so can be convicted of attempted recklessly killing so
-
-  (second degree manslaughter)
-
-  But suppose prof mott said oh that’s a great idea where you try shooting so in class even though you've killed so every year when you did it here ill put the blindfold on you. Could prof mott also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense.
-
-  Yes, if prof mott also has the mens rea required for the offense, she has all the elements – by being reckless and intentionally aiding prof k in the conduct, she could also
-
-  Here prof mott had recklessness to cause death – so mott had  mens rea
-
-  The attempt statute contains the intent mens rea
-
-  The accomplice liability statute only contains the mens rea of the underlying crime
-
-  You can attempt a reckless conduct crime; you can’t attempt a reckless result crime
-
-  You can be an accomplice to a reckless result crime
-
-  S 20.00 Criminal liability for conduct of another.
-  When one person engages in conduct which constitutes an offense,
-another person is criminally liable for such conduct when, acting with
-the mental culpability required for the commission thereof, he solicits,
-requests, commands, importunes, or intentionally aids such person to
-engage in such conduct.
+**NYPL Section 20.00 Criminal liability for conduct of another.** When one person engages in conduct which constitutes an offense,
+another person is criminally liable for such conduct when, acting with the mental culpability required for the commission thereof, he solicits, requests, commands, importunes, or intentionally aids such person to engage in such conduct.
