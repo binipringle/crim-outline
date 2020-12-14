@@ -1089,11 +1089,11 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 **New York Burdens** See NYPL Section 25.00. SEE NYPL SECTION 35.15 Self defense.
 
-## A. Justification Defenses
-
-MPC drafters position was that any culpability which arises from a mistaken belief in the need to use [deadly] force should be no greater than the culpability such a mistake would give rise to if it were made with respect to an element of a crime. Under **MPC Section 3.04**, if a person mistakenly believed that they were justified in using deadly force, if the belief were recklessly or negligently formed, the person could be convicted of the homicide requiring only a reckless or negligent mens rea.  MPC test is wholly subjective; differed from law in most states by its omission of any requirement of reasonableness. **NYPL Section 35.15** chose to use a single statutory section which would provide either a complete defense or no defense. **Drafters of NYPL crucially inserted word “reasonably” before “believes.”** Plurality agreed that drafters of NYPL 35.15 evinced a legislative intent to conform to the subjective standard in MPC. However, the Court of Appeals finds that if this had been their intent, drafters of NYPL 35.15 would have simply used the language from MPC 3.04.
+# Justification Defenses
 
 **Self-defense rule:** In a justification of self-defense, an objective standard of reasonableness must be based on the “circumstances” facing a defendant or his “situation,” including any relevant knowledge the defendant had about the potential assailant, the physical attributes of all persons involved, any prior experiences the defendant had which could provide a reasonable basis for a belief that another person’s intentions were to injure or rob him or that the use of deadly force was necessary under the circumstances. (532)
+
+MPC drafters position was that any culpability which arises from a mistaken belief in the need to use [deadly] force should be no greater than the culpability such a mistake would give rise to if it were made with respect to an element of a crime. Under **MPC Section 3.04**, if a person mistakenly believed that they were justified in using deadly force, if the belief were recklessly or negligently formed, the person could be convicted of the homicide requiring only a reckless or negligent mens rea.  MPC test is wholly subjective; *differed from law in most states by its omission of any requirement of reasonableness.* **NYPL Section 35.15** chose to use a single statutory section which would provide either a complete defense or no defense. **Drafters of NYPL crucially inserted word “reasonably” before “believes.”** Plurality agreed that drafters of NYPL 35.15 evinced a legislative intent to conform to the subjective standard in MPC. However, the Court of Appeals finds that if this had been their intent, drafters of NYPL 35.15 would have simply used the language from MPC 3.04.
 
 **Self-defense and defense of others: NYPL Section 35.15 Justification; use of physical force in defense of a person.** (1) A person may, subject to the provisions of subdivision two, use physical force upon another person when and to the extent he or she reasonably believes such to be necessary to defend himself, herself or a third person from what he or she reasonably believes to be the use or imminent use of unlawful physical force by such other person, unless: (a) The latter's conduct was provoked by the actor with intent to cause physical injury to another person; or (b) The actor was the initial aggressor; except that in such case the use of physical force is nevertheless justifiable if the actor has withdrawn from the encounter and effectively communicated such withdrawal to such other person but the latter persists in continuing the incident by the use or threatened imminent use of unlawful physical force; or (c) The physical force involved is the product of a combat by agreement not specifically authorized by law. (2) A person may not use deadly physical force upon another person under circumstances specified in subdivision one unless: (a) The actor reasonably believes that such other person is using or about to use deadly physical force. Even in such case, however, the actor may not use deadly physical force if he or she knows that with complete personal safety, to oneself and others he or she may avoid the necessity of so doing by retreating; except that the actor is under no duty to retreat if he or she is: (i) in his or her dwelling and not the initial aggressor; or (ii) a police officer or peace officer or a person assisting a police officer or a peace officer at the latter's direction, acting pursuant to section 35.30; or (b) He or she reasonably believes that such other person is committing or attempting to commit a kidnapping, forcible rape, forcible criminal sexual act or robbery; or (c) He or she reasonably believes that such other person is committing or attempting to commit a burglary, and the circumstances are such that the use of deadly physical force is authorized by subdivision three of section 35.20.
 
@@ -1130,7 +1130,6 @@ MPC drafters position was that any culpability which arises from a mistaken beli
 **Battered spouse defense is not a defense;** the defense attorneys took bsd and took the self-defense defense and used it with the expert testimony to support the claim that she reasonably believed that her husband posed an imminent deadly threat to her person. There was enough for the jury to weigh the expert testimony to derernmine if she reasonabley believed that threat was imminent.
 
 **Note:** Attorneys often prefer to try to make an argument under self-defense because EED is a partial defense – it would just reduce the crime to manslaughter. Another reason is that self-defense is a justification defense; the burden of proof is on the prosecution; because saying someone is justified is given more weight than if you are saying someone is excused; a policy reason for trying to make the argument for … There are still critiques of this defense from other perspectives – the successful woman as opposed to the a victim – scholars have argued that – in some ways its progressive to bring up these arguments but there are also questions of who the law excludes.
-
 
 ## Self-defense (non-deadly)
 
@@ -1216,7 +1215,7 @@ Someone might break a trespassing law to protest a nuclear power plant; they are
 
 **So NY has a provision that says you cannot use necessity defense in the case that you are protesting the statute or law itself.** Why? Because the idea is that if you want the law changed you should go through the political process as opposed to breaking the laws to protest. This is often not feasible because you want to bring attention to the law.
 
-## Necessity and Duress
+## Necessity
 
 **Queen v. Dudley & Stephens** (Here we’re seeing some of the opinion that we didn’t see back then. Here we are looking at different aspect – necessity)
 
@@ -1230,9 +1229,7 @@ Someone might break a trespassing law to protest a nuclear power plant; they are
 
 **Hypo:** Doctor. Going to do kidney transplant. Has no kidney. Prof K walks in for annual physical. Doctor puts him to sleep and harvests heart and kidney, saves ten people who would otherwise have died. No difference between doctor and trolley driver.
 
-# Duress
-
-## B.Excuse Defenses
+# Excuse Defenses
 
 **Duress: NYPL Section 40.00 Duress.** (1) In any prosecution for an offense, it is an affirmative defense that the defendant engaged in the proscribed conduct because he was coerced to do so by the use or threatened imminent use of unlawful physical force upon him or a third person, which force or threatened force a person of reasonable firmness in his situation would have been unable to resist. (2) The defense of duress as defined in subdivision one of this section is not available when a person intentionally or recklessly places himself in a situation in which it is probable that he will be subjected to duress.
 
@@ -1260,9 +1257,19 @@ MPC does allow duress as a defense to homicide; NYPL also allows duress as a def
 
 Interesting is concurring dissenting opinon agree with court that it doesn’t apply but provides a hypo, saying that it should be available in some situations where if robbers go into someone car and force him to drive very fast and he kills someone. The dissent says the driver should have the defense of duress in this situation. Driver charged with recklessness with depraved indifference. Even if duress defense not applicable, not necessary, because defense could be that the driver wouldn’t have the mens rea of the crime.
 
-# Attempt Crimes 	
+# Attempt Crimes
 
-## Solicitation crimes 	and accomplice liability
+**Incomplete attempt** – does some of what is required to commit the crime but not everything
+
+**Complete attempt** – a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they miss)
+
+**MPC 5.05**
+
+**NYPL 110.05**
+
+In common law attempt crimes were punished less than the actual crime. The MPC and NYPL take a little different approach – MPC less except for severe crimes – NYPL more for less severe crimes (drug crimes is why) 	
+
+## Solicitation crimes and accomplice liability
 
 **NYPL Section 110.00: Attempt to commit a crime** A person is guilty of an attempt to commit a crime when (1) with intent to commit a crime, (2) he engages in conduct which tends to effect the commission of such crime. 	
 
@@ -1292,18 +1299,6 @@ Required Actus Reus elements:
 2.	voluntary act 	Required Actus Reus elements: (1) solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct; (2) voluntary act
 3. need to show the other person committed the underlying crime
 4. Affirmative Defense: Renunciation 	
-
-#  Attempt
-
-**Incomplete attempt** – does some of what is required to commit the crime but not everything
-
-**Complete attempt** – a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they miss)
-
-**MPC 5.05**
-
-**NYPL 110.05**
-
-In common law attempt crimes were punished less than the actual crime. The MPC and NYPL take a little different approach – MPC less except for severe crimes – NYPL more for less severe crimes (drug crimes is why)
 
 ## Attempt crimes in NY
 
@@ -1414,9 +1409,7 @@ NYPL – merger only applies to attempt (i.e. cannot be convicted of attempted m
 
 MPC and common law: merger applies to attempt, conspiracy, and solicitation. MPC and common law look at it like once the crime is completed you don’t need two charges.
 
-## Solicitation
-
-## Inchoate crimes
+# Inchoate crimes
 
 **NYPL Section 100.00 (5th degree solicitation)** (only have to look at 5th because complete) “with intent that another person engage in conduct constituting a crime, he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.”
 
