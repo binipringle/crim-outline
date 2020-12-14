@@ -1254,52 +1254,13 @@ MPC does allow duress as a defense to homicide; NYPL also allows duress as a def
 
 Interesting is concurring dissenting opinon agree with court that it doesn’t apply but provides a hypo, saying that it should be available in some situations where if robbers go into someone car and force him to drive very fast and he kills someone. The dissent says the driver should have the defense of duress in this situation. Driver charged with recklessness with depraved indifference. Even if duress defense not applicable, not necessary, because defense could be that the driver wouldn’t have the mens rea of the crime.
 
-# Attempt Crimes
+## Inchoate Crimes: Attempt
 
-**Incomplete attempt** – does some of what is required to commit the crime but not everything
+**Big Rule:** Inchoate crimes are a type of crime completed by taking a punishable step towards the commission of another crime.  The basic inchoate offenses are attempt, solicitation, and conspiracy.  Except for conspiracy, inchoate offenses merge into the attempted (or “target” crime).  This means that if the defendant is prosecuted for the attempted crime, attempt and solicitation cannot be charged as well.  There are two types of attempt crimes: (1) incomplete attempt, where a person does some of what is required to commit the crime but not everything, and (2) complete attempt, where a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they fire and miss). Under the Model Penal Code, the attempt versions of more severe crimes are punished less severely. Under New York law, it is the other way around, where attempts to commit less severe crimes are punished more severely than attempts to commit severe crimes such as murder. This is largely because of New York’s drug laws enacted with the 1994 Crime Bill.
 
-**Complete attempt** – a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they miss)
+Different jurisdictions have different tests to determine whether an attempt is incomplete or complete. Common law uses the Last Act Test, which rules that a person is only guilty of attempt if they do the last act necessary for the crime (i.e., if they point a gun and pull a trigger they will be guilty of attempt but if they don’t pull the trigger, they won’t). New York uses the Dangerous Proximity Test, which rules that an act amounts to an attempt when it is so near to the result that the danger of success is very great. Many jurisdictions use the res ipsa loquitur (or “unequivocality”) test where, under its strict version, an act only constitutes an attempt if the actor’s specific criminal purpose is shown from the actor’s conduct, without considering any statements the actor may have made before, during or after the incident. The Model Penal Code uses the substantial steps test, which has two parts. First, the defendant must take substantial steps toward completion of the crime. Second, the defendant’s actions must be “strongly corroborative of the actor’s criminal purpose.” (Model Penal Code § 5.01(2)). In some jurisdictions, attempt crimes have the affirmative defenses of (1) voluntary and complete renunciation, and (2) abandonment, where the defendant avoided the commission of the attempted crime attempted by abandoning it.
 
-**MPC 5.05**
-
-**NYPL 110.05**
-
-In common law attempt crimes were punished less than the actual crime. The MPC and NYPL take a little different approach – MPC less except for severe crimes – NYPL more for less severe crimes (drug crimes is why) 	
-
-## Solicitation crimes and accomplice liability
-
-**NYPL Section 110.00: Attempt to commit a crime** A person is guilty of an attempt to commit a crime when (1) with intent to commit a crime, (2) he engages in conduct which tends to effect the commission of such crime. 	
-
-**NYPL Section 100.00 (5th Degree Solicitation)**  (1) with intent that another person engage in conduct constituting a crime, (2) he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.
-
-**NYPL §20.00: Criminal Liability for Conduct of Another** When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when: acting with the mental culpability required for the commission thereof, he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
-
-**MENS REA 	MENS REA 	MENS REA**
-
-You need:
-1.	Intent to commit the underlying crime  
-2.	The mens rea for the Attendant Circumstances of the underlying crime (if there are any)
-
-NOTE: It’s NOT possible to attempt a reckless/negligent result crime. You need:
-1.	Intent that another person commit the crime
-2.	Intent to solicit, request, command, importune or otherwise attempt to cause such other person to engage in such conduct
-
-(presume that mens rea term modifies everything in the statute) 	You need:  
-1.	The mental culpability required for the underlying crime
-2.	Intent to solicit, request, command, importune, or intentionally aid such person to engage in such conduct
-
-NOTE: It’s possible to be an accomplice of a reckless/negligent result crime.
-**ACTUS REUS 	ACTUS REUS 	ACTUS REUS**
-
-Required Actus Reus elements:
-1.	engages in conduct which tends to effect the commission of such crime. (USE TESTS)
-2.	voluntary act 	Required Actus Reus elements: (1) solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct; (2) voluntary act
-3. need to show the other person committed the underlying crime
-4. Affirmative Defense: Renunciation 	
-
-## Attempt crimes in NY
-
-**Rule:** In New York, there is no definition of attempted robbery separate from the robbery statute, no separate definition of attempted murder, and so on, so the courts have to look at the attempt statute (NYPL Section 110.00) together with the statute of the attempted crime. In NYPL 110.00, which states “a person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime,” the mens rea is intent. The actus reus is “engage in conduct which tends to effect the commission of such crime.” If the underlying crime is not a crime which requires intent, a defendant cannot be convicted of attempting a result crime which itself does not require intent towards that result.
+**Shorter rule:** There are two kinds of attempt crimes. Incomplete attempt, where a person does some of what is required to commit the crime but not everything, and complete attempt, where a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they fire and miss). In New York, there is no definition of attempted robbery separate from the robbery statute, no separate definition of attempted murder, and so on, so the courts have to look at the attempt statute (NYPL Section 110.00) together with the statute of the attempted crime. In NYPL 110.00, which states “a person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime,” the mens rea is intent. The actus reus is “engage in conduct which tends to effect the commission of such crime.” If the underlying crime is not a crime which requires intent, a defendant cannot be convicted of attempting a result crime which itself does not require intent towards that result.
 
 **NYPL Section 110.00 Attempt to commit a crime.** A person is guilty of an attempt to commit a crime when, with intent
 to commit a crime, he engages in conduct which tends to effect the commission of such crime.
@@ -1308,6 +1269,42 @@ to commit a crime, he engages in conduct which tends to effect the commission of
 
 **110.10 Attempt to commit a crime; no defense.** If the conduct in which a person engages otherwise constitutes an
 attempt to commit a crime pursuant to section 110.00, it is no defense to a prosecution for such attempt that the crime charged to have been attempted was, under the attendant circumstances, factually or legally impossible of commission, if such crime could have been committed had the attendant circumstances been as such person believed them to be.
+
+## Solicitation crimes and accomplice liability
+
+**NYPL Section 100.00 (5th Degree Solicitation)**  (1) with intent that another person engage in conduct constituting a crime, (2) he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.
+
+**NYPL §20.00: Criminal Liability for Conduct of Another** When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when: acting with the mental culpability required for the commission thereof, he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
+
+## Steps of analysis
+
+**MENS REA 	MENS REA 	MENS REA**
+
+You need:
+
+1.	Intent to commit the underlying crime  
+2.	The mens rea for the Attendant Circumstances of the underlying crime (if there are any)
+
+NOTE: It’s NOT possible to attempt a reckless/negligent result crime. You need:
+
+1.	Intent that another person commit the crime
+2.	Intent to solicit, request, command, importune or otherwise attempt to cause such other person to engage in such conduct
+
+(presume that mens rea term modifies everything in the statute) 	You need:
+
+1.	The mental culpability required for the underlying crime
+2.	Intent to solicit, request, command, importune, or intentionally aid such person to engage in such conduct
+
+NOTE: It’s possible to be an accomplice of a reckless/negligent result crime.
+
+**ACTUS REUS 	ACTUS REUS 	ACTUS REUS**
+
+Required Actus Reus elements:
+
+1.	engages in conduct which tends to effect the commission of such crime. (USE TESTS)
+2.	voluntary act 	Required Actus Reus elements: (1) solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct; (2) voluntary act
+3. need to show the other person committed the underlying crime
+4. Affirmative Defense: Renunciation
 
 <p style="margin-left:7%; margin-right:10%;"><b>People v. Gentry (1987)</b> (Couple drinking heavily, argument, man doused woman with gasoline, woman said she went to kitchen and accidentally set herself on fire.)</p>
 
@@ -1364,7 +1361,7 @@ Is preparation enough for actus reus of attempt? All of these tests are trying t
 
 Question is here no harm has been done; are they deserving of punishment? Are attempt crimes result crimes? No, they are incomplete. So, there are no... McQuirter – p 751 – troubling that the court has that much discretion. We have attempt crimes to prevent bad things happening.
 
-**Dangerous proximity test**
+## Dangerous proximity test
 
 **People v. Rizzo** Defendants had firearms, driving around in car looking for Rao. Is Rizzo guilty of attempted robbery? What test does the court apply? Dangerous proximity test. Did rizzo come very near to the completion of the crime? Court held that the conviction should be reversed because even though they planned to commit a crime he did not come dangerously close to committing it.
 
@@ -1376,11 +1373,19 @@ In an attempt crime, we have actus reus, we have mens rea. Tends to affect the c
 
 **People v. Miller** Dangerous proximity case? Def stronger ccase than rizzo – could be argued both ways. Ca applies a diff test; **res ipsa loquitur test** – the thing speaks for itself – court said no not guilty; only preparation **Unequivocality test** – acts must be unequivocal. The court said that Miller’s going into the rield with his gun did not clearly show that he intended to kill
 
-**Res ipsa loquitur (or unequivocality) test RULE:** Under strict version of the test, an act only constitutes an attempt if the actor’s specific criinal purpose is shown from the actor’s conduct, without considering any statements the actor may have made before, during or after the incident. MPC would say that this puts less reliance on confession, so convictions are not so much based on ...
+## Res ipsa loquitur (or unequivocality) test
+
+**RULE:** Under strict version of the test, an act only constitutes an attempt if the actor’s specific criinal purpose is shown from the actor’s conduct, without considering any statements the actor may have made before, during or after the incident. MPC would say that this puts less reliance on confession, so convictions are not so much based on ...
 
 Girls – poison teacher – Prob didn’t come dang close
 
 How did the statute change the law 781? **Statute included a substantial step.** Change the law to include that conduct include a substantial step toward the commission of the offense; so under the way the law was changed, - did they take a substantial step from the beginning? While dang proxi sees how close they got the mpc looks at how substantial a step they took towards s\commission of the crime
+
+**Model Penal Code Substantial Steps Test**
+
+The Model Penal Code developed the substantial steps test in response to the large variance between different jurisdictions in evaluating the criminal act element required for attempt. The substantial steps test is intended to clarify and simplify the attempt act analysis, to prevent arbitrary application. It is also a test that is more likely to result in a conviction because it classifies as “substantial” those acts the other tests might consider only “preparatory” (People v. Dillon, 2011).
+
+The substantial steps test has two parts. First, the defendant must take substantial steps toward completion of the crime. As the Model Penal Code states, “[a] person is guilty of an attempt to commit a crime if…he…does…anything which…is an act or omission constituting a substantial step in a course of conduct planned to culminate in his commission of the crime” (Model Penal Code § 5.01(1)(c)). Second, the defendant’s actions must be “strongly corroborative of the actor’s criminal purpose” (Model Penal Code § 5.01(2)). To further elucidate the test, the Model Penal Code provides seven examples of actions that constitute substantial steps, as long as they are corroborative of the defendant’s intent. The seven examples are lying in wait; enticing the victim to go to the scene of the crime; investigating the potential scene of the crime; unlawfully entering a structure or vehicle where the crime is to be committed; possessing materials that are specially designed for unlawful use; possessing, collecting, or fabricating materials to be used in the crime’s commission; and soliciting an innocent agent to commit the crime (Model Penal Code § 5.01(2)).
 
 **MPC sec 5.01** – I absolutely have to watch this part of the class again
 
