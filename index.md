@@ -1407,6 +1407,14 @@ Policy: why don’t we punish someone who satisfies the elements of abandonment?
 
 **NYPL §20.00: Criminal Liability for Conduct of Another** When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when: acting with the mental culpability required for the commission thereof, he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
 
+**MPC SECTION 2.05. WHEN CULPABILITY REQUIREMENTS ARE INAPPLICABLE TO VIOLATIONS AND TO OFFENSES DEFINED BY OTHER STATUTES; EFFECT OF ABSOLUTE LIABILITY IN REDUCING GRADE OF OFFENSE TO VIOLATION**
+(1)    The requirements of culpability prescribed by Sections 2.01 and 2.02 do not apply to:
+(a)    offenses which constitute violations, unless the requirement involved is included in the definition of the offense or the Court determines that its application is consistent with effective enforcement of the law defining the offense; or
+(b)    offenses defined by statutes other than the Code, insofar as a legislative purpose to impose absolute liability for such offenses or with respect to any material element thereof plainly appears.
+(2)    Notwithstanding any other provision of existing law and unless a subsequent statute otherwise provides:
+(a)    when absolute liability is imposed with respect to any material element of an offense defined by a statute other than the Code and a conviction is based upon such liability, the offense constitutes a violation; and
+(b)    although absolute liability is imposed by law with respect to one or more of the material elements of an offense defined by a statute other than the Code, the culpable commission of the offense may be charged and proved, in which event negligence with respect to such elements constitutes sufficient culpability and the classification of the offense and the sentence that may be imposed therefor upon conviction are determined by Section 1.04 and Article 6 of the Code.
+
 **MPC SECTION 2.06. LIABILITY FOR CONDUCT OF ANOTHER; COMPLICITY**
 (1)    A person is guilty of an offense if it is committed by his own conduct or by the conduct of another person for which he is legally accountable, or both.
 (2)    A person is legally accountable for the conduct of another person when:
@@ -1428,17 +1436,11 @@ Policy: why don’t we punish someone who satisfies the elements of abandonment?
 (ii)    gives timely warning to the law enforcement authorities or otherwise makes proper effort to prevent the commission of the offense.
 (7)    An accomplice may be convicted on proof of the commission of the offense and of his complicity therein, though the person claimed to have committed the offense has not been prosecuted or convicted or has been convicted of a different offense or degree of offense or has an immunity to prosecution or conviction or has been acquitted.
 
-**NYPL Section 100.00 (5th degree solicitation)** (only have to look at 5th because complete) “with intent that another person engage in conduct constituting a crime, he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.”
-
-**Solicitation mens rea – two mens rea requirements** Intent that another person engage in conduct constituting a crime; intends to solicit, request, command, importunes, or otherwise attempt to cause such person to engage in such conduct. (I find it difficult to read intent as applying to “solicit, etc..” as a grammatical construction.)
-
-Solicit, command, importune or otherwise attempt to cause such other person to engage in such crime is the actus reus.
-
 **State v. Cotton** (D was in jail for sexual abuse, asked wife to ask daughter to not testify, gave letter to so else in jail, person in jail gave letter to law enforcement authorities.)
 
 **RULE:** An uncommunicated solicitation is insufficient to constitute the offense of criminal solicitation.
 
-Issue: if a d’s attempted communication does not reach the person soliciting, does it establish criminal solicitation? Under mpc 5.02 (“designed to effect”) yes. Mpc says if a person designed to commit a crime that is sufficient. In state v cotton, they say no, they left out mpc language; legislature meant not to follow mpc. Why doesn’t court follow mpc? Letter never got to daughter. It that solicitation? Does the NY statute appear to apply to a solicitation that does not reach the solicitee in the mail?) In NY, yes. If prof M attempted to solicit so – send letter – but letter wasn’t sent – if M had mens rea she is still guilty of solicitation. **Does that make sense from a policy standpoint? Meh. Utilitarian: deterrence; retributive: bad thing so should be punished**
+**Issue:** if a d’s attempted communication does not reach the person soliciting, does it establish criminal solicitation? Under mpc 5.02 (“designed to effect”) yes. Mpc says if a person designed to commit a crime that is sufficient. In state v cotton, they say no, they left out mpc language; legislature meant not to follow mpc. Why doesn’t court follow mpc? Letter never got to daughter. It that solicitation? Does the NY statute appear to apply to a solicitation that does not reach the solicitee in the mail?) In NY, yes. If prof M attempted to solicit so – send letter – but letter wasn’t sent – if M had mens rea she is still guilty of solicitation. **Does that make sense from a policy standpoint? Meh. Utilitarian: deterrence; retributive: bad thing so should be punished**
 
 ## Accomplices categories (common law)
 
