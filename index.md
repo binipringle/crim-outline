@@ -1276,6 +1276,8 @@ attempt to commit a crime pursuant to section 110.00, it is no defense to a pros
 
 **NYPL §20.00: Criminal Liability for Conduct of Another** When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when: acting with the mental culpability required for the commission thereof, he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
 
+**The merger doctrine – different from the felony murder merger we talked about** The merger doctrine for attempt crimes is different from the merger that courts apply in felony murder cases. The merger doctrine in attempt crimes provides that the crime of attempt to commit a crime cannot be merged with the completed crime. In New York this merger only applies to murder (i.e. a person cannot be convicted of attempted murder and murder). In New York, a person can be convicted of conspiracy and solicitation and either the attempted crime and the completed crime. New York takes a more punitive approach than the Model Penal Code and common law, where the merger applies to attempt, conspiracy, and solicitation. MPC and common law consider that once the crime is completed, two charges are unnecessary.
+
 ## Steps of analysis
 
 **MENS REA 	MENS REA 	MENS REA**
@@ -1391,29 +1393,19 @@ The substantial steps test has two parts. First, the defendant must take substan
 
 **Commonwealth v. McCloskey (PA 1975)** (D working in prison boiler room. Scaled a fence, cut another fence, then changed his mind and went back to work in boiler room. Alarm went off, guards found breach, charged with attempted prison breach. Found not guilty because - the majority says not guilty because only contemplating prison breach; not yet attempting; so no actus reus yet. If we’re talking about dangerous proximity test, maybe no actus reus; substantial factor probably would be found guilty.)
 
-Concurring opinion says that here, there is no – they did do enough to do the actus reus and the mens rea of the crime, but in an attempt crime even if you do that you can have the affirmative defense of abandonment or renunciation of the crime.
+**RULE:** A defendant is not criminally liable for attempt if his plans never go beyond mere contemplation.
 
-In common law there was no defense for abandonment, but the MPC was actually instrumental in getting a lot of jurisdictions to adopt this defense.
+Concurring opinion says that here, there is no – they did do enough to do the actus reus and the mens rea of the crime, but in an attempt crime even if you do that you can have the affirmative defense of abandonment or renunciation of the crime. In common law there was no defense for abandonment, but the MPC was actually instrumental in getting a lot of jurisdictions to adopt this defense.
 
-## Renunciation
+## Renunciation and Abandonment
 
 **NYPL Section 40.10 (3): Renunciation** Under section 110.00 for an attempt … it is an affirmative defense that, (1)	Under circumstances manifesting a voluntary and complete renunciation of his criminal purpose, (2)	The D avoided the commission of the crime attempted by abandoning his criminal effort and,  if mere abandonment was insuffient to accomplish such avoidance, by taking further and affirmative steps which prevented the commission thereof.
-
-## Abandonment
 
 What does “complete” mean (sec 40.10 (5)) – can’t mean oh im going to robb a different bank, or ill rob it tomorrow not today
 
 What does “voluntary” mean? (sec 40.10 (5)) –
 
 Policy: why don’t we punish someone who satisfies the elements of abandonment? From a retributive standpoint ….
-
-**The merger doctrine – different from the felony murder merger we talked about**
-
-Inchoate crimes if youre thinking about intent – if M intends to kill prof k but misses she can be charged with attempted murder. If M shoots k and kills him, she took substantial step towards killing him and also killed him – so she committed two crimes – attempt to murder and murder. This would mean a conviction of both. You cant double up and convict so of two crimes so we merge.
-
-NYPL – merger only applies to attempt (i.e. cannot be convicted of attempted murder and murder). In NY you can be convicted of conspiracy and solicitation and either the attempted crime and the completed crime. (check this to make sure) NY takes a more punitive approach.
-
-MPC and common law: merger applies to attempt, conspiracy, and solicitation. MPC and common law look at it like once the crime is completed you don’t need two charges.
 
 # Inchoate crimes
 
@@ -1425,13 +1417,9 @@ Solicit, command, importune or otherwise attempt to cause such other person to e
 
 **State v. Cotton** (D was in jail for sexual abuse, asked wife to ask daughter to not testify, gave letter to so else in jail, person in jail gave letter to law enforcement authorities.)
 
-Issue: if a d’s attempted communication does not reach the person soliciting, does it establish criminal solicitation? Under mpc 5.02 (“designed to effect”) yes. Mpc says if a person designed to commit a crime that is sufficient. In state v cotton, they say no, they left out mpc language; legislature meant not to follow mpc. Why doesn’t court follow mpc? Letter never got to daughter. It that solicitation? Does the NY statute appear to apply to a solicitation that does not reach the solicitee in the mail?)
+**RULE:** An uncommunicated solicitation is insufficient to constitute the offense of criminal solicitation.
 
-NYPL 100.00 - With intent that another person…. Such conduct” (see above)
-
-In NY, yes. If prof M attempted to solicit so – send letter – but letter wasn’t sent – if M had mens rea she is still guilty of solicitation.
-
-Does that make sense from a policy standpoint? Meh. Utilitarian: deterrence; retributive: bad thing so should be punished
+Issue: if a d’s attempted communication does not reach the person soliciting, does it establish criminal solicitation? Under mpc 5.02 (“designed to effect”) yes. Mpc says if a person designed to commit a crime that is sufficient. In state v cotton, they say no, they left out mpc language; legislature meant not to follow mpc. Why doesn’t court follow mpc? Letter never got to daughter. It that solicitation? Does the NY statute appear to apply to a solicitation that does not reach the solicitee in the mail?) In NY, yes. If prof M attempted to solicit so – send letter – but letter wasn’t sent – if M had mens rea she is still guilty of solicitation. **Does that make sense from a policy standpoint? Meh. Utilitarian: deterrence; retributive: bad thing so should be punished**
 
 ## Accomplices categories (common law)
 
@@ -1462,28 +1450,26 @@ Mens rea:
 
 To determine the mental culpability required for the underlying crime, you look at the statute of the crime the principal is charged with; if the person meets the mens rea requirement for that statute, punished for that crime. So if k asked m to rob a bank, he could be convicged of solicitation AND of robbibng the bank – if m shot and killed so when robbing the bank, k could be convicted of solicitation, robbing a bank and murder.
 
-**State v. Hoselten** – HYPOS AFTER THIS CASE ARE MORE IMPORTANT THAN THE CASE!
+**State v. Hoselton:** The court held that defendant was not guilty because he did not know that his friends were breaking and entering to commit robbery; therefore, he did not have the required intent to commit the robbery or aid in the commission of the robbery. Court clarified that lookouts are accomplices in the second degree but lookouts also have to have the mental culpability of the crime.
 
-**Rule:** Court clarified that lookouts are accomplices in the second degree but lookouts also have to have the mental culpability of the crime.
+**RULE:** A defendant is not a principal in the second degree unless he participates in the crime while sharing the criminal intent of the principal in the first degree.
 
-In hypos,
+**Hypos followingg Hoselten:**
 
 - A.	if K believed that robbers went on boat to retrieve TV, K not guilty because no mens rea
 - B.	K helped them by honking the horn; guilty? No. no intent to commit crime.
 - C.	K’s friends did not ask K to do anything or told him they were going to rob property, but K wanted them to steal property (MR) and aided them by honking horn (AR). So in this situation he would be guilty as an accomplice.
 - D.	Same as C but when K honked horn friends didn’t hear him. Probably yes. Could be argued that he didn’t actually aid them; but it could be argued that just having a lookout helps the people who were committing the crime.
 
-The difference is that a person can be guilty of reckless murder as an accomplice as but not of attempted reckless murder. For accomplice liability you have to have the mens rea in the crime, but you can't have the conscious objective to get a reckless result.
+The difference is that a person can be guilty of reckless murder as an accomplice as but not of attempted reckless murder. For accomplice liability you have to have the mens rea in the crime, but you can't have the conscious objective to get a reckless result. Court said you can be guilty as an accomplice to reckless manslaughter. Because you need the mens rea of the underlying crime, which is recklessly.
 
-Court said you can be guilty as an accomplice to reckless manslaughter. Because you need the mens rea of the underlying crime, which is recklessly.
+**Ryley v. State:** The court held that defendant could be guilty as an accomplice to a reckless crime but they could still be charged for reckless manslaughter because he intended to aid in the result of the acts when he discharged his weapon into the crowd with the other person. He was therefore guilty of reckless manslaughter as he possessed the intent for it.
 
-**Riley v State**
+**RULE:** A defendant is responsible for another person’s commission of a result crime if he shared the same mental intent regarding the result.
 
-**NYPL Section 20.00 Accomplice Liability** When a person is an accomplice to second degree murder they are charged with second degree murder through this statute”
+**Reasoning:** In the riley case can a person be held liable for a crime whose mens rea required sth less than intent. In riley court looked at whether so could be convicted of an accomplice to recklessly causing serious physical injury … the court said yes. Looked at their Alaska statute for accomplice liability – court said that even though statute said that accomplice liability statute contains intent and offense contains recklessly, yes
 
-In the riley case can a person be held liable for a crime whose mens era required sth less than intent. In riley court looked at whether so could be convicted of an accomplice to recklessly causeing serious physical injury … the court said yes. Looked at their Alaska statute for accomplice liability – court said that even though statute said that accomplice liability statute contains intent and offense contains recklessly, yes
-
-But suppose prof M said oh that’s a great idea where you try shooting so in class even though you've killed so every year when you did it here ill put the blindfold on you. Could prof M also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense. Yes, if prof M also has the mens rea required for the offense, she has all the elements – by being reckless and intentionally aiding prof k in the conduct, she could also... Here prof M had recklessness to cause death – so M had  mens rea
+**Hypo:** But suppose prof M said oh that’s a great idea where you try shooting so in class even though you've killed so every year when you did it here ill put the blindfold on you. Could prof M also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense. Yes, if prof M also has the mens rea required for the offense, she has all the elements – by being reckless and intentionally aiding prof k in the conduct, she could also... Here prof M had recklessness to cause death – so M had  mens rea
 
 **The attempt statute contains the intent mens rea**
 
