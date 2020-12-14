@@ -1254,7 +1254,7 @@ MPC does allow duress as a defense to homicide; NYPL also allows duress as a def
 
 Interesting is concurring dissenting opinon agree with court that it doesn’t apply but provides a hypo, saying that it should be available in some situations where if robbers go into someone car and force him to drive very fast and he kills someone. The dissent says the driver should have the defense of duress in this situation. Driver charged with recklessness with depraved indifference. Even if duress defense not applicable, not necessary, because defense could be that the driver wouldn’t have the mens rea of the crime.
 
-## Inchoate Crimes: Attempt
+# Inchoate Crimes: Attempt
 
 **Big Rule:** Inchoate crimes are a type of crime completed by taking a punishable step towards the commission of another crime.  The basic inchoate offenses are attempt, solicitation, and conspiracy.  Except for conspiracy, inchoate offenses merge into the attempted (or “target” crime).  This means that if the defendant is prosecuted for the attempted crime, attempt and solicitation cannot be charged as well.  There are two types of attempt crimes: (1) incomplete attempt, where a person does some of what is required to commit the crime but not everything, and (2) complete attempt, where a person does everything they need to do to complete the crime but something goes wrong so they don’t complete the crime (i.e. they fire and miss). Under the Model Penal Code, the attempt versions of more severe crimes are punished less severely. Under New York law, it is the other way around, where attempts to commit less severe crimes are punished more severely than attempts to commit severe crimes such as murder. This is largely because of New York’s drug laws enacted with the 1994 Crime Bill.
 
@@ -1269,12 +1269,6 @@ to commit a crime, he engages in conduct which tends to effect the commission of
 
 **110.10 Attempt to commit a crime; no defense.** If the conduct in which a person engages otherwise constitutes an
 attempt to commit a crime pursuant to section 110.00, it is no defense to a prosecution for such attempt that the crime charged to have been attempted was, under the attendant circumstances, factually or legally impossible of commission, if such crime could have been committed had the attendant circumstances been as such person believed them to be.
-
-## Solicitation crimes and accomplice liability
-
-**NYPL Section 100.00 (5th Degree Solicitation)**  (1) with intent that another person engage in conduct constituting a crime, (2) he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.
-
-**NYPL §20.00: Criminal Liability for Conduct of Another** When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when: acting with the mental culpability required for the commission thereof, he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
 
 **The merger doctrine – different from the felony murder merger we talked about** The merger doctrine for attempt crimes is different from the merger that courts apply in felony murder cases. The merger doctrine in attempt crimes provides that the crime of attempt to commit a crime cannot be merged with the completed crime. In New York this merger only applies to murder (i.e. a person cannot be convicted of attempted murder and murder). In New York, a person can be convicted of conspiracy and solicitation and either the attempted crime and the completed crime. New York takes a more punitive approach than the Model Penal Code and common law, where the merger applies to attempt, conspiracy, and solicitation. MPC and common law consider that once the crime is completed, two charges are unnecessary.
 
@@ -1383,7 +1377,7 @@ Girls – poison teacher – Prob didn’t come dang close
 
 How did the statute change the law 781? **Statute included a substantial step.** Change the law to include that conduct include a substantial step toward the commission of the offense; so under the way the law was changed, - did they take a substantial step from the beginning? While dang proxi sees how close they got the mpc looks at how substantial a step they took towards s\commission of the crime
 
-**Model Penal Code Substantial Steps Test**
+## Model Penal Code Substantial Steps Test
 
 The Model Penal Code developed the substantial steps test in response to the large variance between different jurisdictions in evaluating the criminal act element required for attempt. The substantial steps test is intended to clarify and simplify the attempt act analysis, to prevent arbitrary application. It is also a test that is more likely to result in a conviction because it classifies as “substantial” those acts the other tests might consider only “preparatory” (People v. Dillon, 2011).
 
@@ -1407,7 +1401,32 @@ What does “voluntary” mean? (sec 40.10 (5)) –
 
 Policy: why don’t we punish someone who satisfies the elements of abandonment? From a retributive standpoint ….
 
-# Inchoate crimes
+# Inchoate Crimes: Solicitation and Accomplice Liability
+
+**NYPL Section 100.00 (5th Degree Solicitation)**  (1) with intent that another person engage in conduct constituting a crime, (2) he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.
+
+**NYPL §20.00: Criminal Liability for Conduct of Another** When one person engages in conduct which constitutes an offense, another person is criminally liable for such conduct when: acting with the mental culpability required for the commission thereof, he solicits, request, commands, importunes, or intentionally aids such person to engage in such conduct.
+
+**MPC SECTION 2.06. LIABILITY FOR CONDUCT OF ANOTHER; COMPLICITY**
+(1)    A person is guilty of an offense if it is committed by his own conduct or by the conduct of another person for which he is legally accountable, or both.
+(2)    A person is legally accountable for the conduct of another person when:
+(a)    acting with the kind of culpability that is sufficient for the commission of the offense, he causes an innocent or irresponsible person to engage in such conduct; or
+(b)    he is made accountable for the conduct of such other person by the Code or by the law defining the offense; or
+(c)    he is an accomplice of such other person in the commission of the offense.
+(3)    A person is an accomplice of another person in the commission of an offense if:
+(a)    with the purpose of promoting or facilitating the commission of the offense, he
+(i)     solicits such other person to commit it; or
+(ii)    aids or agrees or attempts to aid such other person in planning or committing it; or having a legal duty to prevent the commission of the offense, fails to make proper effort so to do; or
+(b)    his conduct is expressly declared by law to establish his complicity.
+(4)    When causing a particular result is an element of an offense, an accomplice in the conduct causing such result is an accomplice in the commission of that offense, if he acts with the kind of culpability, if any, with respect to that result that is sufficient for the commission of the offense.
+(5)    A person who is legally incapable of committing a particular offense himself may be guilty thereof if it is committed by the conduct of another person for which he is legally accountable, unless such liability is inconsistent with the purpose of the provision establishing his incapacity.
+(6)    Unless otherwise provided by the Code or by the law defining the offense, a person is not an accomplice in an offense committed by another person if:
+(a)    he is a victim of that offense; or
+(b)    the offense is so defined that his conduct is inevitably incident to its commission; or
+(c)    he terminates his complicity prior to the commission of the offense and
+(i)     wholly deprives it of effectiveness in the commission of the offense; or
+(ii)    gives timely warning to the law enforcement authorities or otherwise makes proper effort to prevent the commission of the offense.
+(7)    An accomplice may be convicted on proof of the commission of the offense and of his complicity therein, though the person claimed to have committed the offense has not been prosecuted or convicted or has been convicted of a different offense or degree of offense or has an immunity to prosecution or conviction or has been acquitted.
 
 **NYPL Section 100.00 (5th degree solicitation)** (only have to look at 5th because complete) “with intent that another person engage in conduct constituting a crime, he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct.”
 
