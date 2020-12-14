@@ -945,7 +945,7 @@ Under the **MPC Sec. 210.3**, defense of EED: the D must have acted under the in
 
 # Felony murder
 
-**Rule** Under NYPL Section 125.25 (3), a person is guilty of murder in the second degree when acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants. 
+**Rule** Under NYPL Section 125.25 (3), a person is guilty of murder in the second degree when acting either alone or with one or more other persons, he commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, criminal sexual act in the first degree, sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and, in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants.
 
 **Under NYPL, the victim in a felony murder cannot be a co-felon under the second-degree murder statute.**
 
@@ -975,36 +975,24 @@ New York has the **careful felon defense** – if you commit a murder while comm
 
 ## Limitations to felony murder rule
 
-Limits on Felonies for the felony-murder rule: (A)(1) inherently dangerous felony limitation (fact v abstract), and (2) merger or "independent felony" doctrine. (B) Act that resulted in the death must be in furtherance of a felony or during perpetration. The res gestae requirement of time, distance and causal relationship must be satisfied, and the policy must be the agency approach or proximate cause (a jurisdiction will never use both).
+In general, for a death to be felony murder, the act that resulted in the death must be in furtherance of a felony or during perpetration, the res gestae requirement of time, distance and causal relationship must be satisfied, and the policy must be the agency approach or proximate cause (a jurisdiction will never use both). The courts have placed limitations on felonies for the felony-murder rule. These are (1) the inherently dangerous felony limitation (fact v abstract), and (2) the merger or "independent felony" doctrine.
 
-**Inherently dangerous felony limitiation (fact v abstract)** (usually applied in the abstract as opposed to to the facts)
+**Inherently dangerous felony rule (fact v. abstract)** In some jurisdictions, courts only apply the felony-murder rule to felonies that are inherently dangerous to human life. Most jurisdictions apply the inherently dangerous felony rule in the abstract - that is, based on the statutory description of the offense - rather than on the facts of the case. This is because if you apply it on the facts the inherently dangerous felony murder rule will be applied quite often, because felonies are often inherently dangerous in their facts. This is why most courts reject the facts-based analysis and apply the rule in the abstract. Once a court has applied the rule in the abstract, that statute can never be applied in felony murder. If the court applies facts, the statute can be applied sometimes.
+
+**Rule for merger (or "independent felony") limitation:** The felony-murder rule does not apply to felonies that are an integral part of and included in fact within the homicide. However, felony-murder does apply to the felony (i.e. felony-murder does not merge with the felony) if the underlying felony was committed with an “independent felonious purpose”.
+
+**Inherently dangerous felony notes:**
 
 - Firing a firearm at an inhabited dwelling – yes, inherently dangerous.
 - False imprisonment: no, not inherently dangerous (you can lock someone up for a short time so no, not always substantial risk to human life) **(we’re looking at the statute, not the crime, so we’re looking in the abstract).**
 - Child abuse – depends how it is defined in the statute – if it is defined in the state in a way that does not always create a substantial risk that someone will die, then felony murder does not apply because statute is not inherently dangerous when interpreted in the abstract.
-
-Most jurisdictions apply the inherently dangerous felony rule **in the abstract** because if you apply it on the facts the felony murder will be applied quite often, as if you look at the facts acts are often inherently dangerous in their facts. This is why most courts reject the facts-based analysis and apply it in the abstract. If you apply in the abstract that statute can never be applied in felony murder. If you apply facts statute can be applied sometimes.
-
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo note 5 p. 347:</b> “Every person having the custody …" No, not inherently dangerous because someone could have the custody of a fifteen-year old and have drunk people in the house all the time; not substantial risk that someone will die.</p>
+- Every person having the custody of a child - No, not inherently dangerous because someone could have the custody of a fifteen-year old and have drunk people in the house all the time; not substantial risk that someone will die.
 
 A question is whether the felony-murder rule is necessary in these cases. In all these cases the prosecutor would have the option of convicting defendants with manslaughter or second-degree murder. Should all deaths that occur in the course of a felony be felony murder? This would be illogical; felony murder should not be applied to manslaughter crimes; manslaughter is a felony and is inherently dangerous, so this would elevate all manslaughters to murder.
 
-**Merger (or "independent felony") limitation**
+**Merger doctrine notes:**
 
 If the prosecution could charge felony murder every time someone shot someone with a gun, they would never have to prove that there was mens rea, because if assault with a deadly weapon could be the felony then a prosecutor could always charge someone with assault with a deadly weapon and then boost that up to felony murder.
-
-<p style="margin-left:7%; margin-right:10%;"><b>People v. Smith (California 1984)</b> (woman assaulted her two-year old daughter by hitting her when the daughter wouldn't listen; as a result of injuries daughter died in hospital)</p>
-
-<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under California law, a felony that is assaultive in nature cannot serve as the basis of a felony-murder charge unless the felony was committed with an independent felonious purpose.</p>
-
-<p style="margin-left:7%; margin-right:10%;"><b>Ireland case:</b> Don't know what this is! </p>
-
-**Rule for the merger doctrine:** The felony-murder doctrine does not apply to felonies that are an integral part of and included in fact within the homicide. **EXCEPTION:** BUT felony-murder does apply to the felony (i.e., no merger) if the underlying offense was committed with an **“independent felonious purpose”**.
-
-Felony murder does not apply to a felony if both:
-
-1.	The felony is an integral part of (and included in fact within) the homicide; and
-2.	The homicide did not result from conduct for an independent felonious purpose
 
 Again, the idea is deterrence; the policy reason for not applying the felony murder rule to these is that if someone is going to commit murder we can't make them more careful, but if someone is going to commit robbery and kills someone, we can deter other robbers from being reckless when they rob. Felony murder applies to:
 
@@ -1013,11 +1001,15 @@ Again, the idea is deterrence; the policy reason for not applying the felony mur
 - Burglary second degree – breaking and entering with intent to steal – YES, you can apply felony murder to this
 - Child abuse of assaultive nature? – NO, because assault is an integral part of the felony
 
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Smith (California 1984)</b> (woman assaulted her two-year old daughter by hitting her when the daughter wouldn't listen; as a result of injuries daughter died in hospital)</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Rule:</b> Under California law, a felony that is assaultive in nature cannot serve as the basis of a felony-murder charge unless the felony was committed with an independent felonious purpose.</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Ireland case:</b> Don't know what this is! </p>
+
 ## Res gestae doctrine
 
-**Factors for determining whether the killing occurred during the course of the felony:** Time, distance, and the causal relation between the felony and the killing.
-
-<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If prof K robs a bank and someone dies several days later in an accident he causes. If Prof K robs a bank and an hour later someone dies in an accident he causes. If he sees the police and is driving away and that’s when he had the accident.</p>
+**Res Gestae doctrine rule:** Following the res gestae doctrine for determining whether the killing occurred during the course of a felony, the courts must look at time, distance, and the causal relation between the felony and the killing.
 
 Different jurisdictions take different approaches when the defendant did not actually do the killing.
 
@@ -1041,6 +1033,8 @@ Different jurisdictions take different approaches when the defendant did not act
 <p style="margin-left:10%; margin-right:10%;">NY has an additional requirement – ASK PROF K ABOUT THIS –</p>
 
 <p style="margin-left:10%; margin-right:10%;">Same as above, but with bystander E. If police officer D accidentally kills E during the robbery, is A guilty of felony murder? In NY, yes.</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> If prof K robs a bank and someone dies several days later in an accident he causes. If Prof K robs a bank and an hour later someone dies in an accident he causes. If he sees the police and is driving away and that’s when he had the accident.</p>
 
 **Affirmative defense in NY:** NY has a very narrow defense; if the defendant can prove all four factors, the defendant is not guilty of felony murder. Factors: (a) not aid in homicide, (b) not armed, (c) no reasonable ground to believe others armed, and (d) no reasonable ground to believe other participant would kill.
 
@@ -1070,7 +1064,7 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 ## Major Categories of Defenses
 
-- Failure of proof defenses – burden of proof on defense? Mistake of fact
+- Failure of proof defenses – burden of proof on defense - Mistake of fact
 - Justifications – defenses where we condone what a defendant did; we say there are special justifying circumstances; even though they committed a crime the wrong would have been worse had they not committed the crime; for example, if a person burns corn field to create a fire break because huge forest fire threatening town, they could claim self-defense; if someone is shooting at me and I shoot them to save my life, it could be said that I was justified.
 - Excuses – what the person did was wrong but they are not responsible for what they did; insanity; partial excuse defenses which mitigate crimes are heat of passion and EED
 - Non-exculpatory public policy defenses – do not make a person not morally responsible for the crime, but makes them not be punished; for example, statute of limitations; the idea is that there is certain policy not to punish someone if the crime was done so long ago; another example would be diplomatic immunity – diplomats are immune from a lot of crimes because we want to maintain good relationships with diplomats from other countries, so we don’t want to punish them for crimes.
@@ -1091,19 +1085,13 @@ New York legislature passed death penalty law in 1995 (but see People v. Lavalle
 
 <p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Judge instructs jury that defendant must prove by preponderance of evidence the defense of self-defense. How would you argue that the burden for disproving self-defense should be on prosecutor? Because self-defense overlaps with the definition of the crime, so the burden should be on the prosecutor to prove it. </p>
 
-<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> If the definition of the defense overlaps with the definition of the crime, the burden of disproving the defense rests on the prosecution.</p>
+<p style="margin-left:10%; margin-right:10%;"><b>Rule:</b> In some jurisdictions, if the definition of the defense overlaps with the definition of the crime, the burden of disproving the defense rests on the prosecution.</p>
 
 **New York Burdens** See NYPL Section 25.00. SEE NYPL SECTION 35.15 Self defense.
 
-For defenses, focus on New York definitions, and just learn any major differences between NY and common law
-
-United States v. Patterson
-
-- Initial aggressor
-- Retreat doctrine
-- Castle doctrine
-
 ## A. Justification Defenses
+
+
 
 Self-defense (NYPL § 35.15)
 
@@ -2019,6 +2007,10 @@ If just a defense, the prosecution has the burden of disproving the defense. So 
 
   Riley v. State (we’ll continue with this mon 11/30)
 
+  The difference is that a person can be guilty of reckless murder as an accomplice as but not of attempted reckless murder. For accomplice liability you have to have the mens rea in the crime, but you can't have the conscious objective to get a reckless result.
+
+
+
   D’s convicted of … recklessly
 
   Court said you can be guilty as an accomplice to reckless manslaughter. Because you need the mens rea of the underlying crime, which is recklessly.
@@ -2041,7 +2033,7 @@ If just a defense, the prosecution has the burden of disproving the defense. So 
 
   (second degree manslaughter)
 
-  But suppose prof mott said oh that’s a great idea where you try shooting so in class even though tyouve killed so every year when you did it here ill put the blindfold on you. Could prof mott also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense.
+  But suppose prof mott said oh that’s a great idea where you try shooting so in class even though you've killed so every year when you did it here ill put the blindfold on you. Could prof mott also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense.
 
   Yes, if prof mott also has the mens rea required for the offense, she has all the elements – by being reckless and intentionally aiding prof k in the conduct, she could also
 
