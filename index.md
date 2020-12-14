@@ -1013,7 +1013,7 @@ Again, the idea is deterrence; the policy reason for not applying the felony mur
 
 Different jurisdictions take different approaches when the defendant did not actually do the killing.
 
-1.	**Agency approach** – limits felony murder to homicides committed by the felon **or the felon's agent**; any killing by the felons is implicated to their co-felons. Prof K and Prof Mott robbing bank; if prof K kills someone prof Mott can also be criminally liable. In Sosophone case, the lower court used the agency approach but the higher court overruled and used proximate cause approach.
+1.	**Agency approach** – limits felony murder to homicides committed by the felon **or the felon's agent**; any killing by the felons is implicated to their co-felons. Prof K and Prof M robbing bank; if prof K kills someone prof M can also be criminally liable. In Sosophone case, the lower court used the agency approach but the higher court overruled and used proximate cause approach.
 2.	**Proximate cause approach** allows liabiility for any death caused by the unlawful activity, even when it isn't caused by the felon. Defendant can be held liable for a killing if the defendant merely sets in action the events that cause the death. (p. 356)
 
 <p style="margin-left:7%; margin-right:10%;"><b>State v. Sophophone (Kansas 2001)</b> (Sophophone and three other men broke into a residence. The resident was home and called the police. One officer arrested Sophophone. Another shot and killed Sysoumphone.  Trial court convicted Sophophone of felony murder based on the officer’s killing of Sysoumphone. Supreme Court of Kansas reversed, and used agency approach instead of proximate cause approach.)</P>
@@ -1162,7 +1162,7 @@ If both people live in same house and domestic violence situation neither have t
 
 **Defense of others in NYPL 35.15 subsection 2,** “third person” – in ny you can use deadly force to defend a person and you can use non-deadly force to defend a third person – so we have to look at the definition of a “person” in the penal law. If we look at homicide in section 125.25 … of NYPL – a human being is a person who was born and is alive. **Section 125.25 says definition only for this statute; MPC does exclude fetuses from definition of person.**
 
-**Hypo:** Suppose somebody comes along and sees prof mott is threatening to use unlawful force against prof k – third person steps in to stop her – but turns out that prof k started the fight; in ny we DON'T use the alter ego rule (BUT ANALOGIZE - say that iin other jurisdictions they look at the situation from the shoes of the person in peril); a person aiding another person only has the right of self defense to the extent that the v has the same right to self-defense of the person they are defending.
+**Hypo:** Suppose somebody comes along and sees prof M is threatening to use unlawful force against prof k – third person steps in to stop her – but turns out that prof k started the fight; in ny we DON'T use the alter ego rule (BUT ANALOGIZE - say that iin other jurisdictions they look at the situation from the shoes of the person in peril); a person aiding another person only has the right of self defense to the extent that the v has the same right to self-defense of the person they are defending.
 
 ## Alter ego rule
 
@@ -1189,7 +1189,7 @@ Deadly force may be used when arson, attempted burglary, and burglary because th
 - c.	By reason of a situation occasioned or developed through no fault of the actor
 - d.	And which is of such gravity that, according to ordinary standards of intelligence and morality, the desirability and urgency such injury clearly … (see statute)
 
-**Hypo:** Prof K going to negligently start a fire. Town will burn down. Only way to create a fire break is to burn down prof Mott’s house. K accused of arson. Would he have defense of necessity in NY? NO, because c – “no fault of the actor” The criticism of the law is that maybe person not having recourse to necessity might deter person from saving houses from fire he had caused.
+**Hypo:** Prof K going to negligently start a fire. Town will burn down. Only way to create a fire break is to burn down prof M’s house. K accused of arson. Would he have defense of necessity in NY? NO, because c – “no fault of the actor” The criticism of the law is that maybe person not having recourse to necessity might deter person from saving houses from fire he had caused.
 
 **MPC 3.02**
 
@@ -1299,21 +1299,25 @@ Required Actus Reus elements:
 
 ## Attempt crimes in NY
 
-**NYPL Section 110.00** “a person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime.”
+**Rule:** In New York, there is no definition of attempted robbery separate from the robbery statute, no separate definition of attempted murder, and so on, so the courts have to look at the attempt statute (NYPL Section 110.00) together with the statute of the attempted crime. In NYPL 110.00, which states “a person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime,” the mens rea is intent. The actus reus is “engage in conduct which tends to effect the commission of such crime.” If the underlying crime is not a crime which requires intent, a defendant cannot be convicted of attempting a result crime which itself does not require intent towards that result.
 
-No separate def of attempted robbery, no separate def of attempted murder, etc., so you have to look at the statute together with the crime. In NYPL 110.00 the mens rea is intent. The actus reus is “engage in conduct which tends to effect the commission of such crime”
+**NYPL Section 110.00 Attempt to commit a crime.** A person is guilty of an attempt to commit a crime when, with intent
+to commit a crime, he engages in conduct which tends to effect the commission of such crime.
 
-**People v. Gentry (1987)** (Couple drinking heavily, argument, man doused woman with gasoline, woman said she went to kitchen and accidentally set herself on fire.)
+**NYPL Section 110.05 Attempt to commit a crime; punishment.** An attempt to commit a crime is a: (1) Class A-I felony when the crime attempted is the A-I felony of murder in the first degree, aggravated murder as defined in  subdivision one  of  section  125.26  of  this  chapter,  criminal  possession  of a controlled substance in the first degree, criminal sale of a  controlled substance  in  the  first  degree,  criminal possession of a chemical or biological weapon in the first degree or criminal use of a  chemical  or biological weapon in the first degree;
 
-**Rule (kinda sorta not really):** Under Illinois law, a person commits the crime of [attempt] murder where he kills an individual if … he intends to kill or do great bodily harm to that individual; etc… (They were arguing that strong probability of great bodily harm should be enough for attempted murder)
+**110.10 Attempt to commit a crime; no defense.** If the conduct in which a person engages otherwise constitutes an
+attempt to commit a crime pursuant to section 110.00, it is no defense to a prosecution for such attempt that the crime charged to have been attempted was, under the attendant circumstances, factually or legally impossible of commission, if such crime could have been committed had the attendant circumstances been as such person believed them to be.
 
-**Hypo:** Prof k with bow and arrow, blindfolded in classroom, shoots bow and arrow at target but misses target but instead arrow kills prof mott. Could be convicted of homicide with recklessy mens rea (2nd degree manslaughter, in common law depraved heart murder, in ny depraved indifference smothering). If prof mott only got wounded could he be convicted of attempted 2nd degree manslatugher? No. Because attempt crimes require the intent to commit the crime. Prof k was reckless but didn’t have the intent to kill so he can’t be convicted of intent to commit manslaughter. So if we use that for 2nd degree manslaughter or reckless manslaughter prof k would have had to have the intent the death of another person. You have to have the intent to commit the underlying crime.
+<p style="margin-left:7%; margin-right:10%;"><b>People v. Gentry (1987)</b> (Couple drinking heavily, argument, man doused woman with gasoline, woman said she went to kitchen and accidentally set herself on fire.)</p>
 
-**No attempted felony murder: Bruce v. State (1989)** (Two people enter shoe store – point gun at shoe store owner – say we are going to kill you – store owner ducked, got shot in stomach – didn’t die. Prosecutor charged with attempted felony murder. Court said no. There’s no such crime. The court reasoned that it doesn’t make sense because if attempted felony murder was a crime, anyone committing a crime where someone dies, even from a heart attack, ppl could always be convicted of attempted felony murder all the time) Attempted reckless endangerment?
+<p style="margin-left:10%; margin-right:10%;"><b>Rule (kinda sorta not really):</b> Under Illinois law, a person commits the crime of [attempt] murder where he kills an individual if … he intends to kill or do great bodily harm to that individual; etc… (They were arguing that strong probability of great bodily harm should be enough for attempted murder)</p>
 
-**Hypo:** Go back to hypo of prof k blindfolding himself to do target practice. Thinks he can blindfold himself and goes to drive his car. Hits somebody and kills them. manslaughter. If prof k does not hit anyone, what crime can he be convicted of? Reckless endangerment. Goes to car but car doesn’t start. Can he be charged with attempted reckless endangerment? **YES** Why yes? Because attempted is intent to commit the underlying crime. Reckless endangerment is Recklessy engages in conduct that creates a substantial risk of serious physical injury to another person. Prof k had the intent to recklessly drive his car.
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Prof k with bow and arrow, blindfolded in classroom, shoots bow and arrow at target but misses target but instead arrow kills prof M. Could be convicted of homicide with recklessy mens rea (2nd degree manslaughter, in common law depraved heart murder, in ny depraved indifference smothering). If prof M only got wounded could he be convicted of attempted 2nd degree manslatugher? No. Because attempt crimes require the intent to commit the crime. Prof k was reckless but didn’t have the intent to kill so he can’t be convicted of intent to commit manslaughter. So if we use that for 2nd degree manslaughter or reckless manslaughter prof k would have had to have the intent the death of another person. You have to have the intent to commit the underlying crime.</p>
 
-If the crime involves conduct, - for the attempt crime you have to have the intent too.
+<p style="margin-left:7%; margin-right:10%;"><b>No attempted felony murder: Bruce v. State (1989)</b> (Two people enter shoe store – point gun at shoe store owner – say we are going to kill you – store owner ducked, got shot in stomach – didn’t die. Prosecutor charged with attempted felony murder. Court said no. There’s no such crime. The court reasoned that it doesn’t make sense because if attempted felony murder was a crime, anyone committing a crime where someone dies, even from a heart attack, ppl could always be convicted of attempted felony murder all the time) Attempted reckless endangerment?</p>
+
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Go back to hypo of prof k blindfolding himself to do target practice. Thinks he can blindfold himself and goes to drive his car. Hits somebody and kills them. manslaughter. If prof k does not hit anyone, what crime can he be convicted of? Reckless endangerment. Goes to car but car doesn’t start. Can he be charged with attempted reckless endangerment? <b>YES</b> Why yes? Because attempted is intent to commit the underlying crime. Reckless endangerment is Recklessy engages in conduct that creates a substantial risk of serious physical injury to another person. Prof k had the intent to recklessly drive his car.</p>
 
 **RULE:** The homicide requires recklessness with respect to result, while reckless endangerment requires recklessness with regard to conduct.
 
@@ -1321,7 +1325,7 @@ It makes sense to say that prof K intented to engage in reckless conduct, but it
 
 So we talked about conduct and result, but remember there’s also attendant circumstances. How does one determine the mens rea for attendant circumstances in an attempt? **NYPL Section 125.27(1)** first degree murder when “with intent to cause ….police officer”
 
-**Hypo:** Prof mott kills prof k. prof k is an undercover police officer but prof mott didn’t know that. Prof mott guilty? No. But suppose prof k sometimes wore a badge and a reasonable person would have known police officer. Guilty? Yes. But suppose prof mott tried to kill prof k knowing he was a police officer? Does someone have to intend the attendant circumstances? No. the mens rea for the attendant circumstance stays the same. Whatever mens rea is required for the actual crime is the same in both situations – in situation of attempt to commit the crime and in situation of committing the crime. So if Prof Mott tried to kill you knowing you were a police officer but didn’t manage to kill you, she could be convicted of attempted murder in the first degree? YES. How do you draw the line when the person has done some preparation for a crime?
+<p style="margin-left:7%; margin-right:10%;"><b>Hypo:</b> Prof M kills prof k. prof k is an undercover police officer but prof M didn’t know that. Prof M guilty? No. But suppose prof k sometimes wore a badge and a reasonable person would have known police officer. Guilty? Yes. But suppose prof M tried to kill prof k knowing he was a police officer? Does someone have to intend the attendant circumstances? No. the mens rea for the attendant circumstance stays the same. Whatever mens rea is required for the actual crime is the same in both situations – in situation of attempt to commit the crime and in situation of committing the crime. So if Prof M tried to kill you knowing you were a police officer but didn’t manage to kill you, she could be convicted of attempted murder in the first degree? YES. How do you draw the line when the person has done some preparation for a crime?</p>
 
 **The Mannuano case**
 
@@ -1329,17 +1333,17 @@ So we talked about conduct and result, but remember there’s also attendant cir
 
 “he has done all that is within his power to do, but has been prevented by intervention from outside” (this came from English common law)
 
-So if prof mott pulled out a gun and shot at prof k but gun didn’t fire that would be sufficient for the actus reus. Other courts adopted different tests. Four most common:
+So if prof M pulled out a gun and shot at prof k but gun didn’t fire that would be sufficient for the actus reus. Other courts adopted different tests. Four most common:
 
 **Commonwealth v. Peaslee (1901)** (man stacked up combustibles in building and left candle and paraffin nearby, then was going to get a boy to set it alight but changed his mind)
 
 Is preparation enough for actus reus of attempt? Not here, because he was not close enough to completing the crime.
 
-**FOR OUTLINE:** Felony murder should recognize that the attempted versions of some crimes should be the basis for felony murder. Attempted robbery is a felony so may be the basis for felony murder; attempted escape is also a felony – attempted crime – crimes which are specified – Second degree murder subsection 3 – if he commits or attempts to commit a burglary, robbery etc. in NY the attempt is defined as the attempt to commit a crime –
+**FOR OUTLINE (??!):** Felony murder should recognize that the attempted versions of some crimes should be the basis for felony murder. Attempted robbery is a felony so may be the basis for felony murder; attempted escape is also a felony – attempted crime – crimes which are specified – Second degree murder subsection 3 – if he commits or attempts to commit a burglary, robbery etc. in NY the attempt is defined as the attempt to commit a crime –
 
 ## Attempt mens rea
 
-**Rule:** If the underlying crime is not a crime which requires intent – look at the handout on TWEN – you can’t be convicted of attempting a result crime which itself does not require intent towards that result
+**Rule:** If the underlying crime is not a crime which requires intent – look at the handout on TWEN – you can’t be convicted of attempting a result crime which itself does not require intent towards that result.
 
 Second degree manslaughter is recklessly causeing someone's death – we do not have intended second degree manslaughter because there is no intent in the statute – you can’t intend to recklessly cause the death – but **for crimes which do not require intent towards the result you cannot have attempt to commit the crime**
 
@@ -1400,7 +1404,7 @@ Policy: why don’t we punish someone who satisfies the elements of abandonment?
 
 **The merger doctrine – different from the felony murder merger we talked about**
 
-Inchoate crimes if youre thinking about intent – if mott intends to kill prof k but misses she can be charged with attempted murder. If mott shoots k and kills him, she took substantial step towards killing him and also killed him – so she committed two crimes – attempt to murder and murder. This would mean a conviction of both. You cant double up and convict so of two crimes so we merge.
+Inchoate crimes if youre thinking about intent – if M intends to kill prof k but misses she can be charged with attempted murder. If M shoots k and kills him, she took substantial step towards killing him and also killed him – so she committed two crimes – attempt to murder and murder. This would mean a conviction of both. You cant double up and convict so of two crimes so we merge.
 
 NYPL – merger only applies to attempt (i.e. cannot be convicted of attempted murder and murder). In NY you can be convicted of conspiracy and solicitation and either the attempted crime and the completed crime. (check this to make sure) NY takes a more punitive approach.
 
@@ -1420,7 +1424,7 @@ Issue: if a d’s attempted communication does not reach the person soliciting, 
 
 NYPL 100.00 - With intent that another person…. Such conduct” (see above)
 
-In NY, yes. If prof mott attempted to solicit so – send letter – but letter wasn’t sent – if mott had mens rea she is still guilty of solicitation.
+In NY, yes. If prof M attempted to solicit so – send letter – but letter wasn’t sent – if M had mens rea she is still guilty of solicitation.
 
 Does that make sense from a policy standpoint? Meh. Utilitarian: deterrence; retributive: bad thing so should be punished
 
@@ -1474,7 +1478,7 @@ Court said you can be guilty as an accomplice to reckless manslaughter. Because 
 
 In the riley case can a person be held liable for a crime whose mens era required sth less than intent. In riley court looked at whether so could be convicted of an accomplice to recklessly causeing serious physical injury … the court said yes. Looked at their Alaska statute for accomplice liability – court said that even though statute said that accomplice liability statute contains intent and offense contains recklessly, yes
 
-But suppose prof mott said oh that’s a great idea where you try shooting so in class even though you've killed so every year when you did it here ill put the blindfold on you. Could prof mott also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense. Yes, if prof mott also has the mens rea required for the offense, she has all the elements – by being reckless and intentionally aiding prof k in the conduct, she could also... Here prof mott had recklessness to cause death – so mott had  mens rea
+But suppose prof M said oh that’s a great idea where you try shooting so in class even though you've killed so every year when you did it here ill put the blindfold on you. Could prof M also be convicted of reckless manslaughter? Yes because she would still meet the requirements of the offense. Yes, if prof M also has the mens rea required for the offense, she has all the elements – by being reckless and intentionally aiding prof k in the conduct, she could also... Here prof M had recklessness to cause death – so M had  mens rea
 
 **The attempt statute contains the intent mens rea**
 
