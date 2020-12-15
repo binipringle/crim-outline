@@ -1,9 +1,10 @@
-# Introduction/Principles of Punishment
+## Criminal Law Outline
 
-# Proof of Guilt: “Beyond a reasonable doubt”
+My crim law outline is in the index file. It might make its way back here. Right now, I'm looking to see whether it's easy to hyperlink this file to the index file and what that would look like.
 
-## Presumption of Innocence
+## I love markdown
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   **Owens v. State 1992**
@@ -1859,3 +1860,6 @@ Note: Teaches me about legal sufficiency in enforcing the presumption of innocen
   b.	Statutory actus reus elements
   i.	“starting a fire” did d start a fire?
   ii.	“damages a special building” Is this building a special building? (this could cause problems – address legality, overbreadth and vagueness issues, stating rules) And what is “damages”?
+=======
+We own stuff in markdown. :)
+>>>>>>> gh-pages
